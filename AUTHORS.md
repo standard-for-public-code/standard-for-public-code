@@ -8,6 +8,7 @@ Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Cr
 
 * Ben Cerveny
 * Boris van Hoytema
+* Claus Mullie
 
 Gemeente Amsterdam, Office of CTO
 
@@ -16,8 +17,5 @@ Gemeente Amsterdam, Office of CTO
 
 Individual Contributors
 
-* Claus Mullie
-
-[Vurb BV](https://vurb.agency)
-
+* Bert Spaan
 * Timo Slinger
