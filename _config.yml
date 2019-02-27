@@ -1,2 +1,4 @@
 remote_theme: publiccodenet/jekyll-theme
 title: Public Code Standard
+
+toc: true
