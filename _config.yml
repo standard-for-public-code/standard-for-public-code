@@ -1,4 +1,29 @@
 remote_theme: publiccodenet/jekyll-theme
 title: Public Code Standard
 
+include: 
+  - "README.md"
+  - "CONTRIBUTING.md"
+
 toc: true
+
+defaults:
+  -
+    scope: 
+      path: '/standards/[!index]*'
+    values:
+      breadcrumbs:
+        - name: 'Standards'
+          path: '/standards/'
+  -
+    scope: 
+      path: '/glossary/[!index]*'
+    values:
+      breadcrumbs:
+        - name: 'Glossary'
+          path: '/glossary/'
+  -
+    scope: 
+      path: '/'
+    values:
+      breadcrumbs: true

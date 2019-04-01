@@ -1,9 +1,9 @@
+---
+order: 15
+---
 # Vendor and platform independent
 
 ## Measures
-
-* The codebase MUST be independent from any secret, proprietary or non-Open-licenced code or services for execution and understanding
-* The codebase MUST be developed in order to be reusable in different contexts
 
 ## What is this measure
 

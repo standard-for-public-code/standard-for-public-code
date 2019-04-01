@@ -1,16 +1,21 @@
+---
+order: 14
+---
 # Developing, maturing and maintaining codebases
 
 ## Measure
 
-- A codebase MUST be versioned
-- A codebase that is not yet ready to be used MUST be labled accordingly with whether it is a 
-    - Prototype: to test the look and feel as well as to proof the concept of the technical possibilities internally
-    - Alpha: to do guided tests with a limited set of users
-    - Beta: to open up testing to a larger section of the general public to test for instance if the codebase works at scale
-    - Pre-release version: ready to be release but not formally having passed all the approval steps
-- A codebase SHOULD contain a log of changes from version to version
+* A codebase MUST be versioned
+* A codebase that is not yet ready to be used MUST be labeled accordingly with whether it is a
+    * Prototype: to test the look and feel as well as to proof the concept of the technical possibilities internally
+    * Alpha: to do guided tests with a limited set of users
+    * Beta: to open up testing to a larger section of the general public to test for instance if the codebase works at scale
+    * Pre-release version: ready to be release but not formally having passed all the approval steps
+* A codebase SHOULD contain a log of changes from version to version
 
 ## What this does
+
+Clearly signifying the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
 
 ## What this doesn’t do
 
@@ -35,6 +40,6 @@
 
 ## Further reading
 
-- [Australian Digital Transformation Agency: Service Design and Delivery Process](https://guides.service.gov.au/topics/service-design-delivery-process/)
-- [UK Government: Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery)
-- [UK Government: What are the Discovery, Alpha, Beta and Live stages in developing a service? [Video 0'0"59]](https://www.youtube.com/watch?v=_cyI7DMhgYc)
+* [Australian Digital Transformation Agency: Service Design and Delivery Process](https://guides.service.gov.au/topics/service-design-delivery-process/)
+* [UK Government: Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery)
+* [UK Government: What are the Discovery, Alpha, Beta and Live stages in developing a service? [Video 0'0"59]](https://www.youtube.com/watch?v=_cyI7DMhgYc)
