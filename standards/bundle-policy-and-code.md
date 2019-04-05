@@ -18,7 +18,13 @@ order: 2
 
 ## What this doesn’t do
 
+* This process does not guarantee that a codebase will reflect the bundled policy.  
+* Packages will not necessarily comply with local technical infrastructure and/or legal framework of a given public organization.
+
 ## How to test
+
+* Policy SHOULD be provided in machine readable and unambiguous formats
+* Continuous Integration tests SHOULD validate the source code and the policy are executed coherently
 
 ## Policy makers: what you need to do
 
@@ -33,4 +39,10 @@ order: 2
 
 ## Developers and designers: what you need to do
 
+* Developers SHOULD become conversant in the process modeling notation that the policy makers in your organization use.  
+* Developers SHOULD track any changes that they make to codebase functionality in the corresponding policy notation for review by policy-makers.
+
 ## Further reading
+
+https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation
+http://www.bpmn.org/
