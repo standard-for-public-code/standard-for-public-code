@@ -55,4 +55,3 @@ And not meant directly for
 * What is important to take into account when writing software for a public goal
 * Procuring 'Public Code'
 * When and how does the Foundation For Public Code certify a codebase as Public Code
-* Changelog: What's New
