@@ -33,7 +33,7 @@ order: 10
 
 ## Management: what you need to do
 
-* ???
+* MAY Include open standard compliance assessment in code reviews.
 
 ## Developers and designers: what you need to do
 
