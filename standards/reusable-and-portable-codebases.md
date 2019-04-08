@@ -26,7 +26,7 @@ order: 3
 
 ## How to test
 
-Ask someone in a similar position in another context to tell you whether they could reuse your Codebase and what that would entail
+* Ask someone in a similar position in another context to tell you whether they could reuse your Codebase and what that would entail
 
 ## Policy makers: what you need to do
 
