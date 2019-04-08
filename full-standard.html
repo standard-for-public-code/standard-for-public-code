@@ -1,0 +1,42 @@
+---
+layout: pdf
+---
+
+<article>
+
+  <h1>Public code standard</h1>
+
+</article>
+
+<article id="table-of-contents">
+
+  <h1>Table of Contents</h1>
+
+  <ol>
+    <li>Introduction</li>
+    <li>Readers guide: how to interpret this standard</li>
+    <li>Standards</a>
+      {% assign sorted = site.pages | sort:"order" %}
+      <ol>
+      {% for page in sorted %}{% if page.dir == "/standards/" %}{% if page.name != "index.md" %}{% if page.title %}
+        <li>{{page.title}}</li>{% endif%}
+      {% endif%}  {% endif%}{% endfor %}
+      </ol>
+    </li>
+    <li>Glossary
+        {% assign sorted = site.pages | sort:"order" %}
+        <ol>
+        {% for page in sorted %}{% if page.dir == "/glossary/" %}{% if page.name != "index.md" %}{% if page.title %}
+          <li>{{page.title}}</li>{% endif%}
+        {% endif%}  {% endif%}{% endfor %}
+        </ol>
+    </li>
+    <li>Authors</li>
+    <li>Contributing guide</li>
+    <li>Governance</li>
+    <li>Changelog</li>
+    <li>Licence</li>
+  </ol>
+
+</article>
+
