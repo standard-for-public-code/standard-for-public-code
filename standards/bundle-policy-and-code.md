@@ -44,5 +44,5 @@ order: 2
 
 ## Further reading
 
-https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation
-http://www.bpmn.org/
+[Wikipedia: Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
+[BPMN.org](http://www.bpmn.org/)
