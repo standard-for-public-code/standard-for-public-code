@@ -28,8 +28,9 @@ order: 2
 
 ## Policy makers: what you need to do
 
-* Develop policy with the same version control and documentation mechanisms that are used to develop source code
 * Develop Policy in formats that are unambiguous and machine readable such as Business Process Model Notation, Decision Model Notion and Case Management Model Notation
+* Collaborate with developers and designers to ensure there is no mismatch between policy code and source code  
+* Develop policy with the same version control and documentation mechanisms that are used to develop source code
 * Try to periodically understand what the non-policy code in the codebase does
 
 ## Management: what you need to do
@@ -39,8 +40,8 @@ order: 2
 
 ## Developers and designers: what you need to do
 
-* Developers SHOULD become familiar with and be able to use the process modeling notation that the policy makers in your organization use.  
-* Developers SHOULD track any changes that they make to codebase functionality in the corresponding policy notation for review by policy-makers.
+* Developers and designers SHOULD become familiar with and be able to use the process modeling notation that the policy makers in your organization use.  
+* Developers and designers SHOULD work together with policy makers to ensure there is no mismatch between policy code and source code. 
 
 ## Further reading
 
