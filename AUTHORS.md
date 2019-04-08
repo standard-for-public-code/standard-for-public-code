@@ -2,7 +2,7 @@
 
 Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
 
-* Martijn De Waal
+* Martijn de Waal
 
 [Foundation For Public Code](https://publiccode.net)
 
