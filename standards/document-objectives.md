@@ -6,7 +6,7 @@ order: 7
 
 ## Measure
 
-* The codebase MUST contain documentation on its objectives – like a mission and goal statement – understandable for designers and developers that would use or contribute
+* The codebase MUST contain documentation on its objectives – like a mission and goal statement – that is understandable for designers and developers so that they can use or contribute to the codebase 
 * The codebase SHOULD contain documentation on its objectives understandable by policy makers and management
 * The codebase MAY contain documentation on its objectives for the general public
 
@@ -17,7 +17,8 @@ order: 7
 
 ## What this doesn’t do
 
-* ???
+* Guarantee contributions to your codebase
+* Reduce the need for clear documentation throughout your codebase 
 
 ## How to test
 
