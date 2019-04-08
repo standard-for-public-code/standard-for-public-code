@@ -34,10 +34,12 @@ order: 3
 
 ## Management: what you need to do
 
-* ???
+* Make sure that stakeholders and business owners understand that reusability is an explicit goal of the project as it reduces technical debt and provides sustainability for the codebase
 
 ## Developers and designers: what you need to do
 
-* Source code should be designed for reuse by other users and organizations.
+* Source should be designed for reuse by other users and organizations
+* Source should be designed to solve a general problem instead of a specific one
+* if someone in a similar organization faces a similar problem they should be able to use your solution
 
 ## Further reading
