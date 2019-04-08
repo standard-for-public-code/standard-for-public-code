@@ -39,7 +39,7 @@ order: 2
 
 ## Developers and designers: what you need to do
 
-* Developers SHOULD become conversant in the process modeling notation that the policy makers in your organization use.  
+* Developers SHOULD become familiar with and be able to use the process modeling notation that the policy makers in your organization use.  
 * Developers SHOULD track any changes that they make to codebase functionality in the corresponding policy notation for review by policy-makers.
 
 ## Further reading
