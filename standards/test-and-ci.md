@@ -2,7 +2,7 @@
 order: 11
 ---
 
-# Tests and Continuous Integration
+# Use continuous integration and automated testing
 
 ## Measure
 

@@ -2,12 +2,12 @@
 order: 13
 ---
 
-# Coding Style
+# Code in style
 
 ## Measure
 
 * Your MUST adhere to a coding style guide, either your own or an existing one
-* MUST use code linter!
+* You MUST use code linter
 * Your codebase SHOULD include inline comments and documentation for non-trivial sections
 
 ## What this does
