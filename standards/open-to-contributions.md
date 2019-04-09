@@ -13,7 +13,7 @@ order: 4
 * The codebase MUST mention an email adress for security issues and responsible disclosure
 * The codebase SHOULD have a publicly available roadmap
 * The codebase SHOULD advertise the committed engagement of involved organisations in the development and maintainance
-* The codebase MAY document the governance of the Codebase, contributions and it's community, for example in a `GOVERNANCE` file
+* The codebase MAY document the governance of the codebase, contributions and it's community, for example in a `GOVERNANCE` file
 
 ## What this does
 
