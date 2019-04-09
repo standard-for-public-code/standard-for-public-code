@@ -6,8 +6,8 @@ order: 5
 
 ## Measure
 
-* You MUST have a way to maintain version control for your code.
-* All files in a codebase MUST be version controlled.
+* You MUST have a way to maintain version control for your code
+* All files in a codebase MUST be version controlled
 * All decisions MUST be documented in commit messages
 * Every commit message MUST link to discussions and issues wherever possible
 * You SHOULD group relevant changes in commits
@@ -16,7 +16,6 @@ order: 5
 ## What this does
 
 Version control means keeping track of changes to your code over time. This allows you to create structured documentation of the history of the codebase. This is essential for collaboration at scale.
--
 
 Version control enables you to:
 
