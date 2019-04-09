@@ -17,9 +17,9 @@ order: 7
 
 ## What this doesn’t do
 
-* Guarantee that the codebase achieves the stated objective(s).
+* Guarantee that the codebase achieves the stated objective(s)
 * Guarantee contributions to your codebase
-* Prevent other codebases from attempting to achieve the same objectives.
+* Prevent other codebases from attempting to achieve the same objectives
 
 ## How to test
 
@@ -31,11 +31,11 @@ order: 7
 
 ## Management: what you need to do
 
-* Add the organisational and business objectives to the codebase documentation, for instance in the `README`.
+* Add the organisational and business objectives to the codebase documentation, for instance in the `README`
 
 ## Developers and designers: what you need to do
 
-* Add the technology and design objectives to the codebase documentation, for instance in the `README`.
+* Add the technology and design objectives to the codebase documentation, for instance in the `README`
 
 ## Further reading
 
