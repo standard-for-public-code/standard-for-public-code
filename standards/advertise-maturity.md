@@ -25,7 +25,7 @@ Clearly signifying the maturity of a codebase helps others to decide whether to 
 
 * The codebase has a strategy for versioning which is documented
 * It is clear where to get the newest version
-* The codebase doesn't depend on any codebased marked with a less mature status
+* The codebase doesn't depend on any codebases marked with a less mature status
 
 ## Policy makers: what you need to do
 
