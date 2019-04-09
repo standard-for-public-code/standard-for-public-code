@@ -9,8 +9,8 @@ order: 3
 * The code MUST be developed in order to be reusable in different contexts
 * Code SHOULD be general purpose and SHOULD be configurable
 * Code and its documentation SHOULD not contain situation-specific information. For example, personal and organisational data as well as tokens and passwords should never be included.
-* The codebase MUST be independent from any secret, proprietary or non-Open-licenced code or services for execution and understanding
-* The codebase MUST be independent from any secret, proprietary or non-Open-licenced code or services for execution and understanding
+* The codebase MUST be independent from any secret, proprietary or non-open-licenced code or services for execution and understanding
+* The codebase MUST be independent from any secret, proprietary or non-open-licenced code or services for execution and understanding
 * The codebase MUST be developed in order to be reusable in different contexts
 
 ## What this does
@@ -26,11 +26,11 @@ order: 3
 
 ## How to test
 
-* Ask someone in a similar position in another context to tell you whether they could reuse your Codebase and what that would entail
+* Ask someone in a similar position in another context to tell you whether they could reuse your codebase and what that would entail
 
 ## Policy makers: what you need to do
 
-* Develop policy that is well documented and can be understood separate from the context
+* Document your policy with enough clarity and detail that it can be understood outside of its original context
 
 ## Management: what you need to do
 
@@ -40,6 +40,6 @@ order: 3
 
 * Source should be designed for reuse by other users and organizations
 * Source should be designed to solve a general problem instead of a specific one
-* if someone in a similar organization faces a similar problem they should be able to use your solution
+* Someone in a similar organization facing a similar problem should be able to use your solution
 
 ## Further reading
