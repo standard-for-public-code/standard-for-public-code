@@ -30,7 +30,7 @@ order: 3
 
 ## Policy makers: what you need to do
 
-* Document your policy with enough clarity and detail that it can be understood outside of its original context.
+* Document your policy with enough clarity and detail that it can be understood outside of its original context
 
 ## Management: what you need to do
 
