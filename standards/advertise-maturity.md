@@ -6,12 +6,14 @@ order: 14
 ## Measure
 
 * A codebase MUST be versioned
-* A codebase that is not yet ready to be used MUST be labeled accordingly with whether it is a
+* A codebase that is ready to use MUST only depend on other codebases that are also ready to use
+* A codebase that is not ready to be used MUST be labeled accordingly with whether it is a
     * Prototype: to test the look and feel as well as to proof the concept of the technical possibilities internally
     * Alpha: to do guided tests with a limited set of users
     * Beta: to open up testing to a larger section of the general public to test for instance if the codebase works at scale
     * Pre-release version: ready to be release but not formally having passed all the approval steps
 * A codebase SHOULD contain a log of changes from version to version
+
 
 ## What this does
 
@@ -23,7 +25,7 @@ Clearly signifying the maturity of a codebase helps others to decide whether to 
 
 * The codebase has a strategy for versioning which is documented
 * It is clear where to get the newest version
-* No codebase marked with a less mature status is dependent on for this codebase
+* The codebase doesn't depend on any codebases marked with a less mature status
 
 ## Policy makers: what you need to do
 
