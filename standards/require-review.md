@@ -20,15 +20,15 @@ order: 6
 
 * Increases codebase quality
 * Reduces security as well as operational risks
-* Create a culture of making every contribution great
-* Catch the most obvious mistakes that could happen
-* Give contributors the security that they know their contributions are only accepted if they really add value and provide a guaranteed point for feedback or collaborative improvement
+* Creates a culture of making every contribution great
+* Catches the most obvious mistakes that could happen
+* Gives contributors the security that their contributions are only accepted if they really add value and provide a guaranteed point for feedback or collaborative improvement
 
 ## What this doesn’t do
 
 * Guarantee the right solution to a problem
-* Doesn't mean that reviewers are liable
-* It doesn't absolve a contributor from doing the documentation or writing test
+* Mean that reviewers are liable
+* Absolve a contributor from doing the documentation or writing tests
 * Provide you with the right reviewers
 
 ## How to test
@@ -43,7 +43,7 @@ order: 6
 ## Management: what you need to do
 
 * Make delivering great code a shared objective
-* Reviewing contributions in source, policy, documentation and tests should be seen as important as writing it
+* Make sure writing and reviewing contributions to source, policy, documentation and tests are considered equally valuable
 * Create a culture where all contributions are welcome and everyone is empowered to review them
 * Make sure no contributor is ever alone in contributing to a project
 

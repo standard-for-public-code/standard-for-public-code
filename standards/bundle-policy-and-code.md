@@ -15,7 +15,6 @@ order: 2
 ## What this does
 
 * Make sure that when a public organisation re-uses codebases that they are able to do this effectively since they have access to both the source as well as the civic code necessary
-
 * Make sure a public organisation that re-uses codebases can do this effectively because they have access to both the source and civic code necessary
 
 
