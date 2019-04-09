@@ -19,6 +19,8 @@ order: 9
 
 ## What this doesn’t do
 
+* Make explanations of your codebase's functionality understandable or magically make them understand the jargon of your organisation
+
 ## How to test
 
 * See if translations and the English version have the same contents
@@ -27,12 +29,17 @@ order: 9
 
 ## Policy makers: what you need to do
 
+* Frequently test with other management, designers and developers in the process if they understand what you are delivering and how you document it
+
 ## Management: what you need to do
 
 * Try to limit the use of acronyms, abbreviations, puns or legal/domain specific terms in internal communications in and between teams and stakeholders
+* Be critical of documentations and descriptions in proposals and changes, if you can't understand something, probably others will also not
 
 ## Developers and designers: what you need to do
 
+* Frequently test with other policy makers and management in the process if they understand what you are delivering and how you document it
+
 ## Further reading
 
-* [http://splasho.com/upgoer5/](http://splasho.com/upgoer5/)
+* [Upgoer 5 text editor, only allows 1000 common words](http://splasho.com/upgoer5/)
