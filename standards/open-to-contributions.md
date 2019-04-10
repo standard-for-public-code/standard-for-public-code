@@ -2,7 +2,7 @@
 order: 4
 ---
 
-# Welcome contributions and collaboration
+# Welcome contributions
 
 ## Measure
 
