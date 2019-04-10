@@ -14,24 +14,23 @@ order: 2
 
 ## What this does
 
-* Make sure that when a public organisation re-uses codebases that they are able to do this effectively since they have access to both the source as well as the civic code necessary
-* Make sure a public organisation that re-uses codebases can do this effectively because they have access to both the source and civic code necessary
+* Make sure anyone has access to both the source and civic code necessary to effectively reuse a codebase
 
 
 ## What this doesn’t do
 
-* This process does not guarantee that a codebase will reflect the bundled policy.  
-* Packages will not necessarily comply with local technical infrastructure and/or legal framework of a given public organization.
+* This process does not guarantee that a codebase will reflect the bundled policy
+* Packages will not necessarily comply with local technical infrastructure or legal framework of a given public organization
 
 ## How to test
 
-* Policy SHOULD be provided in machine readable and unambiguous formats
-* Continuous Integration tests SHOULD validate the source code and the policy are executed coherently
+* Policy should be provided in machine readable and unambiguous formats
+* Continuous integration tests should validate the source code and the policy are executed coherently
 
 ## Policy makers: what you need to do
 
 * Collaborate with developers and designers to ensure there is no mismatch between policy code and source code
-* Document policy in formats that are unambiguous and machine readable such as Business Process Model Notation, Decision Model Notion and Case Management Model Notation
+* Document policy in formats that are unambiguous and machine readable such as [Business Process Model and Notation](http://www.bpmn.org/), [Decision Model and Notation](https://www.omg.org/dmn/) and [Case Management Model Notation](https://www.omg.org/cmmn/)
 * Track policy with the same version control and documentation used to track source code
 * Try to periodically understand what the non-policy code in the codebase does
 
@@ -42,10 +41,11 @@ order: 2
 
 ## Developers and designers: what you need to do
 
-* Developers and designers SHOULD become familiar with and be able to use the process modeling notation that the policy makers in your organization use.  
-* Developers and designers SHOULD work together with policy makers to ensure there is no mismatch between policy code and source code.
+* Developers and designers should become familiar with and be able to use the process modeling notation that the policy makers in your organization use.  
+* Developers and designers should work together with policy makers to ensure there is no mismatch between policy code and source code.
 
 ## Further reading
 
-[Wikipedia: Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
-[BPMN.org](http://www.bpmn.org/)
+[Free online tools for building BPMN, CMMN and DMN diagrams at bmpn.io](https://bpmn.io/)
+[BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/)
+
