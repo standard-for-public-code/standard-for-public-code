@@ -25,12 +25,12 @@ order: 2
 ## How to test
 
 * Policy should be provided in machine readable and unambiguous formats
-* Continuous Integration tests should validate the source code and the policy are executed coherently
+* Continuous integration tests should validate the source code and the policy are executed coherently
 
 ## Policy makers: what you need to do
 
 * Collaborate with developers and designers to ensure there is no mismatch between policy code and source code
-* Document policy in formats that are unambiguous and machine readable such as Business Process Model Notation, Decision Model Notion and Case Management Model Notation
+* Document policy in formats that are unambiguous and machine readable such as [Business Process Model and Notation](http://www.bpmn.org/), [Decision Model and Notation](https://www.omg.org/dmn/) and [Case Management Model Notation](https://www.omg.org/cmmn/)
 * Track policy with the same version control and documentation used to track source code
 * Try to periodically understand what the non-policy code in the codebase does
 
@@ -46,5 +46,6 @@ order: 2
 
 ## Further reading
 
-[Wikipedia: Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
-[BPMN.org](http://www.bpmn.org/)
+[Free online tools for building BPMN, CMMN and DMN diagrams at bmpn.io](https://bpmn.io/)
+[BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/)
+
