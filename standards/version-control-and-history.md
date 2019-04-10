@@ -38,17 +38,18 @@ Version control enables you to:
   * what the discussion about the change was or where to find it (with a URL)
 
 ## Policy makers: what you need to do
-If a new version of the codebase is created because of a policy change, make sure it's clear in the documentation:
+* If a new version of the codebase is created because of a policy change, make sure it's clear in the documentation:
 - what the policy change is
 - how it's changed the codebase
 
 For example, adding a new category of applicant to a codebase that manages granting permits would be considered a policy change.
 
 ## Management: what you need to do
-Support policy makers, developers and designers to be clear about what improvements they're making to the codebase - making improvements isn't a public relations risk.
+* Support policy makers, developers and designers to be clear about what improvements they're making to the codebase - making improvements isn't a public relations risk.
 
 ## Developers and designers: what you need to do
-Write clear commit messages so that versions can be usefully compared. Work with policy makers to describe how the source code was updated after a policy change. 
+* Write clear commit messages so that versions can be usefully compared. 
+* Work with policy makers to describe how the source code was updated after a policy change. 
 
 ## Further reading
 
