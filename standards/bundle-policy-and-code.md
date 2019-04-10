@@ -14,7 +14,7 @@ order: 2
 
 ## What this does
 
-* Make sure a public organisation has access to both the source and civic code necessary to effectively reuse a codebase
+* Make sure anyone has access to both the source and civic code necessary to effectively reuse a codebase
 
 
 ## What this doesn’t do
@@ -41,8 +41,8 @@ order: 2
 
 ## Developers and designers: what you need to do
 
-* Developers and designers SHOULD become familiar with and be able to use the process modeling notation that the policy makers in your organization use.  
-* Developers and designers SHOULD work together with policy makers to ensure there is no mismatch between policy code and source code.
+* Developers and designers should become familiar with and be able to use the process modeling notation that the policy makers in your organization use.  
+* Developers and designers should work together with policy makers to ensure there is no mismatch between policy code and source code.
 
 ## Further reading
 
