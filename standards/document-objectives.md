@@ -39,4 +39,4 @@ order: 7
 
 ## Further reading
 
-* [Marek Hajduczenia on Project Objectives](http://grouper.ieee.org/groups/802/3/RTPGE/public/may12/hajduczenia_01_0512.pdf)
+* [Marek Hajduczenia on how to write project objectives](http://grouper.ieee.org/groups/802/3/RTPGE/public/may12/hajduczenia_01_0512.pdf)
