@@ -25,9 +25,9 @@ Version control enables you to:
 * work on changes in parallel as a team before merging them together
 
 ## What this doesn’t do
-Substitute for advertising maturity.
-Guarantee your code executes correctly.
-Guarantee collaborators.
+* Substitute for advertising maturity.
+* Guarantee your code executes correctly.
+* Guarantee collaborators.
 
 ## How to test
 
