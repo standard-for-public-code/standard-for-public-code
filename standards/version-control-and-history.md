@@ -39,8 +39,8 @@ Version control enables you to:
 
 ## Policy makers: what you need to do
 * If a new version of the codebase is created because of a policy change, make sure it's clear in the documentation:
-- what the policy change is
-- how it's changed the codebase
+ * what the policy change is
+ * how it's changed the codebase
 
 For example, adding a new category of applicant to a codebase that manages granting permits would be considered a policy change.
 
