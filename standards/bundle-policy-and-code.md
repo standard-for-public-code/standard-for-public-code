@@ -14,19 +14,18 @@ order: 2
 
 ## What this does
 
-* Make sure that when a public organisation re-uses codebases that they are able to do this effectively since they have access to both the source as well as the civic code necessary
-* Make sure a public organisation that re-uses codebases can do this effectively because they have access to both the source and civic code necessary
+* Make sure a public organisation has access to both the source and civic code necessary to effectively reuse a codebase
 
 
 ## What this doesn’t do
 
-* This process does not guarantee that a codebase will reflect the bundled policy.  
-* Packages will not necessarily comply with local technical infrastructure and/or legal framework of a given public organization.
+* This process does not guarantee that a codebase will reflect the bundled policy
+* Packages will not necessarily comply with local technical infrastructure or legal framework of a given public organization
 
 ## How to test
 
-* Policy SHOULD be provided in machine readable and unambiguous formats
-* Continuous Integration tests SHOULD validate the source code and the policy are executed coherently
+* Policy should be provided in machine readable and unambiguous formats
+* Continuous Integration tests should validate the source code and the policy are executed coherently
 
 ## Policy makers: what you need to do
 
