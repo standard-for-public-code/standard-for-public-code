@@ -2,9 +2,19 @@
 
 The Standard for Public Code is a method for developing civic and source code for public purposes.
 
-## The goal of this publication
+We define ‘public code’ as open source software developed by public administrations (like cities), together with the policy and guidance needed for reuse.
 
-* Set out the concept of public code
+The Foundation for Public Code helps cities share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code.
+
+The Standard:
+    * guides cities to the criteria they need to meet for their code to be included for Foundation stewardship
+    * provides reassurance that all code under Foundation stewardship is high quality and reusable
+
+## The goals for the Standard
+
+The Standard for Public Code gives cities a model for building their own open source solutions to enable successful future reuse by other cities. It includes guidance for policymakers, city administrators, developers and vendors.
+
+
 * Function as a *Standard* for public code
     * Set out a common terminology for public code development
     * Measures that can help develop high quality public code
@@ -13,22 +23,18 @@ The Standard for Public Code is a method for developing civic and source code fo
 
 ## Who is this guidance for
 
-This guide is for/turn:
+This guide is for:
 
-* Policy makers
-* Business and project management
-* Developers and designers
+* policy makers
+* business and project management
+* developers and designers
 
 Working at:
 
-* Public organisations: institutions and administrations
-* Vendors of policy and information technology to public organisations
+* public organisations: institutions and administrations
+* vendors of policy and information technology to public organisations
 
-It is not designed for:
-
-* Residents and citizens
-* Journalists
-* Academics
+It is not aimed at residents and citizens, journalists or academics.
 
 # Background
 
