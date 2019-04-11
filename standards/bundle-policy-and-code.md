@@ -46,7 +46,6 @@ order: 2
 
 ## Further reading
 
-[Free online tools for building BPMN, CMMN and DMN diagrams at bmpn.io](https://bpmn.io/)
-
-[BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/)
+* [Free online tools for building BPMN, CMMN and DMN diagrams at bmpn.io](https://bpmn.io/)
+* [BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/)
 
