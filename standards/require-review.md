@@ -28,7 +28,7 @@ order: 6
 
 * Guarantee the right solution to a problem
 * Mean that reviewers are liable
-* Absolve a contributor from doing the documentation or writing tests
+* Absolve a contributor from writing documentation and tests
 * Provide you with the right reviewers
 
 ## How to test
