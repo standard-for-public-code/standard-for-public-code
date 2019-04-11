@@ -6,13 +6,13 @@ We – the maintainers and contributors of this project – understand that a st
 
 We love issues and pull requests from everyone.
 
-## Problems, suggestions and questions in Issues
+## Problems, suggestions and questions in issues
 
 Please help development by reporting problems, suggesting changes and asking questions. To do this, you can [create a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for the Standard for Public Code](https://github.com/publiccodenet/standard/issues).
 
 You don't need to change any of our code or documentation to be a contributor!
 
-## Documentation and code in Pull Requests
+## Documentation and code in pull requests
 
 If you want to add to the documentation or code of one of our projects you should make a pull request. 
 
@@ -22,13 +22,13 @@ This project is [licenced CC-0](LICENCE.md), which essentially means that the pr
 
 ### 1. Make your changes
 
-This project uses the [**GitFlow branching model** and workflow](http://nvie.com/posts/a-successful-git-branching-model/). When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
+This project uses the [GitFlow branching model and workflow](http://nvie.com/posts/a-successful-git-branching-model/). When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
 
 Add your changes in commits [with a message that explains them](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message). Document choices or decisions you make in the commit message, this will enable everyone to be informed of your choices in the future.
 
 If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request. Make sure to write tests that show the behaviour of the newly added or changed code.
 
-### 2. Pull Request
+### 2. Pull request
 
 When submitting the pull request, please accompany it with a description of the problem you are trying to solve and the issue numbers that this pull request fixes.
 
