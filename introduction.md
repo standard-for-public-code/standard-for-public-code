@@ -19,12 +19,12 @@ This guide is for/turn:
 * Business and project management
 * Developers and designers
 
-From
+Working at:
 
 * Public organisations: institutions and administrations
 * Vendors of policy and information technology to public organisations
 
-And not meant directly for:
+It is not designed for:
 
 * Residents and citizens
 * Journalists
