@@ -1,6 +1,6 @@
-# Public Code Standard
+# Standard for Public Code
 
-The Public Code Standard is a method for developing civic and source code for public purposes.
+The Standard for Public Code is a method for developing civic and source code for public purposes.
 
 ## Help improve this standard
 
