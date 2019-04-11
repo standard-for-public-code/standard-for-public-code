@@ -52,3 +52,4 @@ order: 4
 * an example [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) you could include in your codebase
 * [Leadership and governance](https://opensource.guide/leadership-and-governance/) for growing open source community projects
 * The United Kingdom Government Digital Service on [the benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
+* Long read: [Building online communities](http://hintjens.com/blog:117) by Pieter Hintjens
