@@ -4,7 +4,7 @@ Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Cr
 
 * Martijn de Waal
 
-Foundation For Public Code
+Foundation for Public Code
 
 * Ben Cerveny
 * Elena Findley-de Regt
