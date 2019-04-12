@@ -42,6 +42,6 @@ Clearly signalling the maturity of a codebase helps others to decide whether to 
 
 ## Further reading
 
-* [Australian Digital Transformation Agency: Service Design and Delivery Process](https://guides.service.gov.au/topics/service-design-delivery-process/)
-* [UK Government: Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery)
-* [UK Government: What are the Discovery, Alpha, Beta and Live stages in developing a service? [Video 0'0"59]](https://www.youtube.com/watch?v=_cyI7DMhgYc)
+* [Service Design and Delivery Process](https://guides.service.gov.au/topics/service-design-delivery-process/) by the Australian Digital Transformation Agency
+* [Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery) by the UK Government Digital Service
+* [What are the Discovery, Alpha, Beta and Live stages in developing a service? [Video 0'0"59]](https://www.youtube.com/watch?v=_cyI7DMhgYc) by the UK Government Digital Service
