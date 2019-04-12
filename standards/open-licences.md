@@ -10,7 +10,7 @@ order: 12
 * Software source code this MUST be licensed under an [OSI-approved open source licence](https://opensource.org/licenses/category)
 * All code MUST be published with a licence
 * Codebases MAY have multiple licences for different types of code and documentation
-* Documentation MAY be published under [Creative Commons licences\
+* Documentation MAY be published under [Creative Commons licences
 ](https://creativecommons.org/licenses/) that are NOT 'no derivatives' or 'non-commercial'
 
 ## What this does

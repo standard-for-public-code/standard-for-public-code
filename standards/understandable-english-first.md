@@ -42,4 +42,5 @@ order: 9
 
 ## Further reading
 
-* [Upgoer 5 text editor, only allows 1000 common words](http://splasho.com/upgoer5/)
+* [Hemingway text editor](http://www.hemingwayapp.com/) - highlights lengthy, complex sentences and common errors 
+* [Upgoer 5 text editor](http://splasho.com/upgoer5/) - only allows 1000 most common words
