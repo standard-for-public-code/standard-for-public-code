@@ -48,8 +48,8 @@ For example, adding a new category of applicant to a codebase that manages grant
 * Support policy makers, developers and designers to be clear about what improvements they're making to the codebase - making improvements isn't a public relations risk.
 
 ## Developers and designers: what you need to do
-* Write clear commit messages so that versions can be usefully compared. 
-* Work with policy makers to describe how the source code was updated after a policy change. 
+* Write clear commit messages so that versions can be usefully compared.
+* Work with policy makers to describe how the source code was updated after a policy change.
 
 ## Further reading
 
