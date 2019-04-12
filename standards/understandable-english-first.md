@@ -19,7 +19,8 @@ order: 9
 
 ## What this doesn’t do
 
-* Make explanations of your codebase's functionality understandable or magically make them understand the jargon of your organisation
+* Make explanations of your codebase's functionality understandable
+* Make your organisation's jargon understandable without an explanation
 
 ## How to test
 

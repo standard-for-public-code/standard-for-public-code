@@ -21,6 +21,8 @@ Clearly signalling the maturity of a codebase helps others to decide whether to 
 
 ## What this doesn’t do
 
+* Guarantee that others will use your code.
+
 ## How to test
 
 * The codebase has a strategy for versioning which is documented
@@ -30,6 +32,7 @@ Clearly signalling the maturity of a codebase helps others to decide whether to 
 ## Policy makers: what you need to do
 
 * When developing policy understand the code that will be developed needs to be tested and improved before being able to be put in to service
+* Consider versioning policy changes, especially when they trigger new versions of the source code
 
 ## Management: what you need to do
 
