@@ -19,7 +19,8 @@ order: 9
 
 ## What this doesn’t do
 
-* Make explanations of your codebase's functionality understandable or magically make them understand the jargon of your organisation
+* Make explanations of your codebase's functionality understandable
+* Make your organisation's jargon understandable without an explanation
 
 ## How to test
 
@@ -42,5 +43,5 @@ order: 9
 
 ## Further reading
 
-* [Hemingway text editor](http://www.hemingwayapp.com/) - highlights lengthy, complex sentences and common errors 
+* [Hemingway text editor](http://www.hemingwayapp.com/) - highlights lengthy, complex sentences and common errors
 * [Upgoer 5 text editor](http://splasho.com/upgoer5/) - only allows 1000 most common words
