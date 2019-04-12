@@ -18,8 +18,8 @@ order: 2
 
 ## What this doesn’t do
 
-* This process does not guarantee that a codebase will reflect the bundled policy
-* Packages will not necessarily comply with local technical infrastructure or legal framework of a given public organization
+* Guarantee that a codebase will reflect the bundled policy
+* Make sure packages comply with the local technical infrastructure or legal framework of a given public organization
 
 ## How to test
 
@@ -47,3 +47,4 @@ order: 2
 
 * [Free online tools for building BPMN, CMMN and DMN diagrams at bmpn.io](https://bpmn.io/) by Camunda
 * [BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/) by Trisotech
+
