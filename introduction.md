@@ -34,9 +34,6 @@ It is not aimed at public organisations' end users (residents or citizens), jour
 
 ## Background (why use public code!)
 
-
-
-
 * What is public code
     * Code == Code
     * Sovereignty
