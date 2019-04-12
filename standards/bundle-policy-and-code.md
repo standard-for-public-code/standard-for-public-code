@@ -16,7 +16,6 @@ order: 2
 
 * Make sure anyone has access to both the source and civic code necessary to effectively reuse a codebase
 
-
 ## What this doesn’t do
 
 * This process does not guarantee that a codebase will reflect the bundled policy
