@@ -34,12 +34,17 @@ It is not aimed at public organisations' end users (residents or citizens), jour
 
 ## Background (why use public code!)
 
-* What is public code
-    * Code == Code
-    * Sovereignty
+In the public context in the 21st century, software can be considered vital infrastructure. It mediates/governs the expression of policy - and where it learns to make its own decisions (for example machine learning algorithms), it is potentially writing new policy.
+
+We hold that software and policy are both code. The former executed by machines and the latter by humans.
+
+This leads to a number of new concerns.
+
+### Sovereignty
     * Preferable economic model
         * More vendors necessary due to growing demand of digitalisation
-    * The difference between private and public technologies
+
+### The difference between private and public technologies
     * Procurement and its effects
     * Why have control
         * De-risking infrastructure
@@ -48,7 +53,9 @@ It is not aimed at public organisations' end users (residents or citizens), jour
         * Reducing technical debt
     * Core values
         * Inclusive, usable, open, legible, accountable, accessible and sustainable
-    * Collaboration between (public) organisations and the pooling of resources
+
+### Collaboration between (public) organisations and the pooling of resources
+
 
 * What is important to take into account when writing public policy for the digital age
 * What is important to take into account when writing software for a public goal
