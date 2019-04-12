@@ -60,7 +60,9 @@ It is not aimed at public organisations' end users (residents or citizens), jour
 
 You don't need to change your technology suppliers or procurement process to use public code. It can be used by your permanent in-house development team, contractors or outsourced suppliers. Vendors to public organisations can include public code in their bids for contracts.
 
-To use existing public code, you need to specify in your budget and project design that your new solution will use that codebase. You don't even need to ask us, but of course, we would like to know!
+To use existing public code, you need to specify in your budget and project design that your new solution will use that codebase. To encourage an innovative approach to adapting the public code to your context, you could describe the service or outcome in your contract.
+
+You don't need to ask us to use the code, but of course, we would like to know!
 
 To build new public code for contribution to Foundation for Public Code stewardship, you'll need to:
 - meet the Standard for Public Code as you plan and develop your code
