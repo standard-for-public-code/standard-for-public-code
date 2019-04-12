@@ -48,8 +48,8 @@ order: 4
 * Respond promptly to requests
 
 ## Further reading
-* [Building welcoming communities](https://opensource.guide/building-community/)
-* An example code of conduct: the [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct)
-* [Leadership and governance](https://opensource.guide/leadership-and-governance/) for growing open source community projects
-* The United Kingdom Government Digital Service on [the benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/)
-* Long read: [Building online communities](http://hintjens.com/blog:117) by Pieter Hintjens
+* [Building welcoming communities](https://opensource.guide/building-community/) by Open Source Guides
+* The [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) is a model code of conduct
+* [Leadership and governance](https://opensource.guide/leadership-and-governance/) for growing open source community projects, by Open Source Guides
+* [The benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) by the UK Government Digital Service
+* [Building online communities](http://hintjens.com/blog:117) by Pieter Hintjens (long read!)
