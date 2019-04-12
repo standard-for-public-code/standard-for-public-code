@@ -54,5 +54,5 @@ order: 6
 
 ## Further reading
 
-* [UK Government Digital Service GDS-way: How to review code](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content)
+* [How to review code the GDS way](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) by the UK Government Digital Service
 * Branch protection on [GitHub](https://help.github.com/en/articles/about-protected-branches) and [GitLab](https://about.gitlab.com/2014/11/26/keeping-your-code-protected/)
