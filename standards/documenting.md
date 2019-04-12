@@ -26,7 +26,7 @@ order: 8
 
 ## What this doesn’t do
 
-* Better documentation doesn't contribute directly to more reusable, portable code (see Coding in the open)
+* Contribute directly to more reusable, portable code (see Coding in the open)
 
 ## How to test
 
