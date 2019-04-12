@@ -30,9 +30,12 @@ These people work at:
 * public organisations: institutions and administrations
 * vendors of policy and information technology to public organisations
 
-It is not aimed at residents and citizens, journalists or academics.
+It is not aimed at public organisations' end users (residents or citizens), journalists or academics.
 
 # Background
+
+
+
 
 * What is public code
     * Code == Code
@@ -53,4 +56,6 @@ It is not aimed at residents and citizens, journalists or academics.
 * What is important to take into account when writing public policy for the digital age
 * What is important to take into account when writing software for a public goal
 * Procuring 'public code'
-* [When and how does the Foundation For Public Code certify a codebase as public code]  (hyperlink to page explaining process)
+
+## Certification of public code
+The Foundation for Public Code will start certifying codebases after it formally launches later in 2019. We'll add more information about how to work with us then. Watch this space!
