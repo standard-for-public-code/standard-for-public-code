@@ -31,9 +31,9 @@ order: 11
 ## How to test
 
 * There are tests present
-* Use code coverage tools check whether coverage is at 100% of the code
+* Code coverage tools check whether coverage is at 100% of the code
 * Contributions are only admitted into the codebase after all of the tests are passed
-* Everyone working on your codebase integrates their work at least once a day
+* Everyone working on the codebase integrates their work at least once a day
 
 ## Policy makers: what you need to do
 

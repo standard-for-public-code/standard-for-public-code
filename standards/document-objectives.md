@@ -23,7 +23,7 @@ order: 7
 
 ## How to test
 
-* Find an entry for the codebase objectives, mission or goal in the codebase documentation
+* There is an entry for the codebase objectives, mission or goal in the codebase documentation
 
 ## Policy makers: what you need to do
 

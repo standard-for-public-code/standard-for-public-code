@@ -23,8 +23,8 @@ order: 2
 
 ## How to test
 
-* Policy should be provided in machine readable and unambiguous formats
-* Continuous integration tests should validate the source code and the policy are executed coherently
+* Policy is provided in machine readable and unambiguous formats
+* Continuous integration tests validate that the source code and policy are executed coherently
 
 ## Policy makers: what you need to do
 
