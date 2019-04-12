@@ -55,6 +55,6 @@ order: 11
 
 ## Further reading
 
-* [What is continuous delivery](https://www.continuousdelivery.com/)
-* [UK Government Digital Service handbook: Use continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html)
+* [What is continuous delivery](https://www.continuousdelivery.com/) by Jez Humble
+* [Use continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) by the UK Government Digital Service
 * [Quality assurance: testing your service regularly](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) by the Government Digital Service (United Kingdom)
