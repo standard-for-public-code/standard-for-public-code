@@ -40,7 +40,7 @@ order: 11
 * Involve management as well as developers and designers as early in the process as possible and keep them engaged throughout development of your policy
 * Make sure there are also automated tests set up for policy documentation
 * Fix policy documentation promptly if it fails a test
-* Make sure the code reflects any changes to the policy (see [Maintain version control](standards/version-control-and-history))
+* Make sure the code reflects any changes to the policy (see Maintain version control)
 
 ## Management: what you need to do
 
