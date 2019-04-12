@@ -32,7 +32,7 @@ These people work at:
 
 It is not aimed at public organisations' end users (residents or citizens), journalists or academics.
 
-# Background
+## Background
 
 
 
@@ -55,7 +55,16 @@ It is not aimed at public organisations' end users (residents or citizens), jour
 
 * What is important to take into account when writing public policy for the digital age
 * What is important to take into account when writing software for a public goal
-* Procuring 'public code'
+
+## Procuring public code
+
+You don't need to change your technology suppliers or procurement process to use public code. It can be used by your permanent in-house development team, contractors or outsourced suppliers. Vendors to public organisations can include public code in their bids for contracts.
+
+To use existing public code, you will need to specify in your budget and project design that your new solution use that codebase.
+
+To build new public code for contribution to Foundation for Public Code stewardship, you'll need to:
+- meet the Standard for Public Code as you plan and develop your code
+- have your code certified by the Foundation for Public Code
 
 ## Certification of public code
-The Foundation for Public Code will start certifying codebases after it formally launches later in 2019. We'll add more information about how to work with us then. Watch this space!
+The Foundation for Public Code will start certifying codebases after it formally launches in summer 2019. We'll add more information about how to work with us then. Watch this space!
