@@ -30,13 +30,14 @@ order: 8
 
 ## How to test
 
-* test readability of documentation with other stakeholders, professionals from other public organisations and the general public
-* generate documentation from code
-* test links and images
+* Other stakeholders, professionals from other public organisations and the general public find the documentation clear and understandable
+* Documentation is generated from code
+* Links and images are automatically tested
 
 ## Policy makers: what you need to do
 
 * Try to periodically understand what the non-policy code in the codebase does
+* Give feedback on how to make non-policy documentation more clear
 
 ## Management: what you need to do
 

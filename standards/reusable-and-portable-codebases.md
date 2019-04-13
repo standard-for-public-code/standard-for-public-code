@@ -42,3 +42,4 @@ Ask someone in a similar role at another organisation if they could reuse your c
 * Someone in a similar organization facing a similar problem should be able to use your solution
 
 ## Further reading
+* [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) by the UK Government Digital Service 

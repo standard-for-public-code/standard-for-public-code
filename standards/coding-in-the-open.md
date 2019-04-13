@@ -24,7 +24,7 @@ order: 1
 
 ## How to test
 
-* Is the current version of the source published on the internet where it can be seen from outside your organization and without the need for any form of authentication.
+* The current version of the source is published on the internet where it can be seen from outside the original contributing organization and without the need for any form of authentication
 
 ## Policy makers: what you need to do
 
