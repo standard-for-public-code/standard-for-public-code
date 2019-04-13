@@ -41,4 +41,4 @@ order: 10
 
 ## Further reading
 
-* [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)
+* [Open Standard Requirements](https://opensource.org/osr) by the Open Source Initiative 

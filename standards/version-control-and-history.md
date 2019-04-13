@@ -53,5 +53,5 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 ## Further reading
 
-* [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary)
-* [UK Government Service Manual on storing source code](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding)
+* [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel
+* [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service
