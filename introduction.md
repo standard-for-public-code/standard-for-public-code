@@ -73,4 +73,23 @@ To build new public code for contribution to Foundation for Public Code stewards
 - have your code certified by the Foundation for Public Code
 
 ## Certification of public code
-The Foundation for Public Code will start certifying codebases after it launches in summer 2019. We'll add more information about how to work with us then. Watch this space!
+
+The Foundation for Public Code guards that codebases that are under its stewardship (and not in incubation or the attic) are compliant with the Standard for Public Code. This makes clear to potential users and contributors that the codebase is of high quality and so will its updates be.
+
+The audit performed the Foundation for Public Code is meant to complement machine testing, as machines are great at testing the things like syntax and whether outcomes align with expectations. Things meant for humans such as testing whether documentation is actually understandable and attached, the commit messages make sense and community-oriented guidelines are being followed are impossible for machines to test against.
+
+The audit tests the entire codebase, including source code, policy, documentation and conversation for compliance with both the standards set out by the Foundation For Public Code and the standards set out in the codebase itself.
+
+### How the process works
+
+Every time a contribution is suggested to a codebase – through for instance a merge request – the [codebase stewards](https://about.publiccode.net/roles/) of the Foundation for Public Code will audit the contribution for compliance with the Standard for Public Code. New contributions can only be adopted into the codebase after they have been approved as compliant with the Standard for Public Code, as well as being reviewed by another contributor.
+
+The audit is presented as a review of the contribution. The codebase steward gives line for line feedback and compliance, helping the contributor to improve their contribution. The merge request cannot be fulfilled until the codebase stewards have approved the contribution.
+
+![Pull Request Acceptance process](images/audit-flow.svg)
+
+### Certifying an entire codebase versus a contribution
+
+If the audit process is added to a codebase farther along in its development new merge requests can be certified, however, the existing code cannot be certified. By auditing every new merge request the codebase can move towards being completely certified. For the codebase to be completely certified every meaningful line of code, and the commits behind the code, need to be up to the standards.
+
+If codebases have been completely audited from the first merge request they can be completely be certified as compliant with the Standard for Public Code immediately.
