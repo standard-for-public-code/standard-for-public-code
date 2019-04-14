@@ -1,5 +1,5 @@
 remote_theme: publiccodenet/jekyll-theme
-title: Public Code Standard
+title: Standard for Public Code
 
 include: 
   - "README.md"

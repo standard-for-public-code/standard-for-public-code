@@ -1,37 +1,42 @@
 ---
 order: 14
 ---
-# Developing, maturing and maintaining codebases
+# Pay attention to codebase maturity
 
 ## Measure
 
 * A codebase MUST be versioned
-* A codebase that is not yet ready to be used MUST be labeled accordingly with whether it is a
-    * Prototype: to test the look and feel as well as to proof the concept of the technical possibilities internally
-    * Alpha: to do guided tests with a limited set of users
-    * Beta: to open up testing to a larger section of the general public to test for instance if the codebase works at scale
-    * Pre-release version: ready to be release but not formally having passed all the approval steps
+* A codebase that is ready to use MUST only depend on other codebases that are also ready to use
+* A codebase that is not yet ready to be used MUST have one of these labels:
+    * prototype - to test the look and feel as well as to prove the concept of the technical possibilities internally
+    * alpha - to do guided tests with a limited set of users
+    * beta - to open up testing to a larger section of the general public, for example  to test if the codebase works at scale
+    * pre-release version - code that is ready to be released but hasn't received formal approval yet
 * A codebase SHOULD contain a log of changes from version to version
+
 
 ## What this does
 
-Clearly signifying the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
+Clearly signalling the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
 
 ## What this doesn’t do
+
+* Guarantee that others will use your code.
 
 ## How to test
 
 * The codebase has a strategy for versioning which is documented
 * It is clear where to get the newest version
-* No codebase marked with a less mature status is dependent on for this codebase
+* The codebase doesn't depend on any codebases marked with a less mature status
 
 ## Policy makers: what you need to do
 
 * When developing policy understand the code that will be developed needs to be tested and improved before being able to be put in to service
+* Consider versioning policy changes, especially when they trigger new versions of the source code
 
 ## Management: what you need to do
 
-* Make sure code that is marked with a different status is never used to provide a service that is not in that state, e.g. using a Beta codebase in a production service or using a Prototype codebase in a Beta service.
+* Make sure code that is marked with a different status is never used to provide a service that is not in that state, e.g. using a beta codebase in a production service or using a prototype codebase in a beta service.
 
 ## Developers and designers: what you need to do
 
@@ -40,6 +45,6 @@ Clearly signifying the maturity of a codebase helps others to decide whether to 
 
 ## Further reading
 
-* [Australian Digital Transformation Agency: Service Design and Delivery Process](https://guides.service.gov.au/topics/service-design-delivery-process/)
-* [UK Government: Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery)
-* [UK Government: What are the Discovery, Alpha, Beta and Live stages in developing a service? [Video 0'0"59]](https://www.youtube.com/watch?v=_cyI7DMhgYc)
+* [Service Design and Delivery Process](https://guides.service.gov.au/topics/service-design-delivery-process/) by the Australian Digital Transformation Agency
+* [Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery) by the UK Government Digital Service
+* [What are the Discovery, Alpha, Beta and Live stages in developing a service? [Video 0'0"59]](https://www.youtube.com/watch?v=_cyI7DMhgYc) by the UK Government Digital Service
