@@ -2,7 +2,7 @@
 order: 2
 ---
 
-# Bundle policy and source code
+# Bundle policy and source code into the codebase
 
 ## Measure
 
