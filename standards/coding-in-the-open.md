@@ -6,7 +6,7 @@ order: 1
 
 ## Measure
 
-* All source code for any used policy and software not used for fraud detection MUST be published and publicly accessible.
+* All source code for any policy and software in use (unless used for fraud detection) MUST be published and publicly accessible.
 * Any source code that is not currently in use, such as new versions, proposals or older versions SHOULD be published.
 * Contributors MUST never upload sensitive information regarding users, the organization or third parties to the repository, for example: configurations, usernames and passwords, public keys and other real credentials used in the production system.
 * The source code MAY provide the general public insight into which source code underpins any specific interaction they may have with your organization.
