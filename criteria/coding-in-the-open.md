@@ -19,7 +19,7 @@ order: 1
 
 ## What this does not do
 
-* Make things reusable
+* Make source code or policy reusable
 * Make the codebase and the code inside it understandable to everyone
 
 ## How to test
