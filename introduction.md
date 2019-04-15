@@ -117,8 +117,8 @@ You don't need to ask us to use the code, but of course, we would like to know!
 
 To build new public code for contribution to Foundation for Public Code stewardship, you'll need to:
 
-*  meet the Standard for Public Code as you plan and develop your code
-*  have your code certified by the Foundation for Public Code
+* meet the Standard for Public Code as you plan and develop your code
+* have your code certified by the Foundation for Public Code
 
 ## Certification of public code
 
