@@ -36,7 +36,7 @@ It is not aimed at public organisations' end users (residents or citizens), jour
 
 ## Software code == legal code
 
-Software’s vital these days.
+Software is public infrastructure.
 
 In the 21st century, software can be considered vital public infrastructure. It is increasingly not just the expression of existing policy but the originator of new policy - for example where algorithms decide which districts need extra social services or policing.
 
@@ -46,7 +46,7 @@ Software should therefore be subject to the principles of democratic governance.
 
 ## Traditional public software procurement
 
-But the production method is all wrong.
+But the current public software production method is suboptimal.
 
 In the last decade, public organisations that purchased complete software solutions have sometimes been surprised to discover that they:
  * can’t change their software to reflect changing policy or take advantage of new technological opportunities
@@ -55,13 +55,13 @@ In the last decade, public organisations that purchased complete software soluti
 
 ## Technological sovereignty and democratic accountability
 
-Residents deserve better.
+Public institutions, civil servants and residents deserve better.
 
 We believe software can no longer be a black box, ordered from outside companies that keep the underlying logic hidden in proprietary code bases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as an essential civic infrastructure should honor digital citizens’ rights.
 
 ## Designing truly public software
 
-Public code gives residents what they deserve.
+Public code gives public institutions, civil servants and residents what they deserve.
 
 Public software must be:
 
