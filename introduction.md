@@ -10,8 +10,9 @@ The Standard for Public Code is designed to support the development and implemen
 
 The Standard:
 
-* guides organisations to the criteria they need to meet for their code to be included for Foundation stewardship
+* supports developers, designers and policy makers to collaboratively develop high quality and reusable public code
 * provides reassurance that all code under Foundation stewardship is high quality and reusable
+* guides organisations to the criteria they need to meet for their code to be included for Foundation stewardship
 
 The Standard for Public Code does this by:
 
