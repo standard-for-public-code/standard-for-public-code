@@ -10,6 +10,7 @@ Foundation for Public Code
 * Elena Findley-de Regt
 * Claus Mullie
 * Boris van Hoytema
+* Mirjam van Tiel
 
 Gemeente Amsterdam, Office of CTO
 
@@ -18,5 +19,5 @@ Gemeente Amsterdam, Office of CTO
 
 Individual Contributors
 
-* Bert Spaan
 * Timo Slinger
+* Bert Spaan
