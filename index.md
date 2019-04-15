@@ -1,4 +1,4 @@
-# Index
+# Contents
 
 Welcome to the Standard for Public Code.
 
