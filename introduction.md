@@ -9,13 +9,13 @@ The [Foundation for Public Code](https://publiccode.net/) helps public organisat
 ## The goals for the Standard
 
 The Standard:
-    * guides organisations to the criteria they need to meet for their code to be included for Foundation stewardship
-    * provides reassurance that all code under Foundation stewardship is high quality and reusable
 
+* guides organisations to the criteria they need to meet for their code to be included for Foundation stewardship
+* provides reassurance that all code under Foundation stewardship is high quality and reusable
 * The Standard for Public Code does this by:
-    * setting out a common terminology for public code development
-    * establishing measures to help develop high quality public code
-    * providing guidance on how to fulfill its criteria and operationalise compliance
+  * setting out a common terminology for public code development
+  * establishing measures to help develop high quality public code
+  * providing guidance on how to fulfill its criteria and operationalise compliance
 
 ## Who this is for
 
@@ -41,21 +41,22 @@ We hold that software and policy are both code. The former executed by machines 
 This leads to a number of new concerns.
 
 ### Sovereignty
-    * Preferable economic model
-        * More vendors necessary due to growing demand of digitalisation
+
+* Preferable economic model
+  * More vendors necessary due to growing demand of digitalisation
 
 ### The difference between private and public technologies
-    * Procurement and its effects
-    * Why have control
-        * De-risking infrastructure
-        * Sustainability
-    * Commodity versus specialistic code
-        * Reducing technical debt
-    * Core values
-        * Inclusive, usable, open, legible, accountable, accessible and sustainable
+
+* Procurement and its effects
+* Why have control
+  * De-risking infrastructure
+  * Sustainability
+* Commodity versus specialistic code
+  * Reducing technical debt
+* Core values
+  * Inclusive, usable, open, legible, accountable, accessible and sustainable
 
 ### Collaboration between (public) organisations and the pooling of resources
-
 
 * What is important to take into account when writing public policy for the digital age
 * What is important to take into account when writing software for a public goal
@@ -69,8 +70,10 @@ To use existing public code, you need to specify in your budget and project desi
 You don't need to ask us to use the code, but of course, we would like to know!
 
 To build new public code for contribution to Foundation for Public Code stewardship, you'll need to:
-- meet the Standard for Public Code as you plan and develop your code
-- have your code certified by the Foundation for Public Code
+
+* meet the Standard for Public Code as you plan and develop your code
+* have your code certified by the Foundation for Public Code
 
 ## Certification of public code
+
 The Foundation for Public Code will start certifying codebases after it launches in summer 2019. We'll add more information about how to work with us then. Watch this space!
