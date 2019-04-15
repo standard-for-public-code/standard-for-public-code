@@ -4,6 +4,7 @@ title: Standard for Public Code
 include: 
   - "README.md"
   - "CONTRIBUTING.md"
+  - "LICENCE.md"
 
 toc: true
 
