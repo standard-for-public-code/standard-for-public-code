@@ -1,10 +1,12 @@
 # Introduction
 
-The Standard for Public Code is a method for developing civic and source code for public purposes.
+The [Foundation for Public Code](https://publiccode.net/) helps public organisations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. 
 
-We define ‘public code’ as open source software developed by public public organisations, together with the policy and guidance needed for reuse.
+We define ‘public code’ as a) the open source software developed by public public organisations, together with b) the policy and guidance needed for this software's coherent implementation and reuse.
 
-The [Foundation for Public Code](https://publiccode.net/) helps public organisations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code.
+The Standard for Public Code is designed to support the development and implementation of 'public code'.
+
+
 
 ## The goals for the Standard for Public Code 
 
