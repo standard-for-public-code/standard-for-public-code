@@ -14,10 +14,9 @@ order: 14
     * pre-release version - code that is ready to be released but hasn't received formal approval yet
 * A codebase SHOULD contain a log of changes from version to version
 
-
 ## What this does
 
-Clearly signalling the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
+Clearly signaling the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
 
 ## What this does not do
 
