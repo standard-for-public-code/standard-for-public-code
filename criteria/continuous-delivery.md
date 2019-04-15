@@ -4,7 +4,7 @@ order: 11
 
 # Use continuous delivery
 
-## Measure
+## Requirements
 
 * All functionality in the source code MUST have automated tests
 * Contributions MUST pass all automated tests before they are admitted into the codebase
@@ -21,7 +21,7 @@ order: 11
 * Lead to more maintainable code
 * Speed up the development cycle
 
-## What this doesn’t do
+## What this does not do
 
 * Create a fault tolerant infrastructure that will work and scale perfectly
 * Create meaningful tests

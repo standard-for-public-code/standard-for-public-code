@@ -4,7 +4,7 @@ order: 12
 
 # Publish with an open licence
 
-## Measure
+## Requirements
 
 * All code and documentation MUST be published under a licence that is freely reusable, changeable and redistributable
 * Software source code this MUST be licensed under an [OSI-approved open source licence](https://opensource.org/licenses/category)
@@ -17,7 +17,7 @@ order: 12
 
 * Makes it possible for anyone to see the code and know that they can and how they can reuse it
 
-## What this doesn’t do
+## What this does not do
 
 * Prevent use of the code by any specific actors
 

@@ -3,7 +3,7 @@ order: 8
 ---
 # Document your code
 
-## Measure
+## Requirements
 
 * All of the functionality of your codebase – policy as well as source – MUST be described in language clearly understandable for those that understand the purpose of the code
 * The documentation of your codebase MUST contain the following:
@@ -24,7 +24,7 @@ order: 8
 * You help others to ask the key question 'is there already code that does something like this' and helps people discover your codebase
 * Provide transparency into your organisation and processes
 
-## What this doesn’t do
+## What this does not do
 
 * Contribute directly to more reusable, portable code (see Coding in the open)
 

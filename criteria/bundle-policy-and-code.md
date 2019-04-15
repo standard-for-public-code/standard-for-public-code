@@ -1,10 +1,10 @@
-›---
+---
 order: 2
 ---
 
 # Bundle policy and source code
 
-## Measure
+## Requirements
 
 * A codebase MUST include all the policy that the source code is based upon
 * A codebase MUST include all source code that the policy is based upon
