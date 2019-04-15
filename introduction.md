@@ -15,7 +15,7 @@ The Standard:
 * The Standard for Public Code does this by:
     * setting out a common terminology for public code development
     * establishing measures to help develop high quality public code
-    * providing guidance on how to implement the standards
+    * providing guidance on how to fulfill its criteria and operationalise compliance
 
 ## Who this is for
 

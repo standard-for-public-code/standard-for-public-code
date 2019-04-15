@@ -10,7 +10,7 @@ The newly-formed [Foundation for Public Code](https://publiccode.net/) will help
 
 * [Introduction and background](introduction.md)
 * [Readers guide: how to interpret this standard](readers-guide.md)
-* [Standards](standards/)
+* [Criteria](criteria/)
 * [Glossary](glossary/)
 * [Authors](AUTHORS.md)
 * [Contributing guide](CONTRIBUTING.md)
