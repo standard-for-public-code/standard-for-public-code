@@ -6,7 +6,7 @@ We define ‘public code’ as open source software developed by public organisa
 
 The Standard for Public Code gives cities a model for building their own open source solutions to enable successful future reuse by other cities. It includes guidance for policymakers, city administrators, developers and vendors.
 
-The newly-formed [Foundation for Public Code](https://publiccode.net/) will help cities share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. This allows cities to save money on procurement, development and maintenance, and supports their technological sovereignty.
+The [Foundation for Public Code](https://publiccode.net/) will help cities share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. This allows cities to save money on procurement, development and maintenance, and supports their technological sovereignty.
 
 * [Introduction and background](introduction.md)
 * [Readers guide: how to interpret this standard](readers-guide.md)
@@ -25,7 +25,7 @@ The newly-formed [Foundation for Public Code](https://publiccode.net/) will help
   * [Publish with an open licence](criteria/open-licences.md)
   * [Use a coherent style](criteria/style.md)
   * [Pay attention to codebase maturity](criteria/advertise-maturity.md)
-* [Glossary](glossary/)
+* [Glossary](glossary.md)
 * [Authors](AUTHORS.md)
 * [Contributing guide](CONTRIBUTING.md)
 * [Governance](GOVERNANCE.md)
