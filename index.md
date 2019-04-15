@@ -25,7 +25,7 @@ The [Foundation for Public Code](https://publiccode.net/) will help cities share
   * [Publish with an open licence](criteria/open-licences.md)
   * [Use a coherent style](criteria/style.md)
   * [Pay attention to codebase maturity](criteria/advertise-maturity.md)
-* [Glossary](glossary/)
+* [Glossary](glossary.md)
 * [Authors](AUTHORS.md)
 * [Contributing guide](CONTRIBUTING.md)
 * [Governance](GOVERNANCE.md)
