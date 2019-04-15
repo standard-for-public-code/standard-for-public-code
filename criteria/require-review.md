@@ -4,7 +4,7 @@ order: 6
 
 # Require review of contributions
 
-## Measure
+## Requirements
 
 * All contributions that are accepted or committed to release versions of the codebase MUST be reviewed by another contributor
 * Review MUST include source, policy, tests and documentation
@@ -24,7 +24,7 @@ order: 6
 * Catches the most obvious mistakes that could happen
 * Gives contributors the security that their contributions are only accepted if they really add value and provide a guaranteed point for feedback or collaborative improvement
 
-## What this doesn’t do
+## What this does not do
 
 * Guarantee the right solution to a problem
 * Mean that reviewers are liable
@@ -54,5 +54,5 @@ order: 6
 
 ## Further reading
 
-* [UK Government Digital Service GDS-way: How to review code](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content)
+* [How to review code the GDS way](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) by the UK Government Digital Service
 * Branch protection on [GitHub](https://help.github.com/en/articles/about-protected-branches) and [GitLab](https://about.gitlab.com/2014/11/26/keeping-your-code-protected/)

@@ -3,7 +3,7 @@ order: 14
 ---
 # Pay attention to codebase maturity
 
-## Measure
+## Requirements
 
 * A codebase MUST be versioned
 * A codebase that is ready to use MUST only depend on other codebases that are also ready to use
@@ -14,12 +14,11 @@ order: 14
     * pre-release version - code that is ready to be released but hasn't received formal approval yet
 * A codebase SHOULD contain a log of changes from version to version
 
-
 ## What this does
 
-Clearly signalling the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
+Clearly signaling the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
 
-## What this doesn’t do
+## What this does not do
 
 * Guarantee that others will use your code.
 
@@ -45,6 +44,6 @@ Clearly signalling the maturity of a codebase helps others to decide whether to 
 
 ## Further reading
 
-* [Australian Digital Transformation Agency: Service Design and Delivery Process](https://guides.service.gov.au/topics/service-design-delivery-process/)
-* [UK Government: Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery)
-* [UK Government: What are the Discovery, Alpha, Beta and Live stages in developing a service? [Video 0'0"59]](https://www.youtube.com/watch?v=_cyI7DMhgYc)
+* [Service Design and Delivery Process](https://guides.service.gov.au/topics/service-design-delivery-process/) by the Australian Digital Transformation Agency
+* [Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery) by the UK Government Digital Service
+* [What are the Discovery, Alpha, Beta and Live stages in developing a service? [Video 0'0"59]](https://www.youtube.com/watch?v=_cyI7DMhgYc) by the UK Government Digital Service

@@ -1,12 +1,12 @@
-›---
+---
 order: 2
 ---
 
 # Bundle policy and source code
 
-## Measure
+## Requirements
 
-* A codebase MUST include all the policy that source code is based upon
+* A codebase MUST include all the policy that the source code is based upon
 * A codebase MUST include all source code that the policy is based upon
 * All policy and source code that the codebase is based upon MUST be documented, reusable and portable
 * Policy SHOULD be provided in machine readable and unambiguous formats
@@ -16,7 +16,7 @@ order: 2
 
 * Make sure anyone has access to both the source and civic code necessary to effectively reuse a codebase
 
-## What this doesn’t do
+## What this does not do
 
 * Guarantee that a codebase will reflect the bundled policy
 * Make sure packages comply with the local technical infrastructure or legal framework of a given public organization
@@ -45,5 +45,5 @@ order: 2
 
 ## Further reading
 
-* [Free online tools for building BPMN, CMMN and DMN diagrams at bmpn.io](https://bpmn.io/)
-* [BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/)
+* [Free online tools for building BPMN, CMMN and DMN diagrams at bmpn.io](https://bpmn.io/) by Camunda
+* [BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/) by Trisotech

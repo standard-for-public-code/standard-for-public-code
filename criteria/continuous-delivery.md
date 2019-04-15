@@ -4,7 +4,7 @@ order: 11
 
 # Use continuous delivery
 
-## Measure
+## Requirements
 
 * All functionality in the source code MUST have automated tests
 * Contributions MUST pass all automated tests before they are admitted into the codebase
@@ -21,7 +21,7 @@ order: 11
 * Lead to more maintainable code
 * Speed up the development cycle
 
-## What this doesn’t do
+## What this does not do
 
 * Create a fault tolerant infrastructure that will work and scale perfectly
 * Create meaningful tests
@@ -55,6 +55,6 @@ order: 11
 
 ## Further reading
 
-* [What is continuous delivery](https://www.continuousdelivery.com/)
-* [UK Government Digital Service handbook: Use continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html)
+* [What is continuous delivery](https://www.continuousdelivery.com/) by Jez Humble
+* [Use continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) by the UK Government Digital Service
 * [Quality assurance: testing your service regularly](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) by the Government Digital Service (United Kingdom)

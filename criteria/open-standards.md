@@ -4,7 +4,7 @@ order: 10
 
 # Use open standards
 
-## Measure
+## Requirements
 
 * For features of a codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)
 * If no existing open standard is available, effort SHOULD be put into developing one
@@ -19,7 +19,7 @@ order: 10
 * Reduces possible vendor-lock in
 * Guarantees access to the knowledge required to reuse and contribute to the codebase
 
-## What this doesn’t do
+## What this does not do
 
 * Make it understandable how to use the software
 
@@ -41,4 +41,4 @@ order: 10
 
 ## Further reading
 
-* [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)
+* [Open Standard Requirements](https://opensource.org/osr) by the Open Source Initiative 

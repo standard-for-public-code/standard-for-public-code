@@ -4,7 +4,7 @@ order: 3
 
 # Create reusable and portable code
 
-## Measure
+## Requirements
 
 * The codebase MUST be developed to be reusable in different contexts
 * The codebase MUST be independent from any secret, proprietary or non-open licenced code or services for execution and understanding
@@ -18,7 +18,7 @@ order: 3
 * More general code is easier to understand for new people that have to work with the code.
 * Understanding and reflecting on how codebases can be reused makes it easier to control the mission, vision and scope of the codebase.
 
-## What this doesn’t do
+## What this does not do
 
 * Get others to reuse the codebase
 * Build a community
@@ -42,4 +42,4 @@ Ask someone in a similar role at another organisation if they could reuse your c
 * Someone in a similar organization facing a similar problem should be able to use your solution
 
 ## Further reading
-* [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) by the UK Government Digital Service 
+* [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) by the UK Government Digital Service

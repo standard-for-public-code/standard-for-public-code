@@ -4,7 +4,7 @@ order: 12
 
 # Publish with an open licence
 
-## Measure
+## Requirements
 
 * All code and documentation MUST be published under a licence that is freely reusable, changeable and redistributable
 * Software source code this MUST be licensed under an [OSI-approved open source licence](https://opensource.org/licenses/category)
@@ -17,7 +17,7 @@ order: 12
 
 * Makes it possible for anyone to see the code and know that they can and how they can reuse it
 
-## What this doesn’t do
+## What this does not do
 
 * Prevent use of the code by any specific actors
 
@@ -40,5 +40,6 @@ order: 12
 * Add a new `LICENCE` file to every new codebase created
 
 ## Further reading
-* [Open source definition](https://opensource.org/osd) by the Open Source Definition that all open source licences must follow
+
+* [Open source definition](https://opensource.org/osd) by the Open Source Initiative - all open source licences meet this definition
 * [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) by Creative Commons Aotearoa New Zealand

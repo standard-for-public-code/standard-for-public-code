@@ -4,7 +4,7 @@ order: 7
 
 # Document your objectives
 
-## Measure
+## Requirements
 
 * The codebase MUST contain documentation on its objectives – like a mission and goal statement – that is understandable for designers and developers so that they can use or contribute to the codebase
 * The codebase SHOULD contain documentation on its objectives understandable by policy makers and management
@@ -15,7 +15,7 @@ order: 7
 * Provide an easy way for people to decide whether this codebase is interesting for them now or in the future
 * Help scope your own development as well as clearly communicate to other stakeholders and contributors what the codebase is for
 
-## What this doesn’t do
+## What this does not do
 
 * Guarantee that the codebase achieves the stated objective(s)
 * Guarantee contributions to your codebase
@@ -39,4 +39,4 @@ order: 7
 
 ## Further reading
 
-* [Marek Hajduczenia on how to write project objectives](http://grouper.ieee.org/groups/802/3/RTPGE/public/may12/hajduczenia_01_0512.pdf)
+* [How to write project objectives](http://grouper.ieee.org/groups/802/3/RTPGE/public/may12/hajduczenia_01_0512.pdf) by Marek Hajduczenia

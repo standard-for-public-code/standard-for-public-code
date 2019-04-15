@@ -4,7 +4,7 @@ order: 5
 
 # Maintain version control
 
-## Measure
+## Requirements
 
 * You MUST have a way to maintain version control for your code
 * All files in a codebase MUST be version controlled
@@ -24,7 +24,7 @@ Version control enables you to:
 * compare two different versions
 * work on changes in parallel as a team before merging them together
 
-## What this doesn’t do
+## What this does not do
 * Substitute for advertising maturity.
 * Guarantee your code executes correctly.
 * Guarantee collaborators.
@@ -53,5 +53,5 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 ## Further reading
 
-* [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary)
-* [UK Government Service Manual on storing source code](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding)
+* [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel
+* [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service
