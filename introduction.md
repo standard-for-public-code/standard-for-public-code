@@ -6,13 +6,13 @@ We define ‘public code’ as open source software developed by public public o
 
 The [Foundation for Public Code](https://publiccode.net/) helps public organisations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code.
 
-## The goals for the Standard
+## The goals for the Standard for Public Code 
 
-The Standard:
+The Standard for Public Code:
  * guides organisations to the criteria they need to meet for their code to be included for Foundation stewardship
  * provides reassurance that all code under Foundation stewardship is high quality and reusable
 
-* The Standard for Public Code does this by:
+The Standard for Public Code does this by:
     * setting out a common terminology for public code development
     * establishing measures to help develop high quality public code
     * providing guidance on how to implement the standards
