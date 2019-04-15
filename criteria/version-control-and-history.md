@@ -4,7 +4,7 @@ order: 5
 
 # Maintain version control
 
-## Measure
+## Requirements
 
 * You MUST have a way to maintain version control for your code
 * All files in a codebase MUST be version controlled
@@ -24,7 +24,7 @@ Version control enables you to:
 * compare two different versions
 * work on changes in parallel as a team before merging them together
 
-## What this doesn’t do
+## What this does not do
 * Substitute for advertising maturity.
 * Guarantee your code executes correctly.
 * Guarantee collaborators.

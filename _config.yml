@@ -9,7 +9,7 @@ toc: true
 
 defaults:
   -
-    scope: 
+    scope:
       path: '/criteria/[!index]*'
     values:
       breadcrumbs:
