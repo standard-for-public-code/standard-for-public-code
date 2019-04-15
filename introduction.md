@@ -10,13 +10,13 @@ The [Foundation for Public Code](https://publiccode.net/) helps public organisat
 
 The Standard for Public Code:
  * supports developers, designers and policy makers to collaboratively develop high quality and reusable public code
- * provides reassurance to others that all code developed by the Standard for Public Code is of high quality and reusable
+ * provides reassurance that all code under Foundation stewardship is high quality and reusable
  * guides organisations to the criteria they need to meet for their code to be included for Foundation stewardship
 
 The Standard for Public Code does this by:
     * setting out a common terminology for public code development
     * establishing measures to help develop high quality public code
-    * providing guidance on how to implement the standard
+    * providing guidance on how to implement the Standard
 
 ## Who this is for
 
