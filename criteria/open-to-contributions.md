@@ -4,7 +4,7 @@ order: 4
 
 # Welcome contributions
 
-## Measure
+## Requirements
 
 
 * The codebase MUST have a public issue tracker that allows suggestions from anyone
@@ -24,16 +24,18 @@ order: 4
 * Helps users decide to use one codebase over another
 * Enables users to fix problems and add features to the shared codebase leading to better, more reliable and feature rich software
 
-## What this doesn’t do
+## What this does not do
 
 * Guarantee others will reuse the codebase
 
 ## How to test
+
 * There's a public issue tracker.
 * It's possible to submit suggestions for changes to the codebase.
 * There are contribution guidelines.
 
 ## Policy makers: what you need to do
+
 * Add a list to the codebase of any other resources policy experts, non-governmental organisations and academics would find useful for understanding and reusing your policy.
 * Track policy issues in the codebase, so that a relevant external policy expert can volunteer help.
 * Consider adding contact details so that other policy makers considering reuse can ask you for advice.
@@ -45,9 +47,11 @@ order: 4
 * Support your experienced policy makers, developers and designers to keep contributing to the codebase for as long as possible.
 
 ## Developers and designers: what you need to do
+
 * Respond promptly to requests
 
 ## Further reading
+
 * [Building welcoming communities](https://opensource.guide/building-community/) by Open Source Guides
 * The [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) is a model code of conduct
 * [Leadership and governance](https://opensource.guide/leadership-and-governance/) for growing open source community projects, by Open Source Guides

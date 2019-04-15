@@ -4,7 +4,7 @@ order: 13
 
 # Use a coherent style
 
-## Measure
+## Requirements
 
 * Contributions MUST adhere to a coding and/or writing style guide, either your own or an existing one that is advertised in or a part of the codebase
 * Contributions SHOULD pass automated tests on style
@@ -16,7 +16,7 @@ order: 13
 * Enables contributors in different environments to work together on a unified product
 * Unify vocabularies removing friction from communication between contributors
 
-## What this doesn’t do
+## What this does not do
 
 * Help contributors write well or explain what they do well
 
