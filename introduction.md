@@ -48,9 +48,9 @@ Software should therefore be subject to the principles of democratic governance.
 But the production method is all wrong.
 
 In the last decade, public organisations that purchased complete software solutions have sometimes been surprised to discover that they:
-can’t change their software to reflect changing policy or take advantage of new technological opportunities
-don’t have own or even have access to their data
-are asked to pay ever increasing licence fees
+ * can’t change their software to reflect changing policy or take advantage of new technological opportunities
+ * don’t have own or even have access to their data
+ * are asked to pay ever increasing licence fees
 
 ## Technological sovereignty and democratic accountability
 
@@ -59,29 +59,29 @@ Residents deserve better.
 We believe software can no longer be a black box, ordered from outside companies that keep the underlying logic hidden in proprietary code bases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as an essential civic infrastructure should honor digital citizens’ rights.
 
 
-##Designing truly public software
+## Designing truly public software
 
 Public code gives residents what they deserve.
 
 Public software must be:
-transparent
-accountable
-understandable for its constituents
+ * transparent
+ * accountable
+ * understandable for its constituents
 
 It must reflect the values of the society it serves, for example by being inclusive and non-discriminatory.
 
 Most proprietary software systems currently used by cities do not meet these requirements. Public code - software built to operate with and as public infrastructure, and a set of arrangements that allow for its production - does.
 
-###Values of public code
+### Values of public code
 
 We consider public code to have these core values:
-Inclusive
-Usable
-Open
-Legible
-Accountable
-Accessible
-Sustainable
+ * Inclusive
+ * Usable
+ * Open
+ * Legible
+ * Accountable
+ * Accessible
+ * Sustainable
 
 The Standard for Public Code will guide you to build code that embodies these values.
 
@@ -95,7 +95,7 @@ By being locally implemented and maintained, open public code ensures local resp
 
 This pooling of resources lets public administrations give extra attention to how to customise the software so it works best in each local context - creating better user experiences for their end users (residents or citizens).
 
-##Economics of public code
+## Economics of public code
 
 It’s also good business sense - this isn’t just a utopian fantasy.
 
@@ -115,9 +115,11 @@ To use existing public code, you need to specify in your budget and project desi
 You don't need to ask us to use the code, but of course, we would like to know!
 
 To build new public code for contribution to Foundation for Public Code stewardship, you'll need to:
-- meet the Standard for Public Code as you plan and develop your code
-- have your code certified by the Foundation for Public Code
+ *  meet the Standard for Public Code as you plan and develop your code
+ *  have your code certified by the Foundation for Public Code
 
 
 ## Certification of public code
-The Foundation for Public Code will start certifying codebases after it launches in summer 2019. We'll add more information about how to work with us then. Watch this space!
+The Foundation for Public Code will start certifying codebases after it launches in summer 2019. We'll add more information about how to work with us then. 
+
+Watch this space!
