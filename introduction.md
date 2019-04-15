@@ -12,10 +12,12 @@ The Standard:
 
 * guides organisations to the criteria they need to meet for their code to be included for Foundation stewardship
 * provides reassurance that all code under Foundation stewardship is high quality and reusable
-* The Standard for Public Code does this by:
-  * setting out a common terminology for public code development
-  * establishing measures to help develop high quality public code
-  * providing guidance on how to fulfill its criteria and operationalise compliance
+
+The Standard for Public Code does this by:
+
+* setting out a common terminology for public code development
+* establishing measures to help develop high quality public code
+* providing guidance on how to fulfill its criteria and operationalise compliance
 
 ## Who this is for
 
