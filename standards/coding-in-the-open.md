@@ -24,7 +24,7 @@ order: 1
 
 ## How to test
 
-* The current version of the source is published on the internet where it can be seen from outside the original contributing organization and without the need for any form of authentication
+* Publish the current version of the source on the internet where it can be seen from outside the original contributing organization and without the need for any form of authentication
 
 ## Policy makers: what you need to do
 
