@@ -4,7 +4,7 @@ order: 1
 
 # Code in the open
 
-## Measure
+## Requirements
 
 * All source code for any used policy and software not used for fraud detection MUST be published and publicly accessible.
 * Any source code that is not currently in use, such as new versions, proposals or older versions SHOULD be published.
@@ -17,7 +17,7 @@ order: 1
 * Better quality code
 * Auditability
 
-## What this doesn’t do
+## What this does not do
 
 * Make things reusable
 * Make the codebase and the code inside it understandable to everyone

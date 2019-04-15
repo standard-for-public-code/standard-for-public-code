@@ -4,7 +4,7 @@ order: 4
 
 # Welcome contributions
 
-## Measure
+## Requirements
 
 
 * The codebase MUST have a public issue tracker that allows suggestions from anyone
@@ -24,7 +24,7 @@ order: 4
 * Helps users decide to use one codebase over another
 * Enables users to fix problems and add features to the shared codebase leading to better, more reliable and feature rich software
 
-## What this doesn’t do
+## What this does not do
 
 * Guarantee others will reuse the codebase
 

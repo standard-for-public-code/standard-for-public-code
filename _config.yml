@@ -9,12 +9,12 @@ toc: true
 
 defaults:
   -
-    scope: 
-      path: '/standards/[!index]*'
+    scope:
+      path: '/criteria/[!index]*'
     values:
       breadcrumbs:
-        - name: 'Standards'
-          path: '/standards/'
+        - name: 'Criteria'
+          path: '/criteria/'
   -
     scope: 
       path: '/glossary/[!index]*'
