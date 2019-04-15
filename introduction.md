@@ -9,8 +9,8 @@ The [Foundation for Public Code](https://publiccode.net/) helps public organisat
 ## The goals for the Standard
 
 The Standard:
-    * guides organisations to the criteria they need to meet for their code to be included for Foundation stewardship
-    * provides reassurance that all code under Foundation stewardship is high quality and reusable
+ * guides organisations to the criteria they need to meet for their code to be included for Foundation stewardship
+ * provides reassurance that all code under Foundation stewardship is high quality and reusable
 
 * The Standard for Public Code does this by:
     * setting out a common terminology for public code development
