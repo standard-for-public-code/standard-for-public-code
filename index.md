@@ -20,7 +20,7 @@ The newly-formed [Foundation for Public Code](https://publiccode.net/) will help
   * [Document your objectives](criteria/document-objectives.md)
   * [Document your code](criteria/documenting.md)
   * [Use plain English](criteria/understandable-english-first.md)
-  * [Use open criteria](criteria/open-criteria.md)
+  * [Use open criteria](criteria/open-standards.md)
   * [Use continuous delivery](criteria/continuous-delivery.md)
   * [Publish with an open licence](criteria/open-licences.md)
   * [Use a coherent style](criteria/style.md)
