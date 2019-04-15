@@ -40,5 +40,6 @@ order: 12
 * Add a new `LICENCE` file to every new codebase created
 
 ## Further reading
-* [Open source definition](https://opensource.org/osd) by the Open Source Definition that all open source licences must follow
+
+* [Open source definition](https://opensource.org/osd) by the Open Source Initiative - all open source licences meet this definition
 * [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) by Creative Commons Aotearoa New Zealand

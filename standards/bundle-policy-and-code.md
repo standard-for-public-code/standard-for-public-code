@@ -6,7 +6,7 @@ order: 2
 
 ## Measure
 
-* A codebase MUST include all the policy that source code is based upon
+* A codebase MUST include all the policy that the source code is based upon
 * A codebase MUST include all source code that the policy is based upon
 * All policy and source code that the codebase is based upon MUST be documented, reusable and portable
 * Policy SHOULD be provided in machine readable and unambiguous formats
@@ -45,5 +45,5 @@ order: 2
 
 ## Further reading
 
-* [Free online tools for building BPMN, CMMN and DMN diagrams at bmpn.io](https://bpmn.io/)
-* [BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/)
+* [Free online tools for building BPMN, CMMN and DMN diagrams at bmpn.io](https://bpmn.io/) by Camunda
+* [BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/) by Trisotech

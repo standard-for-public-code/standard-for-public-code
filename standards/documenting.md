@@ -49,3 +49,4 @@ order: 8
 * Try to periodically understand what the non-source code in the codebase does
 
 ## Further reading
+* [Documentation guide](https://www.writethedocs.org/guide/) by Write the Docs

@@ -22,7 +22,7 @@ order: 13
 
 ## How to test
 
-* Inspect wether the contributions are in line with the styleguides as they are set out in the documentation
+* Inspect wether the contributions are in line with the style guides as they are set out in the documentation
 
 ## Policy makers: what you need to do
 
@@ -41,3 +41,4 @@ order: 13
 ## Further reading
 
 * [List of linters by Hugo Martins](https://github.com/caramelomartins/awesome-linters)
+* [Programming style](https://en.wikipedia.org/wiki/Programming_style) on Wikipedia
