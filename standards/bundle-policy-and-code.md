@@ -16,7 +16,7 @@ order: 2
 
 * Make sure anyone has access to both the source and civic code necessary to effectively reuse a codebase
 
-## What this doesn’t do
+## What this does not do
 
 * Guarantee that a codebase will reflect the bundled policy
 * Make sure packages comply with the local technical infrastructure or legal framework of a given public organization
