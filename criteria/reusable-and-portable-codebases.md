@@ -4,7 +4,7 @@ order: 3
 
 # Create reusable and portable code
 
-## Measure
+## Requirements
 
 * The codebase MUST be developed to be reusable in different contexts
 * The codebase MUST be independent from any secret, proprietary or non-open licenced code or services for execution and understanding
@@ -18,7 +18,7 @@ order: 3
 * More general code is easier to understand for new people that have to work with the code.
 * Understanding and reflecting on how codebases can be reused makes it easier to control the mission, vision and scope of the codebase.
 
-## What this doesn’t do
+## What this does not do
 
 * Get others to reuse the codebase
 * Build a community
