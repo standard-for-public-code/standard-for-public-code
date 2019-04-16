@@ -106,7 +106,8 @@
     @media print {
       /* html { page-break-before: left } */
       @page {
-        size: A4;
+        /* A4 with a 3mm bleed on every side */
+        size: 21.6cm 30.3cm;
         margin: 2cm 0;
         orphans:4; 
         widows:4;
@@ -117,8 +118,9 @@
           background: whitesmoke;
           content: counter(page);
           height: 1cm;
-          width: 1cm; 
-          text-align: center;
+          width: 1.53cm; 
+          text-align: right;
+          padding-right: 0.5cm;
         }
       }
       @page :right {
@@ -127,8 +129,9 @@
           background: whitesmoke;
           content: counter(page);
           height: 1cm;
-          width: 1cm; 
-          text-align: center;
+          width: 1.53cm; 
+          text-align: left;
+          padding-left: 0.5cm;
         }
       }
       
