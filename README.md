@@ -1,13 +1,12 @@
 # Standard for Public Code
 
-Request for contributions
-**Draft** version 0.1.0
+Request for contributions **Draft** ![version 0.1.0](https://img.shields.io/badge/version-0.1.0-red.svg)
 
 We believe public policy and software should be inclusive, usable, open, legible, accountable, accessible and sustainable. This means we need a new way of designing, developing and procuring both the source code and policy documentation.
 
 This standard sets a quality level for code bases that meets the needs of public organizations, institutions and administrations as well as other critical infrastructural services.
 
-The standard lives at [standard.publiccode.net](https://standard.publiccode.net/), and for an overview of all content see [`index.md`](index.md)
+The standard lives at [standard.publiccode.net](https://standard.publiccode.net/), and for an overview of all content see [`index.md`](index.md).
 
 ## Help improve this standard
 
