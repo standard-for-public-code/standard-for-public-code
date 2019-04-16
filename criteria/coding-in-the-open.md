@@ -31,7 +31,7 @@ order: 1
 * Develop policies in the open
 * Prioritise open and transparent in policies
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Develop a culture that embraces openness, learning and feedback
 * Collaborate with external vendors and freelancers through working in the open
