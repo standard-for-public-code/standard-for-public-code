@@ -14,7 +14,7 @@ order: 2
 
 ## What this does
 
-* Make sure anyone has access to both the source and civic code necessary to effectively reuse a codebase
+* Make sure access is guaranteed to both the source code and the public policy documents to facilitate effective reuse of a codebase
 
 ## What this does not do
 
