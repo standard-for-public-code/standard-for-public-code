@@ -15,7 +15,7 @@ Why it is important for the users and contributors of this codebase that these r
 
 ## What this does not do
 
-This is expectation management, knowing what following the requirements can't save you from is often a crucial aspect of applying them correctly as well as making sure no unexpected things pop-up suddenly.
+This is expectation management, knowing what following the requirements can't save you from is often a crucial aspect of applying them correctly as well as making sure no unexpected things pop up suddenly.
 
 ## How to test
 
@@ -27,20 +27,20 @@ We've tried to word it so that also someone who is not intimately acquainted wit
 
 This section tries to specifically speak to policy makers by offering them concrete actions they can perform in their role.
 
-Policy makers are usually less technologically able but often set the priorities and goals of projects.
+Policy makers are usually less technologically experienced but often set the priorities and goals of projects.
 
 ## Management: what you need to do
 
 This section tries to specifically speak to management by offering them concrete actions they can perform in their role.
 
-Management is responsible for projects to be done in time, stakeholder management as well as the continued delivery of service. For this they are wholly reliant on both the policy makers as well as the developers and designers. They need to create the right culture, get the right resources in line and provide the right structures to deliver great services.
+Management is responsible for on-time project delivery, stakeholder management and continued delivery of service. For this they are wholly reliant on both the policy makers as well as the developers and designers. They need to create the right culture, line up the right resources and provide the right structures to deliver great services.
 
 ## Developers and designers: what you need to do
 
 This section tries to specifically speak to developers and designers by offering them concrete actions they can perform in their role.
 
-Developers are usually a bit more technically aligned and have more impact on the delivery of services than the previous groups.
+Developers are usually more technically aligned and have more impact on the delivery of services than the previous groups.
 
 ## Further reading
 
-For those that are still interested after reading prior points and that want to know more about why these requirements are in place and how to make them work for them.
+Read more about why these requirements exist and how to make them work.
