@@ -20,8 +20,17 @@ Please note that this project is released with a [contributor code of conduct](C
 
 The repository builds to a static site deployed at [standard.publiccode.net](https://standard.publiccode.net/). It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
+## Generating a PDF out of the document
+
+Using [Weasyprint](https://weasyprint.org/) the file `print.html` can be converted to a nice looking PDF.
+
+```bash
+weasyprint http://localhost:4000/full-standard.html standard.pdf
+```
+
 ## Licence
 
 © [The authors and contributors](AUTHORS.md)
 
 Licenced under the CC-0, including all illustrations and documentation. This means anyone can do anything with it. If you contribute you also grant these rights to others.
+You can read more about how to help in the [contributing guide](CONTRIBUTING.md)
