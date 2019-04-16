@@ -152,14 +152,21 @@
   </style>
 </head>
 <body class="markdown-body">
+
+  <article id="section-authors">  
+
+    {% for page in site.pages %}{% if page.name == "AUTHORS.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
   
   <article id="table-of-contents">
   
     <h1>Table of Contents</h1>
   
     <ol>
+      <li>Authors</li>
       <li><a href="#section-introduction">Introduction</a></li>
-      <li>Readers guide: how to interpret this standard</li>
+      <li>Readers guide</li>
       <li>Standard</a>
         {% assign sorted = site.pages | sort:"order" %}
         <ol>
@@ -168,15 +175,7 @@
         {% endif%}  {% endif%}{% endfor %}
         </ol>
       </li>
-      <li>Glossary
-          {% assign sorted = site.pages | sort:"order" %}
-          <ol>
-          {% for page in sorted %}{% if page.dir == "/glossary/" %}{% if page.name != "index.md" %}{% if page.title %}
-            <li>{{page.title}}</li>{% endif%}
-          {% endif%}  {% endif%}{% endfor %}
-          </ol>
-      </li>
-      <li>Authors</li>
+      <li>Glossary</li>
       <li>Contributing guide</li>
       <li>Governance</li>
       <li>Changelog</li>
@@ -214,9 +213,9 @@
     </article>{% endif%}
   {% endif%}  {% endif%}{% endfor %}
 
-  <article id="section-authors">  
+  <article id="section-glossary">  
 
-    {% for page in site.pages %}{% if page.name == "AUTHORS.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+    {% for page in site.pages %}{% if page.name == "glossary.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
