@@ -40,7 +40,7 @@ order: 2
 
 ## Developers and designers: what you need to do
 
-* Developers and designers should become familiar with and be able to use the process modelling notation that the policy makers in your organization use.  
+* Developers and designers should become familiar with and be able to use the process modelling notation that the policy makers in your organization use  
 * Developers and designers should work together with policy makers to ensure there is no mismatch between policy code and source code.
 
 ## Further reading

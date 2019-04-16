@@ -15,13 +15,13 @@ Why it is important for the users and contributors of this codebase that these r
 
 ## What this does not do
 
-This is expectation management, knowing what following the requirements can't save you from is often a crucial aspect of applying them correctly as well as making sure no unexpected things pop up suddenly.
+This is expectation management. Knowing what following the requirements can't save you from is often a crucial aspect of applying them correctly as well as making sure no unexpected things pop up suddenly.
 
 ## How to test
 
 This section offers actions you can take to see if a contribution is compliant with the standard. This is key if you want to operationalize the standard.
 
-We've tried to word it so that also someone who is not intimately acquainted with the subject matter can still do a basic check for compliance.
+We've tried to word it so that someone who is not intimately acquainted with the subject matter can still do a basic check for compliance.
 
 ## Policy makers: what you need to do
 
@@ -33,7 +33,7 @@ Policy makers are usually less technologically experienced but often set the pri
 
 This section tries to specifically speak to management by offering them concrete actions they can perform in their role.
 
-Management is responsible for on-time project delivery, stakeholder management and continued delivery of service. For this they are wholly reliant on both the policy makers as well as the developers and designers. They need to create the right culture, line up the right resources and provide the right structures to deliver great services.
+Management is responsible for on-time project delivery, stakeholder management and continued delivery of the service. For this they are wholly reliant on both the policy makers as well as the developers and designers. They need to create the right culture, line up the right resources and provide the right structures to deliver great services.
 
 ## Developers and designers: what you need to do
 

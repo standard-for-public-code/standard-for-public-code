@@ -4,4 +4,4 @@ The Standard for Public Code is a tool for developing civic and source code for 
 
 ## Help improve this standard
 
-You can read more about how to help in the [contributing guide](CONTRIBUTING.md)
+You can read more about how to help in the [contributing guide](CONTRIBUTING.md).
