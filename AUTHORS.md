@@ -1,13 +1,16 @@
 # Authors
 
-Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
-
-* Martijn De Waal
-
-[Foundation For Public Code](https://publiccode.net)
+Foundation for Public Code
 
 * Ben Cerveny
+* Elena Findley-de Regt
+* Claus Mullie
 * Boris van Hoytema
+* Mirjam van Tiel
+
+Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
+
+* Martijn de Waal
 
 Gemeente Amsterdam, Office of CTO
 
@@ -16,8 +19,5 @@ Gemeente Amsterdam, Office of CTO
 
 Individual Contributors
 
-* Claus Mullie
-
-[Vurb BV](https://vurb.agency)
-
 * Timo Slinger
+* Bert Spaan
