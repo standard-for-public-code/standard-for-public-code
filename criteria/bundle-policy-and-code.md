@@ -23,7 +23,7 @@ order: 2
 
 ## How to test
 
-* Policy is provided in machine readable and unambiguous formats
+* Public policy is provided in machine readable and unambiguous formats
 * Continuous integration tests validate that the source code and policy are executed coherently
 
 ## Policy makers: what you need to do
