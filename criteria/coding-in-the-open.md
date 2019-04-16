@@ -36,7 +36,7 @@ order: 1
 * Develop a culture that embraces openness, learning and feedback
 * Collaborate with external vendors and freelancers through working in the open
 
-## Developers and designers: what you need to do
+## Developers and designers of public code: what you need to do
 
 * Clearly split data and code: never upload sensitive information regarding users, the organization or third parties to the repository, for example: configurations, usernames and passwords, public keys and other real credentials used in the production system
 
