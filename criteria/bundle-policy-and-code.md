@@ -6,7 +6,7 @@ order: 2
 
 ## Requirements
 
-* A codebase MUST include all the policy that the source code is based upon
+* A codebase MUST include the policy that the source code is based upon
 * A codebase MUST include all source code that the policy is based upon
 * All policy and source code that the codebase is based upon MUST be documented, reusable and portable
 * Policy SHOULD be provided in machine readable and unambiguous formats
@@ -14,7 +14,7 @@ order: 2
 
 ## What this does
 
-* Make sure anyone has access to both the source and civic code necessary to effectively reuse a codebase
+* Make sure access is guaranteed to both the source code and the public policy documents to facilitate effective reuse of a codebase
 
 ## What this does not do
 

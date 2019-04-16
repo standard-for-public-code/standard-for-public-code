@@ -24,7 +24,7 @@ order: 1
 
 ## How to test
 
-* The current version of the source is published on the internet where it can be seen from outside the original contributing organization and without the need for any form of authentication
+* The source for any version currently in use is published on the internet where it can be seen from outside the original contributing organization and without the need for any form of authentication
 
 ## Policy makers: what you need to do
 
@@ -38,7 +38,7 @@ order: 1
 
 ## Developers and designers: what you need to do
 
-* Clearly split data and code: never upload sensitive information regarding users, the organization or third parties to the repository, for example: configurations, usernames and passwords, public keys and other real credentials used in the production system
+* Clearly split data and code, in order to meet the requirement about sensitive information above.
 
 ## Further reading
 
