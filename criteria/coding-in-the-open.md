@@ -26,7 +26,7 @@ order: 1
 
 * The current version of the source is published on the internet where it can be seen from outside the original contributing organization and without the need for any form of authentication
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Develop policies in the open
 * Prioritise open and transparent in policies
