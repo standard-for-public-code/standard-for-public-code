@@ -1,6 +1,8 @@
 # Standard for Public Code
 
-Request for contributions **Draft** ![version 0.1.0](https://img.shields.io/badge/version-0.1.0-red.svg)
+https://img.shields.io/badge/version-0.1.0-red.svg
+
+Request for contributions
 
 We believe public policy and software should be inclusive, usable, open, legible, accountable, accessible and sustainable. This means we need a new way of designing, developing and procuring both the source code and policy documentation.
 
