@@ -2,7 +2,7 @@
 
 Public code is both civil code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines.
 
-We make the explicit distinction between regular software and public software because it operates under fundamentally different circumstances and expectations.
+The Foundation for Public Code makes the explicit distinction between regular software and public software because it operates under fundamentally different circumstances and expectations.
 
 ## What is public code
 
@@ -22,7 +22,7 @@ The current public software production method does not serve public service deli
 
 In the last decade, public organisations that purchased complete software solutions have sometimes been surprised to discover that they:
 
-* can’t change their software to reflect changing policy or take advantage of new technological opportunities
+* can’t change their software to reflect changing policy or take advantage of new technology
 * don’t have own or even have access to their data
 * are asked to pay ever increasing licence fees
 
@@ -64,19 +64,19 @@ Public code is open source software meant for fulfilling the critical role of pu
 
 Being open unlocks many other things.
 
-By being implemented and maintained in direct control the open public code ensures local responsibility and democratic accountability. By being open and with a broader contributor base, the software is more secure - it benefits from many eyes spotting potential flaws. Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt. The shared workload is more sustainable now and in the future. Its openness makes the code and its data more easily adaptable in the future – it will be easier to retool, repurpose or retire. This all results in lower risk public infrastructure.
+A public organisation's directly implements and maintains their public code,
+
+Local responsibility and democratic accountability are ensured when a public organisation implements and maintains their own public code. By being open and with a broader contributor base, the software is more secure - it benefits from many eyes spotting potential flaws. Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt. The shared workload is more sustainable now and in the future. Its openness makes the code and its data more easily adaptable in the future – it will be easier to retool, repurpose or retire. This all results in lower risk public infrastructure.
 
 This pooling of resources lets public administrations give extra attention to how to customise the software so it works best in each local context - creating better user experiences for their end users (residents or citizens).
 
 ### Economics of public code
 
-A better economic model for public organisations as well as for commercial companies.
-
-Public code provides an alternative to traditional software procurement that increases local control and economic opportunity.
+Public code offers a better economic model for public organisations as well as for commercial companies. It's an alternative to traditional software procurement that increases local control and economic opportunity.
 
 Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendor if they need. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts - thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
 
-This can benefit them in the future, as more vendors will be necessary due to growing demand of digitalisation. Alternatively, this can be seen as investment leading to future economic growth - more vendors will be necessary due to growing technology demand.
+This can be seen as investment leading to future economic growth - more vendors will be necessary due to growing technology demand.
 
 ### Procuring public code
 
@@ -86,9 +86,9 @@ To use existing public code, you need to specify in your budget and project desi
 
 ## Standard compliance or certification process
 
-The Foundation for Public Code guards that codebases that are under its stewardship (and not in incubation or the attic) are compliant with the Standard for Public Code. This makes clear to potential users and contributors that the codebase is of high quality and so will its updates be.
+The Foundation for Public Code ensures that codebases under its stewardship (and not in incubation or the attic) are compliant with the Standard for Public Code. This makes clear to potential users and contributors that the codebase is of high quality, and updates will be too.
 
-The audit performed the Foundation for Public Code is meant to complement machine testing, as machines are great at testing the things like syntax and whether outcomes align with expectations. Things meant for humans such as testing whether documentation is actually understandable and attached, the commit messages make sense and community-oriented guidelines are being followed are impossible for machines to test against.
+The audit performed the Foundation for Public Code is meant to complement machine testing, as machines are great at testing things like syntax and whether outcomes align with expectations. Things meant for humans, such as testing whether documentation is actually understandable and attached, the commit messages make sense and whether community guidelines are being followed are impossible for machines to test against.
 
 The audit tests the entire codebase, including source code, policy, documentation and conversation for compliance with both the standards set out by the Foundation For Public Code and the standards set out in the codebase itself.
 
@@ -96,13 +96,13 @@ The audit tests the entire codebase, including source code, policy, documentatio
 
 Every time a contribution is suggested to a codebase – through for instance a merge request – the [codebase stewards](https://about.publiccode.net/roles/) of the Foundation for Public Code will audit the contribution for compliance with the Standard for Public Code. New contributions can only be adopted into the codebase after they have been approved as compliant with the Standard for Public Code, as well as being reviewed by another contributor.
 
-The audit is presented as a review of the contribution. The codebase steward gives line for line feedback and compliance, helping the contributor to improve their contribution. The merge request cannot be fulfilled until the codebase stewards have approved the contribution.
+The audit is presented as a review of the contribution. The codebase steward gives line by line feedback and compliance, helping the contributor to improve their contribution. The merge request cannot be fulfilled until the codebase stewards have approved the contribution.
 
 ![Pull Request Acceptance process](images/audit-flow.svg)
 
 ### Certifying an entire codebase versus a contribution
 
-If the audit process is added to a codebase farther along in its development new merge requests can be certified, however, the existing code cannot be certified. By auditing every new merge request the codebase can move towards being completely certified. For the codebase to be completely certified every meaningful line of code, and the commits behind the code, need to be up to the standards.
+If the audit process is added to a codebase farther along in its development new merge requests can be certified, but the existing code cannot be certified. By auditing every new merge request the codebase can move towards being completely certified. For the codebase to be completely certified every meaningful line of code, and the commits behind the code, need to meet the Standard.
 
 If codebases have been completely audited from the first merge request they can be completely be certified as compliant with the Standard for Public Code immediately.
 
