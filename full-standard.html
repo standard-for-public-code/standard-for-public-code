@@ -23,10 +23,15 @@
       border-bottom: none;
     }
     .markdown-body h2 {
-      font-size: 1cm;
+      font-size: 1.5em;
     }
     .markdown-body h3 {
-      font-size: 0.75cm;
+      font-size: 1em;
+      font-weight: bold;
+    }
+    .markdown-body h4 {
+      font-size: 1em;
+      font-weight: italic;
     }
     .markdown-body h4 {
       font-weight: bold;
@@ -60,7 +65,7 @@
       display: block;
       right: 0;
       width: 6cm;
-      margin-right: -5cm;
+      margin-right: -5.5cm;
       padding: 0.25rem;
       line-height: 1.25;
       text-align: left;
@@ -97,7 +102,7 @@
         size: A4;
         margin: 2cm 0;
         orphans:4; 
-        widows:2;
+        widows:4;
       }
       @page :left {
         margin-right: 1.5cm;
@@ -121,12 +126,11 @@
       }
       
       article {
-        margin: 2cm 2cm;
+        margin: 0 2cm;
         break-before: left;
       }
       h1, h2, h3, h4 {
         page-break-after: avoid;
-        page-break-inside: avoid;
       }
       img {
         page-break-inside: avoid;
