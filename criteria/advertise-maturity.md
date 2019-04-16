@@ -16,7 +16,7 @@ order: 14
 
 ## What this does
 
-Clearly signaling the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
+Clearly signalling the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
 
 ## What this does not do
 
