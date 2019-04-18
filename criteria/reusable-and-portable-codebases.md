@@ -15,8 +15,8 @@ order: 3
 ## What this does
 
 * Enables other policy makers, developers and designers to reuse what you've developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintainability and higher reliability.
-* More general code is easier to understand for new people that have to work with the code.
-* Understanding and reflecting on how codebases can be reused makes it easier to control the mission, vision and scope of the codebase.
+* Makes code more so it is easier to understand for new people that have to work with the code.
+* Helps to understand and reflect on how codebases can be reused, thus mkaing it easier to control the mission, vision and scope of the codebase.
 
 ## What this does not do
 
