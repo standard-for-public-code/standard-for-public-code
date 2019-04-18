@@ -72,7 +72,7 @@ This pooling of resources lets public administrations give extra attention to ho
 
 ### Economics of public code
 
-Public code offers a better economic model for public organisations as well as for commercial companies. It's an alternative to traditional software procurement that increases local control and economic opportunity.
+Public code offers a better economic model for public organisations as well as for commercial companies. It's an alternative to traditional software procurement, which increases local control and economic opportunity.
 
 Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendor if they need. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts - thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
 
