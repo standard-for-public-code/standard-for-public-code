@@ -2,11 +2,11 @@
 
 ## Code
 
-Any explicitly described system of rules is code. This includes civil code – such as laws, policy and ordinances – as well as source code that is used to build software. Both of these are rules, some executed by humans and others by machines.
+Any explicitly described system of rules. This includes civil code – such as laws, policy and ordinances – as well as source code that is used to build software. Both of these are rules, some executed by humans and others by machines.
 
 ## Codebase
 
-Any discrete package of Code – both source and policy – tests and documentation required to instantiate a piece of policy or software.
+Any discrete package of Code (both source and policy), tests and documentation required to instantiate a piece of policy or software.
 
 This can be – for example – a document or a version-control repository.
 
