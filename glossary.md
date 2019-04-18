@@ -4,6 +4,10 @@
 
 Any explicitly described system of rules is code. This includes civil code – such as laws, policy and ordinances – as well as source code that is used to build software. Both of these are rules, some executed by humans and others by machines.
 
+## Continuous integration test
+
+Automated testing bij Artificually Intelligent bot (<- temporary definition)
+
 ## Codebase
 
 Any discrete package of Code – both source and policy – tests and documentation required to instantiate a piece of policy or software.
