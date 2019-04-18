@@ -29,7 +29,7 @@ order: 1
 ## Policy makers: what you need to do
 
 * Develop policies in the open
-* Prioritise open and transparent in policies
+* Prioritise open and transparent policies
 
 ## Management: what you need to do
 
