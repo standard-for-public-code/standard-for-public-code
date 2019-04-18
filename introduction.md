@@ -140,3 +140,7 @@ These people work at:
 * consultancies and vendors of information technology and policy services to public organisations
 
 It is not aimed at public organisations' end users (residents or citizens), journalists or academics.
+
+## How to get involved
+
+Sounds cool right? Check out our contributor guide to see how you can get involved!
