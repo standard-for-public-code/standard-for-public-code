@@ -19,10 +19,10 @@ Version control means keeping track of changes to your code over time. This allo
 
 Version control enables you to:
 
-* revert to an earlier version of the codebase whenever you want to
-* record your changes and the reasons why you made them, to help future developers understand the process
-* compare two different versions
-* work on changes in parallel as a team before merging them together
+* Revert to an earlier version of the codebase whenever you want to
+* Record your changes and the reasons why you made them, to help future developers understand the process
+* Compare two different versions
+* Work on changes in parallel as a team before merging them together
 
 ## What this does not do
 * Substitute for advertising maturity.
