@@ -44,7 +44,7 @@ Public software must therefore be:
 
 It must reflect the values of the society it serves, for example by being inclusive and non-discriminatory.
 
-Most proprietary software systems currently used by public organisations do not meet these requirements. Public code - software built to operate with and as public infrastructure, and a set of arrangements that allow for its production - does.
+Most proprietary software systems currently used by public organisations do not meet these requirements. Public code - software built to operate with and as public infrastructure, along with the set of arrangements that allow for its production - does.
 
 ### Values of public code
 
