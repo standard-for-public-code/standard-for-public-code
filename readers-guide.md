@@ -11,11 +11,11 @@ NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this docu
 
 ## What this does
 
-Why it is important for the users and contributors of this codebase that these requirements are followed.
+This section explains why it is important for the users and contributors of this codebase that these requirements are followed.
 
 ## What this does not do
 
-This is expectation management, knowing what following the requirements can't save you from is often a crucial aspect of applying them correctly as well as making sure no unexpected things pop up suddenly.
+This section is expectation management, knowing what following the requirements can't save you from is often a crucial aspect of applying them correctly as well as making sure no unexpected things pop up suddenly.
 
 ## How to test
 
