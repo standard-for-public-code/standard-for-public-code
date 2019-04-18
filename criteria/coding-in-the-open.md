@@ -13,9 +13,9 @@ order: 1
 
 ## What this does
 
-* Transparency
-* Better quality code
-* Auditability
+* Improves transparency
+* Increases code quality
+* Facilitates auditing processes
 
 ## What this does not do
 
