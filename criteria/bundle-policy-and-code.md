@@ -21,7 +21,7 @@ order: 2
 * Guarantee that a codebase will reflect the bundled policy
 * Make sure packages comply with the local technical infrastructure or legal framework of a given public organization
 
-## How to test
+## How to test if a contribution is compliant with this standard
 
 * Policy is provided in machine readable and unambiguous formats
 * Continuous integration tests validate that the source code and policy are executed coherently
