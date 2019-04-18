@@ -15,7 +15,7 @@ This section explains why it is important for the users and contributors of this
 
 ## What this does not do
 
-This section is expectation management, knowing what following the requirements can't save you from is often a crucial aspect of applying them correctly as well as making sure no unexpected things pop up suddenly.
+This section manages expectation, explaining what following the requirements will not save you from. This will help applying them correctly as well as make sure no unexpected things pop up.
 
 ## How to test
 
