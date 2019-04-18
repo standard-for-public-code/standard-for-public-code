@@ -34,9 +34,9 @@ We believe the software that runs our society can no longer be a black box, orde
 
 ### Designing truly public software
 
-Public code is at the core of modern public institutions, the work of civil servants and residents.
+Public code is at the core of modern public institutions, shapes the work of civil servants and affects the lives of almost all residents.
 
-Public software must be:
+Public software must therefore be:
 
 * transparent
 * accountable
