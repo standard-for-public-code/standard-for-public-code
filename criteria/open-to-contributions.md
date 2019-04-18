@@ -36,7 +36,7 @@ order: 4
 
 ## Policy makers: what you need to do
 
-* Add a list to the codebase of any other resources policy experts, non-governmental organisations and academics would find useful for understanding and reusing your policy.
+* Add a list to the codebase of any other resources, policy experts, non-governmental organisations and academics would find useful for understanding and reusing your policy.
 * Track policy issues in the codebase, so that a relevant external policy expert can volunteer help.
 * Consider adding contact details so that other policy makers considering reuse can ask you for advice.
 
