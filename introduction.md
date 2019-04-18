@@ -100,9 +100,12 @@ The audit is presented as a review of the contribution. The codebase steward giv
 
 ### Certifying an entire codebase versus a contribution
 
-If the audit process is added to a codebase farther along in its development new merge requests can be certified, but the existing code cannot be certified. By auditing every new merge request the codebase can move towards being completely certified. For the codebase to be completely certified every meaningful line of code, and the commits behind the code, need to meet the Standard.
-
+For the codebase to be completely certified every meaningful line of code, and the commits behind the code, need to meet the Standard.
+ 
 If codebases have been completely audited from the first merge request they can be completely be certified as compliant with the Standard for Public Code immediately.
+
+If the audit process is added to an existing codebase, the new merge requests can be certified, but the existing code cannot be certified. By auditing every new merge request the codebase can move towards being completely certified.
+
 
 ## The goals for the Standard for Public Code 
 
