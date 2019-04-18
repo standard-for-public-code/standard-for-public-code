@@ -113,8 +113,8 @@ This Standard supports developers, designers, business management and policy mak
 
 * develop high quality software and policy for better public service delivery
 * develop reusable codebases that can be reused across contexts and collaboratively maintained
-* lower technical debt and project failure rate
-* get greater grip in IT systems
+* reduce technical debt and project failure rate
+* have more granular control over, and ability to make decisions about, their IT systems
 * improve vendor relationships with a better economic model
 
 The [Foundation for Public Code](https://publiccode.net/) helps public organisations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
