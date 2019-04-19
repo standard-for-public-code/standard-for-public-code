@@ -12,7 +12,7 @@ Software is public infrastructure.
 
 In the 21st century, software can be considered vital public infrastructure. It is increasingly not just the expression of existing policy but the originator of new policy - for example where algorithms decide which districts need extra social services or policing.
 
-Software mechanics, algorithms and the data collected have become key elements in the execution of public policies. In other words, software code has increasingly started to equal legal code. Computer code now operates on policies that have been codified in legal code through democratic procedures. Both forms of code set conditions for society to function according to democratically set public values, the latter executed by humans, the former by machines.
+Software mechanics, algorithms and data collection have become key elements in the execution of public policies. Computer code now executes policies that have been codified in legal code through democratic procedures. Both forms of code set conditions for society to function according to democratically set public values, the latter executed by humans, the former by machines. In other words, software code has increasingly started to equal legal code. 
 
 Software should therefore be subject to the principles of democratic governance.
 
@@ -30,13 +30,13 @@ In the last decade, public organisations that purchased complete software soluti
 
 Public institutions, civil servants and residents deserve better.
 
-We believe software that runs our society can no longer be a black box, ordered from outside companies that keep the underlying logic hidden in proprietary code bases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as an essential civic infrastructure should honor digital citizens’ rights.
+We believe the software that runs our society can no longer be a black box, ordered from outside companies that keep the underlying logic on which their software operates hidden in proprietary code bases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as essential civic infrastructure should honor digital citizens’ rights.
 
 ### Designing truly public software
 
-Public code is at the core of modern public institutions, the work of civil servants and residents.
+Public code is at the core of modern public institutions, shapes the work of civil servants and affects the lives of almost all residents.
 
-Public software must be:
+Public software must therefore be:
 
 * transparent
 * accountable
@@ -44,7 +44,7 @@ Public software must be:
 
 It must reflect the values of the society it serves, for example by being inclusive and non-discriminatory.
 
-Most proprietary software systems currently used by public organisations do not meet these requirements. Public code - software built to operate with and as public infrastructure, and a set of arrangements that allow for its production - does.
+Most proprietary software systems currently used by public organisations do not meet these requirements. Public code - software built to operate with and as public infrastructure, along with the arrangements for its production - does.
 
 ### Values of public code
 
@@ -64,15 +64,13 @@ Public code is open source software meant for fulfilling the critical role of pu
 
 Being open unlocks many other things.
 
-A public organisation's directly implements and maintains their public code,
-
 Local responsibility and democratic accountability are ensured when a public organisation implements and maintains their own public code. By being open and with a broader contributor base, the software is more secure - it benefits from many eyes spotting potential flaws. Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt. The shared workload is more sustainable now and in the future. Its openness makes the code and its data more easily adaptable in the future – it will be easier to retool, repurpose or retire. This all results in lower risk public infrastructure.
 
 This pooling of resources lets public administrations give extra attention to how to customise the software so it works best in each local context - creating better user experiences for their end users (residents or citizens).
 
 ### Economics of public code
 
-Public code offers a better economic model for public organisations as well as for commercial companies. It's an alternative to traditional software procurement that increases local control and economic opportunity.
+Public code offers a better economic model for public organisations as well as for commercial companies. It's an alternative to traditional software procurement, which increases local control and economic opportunity.
 
 Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendor if they need. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts - thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
 
@@ -102,9 +100,12 @@ The audit is presented as a review of the contribution. The codebase steward giv
 
 ### Certifying an entire codebase versus a contribution
 
-If the audit process is added to a codebase farther along in its development new merge requests can be certified, but the existing code cannot be certified. By auditing every new merge request the codebase can move towards being completely certified. For the codebase to be completely certified every meaningful line of code, and the commits behind the code, need to meet the Standard.
-
+For the codebase to be completely certified every meaningful line of code, and the commits behind the code, need to meet the Standard.
+ 
 If codebases have been completely audited from the first merge request they can be completely be certified as compliant with the Standard for Public Code immediately.
+
+If the audit process is added to an existing codebase, the new merge requests can be certified, but the existing code cannot be certified. By auditing every new merge request the codebase can move towards being completely certified.
+
 
 ## The goals for the Standard for Public Code 
 
@@ -112,8 +113,8 @@ This Standard supports developers, designers, business management and policy mak
 
 * develop high quality software and policy for better public service delivery
 * develop reusable codebases that can be reused across contexts and collaboratively maintained
-* lower technical debt and project failure rate
-* get greater grip in IT systems
+* reduce technical debt and project failure rate
+* have more granular control over, and ability to make decisions about, their IT systems
 * improve vendor relationships with a better economic model
 
 The [Foundation for Public Code](https://publiccode.net/) helps public organisations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
