@@ -14,7 +14,7 @@ order: 2
 
 ## What this does
 
-* Make sure access is guaranteed to both the source code and the public policy documents to facilitate effective reuse of a codebase
+* Make sure access is guaranteed to both the source code and the policy documents to facilitate effective reuse of a codebase
 
 ## What this does not do
 
