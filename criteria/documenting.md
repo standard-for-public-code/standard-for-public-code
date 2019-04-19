@@ -21,7 +21,7 @@ order: 8
 ## What this does
 
 * Users can start using and contributing more quickly
-* You help people discover your codebase, especially peopl asking 'is there already code that does something like this'.
+* You help people discover your codebase, especially people asking 'is there already code that does something like this'
 * Provide transparency into your organisation and processes
 
 ## What this does not do
