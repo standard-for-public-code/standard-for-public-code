@@ -1,10 +1,10 @@
 # Name
 
-## Measure
+## Requirements
 
 ## What this does
 
-## What this doesn’t do
+## What this does not do
 
 ## How to test
 
