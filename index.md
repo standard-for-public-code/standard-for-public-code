@@ -29,5 +29,5 @@ The [Foundation for Public Code](https://publiccode.net/) will help cities share
 * [Authors](AUTHORS.md)
 * [Contributing guide](CONTRIBUTING.md)
 * [Governance](GOVERNANCE.md)
-* [Changelog](CHANGELOG.md)
+* [Version history](CHANGELOG.md)
 * [Licence](LICENCE.md)

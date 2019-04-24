@@ -14,7 +14,7 @@ order: 2
 
 ## What this does
 
-* Make sure access is guaranteed to both the source code and the public policy documents to facilitate effective reuse of a codebase
+* Make sure access is guaranteed to both the source code and the policy documents to facilitate effective reuse of a codebase
 
 ## What this does not do
 
@@ -36,7 +36,7 @@ order: 2
 ## Management: what you need to do
 
 * Involve policy makers, developers and designers and keep them connected throughout the whole development process
-* Make sure policy makers, developers and designers they are working on the same objectives
+* Make sure policy makers, developers and designers are working on the same objectives
 
 ## Developers and designers: what you need to do
 

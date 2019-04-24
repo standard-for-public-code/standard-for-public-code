@@ -7,15 +7,15 @@ order: 1
 ## Requirements
 
 * All source code for any policy and software in use (unless used for fraud detection) MUST be published and publicly accessible.
-* Any source code that is not currently in use, such as new versions, proposals or older versions SHOULD be published.
 * Contributors MUST never upload sensitive information regarding users, the organization or third parties to the repository, for example: configurations, usernames and passwords, public keys and other real credentials used in the production system.
+* Any source code that is not currently in use, such as new versions, proposals or older versions SHOULD be published.
 * The source code MAY provide the general public insight into which source code or policy underpins any specific interaction they may have with your organization.
 
 ## What this does
 
-* Transparency
-* Better quality code
-* Auditability
+* Improves transparency
+* Increases code quality
+* Facilitates auditing processes
 
 ## What this does not do
 
@@ -29,7 +29,7 @@ order: 1
 ## Policy makers: what you need to do
 
 * Develop policies in the open
-* Prioritise open and transparent in policies
+* Prioritise open and transparent policies
 
 ## Management: what you need to do
 

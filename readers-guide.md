@@ -1,6 +1,6 @@
 # Readers guide
 
-Each of the criteria of the standard have a few sections that are meant to make it clear how to create great public code.
+The criteria in the Standard have a consistent sections that together make it clear how to create great public code.
 
 ## Requirements
 
@@ -11,17 +11,19 @@ NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this docu
 
 ## What this does
 
-Why it is important for the users and contributors of this codebase that these requirements are followed.
+This section explains why it is important for the users and contributors of this codebase that these requirements are followed.
 
 ## What this does not do
 
-This is expectation management, knowing what following the requirements can't save you from is often a crucial aspect of applying them correctly as well as making sure no unexpected things pop up suddenly.
+This section manages expectation by explaining what following the requirements will not save you from. This helps:
+* apply them correctly
+* make sure no unexpected things pop up
 
 ## How to test
 
 This section offers actions you can take to see if a contribution is compliant with the standard. This is key if you want to operationalize the standard.
 
-We've tried to word it so that also someone who is not intimately acquainted with the subject matter can still do a basic check for compliance.
+We've tried to word it so that someone who is not intimately acquainted with the subject matter can still do a basic check for compliance.
 
 ## Policy makers: what you need to do
 
