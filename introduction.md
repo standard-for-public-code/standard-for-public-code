@@ -23,7 +23,7 @@ The current public software production method does not serve public service deli
 In the last decade, public organisations that purchased complete software solutions have sometimes been surprised to discover that they:
 
 * can’t change their software to reflect changing policy or take advantage of new technology
-* don’t have have access to their data locked in to systems
+* don’t have access to their data as it's locked in to systems
 * are asked to pay ever increasing licence fees
 
 ### Technological sovereignty and democratic accountability
