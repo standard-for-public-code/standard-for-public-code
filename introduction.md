@@ -23,7 +23,7 @@ The current public software production method does not serve public service deli
 In the last decade, public organisations that purchased complete software solutions have sometimes been surprised to discover that they:
 
 * can’t change their software to reflect changing policy or take advantage of new technology
-* don’t have own or even have access to their data
+* don’t have access to their data as it's locked in to systems
 * are asked to pay ever increasing licence fees
 
 ### Technological sovereignty and democratic accountability
@@ -60,7 +60,7 @@ We consider public code to have these core values:
 
 ## How public code works
 
-Public code is open source software meant for fulfilling the critical role of public organizations. Through use, other administrations contribute back to the software, so that its development and maintenance become truly collaborative.
+Public code is open source software meant for fulfilling the essential role of public organizations. Through use, other administrations contribute back to the software, so that its development and maintenance become truly collaborative.
 
 Being open unlocks many other things.
 
@@ -78,7 +78,7 @@ This can be seen as investment leading to future economic growth - more vendors 
 
 ### Procuring public code
 
-Public code can be used by permanent in-house development teams, contractors or outsourced suppliers. Vendors to public organizations can include public code in their bids for contracts.
+Public code can be used and developed by permanent in-house development teams, contractors or outsourced suppliers. Vendors to public organizations can include public code in their bids for contracts.
 
 To use existing public code, you need to specify in your budget and project design that your new solution will use that codebase. To encourage an innovative approach to adapting the public code to your context, you could describe the service or outcome in your contract.
 
