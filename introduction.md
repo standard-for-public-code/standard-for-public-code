@@ -141,3 +141,7 @@ These people work at:
 * consultancies and vendors of information technology and policy services to public organisations
 
 It is not aimed at public organisations' end users (residents or citizens), journalists or academics.
+
+## Get involved
+
+This standard is a living document. [Read our contributor guide](/CONTRIBUTING.md) to learn how you can make it better.
