@@ -141,6 +141,6 @@ These people work at:
 
 It is not aimed at public organisations' end users (residents or citizens), journalists or academics.
 
-## How to get involved
+## Get involved
 
-Sounds cool right? Check out our contributor guide to see how you can get involved!
+This standard is a living document. [Read our contributor guide](/CONTRIBUTING.md) to learn how you can make it better.
