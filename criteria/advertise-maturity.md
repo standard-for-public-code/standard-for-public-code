@@ -16,7 +16,7 @@ order: 14
 
 ## What this does
 
-Clearly signaling the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
+Clearly signalling the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
 
 ## What this does not do
 
@@ -35,7 +35,7 @@ Clearly signaling the maturity of a codebase helps others to decide whether to r
 
 ## Management: what you need to do
 
-* Make sure code that is marked with a different status is never used to provide a service that is not in that state, e.g. using a beta codebase in a production service or using a prototype codebase in a beta service.
+* Make sure code that is marked with a different status is never used to provide a service that is not in that state, e.g. using a beta codebase in a production service or using a prototype codebase in a beta service
 
 ## Developers and designers: what you need to do
 

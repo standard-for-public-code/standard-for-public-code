@@ -15,9 +15,13 @@ This section explains why it is important for the users and contributors of this
 
 ## What this does not do
 
-This section manages expectation by explaining what following the requirements will not save you from. This helps:
-* apply them correctly
+This section manages expectation by explaining what following the requirements will not save you from. 
+
+This helps:
+
+* with applying the Standard correctly
 * make sure no unexpected things pop up
+
 
 ## How to test
 
@@ -35,7 +39,7 @@ Policy makers are usually less technologically experienced but often set the pri
 
 This section tries to specifically speak to management by offering them concrete actions they can perform in their role.
 
-Management is responsible for on-time project delivery, stakeholder management and continued delivery of service. For this they are wholly reliant on both the policy makers as well as the developers and designers. They need to create the right culture, line up the right resources and provide the right structures to deliver great services.
+Management is responsible for on-time project delivery, stakeholder management and continued delivery of the service. For this they are wholly reliant on both the policy makers as well as the developers and designers. They need to create the right culture, line up the right resources and provide the right structures to deliver great services.
 
 ## Developers and designers: what you need to do
 
