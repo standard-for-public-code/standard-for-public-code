@@ -6,7 +6,7 @@ order: 12
 
 ## Requirements
 
-* All code and documentation MUST be published under a licence that is freely reusable, changeable and redistributable
+* All code and documentation MUST be published under a licence that allows it to be freely reusable, changeable and redistributable
 * Software source code this MUST be licensed under an [OSI-approved open source licence](https://opensource.org/licenses/category)
 * All code MUST be published with a licence
 * Codebases MAY have multiple licences for different types of code and documentation
