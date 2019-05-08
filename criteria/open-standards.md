@@ -9,6 +9,7 @@ order: 10
 * For features of a codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)
 * If no existing open standard is available, effort SHOULD be put into developing one
 * Standards that are machine testable SHOULD be preferred over those that are not
+* Codebases SHOULD include a [publiccode.yml](https://github.com/publiccodenet/publiccode.yml/) metadata description so that they're easily discoverable
 * Functionality using features from a non-open standard (one that doesn't meet the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)) MAY be provided if necessary, but only in addition to compliant features.
 * All non-compliant standards used MUST be documented clearly in the documentation
 * The codebase MAY contain a list of all the standards used with links to where they are available
