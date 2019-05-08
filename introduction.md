@@ -2,7 +2,7 @@
 
 The Standard for Public Code is a set of criteria that supports public organisations in developing and maintaining software together. 
 
-Anyone developing software or policy for a public purpose can use this standard to work towards higher quality public services that are more cost effective, with less risk and more local control.
+Anyone developing software or policy for a public purpose can use this standard to work towards higher quality public services that are more cost effective, with less risk and more control.
 
 This introduction introduces the term public code, explains why this is important, and introduces the process through which software and policy code can become certified public code. 
 
