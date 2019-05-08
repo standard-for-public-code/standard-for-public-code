@@ -10,7 +10,7 @@ The Standard for Public Code is maintained by the Foundation for Public Code, an
 
 ## What is public code
 
-Public code is both civil code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines. Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
+Public code is both civic code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines. Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
 
 ## Why public code?
 
@@ -36,7 +36,7 @@ In the last decade, public organisations that purchased complete software soluti
 
 ### Technological sovereignty and democratic accountability
 
-Public institutions, civil servants and residents deserve better.
+Public institutions, civic servants and residents deserve better.
 
 We believe software that runs our society can no longer be a black box, ordered from outside companies that keep the underlying logic hidden in proprietary code bases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as an essential civic infrastructure should honor digital citizens’ rights.
 
