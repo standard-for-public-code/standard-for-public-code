@@ -6,6 +6,7 @@ Foundation for Public Code
 * Elena Findley-de Regt
 * Claus Mullie
 * Boris van Hoytema
+* Arnout Schuijff
 * Mirjam van Tiel
 
 Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
@@ -16,8 +17,10 @@ Gemeente Amsterdam, Office of CTO
 
 * Tamas Erkelens
 * Mark van der Net
+* Maurits van der Schee
 
 Individual Contributors
 
 * Timo Slinger
 * Bert Spaan
+* Floris Deerenberg

@@ -191,6 +191,7 @@
       </li>
       <li>Glossary</li>
       <li>Contributing guide</li>
+      <li>Code of conduct</li>
       <li>Governance</li>
       <li>Changelog</li>
       <li>Licence</li>
@@ -236,6 +237,12 @@
   <article id="section-contributing">  
 
     {% for page in site.pages %}{% if page.name == "CONTRIBUTING.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <article id="section-code_of_conduct">  
+
+    {% for page in site.pages %}{% if page.name == "CODE_OF_CONDUCT.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
