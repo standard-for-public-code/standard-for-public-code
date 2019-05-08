@@ -25,7 +25,7 @@ The repository builds to a static site deployed at [standard.publiccode.net](htt
 Using [Weasyprint](https://weasyprint.org/) the file `print.html` can be converted to a nice looking PDF.
 
 ```bash
-weasyprint http://localhost:4000/full-standard.html standard.pdf
+weasyprint http://localhost:4000/print.html standard.pdf
 ```
 
 ## Licence
