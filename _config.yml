@@ -1,6 +1,7 @@
-remote_theme: publiccodenet/jekyll-theme
 title: Standard for Public Code
+version: 0.1.0
 
+remote_theme: publiccodenet/jekyll-theme
 include: 
   - "README.md"
   - "CONTRIBUTING.md"
