@@ -5,6 +5,7 @@ include:
   - "README.md"
   - "CONTRIBUTING.md"
   - "LICENCE.md"
+  - "CODE_OF_CONDUCT.md"
 
 toc: true
 

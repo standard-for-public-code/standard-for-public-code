@@ -28,6 +28,7 @@ The [Foundation for Public Code](https://publiccode.net/) will help cities share
 * [Glossary](glossary.md)
 * [Authors](AUTHORS.md)
 * [Contributing guide](CONTRIBUTING.md)
+* [Code of conduct](CODE_OF_CONDUCT.md)
 * [Governance](GOVERNANCE.md)
 * [Version history](CHANGELOG.md)
 * [Licence](LICENCE.md)
