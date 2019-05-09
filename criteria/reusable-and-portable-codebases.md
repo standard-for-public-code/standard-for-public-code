@@ -12,7 +12,6 @@ order: 3
 * Codebases SHOULD include a [publiccode.yml](https://github.com/publiccodenet/publiccode.yml/) metadata description so that they're easily discoverable
 * Code and its documentation SHOULD not contain situation-specific information. For example, personal and organizational data as well as tokens and passwords should never be included.
 
-
 ## Why this is important
 
 * Enables other policy makers, developers and designers to reuse what you've developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintainability and higher reliability.
@@ -43,4 +42,5 @@ order: 3
 * Someone in a similar organization facing a similar problem should be able to use your solution
 
 ## Further reading
+
 * [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) by the UK Government Digital Service
