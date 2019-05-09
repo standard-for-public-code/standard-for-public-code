@@ -1,10 +1,18 @@
 # Introduction
 
-Public code is both civil code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines.
+The Standard for Public Code is a set of criteria that supports public organizations in developing and maintaining software and policy together. 
 
-We make the explicit distinction between regular software and public software because it operates under fundamentally different circumstances and expectations.
+Anyone developing software or policy for a public purpose can use this standard to work towards higher quality public services that are more cost effective, with less risk and more control.
 
-## What is public code
+This introduction introduces the term public code, explains why this is important, and introduces the process through which software and policy code can become certified public code. 
+
+## Definition of public code
+
+Public code is both civic code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines. Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
+
+## Why public code?
+
+There are many reasons for why public code is relevant now.
 
 ### Software code == legal code
 
@@ -20,17 +28,17 @@ Software should therefore be subject to the principles of democratic governance.
 
 The current public software production method does not serve public service delivery very well.
 
-In the last decade, public organisations that purchased complete software solutions have sometimes been surprised to discover that they:
+In the last decade, public organizations that purchased complete software solutions have sometimes been surprised to discover that they:
 
 * can’t change their software to reflect changing policy or take advantage of new technology
 * don’t have access to their data as it's locked in to systems
-* are asked to pay ever increasing licence fees
+* are asked to pay ever increasing license fees
 
 ### Technological sovereignty and democratic accountability
 
 Public institutions, civil servants and residents deserve better.
 
-We believe the software that runs our society can no longer be a black box, ordered from outside companies that keep the underlying logic on which their software operates hidden in proprietary code bases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as essential civic infrastructure should honor digital citizens’ rights.
+We believe the software that runs our society can no longer be a black box, ordered from outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as essential civic infrastructure should honor digital citizens’ rights.
 
 ### Designing truly public software
 
@@ -44,7 +52,7 @@ Public software must therefore be:
 
 It must reflect the values of the society it serves, for example by being inclusive and non-discriminatory.
 
-Most proprietary software systems currently used by public organisations do not meet these requirements. Public code - software built to operate with and as public infrastructure, along with the arrangements for its production - does.
+Most proprietary software systems currently used by public organizations do not meet these requirements. Public code - software built to operate with and as public infrastructure, along with the arrangements for its production - does.
 
 ### Values of public code
 
@@ -64,13 +72,13 @@ Public code is open source software meant for fulfilling the essential role of p
 
 Being open unlocks many other things.
 
-Local responsibility and democratic accountability are ensured when a public organisation implements and maintains their own public code. By being open and with a broader contributor base, the software is more secure - it benefits from many eyes spotting potential flaws. Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt. The shared workload is more sustainable now and in the future. Its openness makes the code and its data more easily adaptable in the future – it will be easier to retool, repurpose or retire. This all results in lower risk public infrastructure.
+Local responsibility and democratic accountability are ensured when a public organization implements and maintains their own public code. By being open and with a broader contributor base, the software is more secure - it benefits from many eyes spotting potential flaws. Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt. The shared workload is more sustainable now and in the future. Its openness makes the code and its data more easily adaptable in the future – it will be easier to retool, repurpose or retire. This all results in lower risk public infrastructure.
 
 This pooling of resources lets public administrations give extra attention to how to customise the software so it works best in each local context - creating better user experiences for their end users (residents or citizens).
 
 ### Economics of public code
 
-Public code offers a better economic model for public organisations as well as for commercial companies. It's an alternative to traditional software procurement, which increases local control and economic opportunity.
+Public code offers a better economic model for public organizations as well as for commercial companies. It's an alternative to traditional software procurement, which increases local control and economic opportunity.
 
 Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendor if they need. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts - thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
 
@@ -137,10 +145,10 @@ The Standard for Public Code is for the people who create and reuse public code:
 
 These people work at:
 
-* public organisations: institutions and administrations
-* consultancies and vendors of information technology and policy services to public organisations
+* public organizations: institutions and administrations
+* consultancies and vendors of information technology and policy services to public organizations
 
-It is not aimed at public organisations' end users (residents or citizens), journalists or academics.
+It is not aimed at public organizations' end users (residents or citizens), journalists or academics.
 
 ## Get involved
 
