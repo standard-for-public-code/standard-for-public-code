@@ -7,16 +7,16 @@ order: 14
 
 * A codebase MUST be versioned
 * A codebase that is ready to use MUST only depend on other codebases that are also ready to use
-* A codebase that is not yet ready to be used MUST have one of these labels:
-    * prototype - to test the look and feel as well as to prove the concept of the technical possibilities internally
+* A codebase that is not yet ready to use MUST have one of these labels:
+    * prototype - to test the look and feel, and to internally prove the concept of the technical possibilities
     * alpha - to do guided tests with a limited set of users
-    * beta - to open up testing to a larger section of the general public, for example  to test if the codebase works at scale
+    * beta - to open up testing to a larger section of the general public, for example to test if the codebase works at scale
     * pre-release version - code that is ready to be released but hasn't received formal approval yet
 * A codebase SHOULD contain a log of changes from version to version
 
 ## Why this is important
 
-Clearly signalling the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
+Clearly signalling a codebase's maturity helps others to decide whether to reuse, invest in or contribute to the project.
 
 ## What this does not do
 
@@ -30,12 +30,12 @@ Clearly signalling the maturity of a codebase helps others to decide whether to 
 
 ## Policy makers: what you need to do
 
-* When developing policy understand the code that will be developed needs to be tested and improved before being able to be put in to service
+* When developing policy, understand that any code developed needs to be tested and improved before it can be put into service
 * Consider versioning policy changes, especially when they trigger new versions of the source code
 
 ## Management: what you need to do
 
-* Make sure code that is marked with a different status is never used to provide a service that is not in that state, e.g. using a beta codebase in a production service or using a prototype codebase in a beta service
+* Make sure that services only rely on codebases of equal or greater maturity than the service. For example, don't use a beta codebase in a production service or a prototype codebase in a beta service.
 
 ## Developers and designers: what you need to do
 
