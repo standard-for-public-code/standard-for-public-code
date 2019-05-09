@@ -19,9 +19,12 @@ Gemeente Amsterdam, Office of CTO
 * Mark van der Net
 * Maurits van der Schee
 
+Code For NL
+
+* Johan Groenen
+
 Individual Contributors
 
 * Timo Slinger
 * Bert Spaan
 * Floris Deerenberg
-* Johan Groenen
