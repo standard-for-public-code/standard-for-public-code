@@ -15,8 +15,8 @@ order: 3
 ## Why this is important
 
 * Enables other policy makers, developers and designers to reuse what you've developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintainability and higher reliability.
-* More general code is easier to understand for new people that have to work with the code.
-* Understanding and reflecting on how codebases can be reused makes it easier to control the mission, vision and scope of the codebase.
+* Makes the code easier for new people to understand (as it's more general)
+* Makes it easier to control the mission, vision and scope of the codebase because the codebase is thoughtfully and purposefully designed for reusability
 
 ## What this does not do
 
