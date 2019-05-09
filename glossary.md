@@ -12,7 +12,7 @@ This can be – for example – a document or a version-control repository.
 
 ## General public
 
-The public at large: end-users of the code and services based upon it.
+The public at large: end users of the code and services based upon it.
 
 ## Open source
 
