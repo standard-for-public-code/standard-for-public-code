@@ -106,7 +106,6 @@ If codebases have been completely audited from the first merge request they can 
 
 If the audit process is added to an existing codebase, the new merge requests can be certified, but the existing code cannot be certified. By auditing every new merge request the codebase can move towards being completely certified.
 
-
 ## The goals for the Standard for Public Code 
 
 This Standard supports developers, designers, business management and policy makers to:
@@ -126,6 +125,8 @@ The Standard for Public Code does this by:
 * setting out a common terminology for public code development
 * establishing measures to help develop high quality public code
 * providing guidance on how to fulfill its criteria and operationalise compliance
+
+The Standard for Public Code is meant to be time and technology independent.
 
 ### Who this is for
 
