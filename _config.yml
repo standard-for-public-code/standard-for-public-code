@@ -5,7 +5,7 @@ remote_theme: publiccodenet/jekyll-theme
 include: 
   - "README.md"
   - "CONTRIBUTING.md"
-  - "LICENCE.md"
+  - "LICENSE.md"
   - "CODE_OF_CONDUCT.md"
 
 toc: true
