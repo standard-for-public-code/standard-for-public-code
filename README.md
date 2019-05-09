@@ -6,7 +6,7 @@ Request for contributions
 
 We believe public policy and software should be inclusive, usable, open, legible, accountable, accessible and sustainable. This means we need a new way of designing, developing and procuring both the source code and policy documentation.
 
-This standard sets a quality level for code bases that meets the needs of public organizations, institutions and administrations as well as other critical infrastructural services.
+This standard sets a quality level for codebases that meets the needs of public organizations, institutions and administrations as well as other critical infrastructural services.
 
 The standard lives at [standard.publiccode.net](https://standard.publiccode.net/), and for an overview of all content see [`index.md`](index.md).
 

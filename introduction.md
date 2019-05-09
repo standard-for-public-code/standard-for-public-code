@@ -30,7 +30,7 @@ In the last decade, public organizations that purchased complete software soluti
 
 Public institutions, civil servants and residents deserve better.
 
-We believe the software that runs our society can no longer be a black box, ordered from outside companies that keep the underlying logic on which their software operates hidden in proprietary code bases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as essential civic infrastructure should honor digital citizens’ rights.
+We believe the software that runs our society can no longer be a black box, ordered from outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as essential civic infrastructure should honor digital citizens’ rights.
 
 ### Designing truly public software
 
