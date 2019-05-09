@@ -34,4 +34,4 @@ By developing public code independently from but still implementable in the loca
 * take as a starting point to continue development
 * use as a basis for learning
 
-To facilitate re-use, public code should be either released into the public domain or licenced with an open licence that permits others to view and reuse the work freely and to produce derivative works.
+To facilitate re-use, public code should be either released into the public domain or licensed with an open license that permits others to view and reuse the work freely and to produce derivative works.
