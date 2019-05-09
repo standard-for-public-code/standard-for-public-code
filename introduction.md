@@ -6,13 +6,13 @@ Anyone developing software or policy for a public purpose can use this standard 
 
 This introduction introduces the term public code, explains why this is important, and introduces the process through which software and policy code can become certified public code. 
 
-The Standard for Public Code is maintained by the Foundation for Public Code, and we'd love to hear from you on how we could improve it!
-
-## What is public code
+## Definition of public code
 
 Public code is both civic code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines. Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
 
 ## Why public code?
+
+There are many reasons for why public code is relevant now.
 
 ### Software code == legal code
 
