@@ -10,16 +10,18 @@ order: 11
 * Contributions MUST pass all automated tests before they are admitted into the codebase
 * Contributions MUST be small
 * Source code test and documentation coverage SHOULD be monitored
-* Policy and documentation MAY have testing for consistency with the source and vice-versa
-* Policy and documentation MAY have testing for style, broken links
+* Policy and documentation MAY have testing for consistency with the source and vice versa
+* Policy and documentation MAY have testing for style and broken links
 
 ## Why this is important
 
-* Quickly identify problems with your codebase
-* Enable taking risks and focussing on problem solving whilst minimising stress on the contributors
-* Lower the barrier for new contributors by reducing the amount of understanding necessary to suggest changes
-* Lead to more maintainable code
-* Speed up the development cycle
+Using continuous delivery:
+
+* allows you to quickly identify problems with your codebase
+* enable risk taking and focusing on problem solving while minimising stress on the contributors
+* lowers barriers for new contributors by reducing the amount of understanding necessary to suggest changes
+* leads to more maintainable code
+* speeds up the development cycle
 
 ## What this does not do
 
@@ -40,12 +42,12 @@ order: 11
 * Involve management as well as developers and designers as early in the process as possible and keep them engaged throughout development of your policy
 * Make sure there are also automated tests set up for policy documentation
 * Fix policy documentation promptly if it fails a test
-* Make sure the code reflects any changes to the policy (see Maintain version control)
+* Make sure the code reflects any changes to the policy (see [Maintain version control](version-control-and-history.md))
 
 ## Management: what you need to do
 
 * Make sure to test with real end-users as quickly and often as possible
-* Procure consultancy services that deliver small parts very often in stead of large parts at once
+* Procure consultancy services that deliver small parts very often instead of large parts less frequently
 * After a large failure, encourage publication of incident reports and public discussion of what was learned
 
 ## Developers and designers: what you need to do
