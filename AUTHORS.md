@@ -1,14 +1,5 @@
 # Authors
 
-Foundation for Public Code
-
-* Ben Cerveny
-* Elena Findley-de Regt
-* Claus Mullie
-* Boris van Hoytema
-* Arnout Schuijff
-* Mirjam van Tiel
-
 Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
 
 * Martijn de Waal
@@ -21,7 +12,13 @@ Gemeente Amsterdam, Office of CTO
 
 Individual Contributors
 
+* Ben Cerveny
+* Floris Deerenberg
+* Elena Findley-de Regt
+* Johan Groenen
+* Claus Mullie
+* Arnout Schuijff
 * Timo Slinger
 * Bert Spaan
-* Floris Deerenberg
-* Johan Groenen
+* Boris van Hoytema
+* Mirjam van Tiel

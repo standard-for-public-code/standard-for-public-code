@@ -2,7 +2,7 @@
 
 Public code is both civil code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines.
 
-The Foundation for Public Code makes the explicit distinction between regular software and public software because it operates under fundamentally different circumstances and expectations.
+We make the explicit distinction between regular software and public software because it operates under fundamentally different circumstances and expectations.
 
 ## What is public code
 
@@ -84,15 +84,15 @@ To use existing public code, you need to specify in your budget and project desi
 
 ## Standard compliance or certification process
 
-The Foundation for Public Code ensures that codebases under its stewardship (and not in incubation or the attic) are compliant with the Standard for Public Code. This makes clear to potential users and contributors that the codebase is of high quality, and updates will be too.
+Our organization ensures that codebases under its stewardship (and not in incubation or the attic) are compliant with the Standard for Public Code. This makes clear to potential users and contributors that the codebase is of high quality, and updates will be too.
 
-The audit performed the Foundation for Public Code is meant to complement machine testing, as machines are great at testing things like syntax and whether outcomes align with expectations. Things meant for humans, such as testing whether documentation is actually understandable and attached, the commit messages make sense and whether community guidelines are being followed are impossible for machines to test against.
+The audit performed by our organization is meant to complement machine testing, as machines are great at testing things like syntax and whether outcomes align with expectations. Things meant for humans, such as testing whether documentation is actually understandable and attached, the commit messages make sense and whether community guidelines are being followed are impossible for machines to test against.
 
-The audit tests the entire codebase, including source code, policy, documentation and conversation for compliance with both the standards set out by the Foundation For Public Code and the standards set out in the codebase itself.
+The audit tests the entire codebase, including source code, policy, documentation and conversation for compliance with both the standards set out by our organization and the standards set out in the codebase itself.
 
 ### How the process works
 
-Every time a contribution is suggested to a codebase – through for instance a merge request – the [codebase stewards](https://about.publiccode.net/roles/) of the Foundation for Public Code will audit the contribution for compliance with the Standard for Public Code. New contributions can only be adopted into the codebase after they have been approved as compliant with the Standard for Public Code, as well as being reviewed by another contributor.
+Every time a contribution is suggested to a codebase – through for instance a merge request – the [codebase stewards](https://about.publiccode.net/roles/) of our organization will audit the contribution for compliance with the Standard for Public Code. New contributions can only be adopted into the codebase after they have been approved as compliant with the Standard for Public Code, as well as being reviewed by another contributor.
 
 The audit is presented as a review of the contribution. The codebase steward gives line by line feedback and compliance, helping the contributor to improve their contribution. The merge request cannot be fulfilled until the codebase stewards have approved the contribution.
 
@@ -117,7 +117,7 @@ This Standard supports developers, designers, business management and policy mak
 * have more granular control over, and ability to make decisions about, their IT systems
 * improve vendor relationships with a better economic model
 
-The [Foundation for Public Code](https://publiccode.net/) helps public organisations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
+[We help public organisations](https://publiccode.net/) share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
 
 Potential users of codebases tested against the Standard for Public Code can expect them to be highly reusable, easily maintainable and high quality.
 
