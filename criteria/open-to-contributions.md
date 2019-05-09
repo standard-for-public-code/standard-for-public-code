@@ -17,7 +17,7 @@ order: 4
 * The codebase MAY include a code of conduct for contributors
 * The codebase MAY document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file
 
-## What this does
+## Why this is important
 
 * Allows collaborative uptake of shared digital infrastructure
 * Prevents forks of codebases, in which a community that works on a project splits because there is no shared progress

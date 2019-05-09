@@ -12,7 +12,7 @@ order: 3
 * Code and its documentation SHOULD not contain situation-specific information. For example, personal and organisational data as well as tokens and passwords should never be included.
 
 
-## What this does
+## Why this is important
 
 * Enables other policy makers, developers and designers to reuse what you've developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintainability and higher reliability.
 * More general code is easier to understand for new people that have to work with the code.

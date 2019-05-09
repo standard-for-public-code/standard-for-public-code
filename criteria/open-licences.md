@@ -13,7 +13,7 @@ order: 12
 * Documentation MAY be published under [Creative Commons licences
 ](https://creativecommons.org/licenses/) that are NOT 'no derivatives' or 'non-commercial'
 
-## What this does
+## Why this is important
 
 * Makes it possible for anyone to see the code and know that they can and how they can reuse it
 
