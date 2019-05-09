@@ -65,13 +65,14 @@
       display: block;
       right: 0;
       width: 6cm;
-      margin-right: -5.5cm;
+      margin-right: -6cm;
       padding: 0.25rem;
       line-height: 1.25;
       text-align: left;
       float: right;
       clear: both;
       word-break: normal;
+      text-decoration: none;
     }
 
     img {
@@ -114,25 +115,27 @@
         widows:4;
       }
       @page :left {
-        margin-right: 1.5cm;
+        margin-right: 1cm;
         @top-left {
           background: whitesmoke;
+          font-size: 75%;
           content: counter(page);
           height: 1cm;
-          width: 1.53cm; 
-          text-align: right;
-          padding-right: 0.5cm;
+          width: 1.23cm; 
+          text-align: center;
+          padding-left: 0.5cm;
         }
       }
       @page :right {
-        margin-left: 1.5cm;
+        margin-left: 1cm;
         @top-right {
           background: whitesmoke;
+          font-size: 75%;
           content: counter(page);
           height: 1cm;
-          width: 1.53cm; 
-          text-align: left;
-          padding-left: 0.5cm;
+          width: 1.23cm; 
+          text-align: center;
+          padding-right: 0.5cm;
         }
       }
       
