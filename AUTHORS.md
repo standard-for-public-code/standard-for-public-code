@@ -24,3 +24,4 @@ Individual Contributors
 * Timo Slinger
 * Bert Spaan
 * Floris Deerenberg
+* Johan Groenen
