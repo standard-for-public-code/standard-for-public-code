@@ -28,9 +28,9 @@ Using [Weasyprint](https://weasyprint.org/) the file `print.html` can be convert
 weasyprint http://localhost:4000/print.html standard.pdf
 ```
 
-## Licence
+## license
 
 © [The authors and contributors](AUTHORS.md)
 
-Licenced under the CC-0, including all illustrations and documentation. This means anyone can do anything with it. If you contribute you also grant these rights to others.
+licensed under the CC-0, including all illustrations and documentation. This means anyone can do anything with it. If you contribute you also grant these rights to others.
 You can read more about how to help in the [contributing guide](CONTRIBUTING.md)

@@ -24,7 +24,7 @@ In the last decade, public organizations that purchased complete software soluti
 
 * can’t change their software to reflect changing policy or take advantage of new technology
 * don’t have access to their data as it's locked in to systems
-* are asked to pay ever increasing licence fees
+* are asked to pay ever increasing license fees
 
 ### Technological sovereignty and democratic accountability
 

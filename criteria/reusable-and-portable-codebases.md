@@ -7,7 +7,7 @@ order: 3
 ## Requirements
 
 * The codebase MUST be developed to be reusable in different contexts
-* The codebase MUST be independent from any secret, proprietary or non-open licenced code or services for execution and understanding
+* The codebase MUST be independent from any secret, proprietary or non-open licensed code or services for execution and understanding
 * Code SHOULD be general purpose and SHOULD be configurable
 * Code and its documentation SHOULD not contain situation-specific information. For example, personal and organizational data as well as tokens and passwords should never be included.
 
