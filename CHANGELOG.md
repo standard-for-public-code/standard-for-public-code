@@ -1,5 +1,9 @@
 # Version history
 
+## Version 0.1.1
+
+May 9th 2019: 🤔 the second draft fixes a few basic oversights and fixes a lot of typos
+
 ## Version 0.1.0
 
 April 16th 2019: 🎉 the first draft is ready, it is all brand new and has snazzy new ideas in it

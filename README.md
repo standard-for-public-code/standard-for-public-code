@@ -1,6 +1,6 @@
 # Standard for Public Code
 
-![version 0.1.0](https://img.shields.io/badge/version-0.1.0-red.svg)
+![version 0.1.1](https://img.shields.io/badge/version-0.1.1-red.svg)
 
 Request for contributions
 
