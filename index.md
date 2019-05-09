@@ -29,4 +29,4 @@ The Standard for Public Code gives cities a model for building their own open so
 * [Code of conduct](CODE_OF_CONDUCT.md)
 * [Governance](GOVERNANCE.md)
 * [Version history](CHANGELOG.md)
-* [license](LICENSE.md)
+* [License](LICENSE.md)
