@@ -6,7 +6,7 @@ Any explicitly described system of rules. This includes civil code – such as l
 
 ## Codebase
 
-Any discrete package of code (both source and policy), the tests and documentation required to implement a piece of policy or software.
+Any discrete package of code (both source and policy), the tests and the documentation required to implement a piece of policy or software.
 
 This can be – for example – a document or a version-control repository.
 
