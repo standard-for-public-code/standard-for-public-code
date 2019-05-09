@@ -28,7 +28,7 @@ Public code is both civic code (like policy or regulation) and computer source c
 
 Because public code serves the public interest, it should be open, legible, accountable, accessible and sustainable.
 
-By developing public code independent from but implementable in a local context, as well as documenting the development process openly, it can provide a building block for others to:
+By developing public code independently from but still implementable in the local context for which it was developed, as well as documenting the development process openly, public code can provide a building block for others to:
 
 * re-implement in their local context
 * take as a starting point to continue development
