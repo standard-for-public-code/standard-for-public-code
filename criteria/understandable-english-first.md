@@ -20,7 +20,7 @@ order: 9
 ## What this does not do
 
 * Make explanations of your codebase's functionality understandable
-* Make your organisation's jargon understandable without an explanation
+* Make your organization's jargon understandable without an explanation
 
 ## How to test
 

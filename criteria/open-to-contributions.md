@@ -13,7 +13,7 @@ order: 4
 * The codebase MUST include an email address for security issues and responsible disclosure
 * The codebase MUST include contribution guidelines explaining how contributors can get involved
 * The codebase SHOULD have a publicly available roadmap
-* The codebase SHOULD advertise the committed engagement of involved organisations in the development and maintenance
+* The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance
 * The codebase MAY include a code of conduct for contributors
 * The codebase MAY document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file
 
@@ -36,13 +36,13 @@ order: 4
 
 ## Policy makers: what you need to do
 
-* Add a list to the codebase of any other resources, policy experts, non-governmental organisations and academics would find useful for understanding and reusing your policy.
+* Add a list to the codebase of any other resources, policy experts, non-governmental organizations and academics would find useful for understanding and reusing your policy.
 * Track policy issues in the codebase, so that a relevant external policy expert can volunteer help.
 * Consider adding contact details so that other policy makers considering reuse can ask you for advice.
 
 ## Management: what you need to do
 
-* Add to the documentation: how your organisation is involved in the project, what resources it has available for it and for how long
+* Add to the documentation: how your organization is involved in the project, what resources it has available for it and for how long
 * Track management issues in the codebase, so that external managers with relevant experience can volunteer help.
 * Support your experienced policy makers, developers and designers to keep contributing to the codebase for as long as possible.
 

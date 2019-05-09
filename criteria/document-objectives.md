@@ -31,7 +31,7 @@ order: 7
 
 ## Management: what you need to do
 
-* Add the organisational and business objectives to the codebase documentation, for instance in the `README`
+* Add the organizational and business objectives to the codebase documentation, for instance in the `README`
 
 ## Developers and designers: what you need to do
 

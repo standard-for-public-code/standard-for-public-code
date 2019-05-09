@@ -20,7 +20,7 @@ Software should therefore be subject to the principles of democratic governance.
 
 The current public software production method does not serve public service delivery very well.
 
-In the last decade, public organisations that purchased complete software solutions have sometimes been surprised to discover that they:
+In the last decade, public organizations that purchased complete software solutions have sometimes been surprised to discover that they:
 
 * can’t change their software to reflect changing policy or take advantage of new technology
 * don’t have access to their data as it's locked in to systems
@@ -44,7 +44,7 @@ Public software must therefore be:
 
 It must reflect the values of the society it serves, for example by being inclusive and non-discriminatory.
 
-Most proprietary software systems currently used by public organisations do not meet these requirements. Public code - software built to operate with and as public infrastructure, along with the arrangements for its production - does.
+Most proprietary software systems currently used by public organizations do not meet these requirements. Public code - software built to operate with and as public infrastructure, along with the arrangements for its production - does.
 
 ### Values of public code
 
@@ -64,13 +64,13 @@ Public code is open source software meant for fulfilling the essential role of p
 
 Being open unlocks many other things.
 
-Local responsibility and democratic accountability are ensured when a public organisation implements and maintains their own public code. By being open and with a broader contributor base, the software is more secure - it benefits from many eyes spotting potential flaws. Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt. The shared workload is more sustainable now and in the future. Its openness makes the code and its data more easily adaptable in the future – it will be easier to retool, repurpose or retire. This all results in lower risk public infrastructure.
+Local responsibility and democratic accountability are ensured when a public organization implements and maintains their own public code. By being open and with a broader contributor base, the software is more secure - it benefits from many eyes spotting potential flaws. Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt. The shared workload is more sustainable now and in the future. Its openness makes the code and its data more easily adaptable in the future – it will be easier to retool, repurpose or retire. This all results in lower risk public infrastructure.
 
 This pooling of resources lets public administrations give extra attention to how to customise the software so it works best in each local context - creating better user experiences for their end users (residents or citizens).
 
 ### Economics of public code
 
-Public code offers a better economic model for public organisations as well as for commercial companies. It's an alternative to traditional software procurement, which increases local control and economic opportunity.
+Public code offers a better economic model for public organizations as well as for commercial companies. It's an alternative to traditional software procurement, which increases local control and economic opportunity.
 
 Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendor if they need. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts - thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
 
@@ -117,7 +117,7 @@ This Standard supports developers, designers, business management and policy mak
 * have more granular control over, and ability to make decisions about, their IT systems
 * improve vendor relationships with a better economic model
 
-The [Foundation for Public Code](https://publiccode.net/) helps public organisations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
+The [Foundation for Public Code](https://publiccode.net/) helps public organizations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
 
 Potential users of codebases tested against the Standard for Public Code can expect them to be highly reusable, easily maintainable and high quality.
 
@@ -137,10 +137,10 @@ The Standard for Public Code is for the people who create and reuse public code:
 
 These people work at:
 
-* public organisations: institutions and administrations
-* consultancies and vendors of information technology and policy services to public organisations
+* public organizations: institutions and administrations
+* consultancies and vendors of information technology and policy services to public organizations
 
-It is not aimed at public organisations' end users (residents or citizens), journalists or academics.
+It is not aimed at public organizations' end users (residents or citizens), journalists or academics.
 
 ## Get involved
 

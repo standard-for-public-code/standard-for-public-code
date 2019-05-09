@@ -22,7 +22,7 @@ order: 8
 
 * Users can start using and contributing more quickly
 * You help people discover your codebase, especially people asking 'is there already code that does something like this'
-* Provide transparency into your organisation and processes
+* Provide transparency into your organization and processes
 
 ## What this does not do
 
@@ -30,7 +30,7 @@ order: 8
 
 ## How to test
 
-* Other stakeholders, professionals from other public organisations and the general public find the documentation clear and understandable
+* Other stakeholders, professionals from other public organizations and the general public find the documentation clear and understandable
 * Documentation is generated from code
 * Links and images are automatically tested
 

@@ -9,7 +9,7 @@ order: 3
 * The codebase MUST be developed to be reusable in different contexts
 * The codebase MUST be independent from any secret, proprietary or non-open licenced code or services for execution and understanding
 * Code SHOULD be general purpose and SHOULD be configurable
-* Code and its documentation SHOULD not contain situation-specific information. For example, personal and organisational data as well as tokens and passwords should never be included.
+* Code and its documentation SHOULD not contain situation-specific information. For example, personal and organizational data as well as tokens and passwords should never be included.
 
 
 ## What this does
@@ -25,7 +25,7 @@ order: 3
 
 ## How to test
 
-* Ask someone in a similar role at another organisation if they could reuse your codebase and what that would entail
+* Ask someone in a similar role at another organization if they could reuse your codebase and what that would entail
 
 ## Policy makers: what you need to do
 
