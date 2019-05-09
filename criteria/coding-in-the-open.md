@@ -12,7 +12,7 @@ order: 1
 * The source code MAY provide the general public with insight into which source code or policy underpins any specific interaction they have with your organization.
 
 
-## What this does
+## Why this is important
 
 * Improves transparency
 * Increases code quality

@@ -16,7 +16,7 @@ order: 6
 * Reviews SHOULD happen within two business days
 * Reviews MAY be performed by multiple reviewers
 
-## What this does
+## Why this is important
 
 * Increases codebase quality
 * Reduces security as well as operational risks

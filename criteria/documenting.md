@@ -18,7 +18,7 @@ order: 8
   * examples that make users want to immediately start using your codebase!
 * You MAY use the examples in your documentation to test your code
 
-## What this does
+## Why this is important
 
 * Users can start using and contributing more quickly
 * You help people discover your codebase, especially people asking 'is there already code that does something like this'

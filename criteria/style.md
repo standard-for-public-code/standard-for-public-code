@@ -11,7 +11,7 @@ order: 13
 * Your codebase SHOULD include inline comments and documentation for non-trivial sections
 * You MAY include sections in your style guide on understandable english
 
-## What this does
+## Why this is important
 
 * Enables contributors in different environments to work together on a unified product
 * Unify vocabularies removing friction from communication between contributors
