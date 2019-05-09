@@ -13,7 +13,7 @@ order: 11
 * Policy and documentation MAY have testing for consistency with the source and vice-versa
 * Policy and documentation MAY have testing for style, broken links
 
-## What this does
+## Why this is important
 
 * Quickly identify problems with your codebase
 * Enable taking risks and focussing on problem solving whilst minimising stress on the contributors

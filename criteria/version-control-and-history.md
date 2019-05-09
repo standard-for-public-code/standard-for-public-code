@@ -13,7 +13,7 @@ order: 5
 * You SHOULD group relevant changes in commits
 * You SHOULD prefer file formats that can easily be version controlled
 
-## What this does
+## Why this is important
 
 Version control means keeping track of changes to your code over time. This allows you to create structured documentation of the history of the codebase. This is essential for collaboration at scale.
 

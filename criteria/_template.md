@@ -2,7 +2,7 @@
 
 ## Requirements
 
-## What this does
+## Why this is important
 
 ## What this does not do
 
