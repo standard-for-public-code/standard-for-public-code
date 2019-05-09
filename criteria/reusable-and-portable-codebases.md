@@ -7,16 +7,16 @@ order: 3
 ## Requirements
 
 * The codebase MUST be developed to be reusable in different contexts
-* The codebase MUST be independent from any secret, proprietary or non-open licenced code or services for execution and understanding
+* The codebase MUST be independent from any secret, proprietary or non-open licensed code or services for execution and understanding
 * Code SHOULD be general purpose and SHOULD be configurable
-* Code and its documentation SHOULD not contain situation-specific information. For example, personal and organisational data as well as tokens and passwords should never be included.
+* Code and its documentation SHOULD not contain situation-specific information. For example, personal and organizational data as well as tokens and passwords should never be included.
 
 
-## What this does
+## Why this is important
 
 * Enables other policy makers, developers and designers to reuse what you've developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintainability and higher reliability.
-* More general code is easier to understand for new people that have to work with the code.
-* Understanding and reflecting on how codebases can be reused makes it easier to control the mission, vision and scope of the codebase.
+* Makes the code easier for new people to understand (as it's more general)
+* Makes it easier to control the mission, vision and scope of the codebase because the codebase is thoughtfully and purposefully designed for reusability
 
 ## What this does not do
 
@@ -25,7 +25,7 @@ order: 3
 
 ## How to test
 
-* Ask someone in a similar role at another organisation if they could reuse your codebase and what that would entail
+* Ask someone in a similar role at another organization if they could reuse your codebase and what that would entail
 
 ## Policy makers: what you need to do
 

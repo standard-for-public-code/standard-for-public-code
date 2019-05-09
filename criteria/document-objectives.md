@@ -10,7 +10,7 @@ order: 7
 * The codebase SHOULD contain documentation on its objectives understandable by policy makers and management
 * The codebase MAY contain documentation on its objectives for the general public
 
-## What this does
+## Why this is important
 
 * Provide an easy way for people to decide whether this codebase is interesting for them now or in the future
 * Help scope your own development as well as clearly communicate to other stakeholders and contributors what the codebase is for
@@ -31,7 +31,7 @@ order: 7
 
 ## Management: what you need to do
 
-* Add the organisational and business objectives to the codebase documentation, for instance in the `README`
+* Add the organizational and business objectives to the codebase documentation, for instance in the `README`
 
 ## Developers and designers: what you need to do
 

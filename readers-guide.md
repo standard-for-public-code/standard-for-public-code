@@ -9,7 +9,7 @@ This section lists what needs to be done in order to comply with the standard.
 In order to limit ambiguity, the key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL
 NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119).
 
-## What this does
+## Why this is important
 
 This section explains why it is important for the users and contributors of this codebase that these requirements are followed.
 
@@ -21,7 +21,6 @@ This helps:
 
 * with applying the Standard correctly
 * make sure no unexpected things pop up
-
 
 ## How to test
 
