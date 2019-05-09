@@ -12,7 +12,7 @@ order: 2
 * Policy SHOULD be provided in machine readable and unambiguous formats
 * Continuous integration tests SHOULD validate the source code and the policy are executed coherently
 
-## What this does
+## Why this is important
 
 * Make sure access is guaranteed to both the source code and the policy documents to facilitate effective reuse of a codebase
 

@@ -14,7 +14,7 @@ order: 10
 * All non-compliant standards used MUST be documented clearly in the documentation
 * The codebase MAY contain a list of all the standards used with links to where they are available
 
-## What this does
+## Why this is important
 
 * Creates interoperability between systems
 * Reduces possible vendor-lock in

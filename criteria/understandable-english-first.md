@@ -12,7 +12,7 @@ order: 9
 * The name of the project or codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or branding for names.
 * Any code, documentation and tests MAY have a translation.
 
-## What this does
+## Why this is important
 
 * Make your codebase and what it does understandable for a wider variety of stakeholders in multiple contexts.
 * Helps with the discoverability of your codebase.
