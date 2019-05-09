@@ -1,10 +1,18 @@
 # Introduction
 
-Public code is both civil code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines.
+The Standard for Public Code is a set of criteria that supports public organisations in developing and maintaining software and policy together. 
 
-The Foundation for Public Code makes the explicit distinction between regular software and public software because it operates under fundamentally different circumstances and expectations.
+Anyone developing software or policy for a public purpose can use this standard to work towards higher quality public services that are more cost effective, with less risk and more control.
 
-## What is public code
+This introduction introduces the term public code, explains why this is important, and introduces the process through which software and policy code can become certified public code. 
+
+## Definition of public code
+
+Public code is both civic code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines. Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
+
+## Why public code?
+
+There are many reasons for why public code is relevant now.
 
 ### Software code == legal code
 
