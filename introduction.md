@@ -1,24 +1,142 @@
 # Introduction
 
-The Standard for Public Code is a method for developing civic and source code for public purposes.
+The Standard for Public Code is a set of criteria that supports public organizations in developing and maintaining software and policy together. 
 
-We define ‘public code’ as open source software developed by public public organisations, together with the policy and guidance needed for reuse.
+Anyone developing software or policy for a public purpose can use this standard to work towards higher quality public services that are more cost effective, with less risk and more control.
 
-The [Foundation for Public Code](https://publiccode.net/) helps public organisations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code.
+This introduction introduces the term public code, explains why this is important, and introduces the process through which software and policy code can become certified public code. 
 
-## The goals for the Standard
+## Definition of public code
 
-The Standard:
+Public code is both civic code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines. Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
 
-* guides organisations to the criteria they need to meet for their code to be included for Foundation stewardship
-* provides reassurance that all code under Foundation stewardship is high quality and reusable
+## Why public code?
 
-* The Standard for Public Code does this by:
-  * setting out a common terminology for public code development
-  * establishing measures to help develop high quality public code
-  * providing guidance on how to implement the standards
+There are many reasons for why public code is relevant now.
 
-## Who this is for
+### Software code == legal code
+
+Software is public infrastructure.
+
+In the 21st century, software can be considered vital public infrastructure. It is increasingly not just the expression of existing policy but the originator of new policy - for example where algorithms decide which districts need extra social services or policing.
+
+Software mechanics, algorithms and data collection have become key elements in the execution of public policies. Computer code now executes policies that have been codified in legal code through democratic procedures. Both forms of code set conditions for society to function according to democratically set public values, the latter executed by humans, the former by machines. In other words, software code has increasingly started to equal legal code. 
+
+Software should therefore be subject to the principles of democratic governance.
+
+### Traditional public software procurement
+
+The current public software production method does not serve public service delivery very well.
+
+In the last decade, public organizations that purchased complete software solutions have sometimes been surprised to discover that they:
+
+* can’t change their software to reflect changing policy or take advantage of new technology
+* don’t have access to their data as it's locked in to systems
+* are asked to pay ever increasing license fees
+
+### Technological sovereignty and democratic accountability
+
+Public institutions, civil servants and residents deserve better.
+
+We believe the software that runs our society can no longer be a black box, ordered from outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as essential civic infrastructure should honor digital citizens’ rights.
+
+### Designing truly public software
+
+Public code is at the core of modern public institutions, shapes the work of civil servants and affects the lives of almost all residents.
+
+Public software must therefore be:
+
+* transparent
+* accountable
+* understandable for its constituents
+
+It must reflect the values of the society it serves, for example by being inclusive and non-discriminatory.
+
+Most proprietary software systems currently used by public organizations do not meet these requirements. Public code - software built to operate with and as public infrastructure, along with the arrangements for its production - does.
+
+### Values of public code
+
+We consider public code to have these core values:
+
+* Inclusive
+* Usable
+* Open
+* Legible
+* Accountable
+* Accessible
+* Sustainable
+
+## How public code works
+
+Public code is open source software meant for fulfilling the essential role of public organizations. Through use, other administrations contribute back to the software, so that its development and maintenance become truly collaborative.
+
+Being open unlocks many other things.
+
+Local responsibility and democratic accountability are ensured when a public organization implements and maintains their own public code. By being open and with a broader contributor base, the software is more secure - it benefits from many eyes spotting potential flaws. Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt. The shared workload is more sustainable now and in the future. Its openness makes the code and its data more easily adaptable in the future – it will be easier to retool, repurpose or retire. This all results in lower risk public infrastructure.
+
+This pooling of resources lets public administrations give extra attention to how to customise the software so it works best in each local context - creating better user experiences for their end users (residents or citizens).
+
+### Economics of public code
+
+Public code offers a better economic model for public organizations as well as for commercial companies. It's an alternative to traditional software procurement, which increases local control and economic opportunity.
+
+Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendor if they need. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts - thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
+
+This can be seen as investment leading to future economic growth - more vendors will be necessary due to growing technology demand.
+
+### Procuring public code
+
+Public code can be used and developed by permanent in-house development teams, contractors or outsourced suppliers. Vendors to public organizations can include public code in their bids for contracts.
+
+To use existing public code, you need to specify in your budget and project design that your new solution will use that codebase. To encourage an innovative approach to adapting the public code to your context, you could describe the service or outcome in your contract.
+
+## Standard compliance or certification process
+
+Our organization ensures that codebases under its stewardship (and not in incubation or the attic) are compliant with the Standard for Public Code. This makes clear to potential users and contributors that the codebase is of high quality, and updates will be too.
+
+The audit performed by our organization is meant to complement machine testing, as machines are great at testing things like syntax and whether outcomes align with expectations. Things meant for humans, such as testing whether documentation is actually understandable and attached, the commit messages make sense and whether community guidelines are being followed are impossible for machines to test against.
+
+The audit tests the entire codebase, including source code, policy, documentation and conversation for compliance with both the standards set out by our organization and the standards set out in the codebase itself.
+
+### How the process works
+
+Every time a contribution is suggested to a codebase – through for instance a merge request – the [codebase stewards](https://about.publiccode.net/roles/) of our organization will audit the contribution for compliance with the Standard for Public Code. New contributions can only be adopted into the codebase after they have been approved as compliant with the Standard for Public Code, as well as being reviewed by another contributor.
+
+The audit is presented as a review of the contribution. The codebase steward gives line by line feedback and compliance, helping the contributor to improve their contribution. The merge request cannot be fulfilled until the codebase stewards have approved the contribution.
+
+![Pull Request Acceptance process](images/audit-flow.svg)
+
+### Certifying an entire codebase versus a contribution
+
+For the codebase to be completely certified every meaningful line of code, and the commits behind the code, need to meet the Standard.
+ 
+If codebases have been completely audited from the first merge request they can be completely be certified as compliant with the Standard for Public Code immediately.
+
+If the audit process is added to an existing codebase, the new merge requests can be certified, but the existing code cannot be certified. By auditing every new merge request the codebase can move towards being completely certified.
+
+## The goals for the Standard for Public Code 
+
+This Standard supports developers, designers, business management and policy makers to:
+
+* develop high quality software and policy for better public service delivery
+* develop reusable codebases that can be reused across contexts and collaboratively maintained
+* reduce technical debt and project failure rate
+* have more granular control over, and ability to make decisions about, their IT systems
+* improve vendor relationships with a better economic model
+
+[We help public organizations](https://publiccode.net/) share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
+
+Potential users of codebases tested against the Standard for Public Code can expect them to be highly reusable, easily maintainable and high quality.
+
+The Standard for Public Code does this by:
+
+* setting out a common terminology for public code development
+* establishing measures to help develop high quality public code
+* providing guidance on how to fulfill its criteria and operationalise compliance
+
+The Standard for Public Code is meant to be time and technology independent.
+
+### Who this is for
 
 The Standard for Public Code is for the people who create and reuse public code:
 
@@ -28,53 +146,11 @@ The Standard for Public Code is for the people who create and reuse public code:
 
 These people work at:
 
-* public organisations: institutions and administrations
-* vendors of policy and information technology to public organisations
+* public organizations: institutions and administrations
+* consultancies and vendors of information technology and policy services to public organizations
 
-It is not aimed at public organisations' end users (residents or citizens), journalists or academics.
+It is not aimed at public organizations' end users (residents or citizens), journalists or academics.
 
-## Background (why use public code!)
+## Get involved
 
-In the public context in the 21st century, software can be considered vital infrastructure. It mediates/governs the expression of policy - and where it learns to make its own decisions (for example machine learning algorithms), it is potentially writing new policy.
-
-We hold that software and policy are both code. The former executed by machines and the latter by humans.
-
-This leads to a number of new concerns.
-
-### Sovereignty
-
-* Preferable economic model
-  * More vendors necessary due to growing demand of digitalisation
-
-### The difference between private and public technologies
-
-* Procurement and its effects
-* Why have control
-  * De-risking infrastructure
-  * Sustainability
-* Commodity versus specialistic code
-  * Reducing technical debt
-* Core values
-  * Inclusive, usable, open, legible, accountable, accessible and sustainable
-
-### Collaboration between (public) organisations and the pooling of resources
-
-* What is important to take into account when writing public policy for the digital age
-* What is important to take into account when writing software for a public goal
-
-## Procuring public code
-
-You don't need to change your technology suppliers or procurement process to use public code. It can be used by your permanent in-house development team, contractors or outsourced suppliers. Vendors to public organisations can include public code in their bids for contracts.
-
-To use existing public code, you need to specify in your budget and project design that your new solution will use that codebase. To encourage an innovative approach to adapting the public code to your context, you could describe the service or outcome in your contract.
-
-You don't need to ask us to use the code, but of course, we would like to know!
-
-To build new public code for contribution to Foundation for Public Code stewardship, you'll need to:
-
-* meet the Standard for Public Code as you plan and develop your code
-* have your code certified by the Foundation for Public Code
-
-## Certification of public code
-
-The Foundation for Public Code will start certifying codebases after it launches in summer 2019. We'll add more information about how to work with us then. Watch this space!
+This standard is a living document. [Read our contributor guide](/CONTRIBUTING.md) to learn how you can make it better.

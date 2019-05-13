@@ -4,7 +4,7 @@ order: 10
 
 # Use open standards
 
-## Measure
+## Requirements
 
 * For features of a codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)
 * If no existing open standard is available, effort SHOULD be put into developing one
@@ -13,13 +13,13 @@ order: 10
 * All non-compliant standards used MUST be documented clearly in the documentation
 * The codebase MAY contain a list of all the standards used with links to where they are available
 
-## What this does
+## Why this is important
 
 * Creates interoperability between systems
 * Reduces possible vendor-lock in
 * Guarantees access to the knowledge required to reuse and contribute to the codebase
 
-## What this doesn’t do
+## What this does not do
 
 * Make it understandable how to use the software
 

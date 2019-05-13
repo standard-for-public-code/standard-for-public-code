@@ -1,27 +1,23 @@
-remote_theme: publiccodenet/jekyll-theme
 title: Standard for Public Code
+version: 0.1.1
 
+remote_theme: publiccodenet/jekyll-theme
 include: 
   - "README.md"
   - "CONTRIBUTING.md"
+  - "LICENSE.md"
+  - "CODE_OF_CONDUCT.md"
 
 toc: true
 
 defaults:
   -
-    scope: 
-      path: '/standards/[!index]*'
+    scope:
+      path: '/criteria/[!index]*'
     values:
       breadcrumbs:
-        - name: 'Standards'
-          path: '/standards/'
-  -
-    scope: 
-      path: '/glossary/[!index]*'
-    values:
-      breadcrumbs:
-        - name: 'Glossary'
-          path: '/glossary/'
+        - name: 'Criteria'
+          path: '/criteria/'
   -
     scope: 
       path: '/'

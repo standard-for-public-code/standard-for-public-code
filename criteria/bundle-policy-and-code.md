@@ -1,22 +1,22 @@
-›---
+---
 order: 2
 ---
 
 # Bundle policy and source code
 
-## Measure
+## Requirements
 
-* A codebase MUST include all the policy that the source code is based upon
+* A codebase MUST include the policy that the source code is based upon
 * A codebase MUST include all source code that the policy is based upon
 * All policy and source code that the codebase is based upon MUST be documented, reusable and portable
 * Policy SHOULD be provided in machine readable and unambiguous formats
 * Continuous integration tests SHOULD validate the source code and the policy are executed coherently
 
-## What this does
+## Why this is important
 
-* Make sure anyone has access to both the source and civic code necessary to effectively reuse a codebase
+* Make sure access is guaranteed to both the source code and the policy documents to facilitate effective reuse of a codebase
 
-## What this doesn’t do
+## What this does not do
 
 * Guarantee that a codebase will reflect the bundled policy
 * Make sure packages comply with the local technical infrastructure or legal framework of a given public organization
@@ -36,11 +36,11 @@ order: 2
 ## Management: what you need to do
 
 * Involve policy makers, developers and designers and keep them connected throughout the whole development process
-* Make sure policy makers, developers and designers they are working on the same objectives
+* Make sure policy makers, developers and designers are working on the same objectives
 
 ## Developers and designers: what you need to do
 
-* Developers and designers should become familiar with and be able to use the process modelling notation that the policy makers in your organization use.  
+* Developers and designers should become familiar with and be able to use the process modelling notation that the policy makers in your organization use  
 * Developers and designers should work together with policy makers to ensure there is no mismatch between policy code and source code.
 
 ## Further reading

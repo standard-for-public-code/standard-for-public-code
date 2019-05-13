@@ -3,7 +3,7 @@ order: 14
 ---
 # Pay attention to codebase maturity
 
-## Measure
+## Requirements
 
 * A codebase MUST be versioned
 * A codebase that is ready to use MUST only depend on other codebases that are also ready to use
@@ -14,12 +14,11 @@ order: 14
     * pre-release version - code that is ready to be released but hasn't received formal approval yet
 * A codebase SHOULD contain a log of changes from version to version
 
-
-## What this does
+## Why this is important
 
 Clearly signalling the maturity of a codebase helps others to decide whether to reuse the project, invest or contribute to it.
 
-## What this doesn’t do
+## What this does not do
 
 * Guarantee that others will use your code.
 
@@ -36,7 +35,7 @@ Clearly signalling the maturity of a codebase helps others to decide whether to 
 
 ## Management: what you need to do
 
-* Make sure code that is marked with a different status is never used to provide a service that is not in that state, e.g. using a beta codebase in a production service or using a prototype codebase in a beta service.
+* Make sure code that is marked with a different status is never used to provide a service that is not in that state, e.g. using a beta codebase in a production service or using a prototype codebase in a beta service
 
 ## Developers and designers: what you need to do
 

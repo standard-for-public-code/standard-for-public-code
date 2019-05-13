@@ -4,7 +4,7 @@ order: 9
 
 # Use plain English
 
-## Measure
+## Requirements
 
 * All code and documentation MUST be in English.
 * Any translation MUST be up to date with the English version and vice-versa.
@@ -12,15 +12,15 @@ order: 9
 * The name of the project or codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or branding for names.
 * Any code, documentation and tests MAY have a translation.
 
-## What this does
+## Why this is important
 
 * Make your codebase and what it does understandable for a wider variety of stakeholders in multiple contexts.
 * Helps with the discoverability of your codebase.
 
-## What this doesn’t do
+## What this does not do
 
 * Make explanations of your codebase's functionality understandable
-* Make your organisation's jargon understandable without an explanation
+* Make your organization's jargon understandable without an explanation
 
 ## How to test
 

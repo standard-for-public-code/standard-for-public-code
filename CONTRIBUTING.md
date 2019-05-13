@@ -2,7 +2,7 @@
 
 🙇‍♀️ Thank you for contributing!
 
-We – the maintainers and contributors of this project – understand that a standard like this can only be set in collaboration with as many public technologists, policy makers and interested folk as possible. Thus we appreciate your input, enjoy feedback and welcome improvements to this project and are very open to collaboration.
+We understand that a standard like this can only be set in collaboration with as many public technologists, policy makers and interested folk as possible. Thus we appreciate your input, enjoy feedback and welcome improvements to this project and are very open to collaboration.
 
 We love issues and pull requests from everyone.
 
@@ -18,7 +18,7 @@ If you want to add to the documentation or code of one of our projects you shoul
 
 If you never used GitHub, get up to speed with [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) or follow one of the great free interactive courses in the [GitHub learning lab](https://lab.github.com/) on working with GitHub and working with MarkDown, the syntax this project's documentation is in.
 
-This project is [licenced CC-0](LICENCE.md), which essentially means that the project, along with your contributions is in the public domain in whatever jusrisdiction possible, and everyone can do whatever they want with it.
+This project is [licensed CC-0](LICENSE.md), which essentially means that the project, along with your contributions is in the public domain in whatever jusrisdiction possible, and everyone can do whatever they want with it.
 
 ### 1. Make your changes
 
