@@ -59,7 +59,7 @@ Most proprietary software systems currently used by public organizations do not 
 We consider public code to have these core values:
 
 * Inclusive
-* reusable
+* Reusable
 * Open
 * Legible
 * Accountable
