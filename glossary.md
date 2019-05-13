@@ -20,7 +20,7 @@ Open source is defined by the Open Source Initiative in their [Open Source Defin
 
 ## Open standard
 
-Open standard is used as to describe any standard the meets the requirements as defined by the Open Source Initiative in their [Open Standard Requirements](https://opensource.org/osr).
+An open standard is any standard that meets the Open Source Initiative's [Open Standard Requirements](https://opensource.org/osr).
 
 ## Public code
 
