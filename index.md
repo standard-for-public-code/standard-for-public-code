@@ -9,7 +9,7 @@ The Standard for Public Code gives cities a model for building their own open so
 * [Introduction and background](introduction.md)
 * [Readers guide: how to interpret this standard](readers-guide.md)
 * [Criteria](criteria/)
-  * [Code in the open](criteria/coding-in-the-open.md)
+  * [Code in the open](criteria/code-in-the-open.md)
   * [Bundle policy and source code](criteria/bundle-policy-and-code.md)
   * [Create reusable and portable code](criteria/reusable-and-portable-codebases.md)
   * [Welcome contributions](criteria/open-to-contributions.md)
