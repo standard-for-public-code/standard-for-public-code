@@ -26,7 +26,7 @@ Software should therefore be subject to the principles of democratic governance.
 
 ### Traditional public software procurement
 
-The current public software production method does not serve public service delivery very well.
+The current public software production methods have not serve public service delivery very well.
 
 In the last decade, public organizations that purchased complete software solutions have sometimes been surprised to discover that they:
 
