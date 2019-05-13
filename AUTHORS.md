@@ -22,6 +22,10 @@ Code For NL
 
 * Johan Groenen
 
+ICTU
+
+* Edo Plantinga
+
 Individual Contributors
 
 * Floris Deerenberg
