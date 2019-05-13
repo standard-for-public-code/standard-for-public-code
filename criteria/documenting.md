@@ -14,8 +14,7 @@ order: 8
   * a section describing how to install and run a standalone version of the source code, including, if necessary, a test dataset
   * examples for all functionality
 * There SHOULD be continuous integration tests for the quality of your documentation
-* The documentation of your codebase MAY contain the following:
-  * examples that make users want to immediately start using your codebase!
+* The documentation of your codebase MAY contain examples that make users want to immediately start using your codebase
 * You MAY use the examples in your documentation to test your code
 
 ## Why this is important
