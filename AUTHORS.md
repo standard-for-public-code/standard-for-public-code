@@ -22,7 +22,11 @@ Code For NL
 
 * Johan Groenen
 
-Individual Contributors
+ICTU
+
+* Edo Plantinga
+
+Individual contributors
 
 * Floris Deerenberg
 * Arnout Schuijff
