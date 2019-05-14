@@ -6,15 +6,15 @@ order: 2
 
 ## Requirements
 
-* A codebase MUST include the policy that the source code is based upon
-* A codebase MUST include all source code that the policy is based upon
-* All policy and source code that the codebase is based upon MUST be documented, reusable and portable
+* A codebase MUST include the policy that the source code is based on
+* A codebase MUST include all source code that the policy is based on
+* All policy and source code that the codebase is based on MUST be documented, reusable and portable
 * Policy SHOULD be provided in machine readable and unambiguous formats
-* Continuous integration tests SHOULD validate the source code and the policy are executed coherently
+* Continuous integration tests SHOULD validate that the source code and the policy are executed coherently
 
 ## Why this is important
 
-* Make sure access is guaranteed to both the source code and the policy documents to facilitate effective reuse of a codebase
+This makes sure access is guaranteed to both the source code and the policy documents to facilitate effective reuse of a codebase.
 
 ## What this does not do
 
@@ -35,13 +35,13 @@ order: 2
 
 ## Management: what you need to do
 
-* Involve policy makers, developers and designers and keep them connected throughout the whole development process
-* Make sure policy makers, developers and designers are working on the same objectives
+* Keep policy makers, developers and designers involved and connected throughout the whole development process
+* Make sure policy makers, developers and designers are working to the same objectives
 
 ## Developers and designers: what you need to do
 
-* Developers and designers should become familiar with and be able to use the process modelling notation that the policy makers in your organization use  
-* Developers and designers should work together with policy makers to ensure there is no mismatch between policy code and source code.
+* Become familiar with and be able to use the process modelling notation that the policy makers in your organization use  
+* Work together with policy makers to ensure there is no mismatch between policy code and source code
 
 ## Further reading
 
