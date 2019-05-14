@@ -26,7 +26,7 @@ ICTU
 
 * Edo Plantinga
 
-Individual Contributors
+Individual contributors
 
 * Floris Deerenberg
 * Arnout Schuijff
