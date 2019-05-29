@@ -22,7 +22,7 @@ This project is [licensed CC-0](LICENSE.md), which essentially means that the pr
 
 ### 1. Make your changes
 
-This project uses the [GitFlow branching model and workflow](http://nvie.com/posts/a-successful-git-branching-model/). When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
+This project uses the [GitFlow branching model and workflow](https://nvie.com/posts/a-successful-git-branching-model/). When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
 
 Add your changes in commits [with a message that explains them](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message). Document choices or decisions you make in the commit message, this will enable everyone to be informed of your choices in the future.
 
