@@ -43,6 +43,6 @@ order: 9
 
 ## Further reading
 
-* [Hemingway text editor](http://www.hemingwayapp.com/) - highlights lengthy, complex sentences and common errors
-* [Upgoer 5 text editor](http://splasho.com/upgoer5/) - only allows 1000 most common words
+* [Hemingway text editor](https://hemingwayapp.com/) - highlights lengthy, complex sentences and common errors
+* [Upgoer 5 text editor](https://splasho.com/upgoer5/) - only allows 1000 most common words
 
