@@ -10,7 +10,7 @@ order: 3
 * The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed code or services for execution and understanding
 * Code SHOULD be general purpose and SHOULD be configurable
 * Codebases SHOULD include a [publiccode.yml](https://github.com/publiccodenet/publiccode.yml/) metadata description so that they're easily discoverable
-* Code and its documentation SHOULD not contain situation-specific information. For example, personal and organizational data as well as tokens and passwords should never be included.
+* Code and its documentation SHOULD not contain situation-specific information. For example, personal and organizational data as well as tokens and passwords used in the production system should never be included.
 
 ## Why this is important
 
