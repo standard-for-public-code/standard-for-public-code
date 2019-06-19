@@ -1,6 +1,6 @@
 # Authors
 
-[Our organization](https://publiccode.net)
+[The Foundation for Public Code](https://publiccode.net)
 
 * Ben Cerveny
 * Elena Findley-de Regt
