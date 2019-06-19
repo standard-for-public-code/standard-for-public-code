@@ -35,13 +35,13 @@ order: 4
 
 ## Policy makers: what you need to do
 
-* Add a list to the codebase of any other resources, policy experts, non-governmental organizations and academics would find useful for understanding and reusing your policy.
-* Track policy issues in the codebase, so that a relevant external policy expert can volunteer help.
-* Consider adding contact details so that other policy makers considering reuse can ask you for advice.
+* Add a list to the codebase of any other resources that policy experts, non-governmental organizations and academics would find useful for understanding or reusing your policy
+* Track policy issues in the codebase, so that a relevant external policy expert can volunteer help
+* Consider adding contact details so that other policy makers considering reuse can ask you for advice
 
 ## Management: what you need to do
 
-* Add to the documentation: how your organization is involved in the project, what resources it has available for it and for how long
+* Make sure the documentation explains how your organization is involved in the project, what resources it has available for it and for how long
 * Track management issues in the codebase, so that external managers with relevant experience can volunteer help.
 * Support your experienced policy makers, developers and designers to keep contributing to the codebase for as long as possible.
 
