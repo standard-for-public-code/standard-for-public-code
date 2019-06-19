@@ -14,11 +14,11 @@ You don't need to change any of our code or documentation to be a contributor!
 
 ## Documentation and code in pull requests
 
-If you want to add to the documentation or code of one of our projects you should make a pull request. 
+If you want to add to the documentation or code of one of our projects you should make a pull request.
 
 If you never used GitHub, get up to speed with [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) or follow one of the great free interactive courses in the [GitHub learning lab](https://lab.github.com/) on working with GitHub and working with MarkDown, the syntax this project's documentation is in.
 
-This project is [licensed CC-0](LICENSE.md), which essentially means that the project, along with your contributions is in the public domain in whatever jusrisdiction possible, and everyone can do whatever they want with it.
+This project is [licensed CC-0](LICENSE.md), which essentially means that the project, along with your contributions is in the public domain in whatever jurisdiction possible, and everyone can do whatever they want with it.
 
 ### 1. Make your changes
 
@@ -26,7 +26,7 @@ This project uses the [GitFlow branching model and workflow](https://nvie.com/po
 
 Add your changes in commits [with a message that explains them](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message). Document choices or decisions you make in the commit message, this will enable everyone to be informed of your choices in the future.
 
-If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request. Make sure to write tests that show the behaviour of the newly added or changed code.
+If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request. Make sure to write tests that show the behavior of the newly added or changed code.
 
 ### 2. Pull request
 
@@ -42,7 +42,7 @@ If your documentation and code have passed human review, it is merged.
 
 ### 4. Celebrate
 
-Your ideas, documentation and code have become an integral part of this project. You are the open source hero we need! 
+Your ideas, documentation and code have become an integral part of this project. You are the open source hero we need!
 
 In fact, feel free to open a PR to add your name to the [`AUTHORS`](AUTHORS.md) file and get eternal attribution.
 
