@@ -35,7 +35,7 @@ order: 8
 
 ## Policy makers: what you need to do
 
-* Try to periodically understand what the non-policy code in the codebase does
+* Check in regularly to understand how the non-policy code in the codebase has changed
 * Give feedback on how to make non-policy documentation more clear
 
 ## Management: what you need to do
@@ -45,7 +45,8 @@ order: 8
 
 ## Developers and designers: what you need to do
 
-* Try to periodically understand what the non-source code in the codebase does
+* Check in regularly to understand how the non-source code in the codebase has changed
+* Give feedback on how to make non-source documentation more clear
 
 ## Further reading
 
