@@ -6,11 +6,11 @@ order: 8
 ## Requirements
 
 * All of the functionality of your codebase – policy as well as source – MUST be described in language clearly understandable for those that understand the purpose of the code
-* The documentation of your codebase MUST contain the following:
+* The documentation of your codebase MUST contain:
   * a description of how to install and run the source code
-  * a selection of examples, demonstrating the key functionality
-* The documentation of your codebase SHOULD contain the following:
-  * a high level description that is clearly understandable for a wide audience of stakeholders such as the general public and journalists
+  * examples demonstrating the key functionality
+* The documentation of your codebase SHOULD contain:
+  * a high level description that is clearly understandable for a wide audience of stakeholders, like the general public and journalists
   * a section describing how to install and run a standalone version of the source code, including, if necessary, a test dataset
   * examples for all functionality
 * There SHOULD be continuous integration tests for the quality of your documentation
@@ -21,11 +21,11 @@ order: 8
 
 * Users can start using and contributing more quickly
 * You help people discover your codebase, especially people asking 'is there already code that does something like this'
-* Provide transparency into your organization and processes
+* This provides transparency into your organization and processes
 
 ## What this does not do
 
-* Contribute directly to more reusable, portable code (see Coding in the open)
+* Contribute directly to more reusable, portable code (see [Code in the open](code-in-the-open.md))
 
 ## How to test
 
@@ -41,7 +41,7 @@ order: 8
 ## Management: what you need to do
 
 * Try to use the codebase
-* Make sure you understand both the policy and source as well as its documentation
+* Make sure you understand both the policy and source code as well as the documentation
 
 ## Developers and designers: what you need to do
 
