@@ -9,9 +9,9 @@ order: 10
 * For features of a codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)
 * If no existing open standard is available, effort SHOULD be put into developing one
 * Standards that are machine testable SHOULD be preferred over those that are not
-* Functionality using features from a non-open standard (one that doesn't meet the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)) MAY be provided if necessary, but only in addition to compliant features.
+* Functionality using features from a non-open standard (one that doesn't meet the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)) MAY be provided if necessary, but only in addition to compliant features
 * All non-compliant standards used MUST be documented clearly in the documentation
-* The codebase MAY contain a list of all the standards used with links to where they are available
+* The codebase SHOULD contain a list of all the standards used with links to where they are available
 
 ## Why this is important
 
@@ -25,7 +25,8 @@ order: 10
 
 ## How to test
 
-* Are the standards that are used for all features that offer interoperability with other components and systems freely and publicly available on the internet. Make a list of the standards and add these to the documentation.
+* The standards used for all features that offer interoperability with other components and systems are freely and publicly available on the internet.
+* The documentation includes a list of the standards.
 
 ## Policy makers: what you need to do
 
