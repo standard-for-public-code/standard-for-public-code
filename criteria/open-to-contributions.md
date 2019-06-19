@@ -13,6 +13,7 @@ order: 4
 * The codebase MUST include contribution guidelines explaining how contributors can get involved, for example in a `CONTRIBUTING` file
 * The codebase SHOULD have a publicly available roadmap
 * The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance
+* The documentation should include an explanation of how security disclosures will be handled
 * The codebase MAY include a code of conduct for contributors
 * The codebase MAY document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file
 
