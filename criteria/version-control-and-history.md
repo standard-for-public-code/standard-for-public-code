@@ -17,7 +17,7 @@ order: 5
 
 Version control means keeping track of changes to your code over time. This allows you to create structured documentation of the history of the codebase. This is essential for collaboration at scale.
 
-Version control enables you to:
+Version control allows you to:
 
 * revert to an earlier version of the codebase whenever you want to
 * record your changes and the reasons why you made them, to help future developers understand the process
@@ -26,7 +26,7 @@ Version control enables you to:
 
 ## What this does not do
 
-* Substitute for advertising maturity
+* Substitute for [advertising maturity](advertise-maturity.md)
 * Guarantee your code executes correctly
 * Guarantee collaborators
 
