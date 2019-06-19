@@ -25,8 +25,8 @@ order: 10
 
 ## How to test
 
-* The standards used for all features that offer interoperability with other components and systems are freely and publicly available on the internet.
 * The documentation includes a list of the standards.
+* The standards used for all features that offer interoperability with other components and systems are freely and publicly available on the internet.
 
 ## Policy makers: what you need to do
 
@@ -42,4 +42,4 @@ order: 10
 
 ## Further reading
 
-* [Open Standard Requirements](https://opensource.org/osr) by the Open Source Initiative 
+* [Open Standard Requirements](https://opensource.org/osr) by the Open Source Initiative
