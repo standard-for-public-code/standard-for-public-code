@@ -6,7 +6,7 @@ order: 13
 
 ## Requirements
 
-* Contributions MUST adhere to a coding and/or writing style guide, either your own or an existing one that is advertized in or a part of the codebase
+* Contributions MUST adhere to a coding and/or writing style guide, either your own or an existing one that is advertised in or a part of the codebase
 * Contributions SHOULD pass automated tests on style
 * Your codebase SHOULD include inline comments and documentation for non-trivial sections
 * You MAY include sections in your style guide on understandable english
