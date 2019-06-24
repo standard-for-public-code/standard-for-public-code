@@ -17,7 +17,7 @@ order: 5
 
 Version control means keeping track of changes to your code over time. This allows you to create structured documentation of the history of the codebase. This is essential for collaboration at scale.
 
-Version control allows you to:
+Version control enables you to:
 
 * revert to an earlier version of the codebase whenever you want to
 * record your changes and the reasons why you made them, to help future developers understand the process
