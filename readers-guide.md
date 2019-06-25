@@ -15,7 +15,7 @@ This section explains why it is important for the users and contributors of this
 
 ## What this does not do
 
-This section manages expectation by explaining what following the requirements will not save you from. 
+This section manages expectation by explaining what following the requirements will not save you from.
 
 This helps:
 
@@ -24,7 +24,7 @@ This helps:
 
 ## How to test
 
-This section offers actions you can take to see if a contribution is compliant with the standard. This is key if you want to operationalize the standard.
+This section offers actions you can take to see if a contribution is compliant with the Standard. This is key if you want to operationalize the Standard.
 
 We've tried to word it so that someone who is not intimately acquainted with the subject matter can still do a basic check for compliance.
 
