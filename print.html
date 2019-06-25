@@ -185,6 +185,7 @@
       <li>Authors</li>
       <li><a href="#section-introduction">Introduction</a></li>
       <li>Readers guide</li>
+      <li>Glossary</li>
       <li>Standard</a>
         {% assign sorted = site.pages | sort:"order" %}
         <ol>
@@ -193,7 +194,6 @@
         {% endif%}  {% endif%}{% endfor %}
         </ol>
       </li>
-      <li>Glossary</li>
       <li>Contributing guide</li>
       <li>Code of conduct</li>
       <li>Governance</li>
@@ -216,6 +216,12 @@
 
   </article>
 
+  <article id="section-glossary">  
+
+    {% for page in site.pages %}{% if page.name == "glossary.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
   <article id="section-criteria">
     <h1>Criteria</h1>
     {% assign sorted = site.pages | sort:"order" %}
@@ -233,11 +239,6 @@
     </article>{% endif%}
   {% endif%}  {% endif%}{% endfor %}
 
-  <article id="section-glossary">  
-
-    {% for page in site.pages %}{% if page.name == "glossary.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
-
-  </article>
 
   <article id="section-contributing">  
 

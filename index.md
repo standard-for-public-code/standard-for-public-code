@@ -8,6 +8,7 @@ The Standard for Public Code gives cities a model for building their own open so
 
 * [Introduction and background](introduction.md)
 * [Readers guide: how to interpret this standard](readers-guide.md)
+* [Glossary](glossary.md)
 * [Criteria](criteria/)
   * [Code in the open](criteria/code-in-the-open.md)
   * [Bundle policy and source code](criteria/bundle-policy-and-code.md)
@@ -23,7 +24,6 @@ The Standard for Public Code gives cities a model for building their own open so
   * [Publish with an open license](criteria/open-licenses.md)
   * [Use a coherent style](criteria/style.md)
   * [Pay attention to codebase maturity](criteria/advertise-maturity.md)
-* [Glossary](glossary.md)
 * [Authors](AUTHORS.md)
 * [Contributing guide](CONTRIBUTING.md)
 * [Code of conduct](CODE_OF_CONDUCT.md)
