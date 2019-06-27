@@ -32,3 +32,4 @@ Individual contributors
 * Arnout Schuijff
 * Timo Slinger
 * Bert Spaan
+* David Barberi
