@@ -2,6 +2,7 @@
 
 [The Foundation for Public Code](https://publiccode.net)
 
+* Arnout Schuijff
 * Ben Cerveny
 * Elena Findley-de Regt
 * Claus Mullie
@@ -33,3 +34,4 @@ Individual contributors
 * Timo Slinger
 * Bert Spaan
 * David Barberi
+* Paul Keller
