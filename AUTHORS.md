@@ -13,7 +13,7 @@ Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Cr
 
 * Martijn de Waal
 
-Gemeente Amsterdam, Office of CTO
+Gemeente Amsterdam
 
 * Tamas Erkelens
 * Mark van der Net
