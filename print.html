@@ -186,12 +186,17 @@
       <li><a href="#section-introduction">Introduction</a></li>
       <li>Readers guide</li>
       <li>Glossary</li>
-      <li>Standard</a>
+      <li>Community criteria</a>
         {% assign sorted = site.pages | sort:"order" %}
         <ol>
         {% for page in sorted %}{% if page.dir == "/community-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
           <li>{{page.title}}</li>{% endif%}
         {% endif%}  {% endif%}{% endfor %}
+        </ol>
+      </li>
+      <li>Codebase criteria</a>
+        {% assign sorted = site.pages | sort:"order" %}
+        <ol>
         {% for page in sorted %}{% if page.dir == "/codebase-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
           <li>{{page.title}}</li>{% endif%}
         {% endif%}  {% endif%}{% endfor %}
