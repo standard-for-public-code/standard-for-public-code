@@ -1,5 +1,7 @@
 # Version history
 
+* Split "Criteria" into "Codebase criteria" and "Community criteria"
+
 ## Version 0.1.1
 
 May 9th 2019: 🤔 the second draft fixes a few basic oversights and fixes a lot of typos

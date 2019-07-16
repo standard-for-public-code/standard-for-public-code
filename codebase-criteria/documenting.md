@@ -25,7 +25,7 @@ order: 8
 
 ## What this does not do
 
-* Contribute directly to more reusable, portable code (see [Code in the open](code-in-the-open.md))
+* Contribute directly to more reusable, portable code (see [Code in the open](../community-criteria/code-in-the-open.md))
 
 ## How to test
 
