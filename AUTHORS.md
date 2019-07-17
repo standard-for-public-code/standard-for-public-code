@@ -2,6 +2,7 @@
 
 [The Foundation for Public Code](https://publiccode.net)
 
+* Arnout Schuijff
 * Ben Cerveny
 * Elena Findley-de Regt
 * Claus Mullie
@@ -12,7 +13,7 @@ Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Cr
 
 * Martijn de Waal
 
-Gemeente Amsterdam, Office of CTO
+Gemeente Amsterdam
 
 * Tamas Erkelens
 * Mark van der Net
@@ -32,3 +33,5 @@ Individual contributors
 * Arnout Schuijff
 * Timo Slinger
 * Bert Spaan
+* David Barberi
+* Paul Keller
