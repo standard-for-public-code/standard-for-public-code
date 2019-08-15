@@ -9,6 +9,7 @@ order: 11
 * All functionality in the source code MUST have automated tests
 * Contributions MUST pass all automated tests before they are admitted into the codebase
 * Contributions MUST be small
+* The codebase MUST have active contributors
 * Source code test and documentation coverage SHOULD be monitored
 * Policy and documentation MAY have testing for consistency with the source and vice versa
 * Policy and documentation MAY have testing for style and broken links
@@ -23,6 +24,10 @@ Using continuous delivery:
 * leads to more maintainable code
 * speeds up the development cycle
 
+Smaller more regular contributions are typically easier to evaluate and lower risk compared to large infrequent changes.
+
+Projects in active development more reliably provide opportunities for collaboration and feedback.
+
 ## What this does not do
 
 * Create a fault tolerant infrastructure that will work and scale perfectly
@@ -36,6 +41,7 @@ Using continuous delivery:
 * Code coverage tools check whether coverage is at 100% of the code
 * Contributions are only admitted into the codebase after all of the tests are passed
 * Everyone working on the codebase integrates their work at least once a day
+* There are contributions from within the last three months
 
 ## Policy makers: what you need to do
 
