@@ -40,7 +40,7 @@ This makes sure access is guaranteed to both the source code and the policy docu
 
 ## Developers and designers: what you need to do
 
-* Become familiar with and be able to use the process modelling notation that the policy makers in your organization use  
+* Become familiar with and be able to use the process modelling notation that the policy makers in your organization use
 * Work together with policy makers to ensure there is no mismatch between policy code and source code
 * Give feedback on how to make policy documentation more clear
 

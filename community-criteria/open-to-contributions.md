@@ -57,4 +57,4 @@ order: 4
 * [Leadership and governance](https://opensource.guide/leadership-and-governance/) for growing open source community projects, by Open Source Guides
 * [The benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) by the UK Government Digital Service
 * [Building online communities](http://hintjens.com/blog:117) by Pieter Hintjens (long read!)
-* [Verdaccio's security policy](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md) is a really nice example 
+* [Verdaccio's security policy](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md) is a really nice example
