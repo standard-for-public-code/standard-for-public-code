@@ -2,7 +2,7 @@ title: Standard for Public Code
 version: 0.1.1
 
 remote_theme: publiccodenet/jekyll-theme
-include: 
+include:
   - "README.md"
   - "CONTRIBUTING.md"
   - "LICENSE.md"
@@ -26,7 +26,7 @@ defaults:
         - name: 'Community criteria'
           path: '/community-criteria/'
   -
-    scope: 
+    scope:
       path: '/'
     values:
       breadcrumbs: true
