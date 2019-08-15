@@ -11,6 +11,7 @@ order: 4
 * The documentation MUST link to both the public issue tracker and submitted codebase changes, for example in a `README` file
 * The codebase MUST include an email address for security issues and responsible disclosure
 * The codebase MUST include contribution guidelines explaining how contributors can get involved, for example in a `CONTRIBUTING` file
+* The project MUST have communication channels for users and developers, for example email lists
 * The codebase SHOULD have a publicly available roadmap
 * The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance
 * The documentation SHOULD include instructions for how to report potentially security sensitive issues on a closed channel
@@ -32,6 +33,7 @@ order: 4
 
 * There's a public issue tracker.
 * It's possible to submit suggestions for changes to the codebase.
+* It's possible to participate in a discussion with other users about the software.
 * There are contribution guidelines.
 
 ## Policy makers: what you need to do
