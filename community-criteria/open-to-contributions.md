@@ -51,6 +51,7 @@ order: 4
 ## Developers and designers: what you need to do
 
 * Respond promptly to requests
+* Keep your management informed of the time and resources you require to support other contributors
 
 ## Further reading
 
