@@ -13,8 +13,8 @@ order: 4
 * The codebase MUST include an email address for security issues and responsible disclosure
 * The codebase MUST include contribution guidelines explaining how contributors can get involved
 * The codebase SHOULD have a publicly available roadmap
-* The codebase SHOULD have a contributor license agreement
 * The codebase SHOULD advertize the committed engagement of involved organizations in the development and maintenance
+* The codebase MAY have a contributor license agreement
 * The codebase MAY include a code of conduct for contributors
 * The codebase MAY document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file
 
