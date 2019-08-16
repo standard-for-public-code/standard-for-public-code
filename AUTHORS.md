@@ -26,6 +26,10 @@ ICTU
 
 * Edo Plantinga
 
+[Nordic Institute for Interoperability Solutions (NIIS)](https://niis.org)
+
+* Petteri Kivimäki
+
 Individual contributors
 
 * Floris Deerenberg
