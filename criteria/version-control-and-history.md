@@ -11,6 +11,7 @@ order: 5
 * All decisions MUST be documented in commit messages
 * Every commit message MUST link to discussions and issues wherever possible
 * You SHOULD group relevant changes in commits
+* You SHOULD mark different versions of your codebase, for example using revision tags or textual labels
 * You SHOULD prefer file formats that can easily be version controlled
 
 ## Why this is important
@@ -36,6 +37,7 @@ Version control enables you to:
 * All commit messages explain:
   * why the change was made
   * what the discussion about the change was or where to find it (with a URL)
+* It is possible to access a specific version of the codebase, for example through a revision tag or a textual label
 
 ## Policy makers: what you need to do
 * If a new version of the codebase is created because of a policy change, make sure it's clear in the documentation:
@@ -48,6 +50,8 @@ For example, adding a new category of applicant to a codebase that manages grant
 * Support policy makers, developers and designers to be clear about what improvements they're making to the codebase - making improvements isn't a public relations risk.
 
 ## Developers and designers: what you need to do
+* Write clear commit messages so that it is easy to understand what why the commit was made.
+* Mark different versions so that it is easy to access a specific version, for example using revision tags or textual labels.
 * Write clear commit messages so that versions can be usefully compared.
 * Work with policy makers to describe how the source code was updated after a policy change.
 
