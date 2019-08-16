@@ -31,7 +31,6 @@ ICTU
 Individual contributors
 
 * Floris Deerenberg
-* Arnout Schuijff
 * Timo Slinger
 * Bert Spaan
 * David Barberi
