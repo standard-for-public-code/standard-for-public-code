@@ -12,7 +12,7 @@ order: 14
     * alpha - to do guided tests with a limited set of users
     * beta - to open up testing to a larger section of the general public, for example to test if the codebase works at scale
     * pre-release version - code that is ready to be released but hasn't received formal approval yet
-* A codebase SHOULD contain a log of changes from version to version
+* A codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`
 
 ## Why this is important
 
