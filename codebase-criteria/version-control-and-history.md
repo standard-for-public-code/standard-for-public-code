@@ -56,6 +56,7 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 * Write clear commit messages so that it is easy to understand what why the commit was made.
 * Mark different versions so that it is easy to access a specific version, for example using revision tags or textual labels.
+* Write clear commit messages so that versions can be usefully compared.
 * Work with policy makers to describe how the source code was updated after a policy change.
 
 ## Further reading
