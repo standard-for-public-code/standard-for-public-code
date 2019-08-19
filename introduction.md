@@ -1,10 +1,10 @@
 # Introduction
 
-The Standard for Public Code is a set of criteria that supports public organizations in developing and maintaining software and policy together. 
+The Standard for Public Code is a set of criteria that supports public organizations in developing and maintaining software and policy together.
 
 Anyone developing software or policy for a public purpose can use this standard to work towards higher quality public services that are more cost effective, with less risk and more control.
 
-This introduction introduces the term public code, explains why this is important, and introduces the process through which software and policy code can become certified public code. 
+This introduction introduces the term public code, explains why this is important, and introduces the process through which software and policy code can become certified public code.
 
 ## Definition of public code
 
@@ -20,7 +20,7 @@ Software is public infrastructure.
 
 In the 21st century, software can be considered vital public infrastructure. It is increasingly not just the expression of existing policy but the originator of new policy - for example where algorithms decide which districts need extra social services or policing.
 
-Software mechanics, algorithms and data collection have become key elements in the execution of public policies. Computer code now executes policies that have been codified in legal code through democratic procedures. Both forms of code set conditions for society to function according to democratically set public values, the latter executed by humans, the former by machines. In other words, software code has increasingly started to equal legal code. 
+Software mechanics, algorithms and data collection have become key elements in the execution of public policies. Computer code now executes policies that have been codified in legal code through democratic procedures. Both forms of code set conditions for society to function according to democratically set public values, the latter executed by humans, the former by machines. In other words, software code has increasingly started to equal legal code.
 
 Software should therefore be subject to the principles of democratic governance.
 
@@ -109,12 +109,12 @@ The audit is presented as a review of the contribution. The codebase steward giv
 ### Certifying an entire codebase versus a contribution
 
 For the codebase to be completely certified every meaningful line of code, and the commits behind the code, need to meet the Standard.
- 
+
 If codebases have been completely audited from the first merge request they can be completely be certified as compliant with the Standard for Public Code immediately.
 
 If the audit process is added to an existing codebase, the new merge requests can be certified, but the existing code cannot be certified. By auditing every new merge request the codebase can move towards being completely certified.
 
-## The goals for the Standard for Public Code 
+## The goals for the Standard for Public Code
 
 This Standard supports developers, designers, business management and policy makers to:
 

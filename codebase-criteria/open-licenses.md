@@ -7,12 +7,15 @@ order: 12
 ## Requirements
 
 * All code and documentation MUST be published under a license that allows it to be freely reusable, changeable and redistributable
+<<<<<<< HEAD:criteria/open-licenses.md
 * Software source code this MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category)
 * All code MUST be published with a license
 * All source code files in the codebase SHOULD include a copyright notice and a license header
+=======
+* Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category)
+>>>>>>> develop:codebase-criteria/open-licenses.md
 * Codebases MAY have multiple licenses for different types of code and documentation
-* Documentation MAY be published under [Creative Commons licenses
-](https://creativecommons.org/licenses/) that are NOT 'no derivatives' or 'non-commercial'
+* Documentation MAY be published under [Creative Commons licenses](https://creativecommons.org/licenses/) that are NOT 'no derivatives' or 'non-commercial'
 
 ## Why this is important
 
@@ -45,3 +48,4 @@ order: 12
 
 * [Open source definition](https://opensource.org/osd) by the Open Source Initiative - all open source licenses meet this definition
 * [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) by Creative Commons Aotearoa New Zealand
+* [REUSE Initiative specification](https://reuse.software/spec/) for unambiguous, human-readable and machine-readable copyright and licensing information
