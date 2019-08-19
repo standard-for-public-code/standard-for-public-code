@@ -16,7 +16,7 @@
     }
 
     .markdown-body h1, .markdown-body h2, .markdown-body h3 {
-      font-weight: normal; 
+      font-weight: normal;
     }
     .markdown-body h1 {
       font-size: 1.5cm;
@@ -104,14 +104,14 @@
     #developers-and-designers-what-you-need-to-do {
       border-left-color: #56CCF2;
     }
-    
+
     @media print {
       /* html { page-break-before: left } */
       @page {
         /* A4 with a 3mm bleed on every side */
         size: 21.6cm 30.3cm;
         margin: 2cm 0;
-        orphans:4; 
+        orphans:4;
         widows:4;
       }
       @page :left {
@@ -121,7 +121,7 @@
           font-size: 75%;
           content: counter(page);
           height: 1cm;
-          width: 1.23cm; 
+          width: 1.23cm;
           text-align: center;
           padding-left: 0.5cm;
         }
@@ -133,12 +133,12 @@
           font-size: 75%;
           content: counter(page);
           height: 1cm;
-          width: 1.23cm; 
+          width: 1.23cm;
           text-align: center;
           padding-right: 0.5cm;
         }
       }
-      
+
       article {
         margin: 0 2cm;
         break-before: left;
@@ -171,29 +171,37 @@
 </head>
 <body class="markdown-body">
 
-  <article id="section-authors">  
+  <article id="section-authors">
 
     {% for page in site.pages %}{% if page.name == "AUTHORS.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
-  
+
   <article id="table-of-contents">
-  
+
     <h1>Table of Contents</h1>
-  
+
     <ol>
       <li>Authors</li>
       <li><a href="#section-introduction">Introduction</a></li>
       <li>Readers guide</li>
-      <li>Standard</a>
+      <li>Glossary</li>
+      <li>Community criteria</a>
         {% assign sorted = site.pages | sort:"order" %}
         <ol>
-        {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+        {% for page in sorted %}{% if page.dir == "/community-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
           <li>{{page.title}}</li>{% endif%}
         {% endif%}  {% endif%}{% endfor %}
         </ol>
       </li>
-      <li>Glossary</li>
+      <li>Codebase criteria</a>
+        {% assign sorted = site.pages | sort:"order" %}
+        <ol>
+        {% for page in sorted %}{% if page.dir == "/codebase-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+          <li>{{page.title}}</li>{% endif%}
+        {% endif%}  {% endif%}{% endfor %}
+        </ol>
+      </li>
       <li>Contributing guide</li>
       <li>Code of conduct</li>
       <li>Governance</li>
@@ -201,63 +209,80 @@
       <li>License</li>
       <li>Contact</li>
     </ol>
-  
+
   </article>
-  
-  <article id="section-introduction">  
+
+  <article id="section-introduction">
 
     {% for page in site.pages %}{% if page.name == "introduction.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
-  <article id="section-readers-guide">  
+  <article id="section-readers-guide">
 
     {% for page in site.pages %}{% if page.name == "readers-guide.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
-  <article id="section-criteria">
-    <h1>Criteria</h1>
+  <article id="section-glossary">
+
+    {% for page in site.pages %}{% if page.name == "glossary.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <article id="section-community-criteria">
+    <h1>Community criteria</h1>
     {% assign sorted = site.pages | sort:"order" %}
     <ol>
-    {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+    {% for page in sorted %}{% if page.dir == "/community-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
       <li>{{page.title}}</li>{% endif%}
     {% endif%}  {% endif%}{% endfor %}
     </ol>
   </article>
 
   {% assign sorted = site.pages | sort:"order" %}
-  {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
-    <article id="section-criteria-{{page.name}}">
+  {% for page in sorted %}{% if page.dir == "/community-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+    <article id="section-community-criteria-{{page.name}}">
       {{page.content | markdownify}}
     </article>{% endif%}
   {% endif%}  {% endif%}{% endfor %}
 
-  <article id="section-glossary">  
-
-    {% for page in site.pages %}{% if page.name == "glossary.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
-
+  <article id="section-codebase-criteria">
+    <h1>Codebase criteria</h1>
+    {% assign sorted = site.pages | sort:"order" %}
+    <ol>
+    {% for page in sorted %}{% if page.dir == "/codebase-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+      <li>{{page.title}}</li>{% endif%}
+    {% endif%}  {% endif%}{% endfor %}
+    </ol>
   </article>
 
-  <article id="section-contributing">  
+  {% assign sorted = site.pages | sort:"order" %}
+  {% for page in sorted %}{% if page.dir == "/codebase-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+    <article id="section-codebase-criteria-{{page.name}}">
+      {{page.content | markdownify}}
+    </article>{% endif%}
+  {% endif%}  {% endif%}{% endfor %}
+
+  <article id="section-contributing">
 
     {% for page in site.pages %}{% if page.name == "CONTRIBUTING.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
-  <article id="section-code_of_conduct">  
+  <article id="section-code_of_conduct">
 
     {% for page in site.pages %}{% if page.name == "CODE_OF_CONDUCT.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
-  <article id="section-governance">  
+  <article id="section-governance">
 
     {% for page in site.pages %}{% if page.name == "GOVERNANCE.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
-  <article id="section-changelog">  
+  <article id="section-changelog">
 
     {% for page in site.pages %}{% if page.name == "CHANGELOG.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
@@ -278,6 +303,6 @@
     <p>For questions and more information about our organization you can find us at <a href="https://publiccode.net">our website</a> or email us at info@publiccode.net</p>
 
   </article>
-  
+
 </body>
 </html>

@@ -2,7 +2,7 @@ title: Standard for Public Code
 version: 0.1.1
 
 remote_theme: publiccodenet/jekyll-theme
-include: 
+include:
   - "README.md"
   - "CONTRIBUTING.md"
   - "LICENSE.md"
@@ -13,13 +13,20 @@ toc: true
 defaults:
   -
     scope:
-      path: '/criteria/[!index]*'
+      path: '/codebase-criteria/[!index]*'
     values:
       breadcrumbs:
-        - name: 'Criteria'
-          path: '/criteria/'
+        - name: 'Codebase criteria'
+          path: '/codebase-criteria/'
   -
-    scope: 
+    scope:
+      path: '/community-criteria/[!index]*'
+    values:
+      breadcrumbs:
+        - name: 'Community criteria'
+          path: '/community-criteria/'
+  -
+    scope:
       path: '/'
     values:
       breadcrumbs: true
