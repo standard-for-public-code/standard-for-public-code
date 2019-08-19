@@ -26,9 +26,10 @@ Version control enables you to:
 * work on changes in parallel as a team before merging them together
 
 ## What this does not do
-* Substitute for advertising maturity.
-* Guarantee your code executes correctly.
-* Guarantee collaborators.
+
+* Substitute for [advertising maturity](advertise-maturity.md)
+* Guarantee your code executes correctly
+* Guarantee collaborators
 
 ## How to test
 
@@ -40,6 +41,7 @@ Version control enables you to:
 * It is possible to access a specific version of the codebase, for example through a revision tag or a textual label
 
 ## Policy makers: what you need to do
+
 * If a new version of the codebase is created because of a policy change, make sure it's clear in the documentation:
   * what the policy change is
   * how it's changed the codebase
@@ -47,12 +49,12 @@ Version control enables you to:
 For example, adding a new category of applicant to a codebase that manages granting permits would be considered a policy change.
 
 ## Management: what you need to do
+
 * Support policy makers, developers and designers to be clear about what improvements they're making to the codebase - making improvements isn't a public relations risk.
 
 ## Developers and designers: what you need to do
 * Write clear commit messages so that it is easy to understand what why the commit was made.
 * Mark different versions so that it is easy to access a specific version, for example using revision tags or textual labels.
-* Write clear commit messages so that versions can be usefully compared.
 * Work with policy makers to describe how the source code was updated after a policy change.
 
 ## Further reading
