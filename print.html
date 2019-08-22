@@ -251,8 +251,8 @@
   </article>
 
   {% assign sorted = site.pages | sort:"order" %}
-  {% for page in sorted %}{% if page.dir == "/community-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
-    <article id="section-community-criteria-{{page.name}}">
+  {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+    <article id="section-criteria-{{page.name}}">
       {{page.content | markdownify}}
     </article>{% endif%}
   {% endif%}  {% endif%}{% endfor %}
