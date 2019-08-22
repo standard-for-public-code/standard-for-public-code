@@ -2,7 +2,7 @@
 
 ## Version 0.1.2
 
-August 22th 2019: 
+August 22th 2019: 🌠 the third draft focusses on better text and takes community input
 
 * With some great new contributors comes a fresh author list
 * All links are now HTTPS
