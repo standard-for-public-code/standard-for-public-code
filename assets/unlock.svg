@@ -1,0 +1,20 @@
+<svg width="595" height="842" viewBox="0 0 595 842" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="595" height="842" fill="white"/>
+<rect width="595" height="842" fill="#5B57CA"/>
+<rect x="268" y="405" width="200" height="150" fill="#FFF500"/>
+<rect x="128" y="315" width="200" height="150" fill="#FF776E"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M232.377 392.651C232.275 392.199 232.499 391.74 232.9 391.509C236.453 389.461 238.844 385.624 238.844 381.228C238.844 374.679 233.535 369.37 226.986 369.37C220.437 369.37 215.128 374.679 215.128 381.228C215.128 385.778 217.69 389.729 221.45 391.718C221.872 391.941 222.114 392.413 222.009 392.879L216.218 418.489C216.077 419.114 216.552 419.709 217.194 419.709H237.243C237.885 419.709 238.36 419.114 238.219 418.489L232.377 392.651Z" fill="black"/>
+<rect x="386" y="460" width="22" height="36" rx="11" stroke="#FF6666" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="337" y="493" width="12" height="6" fill="#D95047"/>
+<rect x="333" y="493" width="13" height="6" fill="#F55C5C"/>
+<rect x="337" y="481" width="12" height="6" fill="#D95047"/>
+<rect x="333" y="481" width="13" height="6" fill="#F55C5C"/>
+<rect x="339" y="487" width="13" height="6" fill="#D95047"/>
+<rect x="337" y="487" width="12" height="6" fill="#F55C5C"/>
+<line x1="383.5" y1="478.5" x2="331.5" y2="478.5" stroke="#FF6666" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="268" y="405" width="60" height="60" fill="#0000FF"/>
+<path d="M301 428.483H308.241C312.526 428.483 316 431.956 316 436.241V436.241C316 440.526 312.526 444 308.241 444H288.637C283.867 444 280 440.133 280 435.363V435.363C280 431.337 282.782 427.845 286.706 426.944L293 425.5" stroke="white" stroke-width="5"/>
+<path d="M297.5 418.875V411M302.375 420L307.625 414.75M292.625 420L287.375 414.75" stroke="#FFF500" stroke-width="3"/>
+<line x1="308" y1="435.5" x2="328" y2="435.5" stroke="white" stroke-width="5"/>
+<line x1="268" y1="435.5" x2="288" y2="435.5" stroke="white" stroke-width="5"/>
+</svg>

@@ -166,6 +166,21 @@
           padding-right: 0.5cm;
         }
       }
+      
+      figure {
+        page: image;
+      }
+      figure>img {
+        width: 100%;
+        height: 100%;
+      }
+      @page image {
+        margin-top: 0 !important;
+        margin-left: -1.5cm !important;
+        margin-right: -1.5cm !important;
+        margin-bottom: 0 !important;
+        padding: 0 0 0 0 !important;
+    }
 
       article {
         margin: 0 2cm;
@@ -195,6 +210,7 @@
         margin: 1cm;
       }
     }
+
   </style>
 </head>
 <body class="markdown-body">
@@ -204,6 +220,10 @@
     {% for page in site.pages %}{% if page.name == "AUTHORS.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
+
+  <figure>
+    <img src="/assets/collaboration.svg" alt="collaboration">
+  </figure>
 
   <article id="table-of-contents">
 
@@ -232,11 +252,19 @@
 
   </article>
 
+  <figure>
+    <img src="/assets/codebase.svg" alt="codebase">
+  </figure>
+
   <article id="section-introduction">
 
     {% for page in site.pages %}{% if page.name == "introduction.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
+
+  <figure>
+    <img src="/assets/collaborative-developement.svg" alt="collaborative-developement">
+  </figure>
 
   <article id="section-readers-guide">
 
@@ -259,6 +287,10 @@
     {% endif%}  {% endif%}{% endfor %}
     </ol>
   </article>
+
+  <figure>
+    <img src="/assets/unlock.svg" alt="unlock">
+  </figure>
 
   {% assign sorted = site.pages | sort:"order" %}
   {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
