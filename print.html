@@ -186,18 +186,10 @@
       <li><a href="#section-introduction">Introduction</a></li>
       <li>Readers guide</li>
       <li>Glossary</li>
-      <li>Community criteria</a>
+      <li>Criteria</a>
         {% assign sorted = site.pages | sort:"order" %}
         <ol>
-        {% for page in sorted %}{% if page.dir == "/community-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
-          <li>{{page.title}}</li>{% endif%}
-        {% endif%}  {% endif%}{% endfor %}
-        </ol>
-      </li>
-      <li>Codebase criteria</a>
-        {% assign sorted = site.pages | sort:"order" %}
-        <ol>
-        {% for page in sorted %}{% if page.dir == "/codebase-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+        {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
           <li>{{page.title}}</li>{% endif%}
         {% endif%}  {% endif%}{% endfor %}
         </ol>
@@ -230,11 +222,11 @@
 
   </article>
 
-  <article id="section-community-criteria">
-    <h1>Community criteria</h1>
+  <article id="section-criteria">
+    <h1>Criteria</h1>
     {% assign sorted = site.pages | sort:"order" %}
     <ol>
-    {% for page in sorted %}{% if page.dir == "/community-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+    {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
       <li>{{page.title}}</li>{% endif%}
     {% endif%}  {% endif%}{% endfor %}
     </ol>
@@ -243,23 +235,6 @@
   {% assign sorted = site.pages | sort:"order" %}
   {% for page in sorted %}{% if page.dir == "/community-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
     <article id="section-community-criteria-{{page.name}}">
-      {{page.content | markdownify}}
-    </article>{% endif%}
-  {% endif%}  {% endif%}{% endfor %}
-
-  <article id="section-codebase-criteria">
-    <h1>Codebase criteria</h1>
-    {% assign sorted = site.pages | sort:"order" %}
-    <ol>
-    {% for page in sorted %}{% if page.dir == "/codebase-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
-      <li>{{page.title}}</li>{% endif%}
-    {% endif%}  {% endif%}{% endfor %}
-    </ol>
-  </article>
-
-  {% assign sorted = site.pages | sort:"order" %}
-  {% for page in sorted %}{% if page.dir == "/codebase-criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
-    <article id="section-codebase-criteria-{{page.name}}">
       {{page.content | markdownify}}
     </article>{% endif%}
   {% endif%}  {% endif%}{% endfor %}
