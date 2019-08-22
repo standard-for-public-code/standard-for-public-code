@@ -1,6 +1,19 @@
 # Version history
 
-* Split "Criteria" into "Codebase criteria" and "Community criteria"
+## Version 0.1.2
+
+August 22th 2019: 
+
+* With some great new contributors comes a fresh author list
+* All links are now HTTPS
+* General proofreading, wording clarifications, and smashed typos
+* Updated criteria:
+  * Requirement for reuse in different contexts
+  * Recommendation for explicit versioning
+  * Recommendation for multi party development
+  * Recommendation for license headers in files
+  * Recommendation for vulnerability reporting
+  * Recommendation for explicit documentation of governance
 
 ## Version 0.1.1
 
