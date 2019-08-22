@@ -46,20 +46,9 @@
       clear: both;
     }
 
-    a:link {
-      color: black;
-      text-decoration: none;
-    }
-    a[href^="http"]:link {
-      color: black;
-      text-decoration: underline;
-      text-decoration-color: lightgrey;
-    }
-    a[href^="http"]:after {
-      content: "" attr(href) "";
+    a:link:after {
       color: grey;
       page-break-inside: avoid;
-      font-size: .75em;
       margin-left: .25em;
       break-inside: avoid;
       display: block;
@@ -73,6 +62,23 @@
       clear: both;
       word-break: normal;
       text-decoration: none;
+    }
+    a[href^="http"]:link {
+      color: black;
+      text-decoration: underline;
+    }
+    a[href^="http"]:after {
+      content: "" attr(href) "";
+      font-size: .75em;
+    }
+    a[href^="#"]:after {
+      content: "" target-counter(attr(href), page);
+      color: black;
+      background-color: whitesmoke;
+      display: inline;
+      width: 0.6cm;
+      padding: 0.2cm;
+      text-align: right;
     }
 
     img {
