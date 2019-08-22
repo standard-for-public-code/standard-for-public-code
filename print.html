@@ -17,6 +17,7 @@
 
     .markdown-body h1, .markdown-body h2, .markdown-body h3 {
       font-weight: normal;
+      position: relative;
     }
     .markdown-body h1 {
       font-size: 1.5cm;
@@ -35,6 +36,7 @@
     }
     .markdown-body h4 {
       font-weight: bold;
+      font-weight: normal;
     }
 
     article>p, article>ul, article>ol {
@@ -46,20 +48,9 @@
       clear: both;
     }
 
-    a:link {
-      color: black;
-      text-decoration: none;
-    }
-    a[href^="http"]:link {
-      color: black;
-      text-decoration: underline;
-      text-decoration-color: lightgrey;
-    }
-    a[href^="http"]:after {
-      content: "" attr(href) "";
+    a:link:after {
       color: grey;
       page-break-inside: avoid;
-      font-size: .75em;
       margin-left: .25em;
       break-inside: avoid;
       display: block;
@@ -74,6 +65,23 @@
       word-break: normal;
       text-decoration: none;
     }
+    a[href^="http"]:link {
+      color: black;
+      text-decoration: underline;
+    }
+    a[href^="http"]:after {
+      content: "" attr(href) "";
+      font-size: .75em;
+    }
+    a[href^="#"]:after {
+      content: "" target-counter(attr(href), page);
+      color: black;
+      background-color: whitesmoke;
+      display: inline;
+      width: 0.6cm;
+      padding: 0.2cm;
+      text-align: right;
+    }
 
     img {
       max-width: 100% !important;
@@ -87,22 +95,32 @@
       clear: both;
     }
 
-    #policy-makers-what-you-need-to-do,
-    #management-what-you-need-to-do,
-    #developers-and-designers-what-you-need-to-do {
-      padding: 0.35em;
-      padding-right: 0;
-      border-left: 0.35em solid white;
+    .markdown-body h2[id$="policy-makers-what-you-need-to-do"]:before,
+    .markdown-body h2[id$="management-what-you-need-to-do"]:before,
+    .markdown-body h2[id$="developers-and-designers-what-you-need-to-do"]:before {
+      display: block;
+      position: absolute;
+      content: 'A';
+      text-align: center;
+      width: 1cm;
+      height: 1cm;
+      color: white;
+      display: inline-block;
+      margin-left: -1.5cm;
+      box-sizing: border-box;
+      padding: 0.1cm;
     }
-
-    #policy-makers-what-you-need-to-do {
-      border-left-color: #00BA8D;
+    .markdown-body h2[id$="policy-makers-what-you-need-to-do"]:before {
+      background-color: #00EFB5;
+      content: 'P';
     }
-    #management-what-you-need-to-do {
-      border-left-color: #FDBBAB;
+    .markdown-body h2[id$="management-what-you-need-to-do"]:before {
+      background-color: #FF6D1C;
+      content: 'M';
     }
-    #developers-and-designers-what-you-need-to-do {
-      border-left-color: #56CCF2;
+    .markdown-body h2[id$="developers-and-designers-what-you-need-to-do"]:before {
+      background-color: #8626FF;
+      content: 'D';
     }
 
     @media print {
