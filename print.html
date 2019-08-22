@@ -87,22 +87,32 @@
       clear: both;
     }
 
-    #policy-makers-what-you-need-to-do,
-    #management-what-you-need-to-do,
-    #developers-and-designers-what-you-need-to-do {
-      padding: 0.35em;
-      padding-right: 0;
-      border-left: 0.35em solid white;
+    .markdown-body h2[id$="policy-makers-what-you-need-to-do"]:before,
+    .markdown-body h2[id$="management-what-you-need-to-do"]:before,
+    .markdown-body h2[id$="developers-and-designers-what-you-need-to-do"]:before {
+      display: block;
+      position: absolute;
+      content: 'A';
+      text-align: center;
+      width: 1cm;
+      height: 1cm;
+      color: white;
+      display: inline-block;
+      margin-left: -1.5cm;
+      box-sizing: border-box;
+      padding: 0.1cm;
     }
-
-    #policy-makers-what-you-need-to-do {
-      border-left-color: #00BA8D;
+    .markdown-body h2[id$="policy-makers-what-you-need-to-do"]:before {
+      background-color: #00EFB5;
+      content: 'P';
     }
-    #management-what-you-need-to-do {
-      border-left-color: #FDBBAB;
+    .markdown-body h2[id$="management-what-you-need-to-do"]:before {
+      background-color: #FF6D1C;
+      content: 'M';
     }
-    #developers-and-designers-what-you-need-to-do {
-      border-left-color: #56CCF2;
+    .markdown-body h2[id$="developers-and-designers-what-you-need-to-do"]:before {
+      background-color: #8626FF;
+      content: 'D';
     }
 
     @media print {
