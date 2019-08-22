@@ -20,7 +20,7 @@ Please note that this project is released with a [contributor code of conduct](C
 
 The repository builds to a static site deployed at [standard.publiccode.net](https://standard.publiccode.net/). It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
-See the scripts in the [`script`](script/) folder.
+See the scripts in the `script` folder.
 
 ## Generating a PDF out of the document
 
