@@ -13,18 +13,11 @@ toc: true
 defaults:
   -
     scope:
-      path: '/codebase-criteria/[!index]*'
+      path: '/criteria/[!index]*'
     values:
       breadcrumbs:
-        - name: 'Codebase criteria'
-          path: '/codebase-criteria/'
-  -
-    scope:
-      path: '/community-criteria/[!index]*'
-    values:
-      breadcrumbs:
-        - name: 'Community criteria'
-          path: '/community-criteria/'
+        - name: 'Criteria'
+          path: '/criteria/'
   -
     scope:
       path: '/'
