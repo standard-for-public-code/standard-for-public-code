@@ -2,7 +2,7 @@
 order: 11
 ---
 
-# Use continuous delivery
+# Use continuous integration
 
 ## Requirements
 
@@ -16,7 +16,7 @@ order: 11
 
 ## Why this is important
 
-* Using continuous delivery:
+* Using continuous integration:
   * allows you to quickly identify problems with your codebase
   * enable risk taking and focusing on problem solving while minimising stress on the contributors
   * lowers barriers for new contributors by reducing the amount of understanding necessary to suggest changes
@@ -60,6 +60,7 @@ order: 11
 
 ## Further reading
 
+* [What is continuous integration](https://www.martinfowler.com/articles/continuousIntegration.html) by Martin Fowler
 * [What is continuous delivery](https://www.continuousdelivery.com/) by Jez Humble
 * [Use continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) by the UK Government Digital Service
 * [Quality assurance: testing your service regularly](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) by the Government Digital Service (United Kingdom)
