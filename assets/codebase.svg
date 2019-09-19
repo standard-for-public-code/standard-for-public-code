@@ -1,4 +1,20 @@
-<svg width="595" height="842" viewBox="0 0 595 842" fill="none" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="595" height="842" viewBox="0 0 595 842" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata id="metadata5">
+  <rdf:RDF>
+     <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+          <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+          <dc:title></dc:title>
+          <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+     </cc:Work>
+     <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+          <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+          <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+          <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+     </cc:License>
+  </rdf:RDF>
+</metadata>
 <g clip-path="url(#clip0)">
 <rect width="595" height="842" fill="#00BA8D"/>
 <path d="M275.383 549.165L275.383 602.307C275.383 608.457 272.553 614.265 267.71 618.056L233.53 644.809C228.299 648.903 225.243 655.177 225.243 661.82V661.82C225.243 667.785 220.407 672.621 214.442 672.621L-121 672.621" stroke="#FFF500" stroke-linecap="round" stroke-linejoin="round"/>
