@@ -119,7 +119,7 @@ If the audit process is added to an existing codebase, the new merge requests ca
 This Standard supports developers, designers, business management and policy makers to:
 
 * develop high quality software and policy for better public service delivery
-* develop buildable codebases that can be reused across contexts and collaboratively maintained
+* develop codebases that can be reused across contexts and collaboratively maintained
 * reduce technical debt and project failure rate
 * have more granular control over, and ability to make decisions about, their IT systems
 * improve vendor relationships with a better economic model
