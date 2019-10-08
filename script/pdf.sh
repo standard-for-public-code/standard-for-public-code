@@ -1,1 +1,1 @@
-weasyprint http://localhost:4000/full-standard.html standard.pdf
+weasyprint http://localhost:4000/print.html standard.pdf
