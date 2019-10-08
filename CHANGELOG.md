@@ -2,7 +2,7 @@
 
 ## Version 0.1.3
 
-October 8th 2019: 🍂
+October 8th 2019: 🍂 the fourth draft only patches and fixes minor things for the autumn cleaning
 
 * Renamed continuous delivery to continuous integration
 * Referencing accesibility guidelines in the language standard

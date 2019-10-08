@@ -94,7 +94,7 @@
     }
 
     img {
-      max-width: 100% !important;
+      max-width: 155% !important;
     }
 
     ol, ul {
@@ -116,9 +116,9 @@
       height: 1cm;
       color: white;
       display: inline-block;
-      margin-left: -1.5cm;
+      margin-left: -1.2cm;
       box-sizing: border-box;
-      padding: 0.1cm;
+      padding: 0.12cm;
     }
     .markdown-body h2[id$="policy-makers-what-you-need-to-do"]:before {
       background-color: #00EFB5;
@@ -270,10 +270,6 @@
 
   </article>
 
-  <figure>
-    <img src="/assets/collaborative-developement.svg" alt="collaborative-developement">
-  </figure>
-
   <article id="section-readers-guide">
 
     {% for page in site.pages %}{% if page.name == "readers-guide.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
@@ -312,6 +308,10 @@
     {% for page in site.pages %}{% if page.name == "CONTRIBUTING.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
+
+  <figure>
+      <img src="/assets/collaborative-developement.svg" alt="collaborative-developement">
+    </figure>
 
   <article id="section-code_of_conduct">
 
