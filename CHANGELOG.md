@@ -1,5 +1,13 @@
 # Version history
 
+## Version 0.1.3
+
+October 8th 2019: 🍂 the fourth draft only patches and fixes minor things for the autumn cleaning
+
+* Renamed continuous delivery to continuous integration
+* Referencing accesibility guidelines in the language standard
+* A bunch of style and consistency fixes
+
 ## Version 0.1.2
 
 August 22th 2019: 🌠 the third draft focusses on better text and takes community input
