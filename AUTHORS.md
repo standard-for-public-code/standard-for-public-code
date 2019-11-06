@@ -40,3 +40,4 @@ Individual contributors
 * Bert Spaan
 * David Barberi
 * Paul Keller
+* Sky Bristol
