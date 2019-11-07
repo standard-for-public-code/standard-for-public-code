@@ -6,7 +6,7 @@ order: 12
 
 ## Requirements
 
-* All code and documentation MUST be published under a license that allows it to be freely reusable, changeable and redistributable.
+* All code and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
 * Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category).
 * All code MUST be published with a license file.
 * All source code files in the codebase SHOULD include a copyright notice and a license header.

@@ -10,12 +10,14 @@ order: 9
 * Any translation MUST be up to date with the English version and vice-versa.
 * There SHOULD be no acronyms, abbreviations, puns or legal/domain specific terms in the codebase without an explanation preceding it or a link to an explanation.
 * The name of the project or codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or branding.
+* Documentation SHOULD aim for a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable).
 * Any code, documentation and tests MAY have a translation.
 
 ## Why this is important
 
 * Makes your codebase and what it does understandable for a wider variety of stakeholders in multiple contexts.
 * Helps with the discoverability of your codebase.
+* Can help you meet the [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility), which requires most public sector information to be accessible
 
 ## What this does not do
 
@@ -26,7 +28,9 @@ order: 9
 
 * Check that translations and the English version have the same content.
 * Validate that no unexplained acronyms, abbreviations, puns or legal/domain specific terms are in the documentation.
-* Test the documentation using.
+* Test the documentation using [Grammarly](https://www.grammarly.com/) or [Hemingway text editor](https://hemingwayapp.com/).
+* Ask someone outside of your context if they understand your content (for example, a developer working on a different project).
+
 
 ## Policy makers: what you need to do
 
@@ -43,5 +47,5 @@ order: 9
 
 ## Further reading
 
-* [Hemingway text editor](https://hemingwayapp.com/) - highlights lengthy, complex sentences and common errors.
+* Text of the [Web Content Accessibilty Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) - make text content readable and understandable.
 * [Upgoer 5 text editor](https://splasho.com/upgoer5/) - only allows 1000 most common words.

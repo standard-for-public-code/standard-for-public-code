@@ -9,6 +9,7 @@
 * Boris van Hoytema
 * Mirjam van Tiel
 * Eric Herman
+* Jan Ainali
 
 Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
 
@@ -39,3 +40,4 @@ Individual contributors
 * Bert Spaan
 * David Barberi
 * Paul Keller
+* Sky Bristol

@@ -1,4 +1,20 @@
-<svg width="595" height="842" viewBox="0 0 595 842" fill="none" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="595" height="842" viewBox="0 0 595 842" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<metadata id="metadata5">
+  <rdf:RDF>
+     <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+          <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+          <dc:title>Unlock public code</dc:title>
+          <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+     </cc:Work>
+     <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+          <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+          <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+          <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+     </cc:License>
+  </rdf:RDF>
+</metadata>
 <rect width="595" height="842" fill="white"/>
 <rect width="595" height="842" fill="#5B57CA"/>
 <rect x="268" y="405" width="200" height="150" fill="#FFF500"/>

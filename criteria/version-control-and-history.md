@@ -63,3 +63,4 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 * [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
 * [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service.
+* [Semantic Versioning Specification](https://semver.org/) used by many codebases to label versions.
