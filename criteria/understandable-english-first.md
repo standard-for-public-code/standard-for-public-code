@@ -21,30 +21,31 @@ order: 9
 
 ## What this does not do
 
-* Make explanations of your codebase's functionality understandable
-* Make your organization's jargon understandable without an explanation
+* Make explanations of your codebase's functionality understandable.
+* Make your organization's jargon understandable without an explanation.
 
 ## How to test
 
-* Check that translations and the English version have the same content
-* Validate that no unexplained acronyms, abbreviations, puns or legal/domain specific terms are in the documentation
-* Test the documentation using [Grammarly](https://www.grammarly.com/) or [Hemingway text editor](https://hemingwayapp.com/) 
-* Ask someone outside of your context if they understand your content (for example, a developer working on a different project)
+* Check that translations and the English version have the same content.
+* Validate that no unexplained acronyms, abbreviations, puns or legal/domain specific terms are in the documentation.
+* Test the documentation using [Grammarly](https://www.grammarly.com/) or [Hemingway text editor](https://hemingwayapp.com/).
+* Ask someone outside of your context if they understand your content (for example, a developer working on a different project).
+
 
 ## Policy makers: what you need to do
 
-* Frequently test with other management, designers and developers in the process if they understand what you are delivering and how you document it
+* Frequently test with other management, designers and developers in the process if they understand what you are delivering and how you document it.
 
 ## Management: what you need to do
 
-* Try to limit the use of acronyms, abbreviations, puns or legal/domain specific terms in internal communications in and between teams and stakeholders
-* Be critical of documentation and descriptions in proposals and changes - if you don't understand something, others will probably others also not
+* Try to limit the use of acronyms, abbreviations, puns or legal/domain specific terms in internal communications in and between teams and stakeholders.
+* Be critical of documentation and descriptions in proposals and changes - if you don't understand something, others will probably others also not.
 
 ## Developers and designers: what you need to do
 
-* Frequently test with policy makers and management if they understand what you are delivering and how you document it
+* Frequently test with policy makers and management if they understand what you are delivering and how you document it.
 
 ## Further reading
 
-* Text of the [Web Content Accessibilty Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) - make text content readable and understandable
-* [Upgoer 5 text editor](https://splasho.com/upgoer5/) - only allows 1000 most common words
+* Text of the [Web Content Accessibilty Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) - make text content readable and understandable.
+* [Upgoer 5 text editor](https://splasho.com/upgoer5/) - only allows 1000 most common words.
