@@ -15,8 +15,8 @@ order: 1
 
 Coding in the open:
 
-* improves transparency.
-* increases code quality.
+* improves transparency,
+* increases code quality,
 * facilitates the auditing processes.
 
 ## What this does not do
