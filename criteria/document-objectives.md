@@ -14,7 +14,7 @@ order: 7
 
 Documenting your objectives:
 
-* provides an easy way for people to decide whether this codebase is interesting for them now or in the future.
+* provides an easy way for people to decide whether this codebase is interesting for them now or in the future,
 * helps scope your own development as well as clearly communicate to other stakeholders and contributors what the codebase is for.
 
 ## What this does not do

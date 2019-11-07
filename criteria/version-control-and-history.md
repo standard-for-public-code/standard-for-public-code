@@ -20,9 +20,9 @@ Version control means keeping track of changes to your code over time. This allo
 
 Version control enables you to:
 
-* revert to an earlier version of the codebase whenever you want to.
-* record your changes and the reasons why you made them, to help future developers understand the process.
-* compare two different versions.
+* revert to an earlier version of the codebase whenever you want to,
+* record your changes and the reasons why you made them, to help future developers understand the process,
+* compare two different versions,
 * work on changes in parallel as a team before merging them together.
 
 ## What this does not do
@@ -36,14 +36,14 @@ Version control enables you to:
 * The codebase is kept in version control using software such as Git.
 
 * All commit messages explain:
-  * why the change was made.
+  * why the change was made,
   * what the discussion about the change was or where to find it (with a URL).
 * It is possible to access a specific version of the codebase, for example through a revision tag or a textual label.
 
 ## Policy makers: what you need to do
 
 * If a new version of the codebase is created because of a policy change, make sure it's clear in the documentation:
-  * what the policy change is.
+  * what the policy change is,
   * how it's changed the codebase.
 
 For example, adding a new category of applicant to a codebase that manages granting permits would be considered a policy change.
