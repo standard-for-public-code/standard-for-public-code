@@ -10,7 +10,7 @@ order: 10
 * If no existing open standard is available, effort SHOULD be put into developing one.
 * Standards that are machine testable SHOULD be preferred over those that are not.
 * Functionality using features from a non-open standard (one that doesn't meet the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)) MAY be provided if necessary, but only in addition to compliant features.
-* All non-compliant standards used MUST be documented clearly in the documentation.
+* All non-compliant standards used MUST be recorded clearly in the documentation.
 * The codebase SHOULD contain a list of all the standards used with links to where they are available.
 
 ## Why this is important
