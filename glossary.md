@@ -14,7 +14,7 @@ This can be – for example – a document or a version-control repository.
 
 The public at large: end users of the code and the services based upon it.
 
-For example, the end users of both a service provided by a city and the code that runs the service are the city's residents.
+For example, a city's residents are considered end users of a city's services and of all code that powers these services.
 
 ## Open source
 

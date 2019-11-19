@@ -39,7 +39,7 @@ order: 9
 ## Management: what you need to do
 
 * Try to limit the use of acronyms, abbreviations, puns or legal/domain specific terms in internal communications in and between teams and stakeholders.
-* Be critical of documentation and descriptions in proposals and changes - if you don't understand something, others will probably others also not.
+* Be critical of documentation and descriptions in proposals and changes - if you don't understand something, others will probably also struggle with it.
 
 ## Developers and designers: what you need to do
 

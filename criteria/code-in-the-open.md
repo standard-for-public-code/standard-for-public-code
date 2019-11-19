@@ -29,7 +29,7 @@ Coding in the open:
 The source for any version currently in use is published on the internet where it can be seen:
 
 * from outside the original contributing organization,
-* without the need for any form of authentication.
+* without the need for any form of authentication or authorization.
 
 ## Policy makers: what you need to do
 

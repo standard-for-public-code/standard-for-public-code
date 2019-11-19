@@ -78,9 +78,9 @@ This pooling of resources lets public administrations give extra attention to ho
 
 ### Economics of public code
 
-Public code offers a better economic model for public organizations as well as for commercial companies. It's an alternative to traditional software procurement, which increases local control and economic opportunity.
+Public code offers a better economic model for public organizations as well as for commercial companies. It's an alternative to traditional software procurement which increases local control and economic opportunity.
 
-Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendors if they need. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts - thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
+Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendors if they need to. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts - thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
 
 This can be seen as investment leading to future economic growth - more vendors will be necessary due to growing technology demand.
 
@@ -100,7 +100,7 @@ The audit tests the entire codebase, including source code, policy, documentatio
 
 ### How the process works
 
-Every time a contribution is suggested to a codebase – through for instance a merge request – the [codebase stewards](https://about.publiccode.net/roles/) of our organization will audit the contribution for compliance with the Standard for Public Code. New contributions can only be adopted into the codebase after they have been approved as compliant with the Standard for Public Code, as well as being reviewed by another contributor.
+Every time a contribution is suggested to a codebase – through for instance a merge request – the [codebase stewards](https://about.publiccode.net/roles/) of our organization will audit the contribution for compliance with the Standard for Public Code. New contributions can only be adopted into the codebase after they have been approved as compliant with the Standard for Public Code, and have been reviewed by another contributor.
 
 The audit is presented as a review of the contribution. The codebase steward gives line by line feedback and compliance, helping the contributor to improve their contribution. The merge request cannot be fulfilled until the codebase stewards have approved the contribution.
 
@@ -126,7 +126,7 @@ This Standard supports developers, designers, business management and policy mak
 
 [We help public organizations](https://publiccode.net/) share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
 
-Potential users of codebases tested against the Standard for Public Code can expect them to be highly reusable, easily maintainable and high quality.
+Potential users of codebases tested against the Standard for Public Code can expect them to be highly reusable, easily maintainable and of high quality.
 
 The Standard for Public Code does this by:
 
