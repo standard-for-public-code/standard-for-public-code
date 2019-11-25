@@ -28,7 +28,8 @@ order: 9
 
 * Check that translations and the English version have the same content.
 * Validate that no unexplained acronyms, abbreviations, puns or legal/domain specific terms are in the documentation.
-* Test the documentation using [Grammarly](https://www.grammarly.com/) or [Hemingway text editor](https://hemingwayapp.com/).
+* Test the documentation for grammar using [Grammarly](https://www.grammarly.com/).
+* Test the documentation for readability [Hemingway text editor](https://hemingwayapp.com/).
 * Ask someone outside of your context if they understand your content (for example, a developer working on a different project).
 
 
