@@ -41,3 +41,4 @@ Individual contributors
 * David Barberi
 * Paul Keller
 * Sky Bristol
+* Marcus Klaas de Vries
