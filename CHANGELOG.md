@@ -1,5 +1,14 @@
 # Version history
 
+## Version 0.1.4
+
+November 27th 2019: 🧹 the fifth draft consists mostly of additional minor fixes.
+
+* Linked License.md file.
+* Add Sky Bristol and Jan Ainali to authors.
+* Made punctuation more consistent, especially for bullet lists.
+* Made some minor changes to text for clarity.
+
 ## Version 0.1.3
 
 October 8th 2019: 🍂 the fourth draft only patches and fixes minor things for the autumn cleaning
