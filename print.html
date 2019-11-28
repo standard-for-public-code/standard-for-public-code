@@ -230,10 +230,6 @@
 
   </article>
 
-  <figure>
-    <img src="/assets/collaboration.svg" alt="collaboration">
-  </figure>
-
   <article id="table-of-contents">
 
     <h1>Table of Contents</h1>
@@ -320,11 +316,19 @@
 
   </article>
 
+  <figure>
+    <img src="/assets/collaboration.svg" alt="collaboration">
+  </figure>
+
   <article id="section-governance">
 
     {% for page in site.pages %}{% if page.name == "GOVERNANCE.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
+
+  <figure>
+    <img src="/assets/eco-system.svg" alt="ecosystem">
+  </figure>
 
   <article id="section-changelog">
 
