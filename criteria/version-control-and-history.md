@@ -6,13 +6,13 @@ order: 5
 
 ## Requirements
 
-* You MUST have a way to maintain version control for your code
-* All files in a codebase MUST be version controlled
-* All decisions MUST be documented in commit messages
-* Every commit message MUST link to discussions and issues wherever possible
-* You SHOULD group relevant changes in commits
-* You SHOULD mark different versions of your codebase, for example using revision tags or textual labels
-* You SHOULD prefer file formats that can easily be version controlled
+* You MUST have a way to maintain version control for your code.
+* All files in a codebase MUST be version controlled.
+* All decisions MUST be documented in commit messages.
+* Every commit message MUST link to discussions and issues wherever possible.
+* You SHOULD group relevant changes in commits.
+* You SHOULD mark different versions of your codebase, for example using revision tags or textual labels.
+* You SHOULD prefer file formats that can easily be version controlled.
 
 ## Why this is important
 
@@ -20,31 +20,31 @@ Version control means keeping track of changes to your code over time. This allo
 
 Version control enables you to:
 
-* revert to an earlier version of the codebase whenever you want to
-* record your changes and the reasons why you made them, to help future developers understand the process
-* compare two different versions
-* work on changes in parallel as a team before merging them together
+* revert to an earlier version of the codebase whenever you want to,
+* record your changes and the reasons why you made them, to help future developers understand the process,
+* compare two different versions,
+* work on changes in parallel as a team before merging them together.
 
 ## What this does not do
 
-* Substitute for [advertising maturity](advertise-maturity.md)
-* Guarantee your code executes correctly
-* Guarantee collaborators
+* Substitute for [advertising maturity](advertise-maturity.md).
+* Guarantee your code executes correctly.
+* Guarantee collaborators.
 
 ## How to test
 
 * The codebase is kept in version control using software such as Git.
 
 * All commit messages explain:
-  * why the change was made
-  * what the discussion about the change was or where to find it (with a URL)
-* It is possible to access a specific version of the codebase, for example through a revision tag or a textual label
+  * why the change was made,
+  * what the discussion about the change was or where to find it (with a URL).
+* It is possible to access a specific version of the codebase, for example through a revision tag or a textual label.
 
 ## Policy makers: what you need to do
 
 * If a new version of the codebase is created because of a policy change, make sure it's clear in the documentation:
-  * what the policy change is
-  * how it's changed the codebase
+  * what the policy change is,
+  * how it's changed the codebase.
 
 For example, adding a new category of applicant to a codebase that manages granting permits would be considered a policy change.
 
@@ -61,5 +61,6 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 ## Further reading
 
-* [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel
-* [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service
+* [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
+* [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service.
+* [Semantic Versioning Specification](https://semver.org/) used by many codebases to label versions.

@@ -6,22 +6,22 @@ order: 10
 
 ## Requirements
 
-* For features of a codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)
-* If no existing open standard is available, effort SHOULD be put into developing one
-* Standards that are machine testable SHOULD be preferred over those that are not
-* Functionality using features from a non-open standard (one that doesn't meet the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)) MAY be provided if necessary, but only in addition to compliant features
-* All non-compliant standards used MUST be documented clearly in the documentation
-* The codebase SHOULD contain a list of all the standards used with links to where they are available
+* For features of a codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
+* If no existing open standard is available, effort SHOULD be put into developing one.
+* Standards that are machine testable SHOULD be preferred over those that are not.
+* Functionality using features from a non-open standard (one that doesn't meet the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)) MAY be provided if necessary, but only in addition to compliant features.
+* All non-compliant standards used MUST be recorded clearly in the documentation.
+* The codebase SHOULD contain a list of all the standards used with links to where they are available.
 
 ## Why this is important
 
-* Creates interoperability between systems
-* Reduces possible vendor-lock in
-* Guarantees access to the knowledge required to reuse and contribute to the codebase
+* Creates interoperability between systems.
+* Reduces possible vendor-lock in.
+* Guarantees access to the knowledge required to reuse and contribute to the codebase.
 
 ## What this does not do
 
-* Make it understandable how to use the software
+* Make it understandable how to use the software.
 
 ## How to test
 
@@ -30,7 +30,7 @@ order: 10
 
 ## Policy makers: what you need to do
 
-* Prohibit procurement of technology that does not comply with the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)
+* Prohibit procurement of technology that does not comply with the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
 
 ## Management: what you need to do
 
@@ -38,8 +38,8 @@ order: 10
 
 ## Developers and designers: what you need to do
 
-* Add continuous integration tests for compliance to the standards
+* Add continuous integration tests for compliance to the standards.
 
 ## Further reading
 
-* [Open Standard Requirements](https://opensource.org/osr) by the Open Source Initiative
+* [Open Standard Requirements](https://opensource.org/osr) by the Open Source Initiative.

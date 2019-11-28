@@ -31,14 +31,14 @@ Current public software production methods have not served public service delive
 In the last decade, public organizations that purchased complete software solutions have sometimes been surprised to discover that they:
 
 * can’t change their software to reflect changing policy or take advantage of new technology
-* don’t have access to their data as it's locked in to systems
+* don’t have access to their data as it's locked into proprietary systems
 * are asked to pay ever increasing license fees
 
 ### Technological sovereignty and democratic accountability
 
 Public institutions, civil servants and residents deserve better.
 
-We believe the software that runs our society can no longer be a black box, ordered from outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases. Instead, governments need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as essential civic infrastructure should honor digital citizens’ rights.
+We believe the software that runs our society can no longer be a black box, controlled by outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases. Instead, governments and the people they serve need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as essential civic infrastructure should honor digital citizens’ rights.
 
 ### Designing truly public software
 
@@ -78,9 +78,9 @@ This pooling of resources lets public administrations give extra attention to ho
 
 ### Economics of public code
 
-Public code offers a better economic model for public organizations as well as for commercial companies. It's an alternative to traditional software procurement, which increases local control and economic opportunity.
+Public code offers a better economic model for public organizations as well as for commercial companies. It's an alternative to traditional software procurement which increases local control and economic opportunity.
 
-Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendor if they need. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts - thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
+Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendors if they need to. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts - thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
 
 This can be seen as investment leading to future economic growth - more vendors will be necessary due to growing technology demand.
 
@@ -94,13 +94,13 @@ To use existing public code, you need to specify in your budget and project desi
 
 Our organization ensures that codebases under its stewardship (and not in incubation or the attic) are compliant with the Standard for Public Code. This makes clear to potential users and contributors that the codebase is of high quality, and updates will be too.
 
-The audit performed by our organization is meant to complement machine testing, as machines are great at testing things like syntax and whether outcomes align with expectations. Things meant for humans, such as testing whether documentation is actually understandable and attached, the commit messages make sense and whether community guidelines are being followed are impossible for machines to test against.
+The audit performed by our organization is meant to complement machine testing, as machines are great at testing things like syntax and whether outcomes align with expectations. Things meant for humans, such as testing whether documentation is actually understandable and accessible in context, the commit messages make sense, and whether community guidelines are being followed are impossible for machines to test.
 
 The audit tests the entire codebase, including source code, policy, documentation and conversation for compliance with both the standards set out by our organization and the standards set out in the codebase itself.
 
 ### How the process works
 
-Every time a contribution is suggested to a codebase – through for instance a merge request – the [codebase stewards](https://about.publiccode.net/roles/) of our organization will audit the contribution for compliance with the Standard for Public Code. New contributions can only be adopted into the codebase after they have been approved as compliant with the Standard for Public Code, as well as being reviewed by another contributor.
+Every time a contribution is suggested to a codebase – through for instance a merge request – the [codebase stewards](https://about.publiccode.net/roles/) of our organization will audit the contribution for compliance with the Standard for Public Code. New contributions can only be adopted into the codebase after they have been approved as compliant with the Standard for Public Code, and have been reviewed by another contributor.
 
 The audit is presented as a review of the contribution. The codebase steward gives line by line feedback and compliance, helping the contributor to improve their contribution. The merge request cannot be fulfilled until the codebase stewards have approved the contribution.
 
@@ -110,23 +110,23 @@ The audit is presented as a review of the contribution. The codebase steward giv
 
 For the codebase to be completely certified every meaningful line of code, and the commits behind the code, need to meet the Standard.
 
-If codebases have been completely audited from the first merge request they can be completely be certified as compliant with the Standard for Public Code immediately.
+If codebases have been completely audited from the first merge request they can be immediately certified as compliant with the Standard for Public Code.
 
-If the audit process is added to an existing codebase, the new merge requests can be certified, but the existing code cannot be certified. By auditing every new merge request the codebase can move towards being completely certified.
+If the audit process is added to an existing codebase, the new merge requests can be certified, but the existing code cannot be certified. By auditing every new merge request the codebase can move incrementally towards being completely certified.
 
 ## The goals for the Standard for Public Code
 
 This Standard supports developers, designers, business management and policy makers to:
 
 * develop high quality software and policy for better public service delivery
-* develop reusable codebases that can be reused across contexts and collaboratively maintained
+* develop codebases that can be reused across contexts and collaboratively maintained
 * reduce technical debt and project failure rate
 * have more granular control over, and ability to make decisions about, their IT systems
 * improve vendor relationships with a better economic model
 
 [We help public organizations](https://publiccode.net/) share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
 
-Potential users of codebases tested against the Standard for Public Code can expect them to be highly reusable, easily maintainable and high quality.
+Potential users of codebases tested against the Standard for Public Code can expect them to be highly reusable, easily maintainable and of high quality.
 
 The Standard for Public Code does this by:
 
