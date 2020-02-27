@@ -56,6 +56,7 @@ order: 11
 ## Developers and designers: what you need to do
 
 * Help management and policy makers test their contributions, by for example testing their contributions for broken links or style.
+* Structure code which is written to handle conditions which are difficult to create in a test environment (such as out of storage space or memory allocation failure) in such a way that the conditions can be simulated during testing.
 * Deploy often.
 
 ## Further reading
