@@ -56,6 +56,8 @@ order: 11
 ## Developers and designers: what you need to do
 
 * Help management and policy makers test their contributions, by for example testing their contributions for broken links or style.
+* Structure code written to handle conditions which are difficult to create in a test environment in such a way that the conditions can be simulated during testing. Forms of resource exhaustion such as running out of storage space and memory allocation failure are typical examples of difficult to create conditions.
+* Tune the test code coverage tools to avoid false alarms resulting from inlining or other optimizations.
 * Deploy often.
 
 ## Further reading
