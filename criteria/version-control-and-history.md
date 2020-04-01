@@ -27,7 +27,7 @@ Version control enables you to:
 
 ## What this does not do
 
-* Substitute for [advertising maturity](advertise-maturity.md).
+* Substitute for [advertising maturity](document-maturity.md).
 * Guarantee your code executes correctly.
 * Guarantee collaborators.
 
