@@ -17,7 +17,7 @@ order: 11
 ## Why this is important
 
 * Using continuous integration:
-  * allows you to quickly identify problems with your codebase,
+  * allows you to quickly identify problems with the codebase,
   * enable risk taking and focusing on problem solving while minimising stress on the contributors,
   * lowers barriers for new contributors by reducing the amount of understanding necessary to suggest changes,
   * leads to more maintainable code,
