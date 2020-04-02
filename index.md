@@ -23,7 +23,7 @@ The Standard for Public Code gives cities a model for building their own open so
   * [Use continuous integration](criteria/continuous-integration.md)
   * [Publish with an open license](criteria/open-licenses.md)
   * [Use a coherent style](criteria/style.md)
-  * [Pay attention to codebase maturity](criteria/advertise-maturity.md)
+  * [Document codebase maturity](criteria/document-maturity.md)
 * [Authors](AUTHORS.md)
 * [Contributing guide](CONTRIBUTING.md)
 * [Code of conduct](CODE_OF_CONDUCT.md)

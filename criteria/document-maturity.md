@@ -1,7 +1,7 @@
 ---
 order: 14
 ---
-# Pay attention to codebase maturity
+# Document codebase maturity
 
 ## Requirements
 
