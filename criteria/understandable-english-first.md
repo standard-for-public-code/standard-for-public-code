@@ -15,13 +15,13 @@ order: 9
 
 ## Why this is important
 
-* Makes your codebase and what it does understandable for a wider variety of stakeholders in multiple contexts.
-* Helps with the discoverability of your codebase.
+* Makes the codebase and what it does understandable for a wider variety of stakeholders in multiple contexts.
+* Helps with the discoverability of the codebase.
 * Can help you meet the [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility), which requires most public sector information to be accessible
 
 ## What this does not do
 
-* Make explanations of your codebase's functionality understandable.
+* Make explanations of the codebase's functionality understandable.
 * Make your organization's jargon understandable without an explanation.
 
 ## How to test

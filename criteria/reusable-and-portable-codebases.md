@@ -29,7 +29,7 @@ order: 3
 
 ## How to test
 
-* Ask someone in a similar role at another organization if they could reuse your codebase and what that would entail.
+* Ask someone in a similar role at another organization if they could reuse the codebase and what that would entail.
 * Codebase is in use by multiple parties or in multiple contexts.
 
 ## Policy makers: what you need to do

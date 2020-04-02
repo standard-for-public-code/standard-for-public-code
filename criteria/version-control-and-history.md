@@ -6,17 +6,17 @@ order: 5
 
 ## Requirements
 
-* You MUST have a way to maintain version control for your code.
+* You MUST have a way to maintain version control for the code.
 * All files in a codebase MUST be version controlled.
 * All decisions MUST be documented in commit messages.
 * Every commit message MUST link to discussions and issues wherever possible.
 * You SHOULD group relevant changes in commits.
-* You SHOULD mark different versions of your codebase, for example using revision tags or textual labels.
+* You SHOULD mark different versions of the codebase, for example using revision tags or textual labels.
 * You SHOULD prefer file formats that can easily be version controlled.
 
 ## Why this is important
 
-Version control means keeping track of changes to your code over time. This allows you to create structured documentation of the history of the codebase. This is essential for collaboration at scale.
+Version control means keeping track of changes to the code over time. This allows you to create structured documentation of the history of the codebase. This is essential for collaboration at scale.
 
 Version control enables you to:
 
@@ -28,7 +28,7 @@ Version control enables you to:
 ## What this does not do
 
 * Substitute for [advertising maturity](document-maturity.md).
-* Guarantee your code executes correctly.
+* Guarantee the code executes correctly.
 * Guarantee collaborators.
 
 ## How to test

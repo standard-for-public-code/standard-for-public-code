@@ -17,7 +17,7 @@ The Standard for Public Code gives cities a model for building their own open so
   * [Maintain version control](criteria/version-control-and-history.md)
   * [Require review of contributions](criteria/require-review.md)
   * [Document your objectives](criteria/document-objectives.md)
-  * [Document your code](criteria/documenting.md)
+  * [Document the code](criteria/documenting.md)
   * [Use plain English](criteria/understandable-english-first.md)
   * [Use open standards](criteria/open-standards.md)
   * [Use continuous integration](criteria/continuous-integration.md)

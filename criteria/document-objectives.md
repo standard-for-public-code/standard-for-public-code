@@ -20,7 +20,7 @@ Documenting your objectives:
 ## What this does not do
 
 * Guarantee that the codebase achieves the stated objective(s).
-* Guarantee contributions to your codebase.
+* Guarantee contributions to the codebase.
 * Prevent other codebases from attempting to achieve the same objectives.
 
 ## How to test
