@@ -9,7 +9,7 @@ order: 12
 * All code and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
 * Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category).
 * All code MUST be published with a license file.
-* A contributor MUST be able to retain the intellectual property of their contributions to the codebase.
+* Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
 * All source code files in the codebase SHOULD include a copyright notice and a license header.
 * Codebases MAY have multiple licenses for different types of code and documentation.
 * Documentation MAY be published under [Creative Commons licenses](https://creativecommons.org/licenses/) that are NOT 'no derivatives' or 'non-commercial'.
