@@ -10,6 +10,10 @@ Any discrete package of code (both source and policy), the tests and the documen
 
 This can be – for example – a document or a version-control repository.
 
+## Continous Integration
+
+Continous Integration: In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a shared mainline of a codebase several times a day.<sup>[1](#footnote1)</sup>
+
 ## General public
 
 The public at large: end users of the code and the services based upon it.
@@ -37,3 +41,16 @@ By developing public code independently from but still implementable in the loca
 * use as a basis for learning
 
 To facilitate re-use, public code should be either released into the public domain or licensed with an open license that permits others to view and reuse the work freely and to produce derivative works.
+
+## Repository
+
+In revision (or version) control systems, a repository<sup>[2](#footnote2)</sup> is a data structure which stores metadata for a set of files or directory structure. 
+
+## Version control
+
+A component of software configuration management, version control, also known as revision control or source control,<sup>[3](#footnote3)</sup>is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision". For example, an initial set of files is "revision 1". When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
+
+### Footnotes
+- <a name="footnote1">1</a>: O'Sullivan, Bryan (2009). Mercurial: the Definitive Guide. Sebastopol: O'Reilly Media, Inc. ISBN 9780596555474. Retrieved from Wikipedia 8 May 2020.
+- <a name="footnote2">2</a>: SVNBook.
+- <a name="footnote3">3</a>: Fowler, Martin (1 May 2006). "Continuous Integration". martinfowler.com. Retrieved 9 January 2014.
