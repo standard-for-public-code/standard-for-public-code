@@ -151,6 +151,9 @@ These people work at:
 
 It is not aimed at public organizations' end users (residents or citizens), journalists or academics.
 
+## Further reading
+- Whitepaper about public code titled: ["Modernising Public Infrastructure with Free Software"](https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf)
+
 ## Get involved
 
 This standard is a living document. [Read our contributor guide](/CONTRIBUTING.md) to learn how you can make it better.
