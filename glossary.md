@@ -12,7 +12,7 @@ This can be – for example – a document or a version-control repository.
 
 ## Continous Integration
 
-Continous Integration: In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a shared mainline of a codebase several times a day.<sup>[1](#footnote1)</sup>
+Continous Integration: In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a development branch of a codebase as frequently as reasonable. 
 
 ## General public
 
@@ -44,13 +44,8 @@ To facilitate re-use, public code should be either released into the public doma
 
 ## Repository
 
-In revision (or version) control systems, a repository<sup>[2](#footnote2)</sup> is a data structure which stores metadata for a set of files or directory structure. 
+In revision (or version) control systems, a repository is a data structure which stores metadata for a set of files or directory structure. (source: SVNBook)
 
 ## Version control
 
-A component of software configuration management, version control, also known as revision control or source control,<sup>[3](#footnote3)</sup>is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision". For example, an initial set of files is "revision 1". When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
-
-### Footnotes
-- <a name="footnote1">1</a>: O'Sullivan, Bryan (2009). Mercurial: the Definitive Guide. Sebastopol: O'Reilly Media, Inc. ISBN 9780596555474. Retrieved from Wikipedia 8 May 2020.
-- <a name="footnote2">2</a>: SVNBook.
-- <a name="footnote3">3</a>: Fowler, Martin (1 May 2006). "Continuous Integration". martinfowler.com. Retrieved 9 January 2014.
+A component of software configuration management, version control, also known as revision control or source control, is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision". For example, an initial set of files is "revision 1". When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged. (source: Fowler, Martin (1 May 2006). "Continuous Integration". martinfowler.com. Retrieved 9 January 2014.)
