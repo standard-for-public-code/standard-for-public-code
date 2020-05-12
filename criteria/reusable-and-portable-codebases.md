@@ -12,7 +12,7 @@ order: 3
 * The roadmap SHOULD be influenced by the needs of multiple parties.
 * Code SHOULD be general purpose and SHOULD be configurable.
 * Codebases SHOULD include a [publiccode.yml](https://github.com/italia/publiccode.yml) metadata description so that they're easily discoverable.
-* Code and its documentation SHOULD not contain situation-specific information. For example, personal and organizational data as well as tokens and passwords used in the production system should never be included.
+* Code and its documentation SHOULD NOT contain situation-specific information such as hostnames.
 
 ## Why this is important
 
@@ -31,6 +31,7 @@ order: 3
 
 * Ask someone in a similar role at another organization if they could reuse the codebase and what that would entail.
 * Codebase is in use by multiple parties or in multiple contexts.
+* Check that no personal or organizational data, tokens, or passwords used in production systems are included in the codebase or documentation.
 
 ## Policy makers: what you need to do
 
