@@ -30,7 +30,14 @@ An open standard is any standard that meets the Open Source Initiative's [Open S
 
 ## Policy
 
-A policy is a deliberate system of principles to guide decisions and achieve rational outcomes. A policy is a statement of intent, and is implemented as a procedure or protocol. Policies are generally adopted by a governance body within an organization. Policies can assist in both subjective and objective decision making. Public policy is the process by which governments translate their political vision into programmes and actions to deliver outcomes. In the Standard the word 'policy' refers to policy created and adopted by public organizations such as governments and municipalities.
+A policy is a deliberate system of principles to guide decisions and achieve rational outcomes.
+A policy is a statement of intent, and is implemented as a procedure or protocol.
+Policies are generally adopted by a governance body within an organization.
+Policies can assist in both subjective and objective decision making.
+
+Public policy is the process by which governments translate their political vision into programmes and actions to deliver outcomes.
+
+In the Standard the word 'policy' refers to policy created and adopted by public organizations such as governments and municipalities.
 
 ## Public code
 
