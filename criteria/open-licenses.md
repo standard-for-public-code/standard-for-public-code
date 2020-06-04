@@ -25,7 +25,7 @@ order: 12
 ## How to test
 
 * There is at least 1 license file present in the codebase, usually called `license`.
-* The license is on the [OSI-approved Open Source license list](https://opensource.org/licenses/category).
+* The license for the source code is on the [OSI-approved Open Source license list](https://opensource.org/licenses/category) and the license for documentation is [conformant to the Open Definition](https://opendefinition.org/licenses/).
 
 ## Policy makers: what you need to do
 
