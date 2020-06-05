@@ -12,7 +12,6 @@ order: 12
 * Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
 * All source code files in the codebase SHOULD include a copyright notice and a license header.
 * Codebases MAY have multiple licenses for different types of code and documentation.
-* Documentation MAY be published under [Creative Commons licenses](https://creativecommons.org/licenses/) that are NOT 'no derivatives' or 'non-commercial'.
 
 ## Why this is important
 
@@ -35,6 +34,7 @@ order: 12
 ## Management: what you need to do
 
 * Only work with open source vendors that deliver their code by publishing it under an open source license.
+* Beware that even though [Creative Commons licenses](https://creativecommons.org/licenses/) are great for documentation, licenses that stipulate Non-Commercial or No Derivatives are NOT freely reusable, changable and redistributable and don't fulfill these requirements.
 
 ## Developers and designers: what you need to do
 
