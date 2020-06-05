@@ -1,6 +1,7 @@
 # Readers guide
 
-The criteria in the Standard have consistent sections that together make it clear how to create great public code.
+The Standard describes a number of criteria. Each criteria have consistent sections that make it clear how to create great public code. 
+Below is a brief explanation of each of these sections and how they are used within the criteria of the Standard.
 
 ## Requirements
 

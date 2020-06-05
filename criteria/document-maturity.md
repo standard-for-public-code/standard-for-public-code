@@ -1,7 +1,7 @@
 ---
 order: 14
 ---
-# Pay attention to codebase maturity
+# Document codebase maturity
 
 ## Requirements
 
@@ -20,7 +20,7 @@ Clearly signalling a codebase's maturity helps others to decide whether to reuse
 
 ## What this does not do
 
-* Guarantee that others will use your code.
+* Guarantee that others will use the code.
 
 ## How to test
 
