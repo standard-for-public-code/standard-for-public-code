@@ -37,6 +37,8 @@ Policies can assist in both subjective and objective decision making.
 
 Public policy is the process by which governments translate their political vision into programmes and actions to deliver outcomes.
 
+At the national level, policy and legislation (the law) are usually separate. The distinction is often more blurred in local government.
+
 In the Standard the word 'policy' refers to policy created and adopted by public organizations such as governments and municipalities.
 
 ## Public code
