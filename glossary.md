@@ -28,6 +28,19 @@ Open source is defined by the Open Source Initiative in their [Open Source Defin
 
 An open standard is any standard that meets the Open Source Initiative's [Open Standard Requirements](https://opensource.org/osr).
 
+## Policy
+
+A policy is a deliberate system of principles to guide decisions and achieve rational outcomes.
+A policy is a statement of intent, and is implemented as a procedure or protocol.
+Policies are generally adopted by a governance body within an organization.
+Policies can assist in both subjective and objective decision making.
+
+Public policy is the process by which governments translate their political vision into programmes and actions to deliver outcomes.
+
+At the national level, policy and legislation (the law) are usually separate. The distinction is often more blurred in local government.
+
+In the Standard the word 'policy' refers to policy created and adopted by public organizations such as governments and municipalities.
+
 ## Public code
 
 Public code is both civil code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines.
