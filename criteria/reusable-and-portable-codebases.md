@@ -12,7 +12,7 @@ order: 3
 * The roadmap SHOULD be influenced by the needs of multiple parties.
 * Code SHOULD be general purpose and SHOULD be configurable.
 * Codebases SHOULD include a [publiccode.yml](https://github.com/italia/publiccode.yml) metadata description so that they're easily discoverable.
-* Code and its documentation SHOULD NOT contain situation-specific information such as hostnames.
+* Code and its documentation SHOULD NOT contain situation-specific information.
 
 ## Why this is important
 
