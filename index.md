@@ -2,9 +2,9 @@
 
 Welcome to the Standard for Public Code.
 
-We define ‘public code’ as open source software developed by public organizations (like cities), together with the policy and guidance needed for reuse.
+We define ‘public code’ as open source software developed by public organizations, together with the policy and guidance needed for reuse.
 
-The Standard for Public Code gives cities a model for building their own open source solutions to enable successful future reuse by other cities. It includes guidance for policymakers, city administrators, developers and vendors.
+The Standard for Public Code gives public organizations a model for building their own open source solutions to enable successful future reuse by similar public organizations in other places. It includes guidance for policymakers, city administrators, developers and vendors.
 
 * [Introduction and background](introduction.md)
 * [Readers guide: how to interpret this standard](readers-guide.md)
