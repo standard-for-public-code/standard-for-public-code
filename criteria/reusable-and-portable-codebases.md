@@ -20,6 +20,7 @@ order: 3
 * Makes the code easier for new people to understand (as it's more general).
 * Makes it easier to control the mission, vision and scope of the codebase because the codebase is thoughtfully and purposefully designed for reusability.
 * Codebases used by multiple parties have broad enough value to be Public Code and are more likely to benefit from a self-sustaining community.
+* Any contributor is able to test and contribute without relying on the situation-specific infrastructure of any other contributor or deployment.
 
 ## What this does not do
 
@@ -31,7 +32,7 @@ order: 3
 
 * Ask someone in a similar role at another organization if they could reuse the codebase and what that would entail.
 * Codebase is in use by multiple parties or in multiple contexts.
-* Check that no personal or organizational data, tokens, or passwords used in production systems are included in the codebase or documentation.
+* For each commit, reviewers verify that content does not include situation-specific data such as hostnames, personal and organizational data, or tokens and passwords.
 
 ## Policy makers: what you need to do
 
