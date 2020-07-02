@@ -8,7 +8,7 @@ order: 3
 
 * The codebase MUST be developed to be reusable in different contexts.
 * The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed code or services for execution and understanding.
-* The codebase MUST be in use by multiple parties.
+* The codebase SHOULD be in use by multiple parties.
 * The roadmap SHOULD be influenced by the needs of multiple parties.
 * Code SHOULD be general purpose and SHOULD be configurable.
 * Codebases SHOULD include a [publiccode.yml](https://github.com/italia/publiccode.yml) metadata description so that they're easily discoverable.
