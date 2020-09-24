@@ -14,6 +14,7 @@ The Standard for Public Code gives public organizations a model for building the
   * [Bundle policy and source code](criteria/bundle-policy-and-code.md)
   * [Create reusable and portable code](criteria/reusable-and-portable-codebases.md)
   * [Welcome contributions](criteria/open-to-contributions.md)
+  * [Make contributing easy](criteria/make-contributing-easy.md)
   * [Maintain version control](criteria/version-control-and-history.md)
   * [Require review of contributions](criteria/require-review.md)
   * [Document your objectives](criteria/document-objectives.md)
