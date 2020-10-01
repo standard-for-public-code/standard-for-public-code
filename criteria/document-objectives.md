@@ -29,7 +29,7 @@ There is an entry for the codebase objectives, mission or goal in the codebase d
 
 ## Policy makers: what you need to do
 
-* Add the policy objectives to the codebase documentation, for example in the `README`. Include relevant polices which impact the community, codebase, and development like value and ethics based polices, for example equal opportunity.
+* Add the policy objectives to the codebase documentation, for example in the `README`. Include relevant polices which impact the community, codebase, and development like value and ethics based polices, for example accessibility or equal opportunity.
 
 ## Management: what you need to do
 
