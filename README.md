@@ -10,6 +10,10 @@ This standard sets a quality level for codebases that meets the needs of public 
 
 The standard lives at [standard.publiccode.net](https://standard.publiccode.net/), and for an overview of all content see [`index.md`](index.md).
 
+[![Thumbnail for the video on the Standard for Public Code: a printed version lying on a table between two hands](https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg)](https://www.youtube.com/watch?v=QWt6vB-cipE)
+
+[The video: Standard for Public Code - Creative Commons Global Summit 2020 (4:12) on YouTube](https://www.youtube.com/watch?v=QWt6vB-cipE)
+
 ## Help improve this standard
 
 We are looking for people like you to [contribute](CONTRIBUTING.md) to this project by suggesting improvements and helping develop it. 😊 Get started by reading our [contributors guide](CONTRIBUTING.md). Since it is such a core document we will accept contributions when they add significant value. We've described how we govern the standard in the [governance statement](GOVERNANCE.md).
