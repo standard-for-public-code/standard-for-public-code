@@ -12,7 +12,7 @@ The standard lives at [standard.publiccode.net](https://standard.publiccode.net/
 
 [![The printed Standard for Public Code lying on a table between two hands](https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg)](https://www.youtube.com/watch?v=QWt6vB-cipE)
 
-The image above is linked to an introduction video of the Standard for Public Code on YouTube.
+[The video: Standard for Public Code - Creative Commons Global Summit 2020 (4:12) on YouTube](https://www.youtube.com/watch?v=QWt6vB-cipE)
 
 ## Help improve this standard
 
