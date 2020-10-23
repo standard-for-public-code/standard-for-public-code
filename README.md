@@ -10,7 +10,9 @@ This standard sets a quality level for codebases that meets the needs of public 
 
 The standard lives at [standard.publiccode.net](https://standard.publiccode.net/), and for an overview of all content see [`index.md`](index.md).
 
-[![The printed Standard for Public Code lying on a table between two hands](https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg)](https://www.youtube.com/watch?v=QWt6vB-cipE) 
+[![The printed Standard for Public Code lying on a table between two hands](https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg)](https://www.youtube.com/watch?v=QWt6vB-cipE)
+
+Above is a link to an introduction video of the Standard for Public Code on YouTube.
 
 ## Help improve this standard
 
