@@ -46,6 +46,22 @@ Your ideas, documentation and code have become an integral part of this project.
 
 In fact, feel free to open a PR to add your name to the [`AUTHORS`](AUTHORS.md) file and get eternal attribution.
 
+## Releasing a new version
+
+1. Create a release branch
+2. Update the new release
+    - [ ] Update version number
+    - [ ] Update release log
+    - [ ] Create new cover for print
+    - [ ] Create new cover for web PDF
+    - [ ] Generate new PDF of the document
+    - [ ] Create PDF with Illustrations pasted in
+    - [ ] Create PDF for GitHub release with front and back cover included
+3. Send the files for print to the printer
+    - [ ] Cover file
+    - [ ] Inside pages PDF
+4. Create GitHub release with the release notes and version number
+
 ---
 
 For more information on how to use and contribute to this project, please read the [`README`](README.md).
