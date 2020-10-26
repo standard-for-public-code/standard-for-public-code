@@ -1,5 +1,7 @@
 # Version history
 
+## Version 0.2.0
+
 ## Version 0.1.4
 
 November 27th 2019: 🧹 the fifth draft consists mostly of additional minor fixes.
