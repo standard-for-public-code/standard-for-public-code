@@ -10,9 +10,9 @@ Any discrete package of code (both source and policy), the tests and the documen
 
 This can be – for example – a document or a version-control repository.
 
-## Continous Integration
+## Continuous Integration
 
-Continous Integration: In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a development branch of a codebase as frequently as reasonable. 
+Continuous Integration: In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a development branch of a codebase as frequently as reasonable.
 
 ## General public
 
