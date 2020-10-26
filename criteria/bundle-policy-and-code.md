@@ -31,7 +31,7 @@ This makes sure access is guaranteed to both the source code and the policy docu
 * Collaborate with developers and designers to ensure there is no mismatch between policy code and source code.
 * Document policy in formats that are unambiguous and machine readable such as [Business Process Model and Notation](http://www.bpmn.org/), [Decision Model and Notation](https://www.omg.org/dmn/) and [Case Management Model Notation](https://www.omg.org/cmmn/).
 * Track policy with [the same version control](version-control-and-history.md) and documentation used to track source code.
-* Check in regularly to understand how the non-policy code in the codebase has changed and whether it still matches the intentions of the policy.
+* Check in regularly to understand how the non-policy code in the codebase has changed and whether it still matches the intentions of [the policy](document-objectives.md).
 
 ## Management: what you need to do
 
