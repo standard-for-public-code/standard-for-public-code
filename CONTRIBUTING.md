@@ -48,10 +48,17 @@ In fact, feel free to open a PR to add your name to the [`AUTHORS`](AUTHORS.md) 
 
 ## Releasing a new version
 
+0. Review state of the 'develop' branch
+    - Ensure all changes intended for release are merged
 1. Create a release branch
+    - From 'develop', git checkout -b "release-$MAJOR.$MINOR.$PATCH"
 2. Update the new release
     - [ ] Update version number
-    - [ ] Update release log
+        - Update [`_config.yml`](_config.yml)
+        - Update [`README.md`](README.md)
+    - [ ] Update [`CHANGELOG.md`](CHANGELOG.md)
+        - Perform extra pass on diff to the 'master' branch
+    - [ ] Commit changes, push branch, open a pull request to the 'master' branch
     - [ ] Create new cover for print
     - [ ] Create new cover for web PDF
     - [ ] Generate new PDF of the document
@@ -61,6 +68,7 @@ In fact, feel free to open a PR to add your name to the [`AUTHORS`](AUTHORS.md) 
     - [ ] Cover file
     - [ ] Inside pages PDF
 4. Create GitHub release with the release notes and version number
+5. Update 'develop' with a merge from 'master'
 
 ---
 
