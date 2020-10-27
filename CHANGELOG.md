@@ -13,7 +13,7 @@ October 26th 2020: 🎊 the sixth draft splits a requirement and adds clarity.
 * Replace references to "cities" with "public organizations".
 * Clarify aspects of sensitive code by separating contributor and reviewer requirements into separate items.
 * Expand further reading, and guidance to policy makers, developers and designers.
-* Add Felix Faassen to authors.
+* Add Felix Faassen and Arnout Engelen to authors.
 * Made additional minor changes to text for clarity.
 
 ## Version 0.1.4
