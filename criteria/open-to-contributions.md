@@ -16,7 +16,7 @@ order: 4
 ## Why this is important
 
 * Helps newcomers understand and trust your codebase community's leadership.
-* Prevents the community that works on a project splitting because there is no way to influence codebase goals and progress - resulting in diverging communities.
+* Prevents the community that works on a project splitting because there is no way to influence codebase goals and progress – resulting in diverging communities.
 * Helps users decide to use one codebase over another.
 
 ## What this does not do
@@ -51,4 +51,3 @@ order: 4
 * The [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) is a model code of conduct.
 * [Leadership and governance](https://opensource.guide/leadership-and-governance/) for growing open source community projects, by Open Source Guides.
 * [Building online communities](http://hintjens.com/blog:117) by Pieter Hintjens (long read!).
-
