@@ -51,9 +51,10 @@ order: 7
 ## Developers and designers: what you need to do
 
 * Ask other contributors on the project to review your work, in your organization or outside of it.
-* Try to respond to others' requests for code review as often as possible.
+* Try to respond to others' requests for code review promptly, initially providing feedback about the concept of the change.
 
 ## Further reading
 
 * [How to review code the GDS way](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) by the UK Government Digital Service.
 * Branch protection on [GitHub](https://help.github.com/en/articles/about-protected-branches) and [GitLab](https://about.gitlab.com/2014/11/26/keeping-your-code-protected/).
+* [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/)
