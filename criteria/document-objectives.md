@@ -7,15 +7,16 @@ order: 8
 ## Requirements
 
 * The codebase MUST contain documentation of its objectives – like a mission and goal statement – that is understandable by designers and developers so that they can use or contribute to the codebase.
-* The codebase SHOULD contain documentation on its objectives understandable by policy makers and management.
+* The codebase SHOULD contain documentation of its objectives understandable by policy makers and management.
 * The codebase MAY contain documentation of its objectives for the general public.
 
 ## Why this is important
 
 Documenting your objectives:
 
-* provides an easy way for people to decide whether this codebase is interesting for them now or in the future,
-* helps scope your own development as well as clearly communicate to other stakeholders and contributors what the codebase is for.
+* provides an easy way for people to decide whether this codebase is interesting for them now or in the future.
+* helps scope your own development.
+* clearly communicates to other stakeholders and contributors what the codebase is for.
 
 ## What this does not do
 
