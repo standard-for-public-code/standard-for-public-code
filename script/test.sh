@@ -20,7 +20,15 @@ bundle exec mdl -r ~MD007,~MD013,~MD029,~MD004,~MD009,~MD012,~MD022,~MD026,~MD03
 # Build the site
 bundle exec jekyll build
 
-# Check for broken links and missing alt tags, ignore edit links to GitHub as they might not exist yet,
-# SSL connections or host certificates are not verified in order not to break a build when sites use outdated certs or the Travis build server does not contain the correct CA certificates.
-# Use this line in to enable default SSL connections and certificate verification: bundle exec htmlproofer --url-ignore "/github.com/(.*)/edit/" ./_site
-bundle exec htmlproofer --url-ignore "/github.com/(.*)/edit/" ./_site --typhoeus-config '{"ssl_verifypeer": false, "ssl_verifyhost":0}'
+# Check for broken links and missing alt tags:
+# jekyll does not require extentions like HTML
+# ignore edit links to GitHub as they might not exist yet
+# set an extra long timout for test-servers with poor connectivity
+# ignore request rate limit errors (HTTP 429)
+# using the files in Jekylls build folder
+bundle exec htmlproofer \
+    --assume-extension \
+    --url-ignore "/github.com/(.*)/edit/" \
+    --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
+    --http_status_ignore "429" \
+    ./_site
