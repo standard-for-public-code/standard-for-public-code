@@ -12,17 +12,17 @@
 * Jan Ainali
 * Felix Faassen
 
-Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
+Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, [Lectorate of Play & Civic Media](https://www.amsterdamuas.com/create-it/shared-content/research-groups/play-and-civic-media/play-and-civic-media.html)
 
 * Martijn de Waal
 
-Gemeente Amsterdam
+[Gemeente Amsterdam](https://www.amsterdam.nl/)
 
 * Tamas Erkelens
 * Mark van der Net
 * Maurits van der Schee
 
-Code For NL
+[Code For NL](https://codefor.nl/)
 
 * Johan Groenen
 * Edo Plantinga
