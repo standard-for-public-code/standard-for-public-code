@@ -16,7 +16,7 @@ order: 15
 
 ## Why this is important
 
-Clearly signalling a codebase's maturity helps others to decide whether to reuse, invest in or contribute to the project.
+Clearly signalling a codebase's maturity helps others decide whether to reuse, invest in or contribute to the project.
 
 ## What this does not do
 
