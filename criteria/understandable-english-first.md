@@ -7,7 +7,7 @@ order: 10
 ## Requirements
 
 * All code and documentation MUST be in English.
-* Any translation MUST be up to date with the English version and vice-versa.
+* Any translation MUST be up to date with the English version and vice versa.
 * There SHOULD be no acronyms, abbreviations, puns or legal/domain specific terms in the codebase without an explanation preceding it or a link to an explanation.
 * The name of the project or codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or branding.
 * Documentation SHOULD aim for a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable).
@@ -17,7 +17,7 @@ order: 10
 
 * Makes the codebase and what it does understandable for a wider variety of stakeholders in multiple contexts.
 * Helps with the discoverability of the codebase.
-* Can help you meet the [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility), which requires most public sector information to be accessible
+* Can help you meet the [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility), which requires most public sector information to be accessible.
 
 ## What this does not do
 
