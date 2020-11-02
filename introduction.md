@@ -126,7 +126,7 @@ This Standard supports developers, designers, business management and policy mak
 * have more granular control over, and ability to make decisions about, their IT systems
 * improve vendor relationships with a better economic model
 
-[The Foundation for Public Code]((https://publiccode.net/) helps public organizations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
+[The Foundation for Public Code](https://publiccode.net/) helps public organizations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
 
 Potential users of codebases tested against the Standard for Public Code can expect them to be highly reusable, easily maintainable and of high quality.
 
