@@ -38,7 +38,9 @@ In the last decade, public organizations that purchased complete software soluti
 
 Public institutions, civil servants and residents deserve better.
 
-We believe the software that runs our society can no longer be a black box, controlled by outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases. Instead, governments and the people they serve need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable. The design of software as essential civic infrastructure should honor digital citizens’ rights.
+We believe the software that runs our society can no longer be a black box, controlled by outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases. Instead, governments and the people they serve need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable.
+
+The design of software as essential civic infrastructure should honor digital citizens’ rights.
 
 ### Designing truly public software
 
@@ -92,7 +94,7 @@ To use existing public code, you need to specify in your budget and project desi
 
 ## Standard compliance or certification process
 
-Our organization ensures that codebases under its stewardship (and not in incubation or the attic) are compliant with the Standard for Public Code. This makes clear to potential users and contributors that the codebase is of high quality, and updates will be too.
+The Foundation for Public Code ensures that codebases under its stewardship (and not in incubation or the attic) are compliant with the Standard for Public Code. This makes clear to potential users and contributors that the codebase is of high quality, and updates will be too.
 
 The audit performed by our organization is meant to complement machine testing, as machines are great at testing things like syntax and whether outcomes align with expectations. Things meant for humans, such as testing whether documentation is actually understandable and accessible in context, the commit messages make sense, and whether community guidelines are being followed are impossible for machines to test.
 
@@ -124,7 +126,7 @@ This Standard supports developers, designers, business management and policy mak
 * have more granular control over, and ability to make decisions about, their IT systems
 * improve vendor relationships with a better economic model
 
-[We help public organizations](https://publiccode.net/) share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
+[The Foundation for Public Code]((https://publiccode.net/) helps public organizations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. It does this through codebase stewardship. For this process the codebase stewards use the Standard for Public Code to make sure the code it stewards is high quality as well as collaboratively maintainable.
 
 Potential users of codebases tested against the Standard for Public Code can expect them to be highly reusable, easily maintainable and of high quality.
 
