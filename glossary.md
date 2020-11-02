@@ -2,7 +2,7 @@
 
 ## Code
 
-Any explicitly described system of rules. This includes civic code – such as laws, policy and ordinances – as well as source code that is used to build software. Both of these are rules, some executed by humans and others by machines.
+Any explicitly described system of rules. This includes laws, policy and ordinances, as well as source code that is used to build software. Both of these are rules, some executed by humans and others by machines.
 
 ## Codebase
 
@@ -43,7 +43,7 @@ In the Standard the word 'policy' refers to policy created and adopted by public
 
 ## Public code
 
-Public code is both civic code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines.
+Public code is both computer source code (such as software and algorithms) and public policy executed in a public context, by humans or machines.
 
 Because public code serves the public interest, it should be open, legible, accountable, accessible and sustainable.
 

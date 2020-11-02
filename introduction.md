@@ -8,7 +8,7 @@ This introduction introduces the term public code, explains why this is importan
 
 ## Definition of public code
 
-Public code is both civic code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines. Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
+Public code is both computer source code (such as software and algorithms) and public policy executed in a public context, by humans or machines. Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
 
 ## Why public code?
 
