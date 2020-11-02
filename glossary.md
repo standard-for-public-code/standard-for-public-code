@@ -2,7 +2,7 @@
 
 ## Code
 
-Any explicitly described system of rules. This includes civil code – such as laws, policy and ordinances – as well as source code that is used to build software. Both of these are rules, some executed by humans and others by machines.
+Any explicitly described system of rules. This includes laws, policy and ordinances, as well as source code that is used to build software. Both of these are rules, some executed by humans and others by machines.
 
 ## Codebase
 
@@ -10,9 +10,9 @@ Any discrete package of code (both source and policy), the tests and the documen
 
 This can be – for example – a document or a version-control repository.
 
-## Continuous Integration
+## Continuous integration
 
-Continuous Integration: In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a development branch of a codebase as frequently as reasonable.
+In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a development branch of a codebase as frequently as reasonable.
 
 ## General public
 
@@ -35,7 +35,7 @@ A policy is a statement of intent, and is implemented as a procedure or protocol
 Policies are generally adopted by a governance body within an organization.
 Policies can assist in both subjective and objective decision making.
 
-Public policy is the process by which governments translate their political vision into programmes and actions to deliver outcomes.
+Public policy is the process by which governments translate their political vision into programs and actions to deliver outcomes.
 
 At the national level, policy and legislation (the law) are usually separate. The distinction is often more blurred in local government.
 
@@ -43,7 +43,7 @@ In the Standard the word 'policy' refers to policy created and adopted by public
 
 ## Public code
 
-Public code is both civil code (like policy or regulation) and computer source code (such as software and algorithms) executed in a public context, by humans or machines.
+Public code is both computer source code (such as software and algorithms) and public policy executed in a public context, by humans or machines.
 
 Because public code serves the public interest, it should be open, legible, accountable, accessible and sustainable.
 

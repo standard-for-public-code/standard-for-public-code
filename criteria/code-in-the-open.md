@@ -15,9 +15,9 @@ order: 1
 
 Coding in the open:
 
-* improves transparency,
-* increases code quality,
-* facilitates the auditing processes.
+* improves transparency
+* increases code quality
+* facilitates the auditing processes
 
 ## What this does not do
 
@@ -28,9 +28,10 @@ Coding in the open:
 
 The source for any version currently in use is published on the internet where it can be seen:
 
-* from outside the original contributing organization,
-* without the need for any form of authentication or authorization.
-* For each commit, reviewers verify that content does not include sensitive information such as configurations, usernames or passwords, public keys or other real credentials used in production systems.
+* from outside the original contributing organization
+* without the need for any form of authentication or authorization
+
+For each commit, reviewers verify that content does not include sensitive information such as configurations, usernames or passwords, public keys or other real credentials used in production systems.
 
 ## Policy makers: what you need to do
 
