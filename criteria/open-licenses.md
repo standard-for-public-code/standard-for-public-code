@@ -1,5 +1,5 @@
 ---
-order: 12
+order: 13
 ---
 
 # Publish with an open license
@@ -9,9 +9,9 @@ order: 12
 * All code and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
 * Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category).
 * All code MUST be published with a license file.
+* Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
 * All source code files in the codebase SHOULD include a copyright notice and a license header.
 * Codebases MAY have multiple licenses for different types of code and documentation.
-* Documentation MAY be published under [Creative Commons licenses](https://creativecommons.org/licenses/) that are NOT 'no derivatives' or 'non-commercial'.
 
 ## Why this is important
 
@@ -24,7 +24,7 @@ order: 12
 ## How to test
 
 * There is at least 1 license file present in the codebase, usually called `license`.
-* If there is source code in the codebase there is a license present that is on the [OSI-approved Open Source license list](https://opensource.org/licenses/category).
+* The license for the source code is on the [OSI-approved Open Source license list](https://opensource.org/licenses/category) and the license for documentation is [conformant to the Open Definition](https://opendefinition.org/licenses/).
 
 ## Policy makers: what you need to do
 
@@ -34,6 +34,7 @@ order: 12
 ## Management: what you need to do
 
 * Only work with open source vendors that deliver their code by publishing it under an open source license.
+* Beware that even though [Creative Commons licenses](https://creativecommons.org/licenses/) are great for documentation, licenses that stipulate Non-Commercial or No Derivatives are NOT freely reusable, changeable and redistributable and don't fulfill these requirements.
 
 ## Developers and designers: what you need to do
 

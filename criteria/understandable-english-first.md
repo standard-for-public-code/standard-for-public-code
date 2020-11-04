@@ -1,5 +1,5 @@
 ---
-order: 9
+order: 10
 ---
 
 # Use plain English
@@ -7,7 +7,7 @@ order: 9
 ## Requirements
 
 * All code and documentation MUST be in English.
-* Any translation MUST be up to date with the English version and vice-versa.
+* Any translation MUST be up to date with the English version and vice versa.
 * There SHOULD be no acronyms, abbreviations, puns or legal/domain specific terms in the codebase without an explanation preceding it or a link to an explanation.
 * The name of the project or codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or branding.
 * Documentation SHOULD aim for a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable).
@@ -15,13 +15,13 @@ order: 9
 
 ## Why this is important
 
-* Makes your codebase and what it does understandable for a wider variety of stakeholders in multiple contexts.
-* Helps with the discoverability of your codebase.
-* Can help you meet the [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility), which requires most public sector information to be accessible
+* Makes the codebase and what it does understandable for a wider variety of stakeholders in multiple contexts.
+* Helps with the discoverability of the codebase.
+* Can help you meet the [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility), which requires most public sector information to be accessible.
 
 ## What this does not do
 
-* Make explanations of your codebase's functionality understandable.
+* Make explanations of the codebase's functionality understandable.
 * Make your organization's jargon understandable without an explanation.
 
 ## How to test
@@ -29,7 +29,7 @@ order: 9
 * Check that translations and the English version have the same content.
 * Validate that no unexplained acronyms, abbreviations, puns or legal/domain specific terms are in the documentation.
 * Test the documentation for grammar using [Grammarly](https://www.grammarly.com/).
-* Test the documentation for readability [Hemingway text editor](https://hemingwayapp.com/).
+* Test the documentation for readability using [Hemingway text editor](https://hemingwayapp.com/).
 * Ask someone outside of your context if they understand your content (for example, a developer working on a different project).
 
 

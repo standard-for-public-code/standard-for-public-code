@@ -1,26 +1,26 @@
 ---
-order: 14
+order: 15
 ---
-# Pay attention to codebase maturity
+# Document codebase maturity
 
 ## Requirements
 
 * A codebase MUST be versioned.
 * A codebase that is ready to use MUST only depend on other codebases that are also ready to use.
 * A codebase that is not yet ready to use MUST have one of these labels:
-    * prototype - to test the look and feel, and to internally prove the concept of the technical possibilities,
-    * alpha - to do guided tests with a limited set of users,
-    * beta - to open up testing to a larger section of the general public, for example to test if the codebase works at scale,
-    * pre-release version - code that is ready to be released but hasn't received formal approval yet.
+  * prototype - to test the look and feel, and to internally prove the concept of the technical possibilities,
+  * alpha - to do guided tests with a limited set of users,
+  * beta - to open up testing to a larger section of the general public, for example to test if the codebase works at scale,
+  * pre-release version - code that is ready to be released but hasn't received formal approval yet.
 * A codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`.
 
 ## Why this is important
 
-Clearly signalling a codebase's maturity helps others to decide whether to reuse, invest in or contribute to the project.
+Clearly signalling a codebase's maturity helps others decide whether to reuse, invest in or contribute to the project.
 
 ## What this does not do
 
-* Guarantee that others will use your code.
+* Guarantee that others will use the code.
 
 ## How to test
 
