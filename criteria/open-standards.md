@@ -16,7 +16,7 @@ order: 11
 ## Why this is important
 
 * Creates interoperability between systems.
-* Reduces possible vendor-lock in.
+* Reduces possible vendor lock-in.
 * Guarantees access to the knowledge required to reuse and contribute to the codebase.
 
 ## What this does not do
@@ -38,7 +38,7 @@ order: 11
 
 ## Developers and designers: what you need to do
 
-* Add continuous integration tests for compliance to the standards.
+* Add continuous integration tests for compliance with the standards.
 
 ## Further reading
 

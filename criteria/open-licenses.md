@@ -34,7 +34,7 @@ order: 13
 ## Management: what you need to do
 
 * Only work with open source vendors that deliver their code by publishing it under an open source license.
-* Beware that even though [Creative Commons licenses](https://creativecommons.org/licenses/) are great for documentation, licenses that stipulate Non-Commercial or No Derivatives are NOT freely reusable, changable and redistributable and don't fulfill these requirements.
+* Beware that even though [Creative Commons licenses](https://creativecommons.org/licenses/) are great for documentation, licenses that stipulate Non-Commercial or No Derivatives are NOT freely reusable, changeable and redistributable and don't fulfill these requirements.
 
 ## Developers and designers: what you need to do
 

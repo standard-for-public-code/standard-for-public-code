@@ -20,10 +20,10 @@ Version control means keeping track of changes to the code over time. This allow
 
 Version control enables you to:
 
-* revert to an earlier version of the codebase whenever you want to,
-* record your changes and the reasons why you made them, to help future developers understand the process,
-* compare two different versions,
-* work on changes in parallel as a team before merging them together.
+* revert to an earlier version of the codebase whenever you want to
+* record your changes and the reasons why you made them, to help future developers understand the process
+* compare two different versions
+* work on changes in parallel as a team before merging them together
 
 ## What this does not do
 
@@ -54,7 +54,7 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 ## Developers and designers: what you need to do
 
-* Write clear commit messages so that it is easy to understand what why the commit was made.
+* Write clear commit messages so that it is easy to understand why the commit was made.
 * Mark different versions so that it is easy to access a specific version, for example using revision tags or textual labels.
 * Write clear commit messages so that versions can be usefully compared.
 * Work with policy makers to describe how the source code was updated after a policy change.
