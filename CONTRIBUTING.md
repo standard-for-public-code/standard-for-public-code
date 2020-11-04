@@ -72,11 +72,17 @@ In fact, feel free to open a PR to add your name to the [`AUTHORS`](AUTHORS.md) 
     - [ ] Create new cover for print
     - [ ] Create new cover for web PDF
     - [ ] Create PDF for GitHub release with front and back cover included
+        - Generate the pdf with `pdftk Front.pdf standard.pdf Back.pdf cat output standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
 4. Send the files for print to the printer
     - [ ] Cover file
     - [ ] Inside pages PDF
 5. Create GitHub release with the release notes and version number
-    - [ ] tag as "$MAJOR.$MINOR.$PATCH"
+    - [ ] `git tag $MAJOR.$MINOR.$PATCH`
+    - [ ] `git push --tags`
+    - [ ] from https://github.com/publiccodenet/standard/releases edit the tag
+        - Title the release
+        - Add changelog bullets
+        - Drag-and-drop the generated .pdf into the assets
 6. Update 'develop' with a merge from 'master'
 
 ---
