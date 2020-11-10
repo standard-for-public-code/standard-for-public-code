@@ -1,6 +1,9 @@
 title: Standard for Public Code
 version: 0.2.0
 
+plugins:
+  - jekyll-redirect-from
+
 remote_theme: publiccodenet/jekyll-theme
 include:
   - "README.md"
