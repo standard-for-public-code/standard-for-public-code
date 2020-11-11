@@ -23,7 +23,7 @@ order: 12
   * leads to more maintainable code,
   * speeds up the development cycle.
 * Smaller more regular contributions are typically easier to evaluate and lower risk compared to large infrequent changes.
-* Projects in active development more reliably provide opportunities for collaboration and feedback.
+* Codebases in active development more reliably provide opportunities for collaboration and feedback.
 
 ## What this does not do
 

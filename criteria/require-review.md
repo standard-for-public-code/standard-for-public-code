@@ -46,11 +46,11 @@ order: 7
 * Make delivering great code a shared objective.
 * Make sure writing and reviewing contributions to source, policy, documentation and tests are considered equally valuable.
 * Create a culture where all contributions are welcome and everyone is empowered to review them.
-* Make sure no contributor is ever alone in contributing to a project.
+* Make sure no contributor is ever alone in contributing to a codebase.
 
 ## Developers and designers: what you need to do
 
-* Ask other contributors on the project to review your work, in your organization or outside of it.
+* Ask other contributors on the codebase to review your work, in your organization or outside of it.
 * Try to respond to others' requests for code review promptly, initially providing feedback about the concept of the change.
 
 ## Further reading
