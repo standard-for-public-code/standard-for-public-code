@@ -9,7 +9,7 @@ order: 5
 * The codebase MUST have a public issue tracker that accepts suggestions from anyone.
 * The codebase MUST include an email address for security issues and responsible disclosure.
 * The documentation MUST link to both the public issue tracker and submitted codebase changes, for example in a `README` file.
-* The project MUST have communication channels for users and developers, for example email lists.
+* The codebase MUST have communication channels for users and developers, for example email lists.
 * The documentation SHOULD include instructions for how to report potentially security sensitive issues on a closed channel.
 
 ## Why this is important
