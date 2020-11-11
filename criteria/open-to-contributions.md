@@ -16,7 +16,7 @@ order: 4
 ## Why this is important
 
 * Helps newcomers understand and trust your codebase community's leadership.
-* Prevents the community that works on a project splitting because there is no way to influence codebase goals and progress – resulting in diverging communities.
+* Prevents the community that works on a codebase splitting because there is no way to influence its goals and progress – resulting in diverging communities.
 * Helps users decide to use one codebase over another.
 
 ## What this does not do
@@ -37,7 +37,7 @@ order: 4
 
 ## Management: what you need to do
 
-* Make sure the documentation explains how your organization is involved in the project, what resources it has available for it and for how long.
+* Make sure the documentation explains how your organization is involved in the codebase, what resources it has available for it and for how long.
 * Support your experienced policy makers, developers and designers to stay part of the community for as long as possible.
 
 ## Developers and designers: what you need to do

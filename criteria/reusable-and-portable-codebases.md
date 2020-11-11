@@ -37,11 +37,11 @@ order: 3
 ## Policy makers: what you need to do
 
 * Document your policy with enough clarity and detail that it can be understood outside of its original context.
-* Make sure your organization is listed as a known user by the project.
+* Make sure your organization is listed as a known user by the codebase.
 
 ## Management: what you need to do
 
-* Make sure that stakeholders and business owners understand that reusability is an explicit goal of the project as it reduces technical debt and provides sustainability for the codebase.
+* Make sure that stakeholders and business owners understand that reusability is an explicit goal of the codebase as it reduces technical debt and provides sustainability for it.
 
 ## Developers and designers: what you need to do
 
