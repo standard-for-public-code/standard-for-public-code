@@ -10,7 +10,7 @@ order: 13
 * Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category).
 * All code MUST be published with a license file.
 * Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
-* All source code files in the codebase SHOULD include a copyright notice and a license header.
+* All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable.
 * Codebases MAY have multiple licenses for different types of code and documentation.
 
 ## Why this is important
@@ -25,6 +25,7 @@ order: 13
 
 * There is at least 1 license file present in the codebase, usually called `license`.
 * The license for the source code is on the [OSI-approved Open Source license list](https://opensource.org/licenses/category) and the license for documentation is [conformant to the Open Definition](https://opendefinition.org/licenses/).
+* Check for machine-readable licenses with tools like [Licensee](https://github.com/licensee/licensee) or [REUSE](https://reuse.software/).
 
 ## Policy makers: what you need to do
 
