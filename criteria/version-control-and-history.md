@@ -10,6 +10,7 @@ order: 6
 * All files in a codebase MUST be version controlled.
 * All decisions MUST be documented in commit messages.
 * Every commit message MUST link to discussions and issues wherever possible.
+* You SHOULD use a distributed version control system.
 * You SHOULD group relevant changes in commits.
 * You SHOULD mark different versions of the codebase, for example using revision tags or textual labels.
 * You SHOULD prefer file formats that can easily be version controlled.
@@ -18,12 +19,14 @@ order: 6
 
 Version control means keeping track of changes to the code over time. This allows you to create structured documentation of the history of the codebase. This is essential for collaboration at scale.
 
-Version control enables you to:
+Distributed version control enables you to:
 
+* have a full copy of the code and its history
 * revert to an earlier version of the codebase whenever you want to
 * record your changes and the reasons why you made them, to help future developers understand the process
 * compare two different versions
 * work on changes in parallel as a team before merging them together
+* continue to work when the network is unavailable, merging changes back with everyone else’s at a later date
 
 ## What this does not do
 
