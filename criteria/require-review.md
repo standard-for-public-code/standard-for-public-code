@@ -19,7 +19,7 @@ order: 7
 ## Why this is important
 
 * Increases codebase quality.
-* Reduces security as well as operational risks.
+* Reduces security risks as well as operational risks.
 * Creates a culture of making every contribution great.
 * Catches the most obvious mistakes that could happen.
 * Gives contributors the security that their contributions are only accepted if they really add value.
