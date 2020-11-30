@@ -12,7 +12,7 @@ order: 6
 * Every commit message MUST link to discussions and issues wherever possible.
 * You SHOULD group relevant changes in commits.
 * You SHOULD mark different versions of the codebase, for example using revision tags or textual labels.
-* You SHOULD prefer file formats where the changes of the files can be easily viewed and understood in the version control system.
+* You SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system.
 
 ## Why this is important
 
