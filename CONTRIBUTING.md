@@ -52,7 +52,7 @@ In fact, feel free to open a PR to add your name to the [`AUTHORS`](AUTHORS.md) 
     - Ensure all changes intended for release are merged
     - Invite a proofread of the current state of the branch
 2. Create a release branch
-    - From 'develop', git checkout -b "release-$MAJOR.$MINOR.$PATCH"
+    - From 'develop', `git checkout -b "release-$MAJOR.$MINOR.$PATCH"`
 3. Update the new release
     - [ ] Update version number in `_config.yml` and `README.md`
     - [ ] Update [`AUTHORS.md`](AUTHORS.md) with new contributors
