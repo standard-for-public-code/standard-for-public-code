@@ -8,7 +8,7 @@ order: 7
 
 * All contributions that are accepted or committed to release versions of the codebase MUST be reviewed by another contributor.
 * Reviews MUST include source, policy, tests and documentation.
-* Reviewers MUST provide feedback on all decisions made and the implementation in the review.
+* Reviewers MUST provide feedback on all decisions to not accept a contribution.
 * Contributions SHOULD conform to the standards, architecture and decisions set out in the codebase in order to pass review.
 * Reviews SHOULD include running both the code and the tests of the codebase.
 * Contributions SHOULD be reviewed by someone in a different context than the contributor.
