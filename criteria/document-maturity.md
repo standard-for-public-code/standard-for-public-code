@@ -1,5 +1,7 @@
 ---
 order: 15
+redirect_from:
+    - criteria/advertise-maturity
 ---
 # Document codebase maturity
 
