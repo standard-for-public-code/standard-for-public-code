@@ -32,7 +32,6 @@ order: 10
 * Test the documentation for readability using [Hemingway text editor](https://hemingwayapp.com/).
 * Ask someone outside of your context if they understand your content (for example, a developer working on a different codebase).
 
-
 ## Policy makers: what you need to do
 
 * Frequently test with other management, designers and developers in the process if they understand what you are delivering and how you document it.
