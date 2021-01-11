@@ -7,13 +7,12 @@ set -e # halt script on error
 # MD029 Ordered list item prefix: we allow lists to be sequentially numbered
 #
 # Additionally, we have these violations which should be resolved:
-# MD004 Unordered list style
 # MD022 Headers should be surrounded by blank lines
 # MD026 Trailing punctuation in header
 # MD032 Lists should be surrounded by blank lines
 # MD034 Bare URL used
 #
-bundle exec mdl -r ~MD007,~MD013,~MD029,~MD004,~MD022,~MD026,~MD032,~MD034 -i -g '.'
+bundle exec mdl -r ~MD007,~MD013,~MD029,~MD022,~MD026,~MD032,~MD034 -i -g '.'
 
 # Build the site
 bundle exec jekyll build
