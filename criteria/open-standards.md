@@ -9,7 +9,7 @@ order: 11
 * For features of a codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
 * If no existing open standard is available, effort SHOULD be put into developing one.
 * Standards that are machine testable SHOULD be preferred over those that are not.
-* Functionality using features from a non-open standard (one that doesn't meet the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr)) MAY be provided if necessary, but only in addition to compliant features.
+* Functionality using features from a non-open standard (one that doesn't meet the Open Source Initiative Open Standard Requirements) MAY be provided if necessary, but only in addition to compliant features.
 * All non-compliant standards used MUST be recorded clearly in the documentation.
 * The codebase SHOULD contain a list of all the standards used with links to where they are available.
 
@@ -30,7 +30,7 @@ order: 11
 
 ## Policy makers: what you need to do
 
-* Prohibit procurement of technology that does not comply with the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
+* Prohibit procurement of technology that does not comply with the Open Source Initiative Open Standard Requirements.
 
 ## Management: what you need to do
 
