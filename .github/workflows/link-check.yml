@@ -1,0 +1,28 @@
+name: Scheduled link check
+on:
+  schedule:
+#             ┌───────────── minute (0 - 59)
+#             │ ┌───────────── hour (0 - 23)
+#             │ │ ┌───────────── day of the month (1 - 31)
+#             │ │ │ ┌───────────── month (1 - 12 or JAN-DEC)
+#             │ │ │ │ ┌───────────── day of the week (0 - 6 or SUN-SAT)
+#             │ │ │ │ │
+#             │ │ │ │ │
+#             │ │ │ │ │
+#             * * * * *
+    - cron:  '* 1 * * *' # every day at 01:00 (UTC?)
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  cibuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-ruby@v1
+        with:
+          ruby-version: '2.7'
+      - run: bundle install
+      - run: ./script/test-with-link-check.sh
