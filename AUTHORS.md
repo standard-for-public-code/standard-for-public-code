@@ -11,6 +11,7 @@
 * Eric Herman
 * Jan Ainali
 * Felix Faassen
+* Alba Roza
 
 Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
 
