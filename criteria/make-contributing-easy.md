@@ -43,7 +43,6 @@ order: 5
 
 ## Further reading
 
-* [GitHub Learning Lab](https://lab.github.com/) for learning git or refresh your skills.
-* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) a list with the most common used git commands.
+* [How to inspire exceptional contributions to your open-source project](https://www.netdata.cloud/blog/open-source-contributions/)
 * [The benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) by the UK Government Digital Service.
 * [Verdaccio's security policy](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md) is a really nice example.
