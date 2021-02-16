@@ -1,11 +1,8 @@
 # Standard for Public Code
 
 ![version 0.2.0](https://img.shields.io/badge/version-0.2.0-red.svg)
-
 ![Scheduled link check](https://github.com/publiccodenet/standard/workflows/Scheduled%20link%20check/badge.svg)
-
 ![Scheduled link check](https://github.com/publiccodenet/standard/workflows/Scheduled%20link%20check/badge.svg)
-
 
 ## Request for contributions
 
