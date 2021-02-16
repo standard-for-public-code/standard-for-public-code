@@ -2,6 +2,11 @@
 
 ![version 0.2.0](https://img.shields.io/badge/version-0.2.0-red.svg)
 
+![Scheduled link check](https://github.com/publiccodenet/standard/workflows/Scheduled%20link%20check/badge.svg)
+
+![Scheduled link check](https://github.com/publiccodenet/standard/workflows/Scheduled%20link%20check/badge.svg)
+
+
 ## Request for contributions
 
 We believe public policy and software should be inclusive, usable, open, legible, accountable, accessible and sustainable. This means we need a new way of designing, developing and procuring both the source code and policy documentation.
