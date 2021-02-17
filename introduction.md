@@ -18,7 +18,7 @@ There are many reasons for why public code is relevant now.
 
 Software is public infrastructure.
 
-In the 21st century, software can be considered vital public infrastructure. It is increasingly not just the expression of existing policy but the originator of new policy - for example where algorithms decide which districts need extra social services or policing.
+In the 21st century, software can be considered vital public infrastructure. It is increasingly not just the expression of existing policy but the originator of new policy – for example where algorithms decide which districts need extra social services or policing.
 
 Software mechanics, algorithms and data collection have become key elements in the execution of public policies. Computer code now executes policies that have been codified in legal code through democratic procedures. Both forms of code set conditions for society to function according to democratically set public values, the latter executed by humans, the former by machines. In other words, software code has increasingly started to equal legal code.
 
