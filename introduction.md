@@ -84,7 +84,7 @@ Public code offers a better economic model for public organizations as well as f
 
 Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendors if they need to. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts – thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
 
-This can be seen as investment leading to future economic growth - more vendors will be necessary due to growing technology demand.
+This can be seen as investment leading to future economic growth – more vendors will be necessary due to growing technology demand.
 
 ### Procuring public code
 
