@@ -18,7 +18,7 @@ There are many reasons for why public code is relevant now.
 
 Software is public infrastructure.
 
-In the 21st century, software can be considered vital public infrastructure. It is increasingly not just the expression of existing policy but the originator of new policy - for example where algorithms decide which districts need extra social services or policing.
+In the 21st century, software can be considered vital public infrastructure. It is increasingly not just the expression of existing policy but the originator of new policy – for example where algorithms decide which districts need extra social services or policing.
 
 Software mechanics, algorithms and data collection have become key elements in the execution of public policies. Computer code now executes policies that have been codified in legal code through democratic procedures. Both forms of code set conditions for society to function according to democratically set public values, the latter executed by humans, the former by machines. In other words, software code has increasingly started to equal legal code.
 
@@ -38,7 +38,7 @@ In the last decade, public organizations that purchased complete software soluti
 
 Public institutions, civil servants and residents deserve better.
 
-We believe the software that runs our society can no longer be a black box, controlled by outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases. Instead, governments and the people they serve need technological sovereignty - allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable.
+We believe the software that runs our society can no longer be a black box, controlled by outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases. Instead, governments and the people they serve need technological sovereignty – allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable.
 
 The design of software as essential civic infrastructure should honor digital citizens’ rights.
 
@@ -54,7 +54,7 @@ Public software must therefore be:
 
 It must reflect the values of the society it serves, for example by being inclusive and non-discriminatory.
 
-Most proprietary software systems currently used by public organizations do not meet these requirements. Public code - software built to operate with and as public infrastructure, along with the arrangements for its production - does.
+Most proprietary software systems currently used by public organizations do not meet these requirements. Public code – software built to operate with and as public infrastructure, along with the arrangements for its production – does.
 
 ### Values of public code
 
@@ -74,7 +74,7 @@ Public code is open source software meant for fulfilling the essential role of p
 
 Being open unlocks many other things.
 
-Local responsibility and democratic accountability are ensured when a public organization implements and maintains their own public code. By being open and with a broader contributor base, the software is more secure - it benefits from many eyes spotting potential flaws. Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt. The shared workload is more sustainable now and in the future. Its openness makes the code and its data more easily adaptable in the future – it will be easier to retool, repurpose or retire. This all results in lower risk public infrastructure.
+Local responsibility and democratic accountability are ensured when a public organization implements and maintains their own public code. By being open and with a broader contributor base, the software is more secure – it benefits from many eyes spotting potential flaws. Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt. The shared workload is more sustainable now and in the future. Its openness makes the code and its data more easily adaptable in the future – it will be easier to retool, repurpose or retire. This all results in lower risk public infrastructure.
 
 This pooling of resources lets public administrations give extra attention to how to customize the software so it works best in each local context - creating better user experiences for their end users (residents or citizens).
 
@@ -82,9 +82,9 @@ This pooling of resources lets public administrations give extra attention to ho
 
 Public code offers a better economic model for public organizations as well as for commercial companies. It's an alternative to traditional software procurement which increases local control and economic opportunity.
 
-Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendors if they need to. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts - thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
+Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendors if they need to. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts – thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
 
-This can be seen as investment leading to future economic growth - more vendors will be necessary due to growing technology demand.
+This can be seen as investment leading to future economic growth – more vendors will be necessary due to growing technology demand.
 
 ### Procuring public code
 
