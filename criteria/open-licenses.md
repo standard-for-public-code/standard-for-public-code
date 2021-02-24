@@ -30,7 +30,7 @@ order: 13
 ## Policy makers: what you need to do
 
 * Develop policy that requires code to be open source.
-* Develop policy that disincentives non-open source code and technology in procurement.
+* Develop policy that disincentivizes non-open source code and technology in procurement.
 
 ## Management: what you need to do
 
