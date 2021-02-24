@@ -38,7 +38,7 @@ order: 7
 
 ## Policy makers: what you need to do
 
-* Institute a 'four eyes' policy where everything, not just code, should be reviewed.
+* Institute a 'four eyes' policy where everything, not just code, is reviewed.
 * Use a version control system or methodology that enables review and feedback.
 
 ## Management: what you need to do
