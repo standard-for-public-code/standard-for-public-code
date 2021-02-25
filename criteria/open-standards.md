@@ -30,6 +30,7 @@ order: 11
 
 ## Policy makers: what you need to do
 
+* Mandate use of open standards everywhere possible.
 * Prohibit procurement of technology that does not use open standards.
 
 ## Management: what you need to do
