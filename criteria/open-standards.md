@@ -6,7 +6,7 @@ order: 11
 
 ## Requirements
 
-* For features of a codebase that facilitate the exchange of data the codebase MUST use an open standard.
+* For features of a codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
 * If no existing open standard is available, effort SHOULD be put into developing one.
 * Standards that are machine testable SHOULD be preferred over those that are not.
 * Functionality using features from a standard that is not an open standard MAY be provided if necessary, but only in addition to compliant features.
@@ -39,7 +39,3 @@ order: 11
 ## Developers and designers: what you need to do
 
 * Add continuous integration tests for compliance with the standards.
-
-## Further reading
-
-* [Open Standard Requirements](https://opensource.org/osr) by the Open Source Initiative.
