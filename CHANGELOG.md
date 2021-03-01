@@ -14,7 +14,7 @@ March 1st 2021: 🧽 the seventh draft have minor cleanup after version 0.2.0.
 * Add links to videos about the concept of public code.
 * Update BPMN link.
 * Reduce link duplication.
-* Add Alba Roza and Ngô Ngọc Đức Huy to authors. 
+* Add Alba Roza and Ngô Ngọc Đức Huy to authors.
 * Made additional minor changes to text for clarity.
 
 ## Version 0.2.0
