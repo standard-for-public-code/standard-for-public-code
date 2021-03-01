@@ -42,3 +42,4 @@ Individual contributors
 * Sky Bristol
 * Marcus Klaas de Vries
 * Arnout Engelen
+* Ngô Ngọc Đức Huy
