@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-./script/test.sh
+./script/test-without-link-check.sh && ./script/check-new-links.sh

@@ -18,7 +18,7 @@ redirect_from:
 
 ## Why this is important
 
-Clearly signalling a codebase's maturity helps others decide whether to reuse, invest in or contribute to the project.
+Clearly signalling a codebase's maturity helps others decide whether to reuse, invest in or contribute to it.
 
 ## What this does not do
 
@@ -43,6 +43,7 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 
 * Add a prominent header to every interface that indicates the maturity level of the code.
 * Version all releases.
+* Especially in 'rolling release' scenarios, the version may be automatically derived from the version control system metadata (for example by using [git describe](https://git-scm.com/docs/git-describe)).
 
 ## Further reading
 

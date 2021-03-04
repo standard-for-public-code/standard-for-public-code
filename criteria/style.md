@@ -40,5 +40,5 @@ order: 14
 
 ## Further reading
 
-* [List of linters by Hugo Martins](https://github.com/caramelomartins/awesome-linters).
+* [List of linters](https://github.com/caramelomartins/awesome-linters) by Hugo Martins.
 * [Programming style](https://en.wikipedia.org/wiki/Programming_style) on Wikipedia.

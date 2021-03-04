@@ -8,7 +8,7 @@ order: 4
 
 * The codebase MUST allow anyone to submit suggestions for changes to the codebase.
 * The codebase MUST include contribution guidelines explaining how contributors can get involved, for example in a `CONTRIBUTING` file.
-* The codebase SHOULD advertize the committed engagement of involved organizations in the development and maintenance.
+* The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance.
 * The codebase SHOULD document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file.
 * The codebase SHOULD have a publicly available roadmap.
 * The codebase MAY include a code of conduct for contributors.
@@ -16,7 +16,7 @@ order: 4
 ## Why this is important
 
 * Helps newcomers understand and trust your codebase community's leadership.
-* Prevents the community that works on a project splitting because there is no way to influence codebase goals and progress – resulting in diverging communities.
+* Prevents the community that works on a codebase splitting because there is no way to influence its goals and progress – resulting in diverging communities.
 * Helps users decide to use one codebase over another.
 
 ## What this does not do
@@ -37,7 +37,7 @@ order: 4
 
 ## Management: what you need to do
 
-* Make sure the documentation explains how your organization is involved in the project, what resources it has available for it and for how long.
+* Make sure the documentation explains how your organization is involved in the codebase, what resources it has available for it and for how long.
 * Support your experienced policy makers, developers and designers to stay part of the community for as long as possible.
 
 ## Developers and designers: what you need to do

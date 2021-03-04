@@ -11,6 +11,7 @@
 * Eric Herman
 * Jan Ainali
 * Felix Faassen
+* Alba Roza
 
 Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
 
@@ -41,3 +42,4 @@ Individual contributors
 * Sky Bristol
 * Marcus Klaas de Vries
 * Arnout Engelen
+* Ngô Ngọc Đức Huy

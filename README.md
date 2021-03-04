@@ -1,6 +1,8 @@
 # Standard for Public Code
 
-![version 0.2.0](https://img.shields.io/badge/version-0.2.0-red.svg)
+![version 0.2.1](https://img.shields.io/badge/version-0.2.1-red.svg)
+![Test](https://github.com/publiccodenet/standard/workflows/Test/badge.svg)
+![Scheduled link check](https://github.com/publiccodenet/standard/workflows/Scheduled%20link%20check/badge.svg)
 
 ## Request for contributions
 
@@ -33,22 +35,6 @@ Using [Weasyprint](https://weasyprint.org/) the file `print.html` can be convert
 ```bash
 weasyprint http://localhost:4000/print.html standard.pdf
 ```
-
-## Releasing a new version
-
-1. Create a release branch
-2. Update the new release
-    - [ ] Update version number
-    - [ ] Update release log
-    - [ ] Create new cover for print
-    - [ ] Create new cover for web PDF
-    - [ ] Generate new PDF of the document
-    - [ ] Create PDF with Illustrations pasted in
-    - [ ] Create PDF for GitHub release with front and back cover included
-3. Send the files for print to the printer
-    - [ ] Cover file
-    - [ ] Inside pages PDF
-4. Create GitHub release with the release notes and version number
 
 ## License
 

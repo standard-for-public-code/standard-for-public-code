@@ -10,7 +10,7 @@ order: 13
 * Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category).
 * All code MUST be published with a license file.
 * Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
-* All source code files in the codebase SHOULD include a copyright notice and a license header.
+* All source code files in the codebase SHOULD include a copyright notice and a license header that are machine readable.
 * Codebases MAY have multiple licenses for different types of code and documentation.
 
 ## Why this is important
@@ -25,11 +25,12 @@ order: 13
 
 * There is at least 1 license file present in the codebase, usually called `license`.
 * The license for the source code is on the [OSI-approved Open Source license list](https://opensource.org/licenses/category) and the license for documentation is [conformant to the Open Definition](https://opendefinition.org/licenses/).
+* Check for machine-readable licenses with tools like [Licensee](https://github.com/licensee/licensee) or [REUSE](https://reuse.software/).
 
 ## Policy makers: what you need to do
 
 * Develop policy that requires code to be open source.
-* Develop policy that disincentives non-open source code and technology in procurement.
+* Develop policy that disincentivizes non-open source code and technology in procurement.
 
 ## Management: what you need to do
 
@@ -46,3 +47,4 @@ order: 13
 * [Open source definition](https://opensource.org/osd) by the Open Source Initiative - all open source licenses meet this definition.
 * [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) by Creative Commons Aotearoa New Zealand.
 * [REUSE Initiative specification](https://reuse.software/spec/) for unambiguous, human-readable and machine-readable copyright and licensing information.
+* [SPDX License List](https://spdx.org/licenses/) with standardized, machine-readable abbreviations for most licenses.
