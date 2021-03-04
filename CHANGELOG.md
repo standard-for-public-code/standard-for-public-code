@@ -2,12 +2,12 @@
 
 ## Version 0.2.1
 
-March 1st 2021: 🧽 the seventh draft have minor cleanup after version 0.2.0.
+March 1st 2021: 🧽 the seventh draft has minor cleaning up after version 0.2.0.
 
-* New should requirement on using a distributed version control system and why distributed is important.
-* Feedback requirements for rejected contribtutions are more strict than accepted ones.
+* New SHOULD requirement on using a distributed version control system and why distributed is important.
+* Feedback requirements for rejected contributions are more strict than accepted ones.
 * Specify that copyright and license notices should also be machine readable.
-* Advice on how to test that notices are machine readable.
+* Advice on how to test that notices be machine readable.
 * Clarify guidance for rolling releases.
 * Clear up definition of version control in glossary.
 * Add further reading encouraging contribution, SPDX, Git and reviewing contributions.
