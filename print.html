@@ -170,6 +170,9 @@
     .first-page-audiences li::before {
       margin-top: -.15cm;
     }
+    #section-first-page>img {
+      width: 100%;
+    }
     
     /* Print specific */
 
@@ -219,7 +222,7 @@
         margin-right: -1.5cm !important;
         margin-bottom: 0 !important;
         padding: 0 0 0 0 !important;
-    }
+      }
 
       article {
         margin: 0 2cm;
@@ -233,6 +236,11 @@
       }
       img {
         page-break-inside: avoid;
+      }
+      
+      #section-first-page>img {
+        width: 21.6cm;
+        margin: 1cm 0 1cm -3.21cm; /* This value for the left margin was done by eye */
       }
     }
 
@@ -249,7 +257,7 @@
         max-width: 50em;
         max-width: 21cm;
         box-sizing: border-box;
-        margin: 1cm;
+        margin: 2cm 0;
       }
     }
 
@@ -267,6 +275,8 @@
       <li id="first-page-management-what-you-need-to-do">Management</li>
       <li id="first-page-developers-and-designers-what-you-need-to-do">Designers and developers</li>
     </ul>
+
+    <img src="assets/hands-shake.svg">
 
     <p>Version {{ site.version }}</p>
     <p><img src="/assets/cc-zero-badge.svg" alt="Licensed CC0"></p>
