@@ -108,9 +108,9 @@
 
     /* Headings */
 
-    .markdown-body h2[id$="policy-makers-what-you-need-to-do"]:before,
-    .markdown-body h2[id$="management-what-you-need-to-do"]:before,
-    .markdown-body h2[id$="developers-and-designers-what-you-need-to-do"]:before {
+    .markdown-body [id$="policy-makers-what-you-need-to-do"]:before,
+    .markdown-body [id$="management-what-you-need-to-do"]:before,
+    .markdown-body [id$="developers-and-designers-what-you-need-to-do"]:before {
       display: block;
       position: absolute;
       content: 'A';
@@ -127,21 +127,45 @@
       font-size: 0.5cm;
       font-weight: 900;
     }
-    .markdown-body h2[id$="policy-makers-what-you-need-to-do"]:before {
+    .markdown-body [id$="policy-makers-what-you-need-to-do"]:before {
       background-color: #00EFB5;
       border-color: #00EFB5;
       content: 'P';
     }
-    .markdown-body h2[id$="management-what-you-need-to-do"]:before {
+    .markdown-body [id$="management-what-you-need-to-do"]:before {
       background-color: #FF6D1C;
       border-color: #FF6D1C;
       content: 'M';
     }
-    .markdown-body h2[id$="developers-and-designers-what-you-need-to-do"]:before {
+    .markdown-body [id$="developers-and-designers-what-you-need-to-do"]:before {
       background-color: #8626FF;
       border-color: #8626FF;
       content: 'D';
     }
+
+    /* First page */
+
+    ul.first-page-audiences {
+      max-width: none;
+      list-style: none;
+      font-size: 1.25em;
+      padding-left: 0;
+    }
+    .first-page-audiences li, .first-page-audiences lh {
+      display: block;
+      margin-bottom: .5cm;
+    }
+    .first-page-audiences lh {
+      margin-bottom: 1cm;
+    }
+    .first-page-audiences li {
+      padding-left: 1.2cm;
+    }
+    .first-page-audiences li::before {
+      margin-top: -.15cm;
+    }
+    
+    /* Print specific */
 
     @media print {
       /* html { page-break-before: left } */
@@ -230,6 +254,13 @@
   <article id="section-first-page">
     <p>Request for contributions</p>
     <h1 class="title">Standard for Public Code</h1>
+
+    <ul class="first-page-audiences">
+      <lh>What public code is and how to implement it for:</lh>
+      <li id="first-page-policy-makers-what-you-need-to-do">Policy makers</li>
+      <li id="first-page-management-what-you-need-to-do">Management</li>
+      <li id="first-page-developers-and-designers-what-you-need-to-do">Designers and developers</li>
+    </ul>
 
     <p>Version {{ site.version }}</p>
     <p><img src="/assets/cc-zero-badge.svg" alt="Licensed CC0"></p>
