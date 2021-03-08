@@ -1,5 +1,22 @@
 # Version history
 
+## Version 0.2.1
+
+March 1st 2021: 🧽 the seventh draft has minor cleaning up after version 0.2.0.
+
+* New SHOULD requirement on using a distributed version control system and why distributed is important.
+* Feedback requirements for rejected contributions are more strict than accepted ones.
+* Specify that copyright and license notices should also be machine readable.
+* Advice on how to test that notices be machine readable.
+* Clarify guidance for rolling releases.
+* Clear up definition of version control in glossary.
+* Add further reading encouraging contribution, SPDX, Git and reviewing contributions.
+* Add links to videos about the concept of public code.
+* Update BPMN link.
+* Reduce link duplication.
+* Add Alba Roza and Ngô Ngọc Đức Huy to authors.
+* Made additional minor changes to text for clarity.
+
 ## Version 0.2.0
 
 October 26th 2020: 🎊 the sixth draft splits a requirement and adds clarity.
