@@ -2,7 +2,7 @@
 
 NOT_OK_COUNT=0
 SKIP_PATTERNS=(
-	'github\.com' # links may not exist yet
+	'github\.com/.*/edit' # links may not exist yet
 	'twitter\.com' # twitter is broken
 	'http://127.0.0.1' # local host
 )
