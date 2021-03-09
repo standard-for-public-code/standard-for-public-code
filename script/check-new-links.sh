@@ -5,13 +5,14 @@ SKIP_PATTERNS=(
 	'github\.com/.*/edit' # links may not exist yet
 	'twitter\.com' # twitter is broken
 	'http://127.0.0.1' # local host
+	'http://localhost' # local host
 )
 
 if [ "_${VERBOSE}_" == "__" ]; then VERBOSE=0; fi
 
 for URL in $(git diff develop |
 		grep '^+' |
-		grep -Eo '(http|https)://[^ )">]+'); do
+		grep -Eo '(http|https)://[^ )"><]+'); do
 	SKIP_URL=0
 	for PATTERN in "${SKIP_PATTERNS[@]}"; do
 		if echo "$URL" | grep --quiet --extended-regexp "$PATTERN"

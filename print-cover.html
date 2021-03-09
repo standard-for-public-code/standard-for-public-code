@@ -1,0 +1,252 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{ site.title }}</title>
+  <style>
+    html {
+      font-family: Muli;
+      font-size: 16pt;
+      margin: 0;
+      padding: 0;
+    }
+
+    *,
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    article {
+      position: relative;
+    }
+
+    article>section {
+      width: 21.6cm;
+      height: 30.3cm;
+      top: 0;
+      bottom: 0;
+      position: absolute;
+    }
+
+    #back {
+      left: 0;
+    }
+
+    #back>* {
+      position: absolute;
+      left: 2.3cm;
+      width: 14cm;
+    }
+
+    #front {
+      right: 0;
+    }
+
+    #front>* {
+      position: absolute;
+      left: 2cm;
+      width: 16cm;
+    }
+
+    /* Back */
+
+    #back-text {
+      position: absolute;
+      top: 2.3cm;
+    }
+
+    #back-text>p {
+      margin-bottom: 1em;
+    }
+
+    #back img[alt="hand pointing"] {
+      right: 0;
+      top: 18cm;
+      width: 18cm;
+      left: auto;
+    }
+
+    #logo {
+      bottom: 2cm;
+    }
+
+    #logo>img {
+      height: 2cm;
+    }
+
+    /* Front */
+
+    div#title-block {
+      position: absolute;
+      top: 2.3cm;
+    }
+
+    h1.title {
+      font-size: 3.5em;
+      font-weight: 700;
+    }
+
+    /* Audience blocks */
+
+    ul.audiences {
+      position: absolute;
+      top: 10cm;
+      list-style: none;
+      font-size: 1.25em;
+      padding-left: 0;
+    }
+
+    .audiences li,
+    .audiences lh {
+      display: block;
+      margin-bottom: .5cm;
+    }
+
+    .audiences lh {
+      margin-bottom: 1cm;
+    }
+
+    .audiences li {
+      padding-left: 1.2cm;
+    }
+
+    .audiences li::before {
+      margin-top: -.03cm;
+    }
+
+    [id$="policy-makers-what-you-need-to-do"]:before,
+    [id$="management-what-you-need-to-do"]:before,
+    [id$="developers-and-designers-what-you-need-to-do"]:before {
+      display: block;
+      position: absolute;
+      content: 'A';
+      text-align: center;
+      width: 1cm;
+      height: 1cm;
+      color: white;
+      display: inline-block;
+      margin-left: -1.2cm;
+      box-sizing: border-box;
+      padding: 0.20cm;
+      font-size: .5cm;
+      font-weight: 900;
+    }
+
+    [id$="policy-makers-what-you-need-to-do"]:before {
+      background-color: #00EFB5;
+      content: 'P';
+    }
+
+    [id$="management-what-you-need-to-do"]:before {
+      background-color: #FF6D1C;
+      content: 'M';
+    }
+
+    [id$="developers-and-designers-what-you-need-to-do"]:before {
+      background-color: #8626FF;
+      content: 'D';
+    }
+
+    /* Hands */
+
+    #front img[alt="hands shaking"] {
+      left: 0;
+      right: 0;
+      top: 18cm;
+      width: 21.6cm;
+    }
+
+    /* Version info */
+
+    #version-info {
+      bottom: 2cm;
+      font-size: .75em;
+    }
+
+    /* Print specific */
+
+    @media print {
+      @page {
+        /* A4 times 2 plus a back of about 6mm and a 3mm bleed on every side */
+        size: 43.2cm 30.3cm;
+        margin: 0;
+        padding: 0;
+        background-color: white;
+      }
+    }
+
+    /* Screen mock-up when using a browser */
+
+    @media screen {
+      body {
+        background-color: whitesmoke;
+      }
+
+      article {
+        display: block;
+        background-color: white;
+        min-height: 30.3cm;
+        max-height: 30.3cm;
+        min-width: 43.2cm;
+        max-width: 43.2cm;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <article>
+    <section id="back">
+      <div id="back-text">
+        <p>
+          We believe public policy and software should be inclusive, usable, open, legible, accountable, accessible and
+          sustainable. This means we need a new way of designing, developing and procuring both the source code and
+          policy documentation.
+        </p>
+        <p>
+          This standard sets a quality level for codebases that meets the needs of public organizations, institutions
+          and administrations as well as other critical infrastructural services.
+        </p>
+      </div>
+
+      <img src="assets/hand-point.svg" alt="hand pointing">
+
+      <section id="logo">
+        <img src="https://brand.publiccode.net/logo/mark-and-name-over-two-lines.svg" alt="Foundation for Public Code logo">
+      </section>
+    </section>
+
+    <section id="front">
+      <div id="title-block">
+        <p>Request for contributions</p>
+        <h1 class="title">Standard for Public Code</h1>
+      </div>
+
+      <ul class="audiences">
+        <lh>What public code is and how to implement it for:</lh>
+        <li id="first-page-policy-makers-what-you-need-to-do">Policy makers</li>
+        <li id="first-page-management-what-you-need-to-do">Management</li>
+        <li id="first-page-developers-and-designers-what-you-need-to-do">Designers and developers</li>
+      </ul>
+
+      <img src="assets/hands-shake.svg" alt="hands shaking">
+
+      <div id="version-info">
+        <p>Version {{ site.version }}</p>
+        <p>https://standard.publiccode.net/</p>
+      </div>
+    </section>
+  </article>
+
+</body>
+
+</html>
