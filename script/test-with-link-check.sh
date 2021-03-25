@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
+export PAGES_REPO_NWO=publiccodenet/standard
+
 # Lint markdown using the Markdownlint gem with the default ruleset except for:
 # MD007 Unordered list indentation: we allow sub-lists to also have bullets
 # MD013 Line length: we allow long lines
