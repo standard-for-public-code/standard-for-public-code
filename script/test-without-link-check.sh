@@ -26,7 +26,5 @@ bundle exec jekyll build
 # using the files in Jekylls build folder
 bundle exec htmlproofer \
     --assume-extension \
-    --checks-to-ignore LinkCheck \
-    --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
-    --http_status_ignore "429" \
+    --disable-external \
     ./_site
