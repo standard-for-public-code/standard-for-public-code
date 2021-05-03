@@ -2,7 +2,7 @@
 order: 8
 ---
 
-# Document your objectives
+# Document codebase objectives
 
 ## Requirements
 
@@ -12,7 +12,7 @@ order: 8
 
 ## Why this is important
 
-Documenting your objectives:
+Documenting codebase objectives:
 
 * provides an easy way for people to decide whether this codebase is interesting for them now or in the future.
 * helps scope your own development.
