@@ -15,7 +15,7 @@ order: 9
   * examples for all functionality.
 * There SHOULD be continuous integration tests for the quality of the documentation.
 * The documentation of the codebase MAY contain examples that make users want to immediately start using the codebase.
-* You MAY use the examples in your documentation to test the code.
+* Examples in the documentation MAY be used to test the code.
 
 ## Why this is important
 
