@@ -6,14 +6,14 @@ order: 6
 
 ## Requirements
 
-* You MUST have a way to maintain version control for the code.
+* The community MUST have a way to maintain version control for the code.
 * All files in a codebase MUST be version controlled.
 * All decisions MUST be documented in commit messages.
 * Every commit message MUST link to discussions and issues wherever possible.
-* You SHOULD use a distributed version control system.
-* You SHOULD group relevant changes in commits.
-* You SHOULD mark different versions of the codebase, for example using revision tags or textual labels.
-* You SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system.
+* The codebase SHOULD be maintained in a distributed version control system.
+* Contributors SHOULD group relevant changes in commits.
+* Maintainers SHOULD mark released versions of the codebase, for example using revision tags or textual labels.
+* Contributors SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system.
 
 ## Why this is important
 
