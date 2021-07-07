@@ -14,6 +14,7 @@ order: 6
 * Contributors SHOULD group relevant changes in commits.
 * Maintainers SHOULD mark released versions of the codebase, for example using revision tags or textual labels.
 * Contributors SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system.
+* Contributors MAY sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work.
 
 ## Why this is important
 
@@ -66,6 +67,5 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 * [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
 * [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service.
-* [Semantic Versioning Specification](https://semver.org/) used by many codebases to label versions.
 * [GitHub Learning Lab](https://lab.github.com/) for learning how to use GitHub or refresh your skills.
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) a list with the most common used git commands.
