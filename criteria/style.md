@@ -6,10 +6,10 @@ order: 14
 
 ## Requirements
 
-* Contributions MUST adhere to either a coding or writing style guide, either your own or an existing one that is advertised in or part of the codebase.
+* Contributions MUST adhere to either a coding or writing style guide, either the codebase community's own or an existing one that is advertised in or part of the codebase.
 * Contributions SHOULD pass automated tests on style.
-* Your codebase SHOULD include inline comments and documentation for non-trivial sections.
-* You MAY include sections in your style guide on [understandable English](understandable-english-first.md).
+* The codebase SHOULD include inline comments and documentation for non-trivial sections.
+* The style guide MAY include sections on [understandable English](understandable-english-first.md).
 
 ## Why this is important
 

@@ -25,7 +25,7 @@
     - [ ] Create new cover for web PDF
     - [ ] Create PDF for GitHub release with front and back cover included
         - Generate the pdf with `pdftk Front.pdf standard.pdf Back.pdf cat output standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
-4. Send the files for print to the printer
+4. [Send the files for print to the printer](printing.md)
     - [ ] Cover file
     - [ ] Inside pages PDF
 5. Create GitHub release with the release notes and version number
