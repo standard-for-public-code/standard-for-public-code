@@ -13,6 +13,8 @@ include:
 
 toc: true
 
+include_badges: true
+
 defaults:
   -
     scope:
