@@ -6,7 +6,8 @@ order: 10
 
 ## Requirements
 
-* All code and documentation MUST be in English.
+* All codebase documentation MUST be in plain English.
+* All code MUST be in English, except where required to execute as policy.
 * Any translation MUST be up to date with the English version and vice versa.
 * There SHOULD be no acronyms, abbreviations, puns or legal/domain specific terms in the codebase without an explanation preceding it or a link to an explanation.
 * The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding.
@@ -49,3 +50,4 @@ order: 10
 
 * Text of the [Web Content Accessibilty Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) - make text content readable and understandable.
 * [Upgoer 5 text editor](https://splasho.com/upgoer5/) - only allows 1000 most common words.
+* [Definition of plain language](https://www.plainlanguage.gov/about/definitions/) by United States General Services Administration.
