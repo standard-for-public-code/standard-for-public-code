@@ -47,7 +47,3 @@ Management is responsible for on-time project delivery, stakeholder management a
 This section tries to specifically speak to developers and designers by offering them concrete actions they can perform in their role.
 
 Developers are usually more technically aligned and have more impact on the delivery of services than the previous groups.
-
-## Further reading
-
-Read more about why these requirements exist and how to make them work.
