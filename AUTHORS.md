@@ -44,3 +44,4 @@ Individual contributors
 * Arnout Engelen
 * Ngô Ngọc Đức Huy
 * Mauko Quiroga
+* Charlotte Heikendorf
