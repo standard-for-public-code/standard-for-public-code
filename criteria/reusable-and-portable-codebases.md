@@ -11,7 +11,7 @@ order: 3
 * The codebase SHOULD be in use by multiple parties.
 * The roadmap SHOULD be influenced by the needs of multiple parties.
 * Configuration SHOULD be used to make code adapt to context specific needs.
-* Codebases SHOULD include a [publiccode.yml](https://github.com/italia/publiccode.yml) metadata description so that they're easily discoverable.
+* The codebase SHOULD include a machine readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file.
 * Code and its documentation SHOULD NOT contain situation-specific information.
 
 ## Why this is important
@@ -19,7 +19,8 @@ order: 3
 * Enables other policy makers, developers and designers to reuse what you've developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintainability and higher reliability.
 * Makes the code easier for new people to understand (as it's more general).
 * Makes it easier to control the mission, vision and scope of the codebase because the codebase is thoughtfully and purposefully designed for reusability.
-* Codebases used by multiple parties have broad enough value to be Public Code and are more likely to benefit from a self-sustaining community.
+* Codebases used by multiple parties are more likely to benefit from a self-sustaining community.
+* A metadata description file increases discoverability.
 * Any contributor is able to test and contribute without relying on the situation-specific infrastructure of any other contributor or deployment.
 
 ## What this does not do

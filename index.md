@@ -17,7 +17,7 @@ The Standard for Public Code gives public organizations a model for building the
   * [Make contributing easy](criteria/make-contributing-easy.md)
   * [Maintain version control](criteria/version-control-and-history.md)
   * [Require review of contributions](criteria/require-review.md)
-  * [Document your objectives](criteria/document-objectives.md)
+  * [Document codebase objectives](criteria/document-objectives.md)
   * [Document the code](criteria/documenting.md)
   * [Use plain English](criteria/understandable-english-first.md)
   * [Use open standards](criteria/open-standards.md)

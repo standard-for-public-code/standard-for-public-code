@@ -43,3 +43,4 @@ Individual contributors
 * Marcus Klaas de Vries
 * Arnout Engelen
 * Ngô Ngọc Đức Huy
+* Mauko Quiroga

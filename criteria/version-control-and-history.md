@@ -6,14 +6,15 @@ order: 6
 
 ## Requirements
 
-* You MUST have a way to maintain version control for the code.
+* The community MUST have a way to maintain version control for the code.
 * All files in a codebase MUST be version controlled.
 * All decisions MUST be documented in commit messages.
 * Every commit message MUST link to discussions and issues wherever possible.
-* You SHOULD use a distributed version control system.
-* You SHOULD group relevant changes in commits.
-* You SHOULD mark different versions of the codebase, for example using revision tags or textual labels.
-* You SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system.
+* The codebase SHOULD be maintained in a distributed version control system.
+* Contributors SHOULD group relevant changes in commits.
+* Maintainers SHOULD mark released versions of the codebase, for example using revision tags or textual labels.
+* Contributors SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system.
+* Contributors MAY sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work.
 
 ## Why this is important
 
@@ -66,6 +67,5 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 * [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
 * [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service.
-* [Semantic Versioning Specification](https://semver.org/) used by many codebases to label versions.
 * [GitHub Learning Lab](https://lab.github.com/) for learning how to use GitHub or refresh your skills.
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) a list with the most common used git commands.
