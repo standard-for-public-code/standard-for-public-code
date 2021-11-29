@@ -32,10 +32,6 @@ Open source is defined by the Open Source Initiative in their [Open Source Defin
 
 An open standard is any standard that meets the Open Source Initiative's [Open Standard Requirements](https://opensource.org/osr).
 
-## Plain English
-
-English on a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable).
-
 ## Policy
 
 A policy is a deliberate system of principles to guide decisions and achieve rational outcomes.
