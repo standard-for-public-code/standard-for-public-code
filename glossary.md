@@ -14,6 +14,10 @@ This can be – for example – a document or a version-control repository.
 
 In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a development branch of a codebase as frequently as reasonable.
 
+## Developers and designers
+
+Developers and designers includes anyone who is contributing to technical aspects of the codebase, including source code, templates, artwork, or any other asset that affect the execution of the running software, its tests, or its documentation.
+
 ## Different contexts
 
 Two contexts are different if they are different public organizations or different departments for which there is not one decision maker that could make collaboration happen naturally.
@@ -23,6 +27,10 @@ Two contexts are different if they are different public organizations or differe
 The public at large: end users of the code and the services based upon it.
 
 For example, a city's residents are considered end users of a city's services and of all code that powers these services.
+
+## Manager
+
+People with decision making power or influence over the codebase and/or the developers and designers creating the codebase, including project managers, scrum masters, product owners, and community managers.
 
 ## Open source
 
@@ -44,6 +52,10 @@ Public policy is the process by which governments translate their political visi
 At the national level, policy and legislation (the law) are usually separate. The distinction is often more blurred in local government.
 
 In the Standard the word 'policy' refers to policy created and adopted by public organizations such as governments and municipalities.
+
+## Policymaker
+
+Politicians or senior civil servants that have decision making power or influence over what policy the codebase are aiming to implement.
 
 ## Public code
 
