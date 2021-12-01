@@ -14,6 +14,10 @@ This can be – for example – a document or a version-control repository.
 
 In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a development branch of a codebase as frequently as reasonable.
 
+## Different contexts
+
+Two contexts are different if they are different public organizations or different departments for which there is not one decision maker that could make collaboration happen naturally.
+
 ## General public
 
 The public at large: end users of the code and the services based upon it.
@@ -61,4 +65,7 @@ In revision (or version) control systems, a repository is a data structure which
 
 ## Version control
 
-Version control is the management of changes to source code and the files associated with it. Changes are usually identified by a code, termed the *revision number* (or similar). Each revision is associated with the time it was made and the person making the change thus making it easier to retrace the evolution of the code. Revisions of code can be compared with each other and it makes it easy to restore previous versions.
+Version control is the management of changes to source code and the files associated with it.
+Changes are usually identified by a code, termed the *revision number* (or similar).
+Each revision is associated with the time it was made and the person making the change thus making it easier to retrace the evolution of the code.
+Revision control systems can be used to compare different versions with each other and to see how content has changed over time.

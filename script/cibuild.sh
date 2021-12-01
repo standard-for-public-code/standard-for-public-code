@@ -1,2 +1,7 @@
 #!/usr/bin/env bash
-./script/test-without-link-check.sh && ./script/check-new-links.sh
+
+# This is script is referenced by .travis.yml
+
+./script/test-markdown.sh &&
+./script/test-with-link-check.sh &&
+./script/check-new-links.sh

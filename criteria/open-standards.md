@@ -40,3 +40,7 @@ order: 11
 ## Developers and designers: what you need to do
 
 * Add continuous integration tests for compliance with the standards.
+
+## Further reading
+
+* [Open Standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), policy paper of the UK Cabinet Office.
