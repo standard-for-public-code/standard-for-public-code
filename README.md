@@ -1,6 +1,6 @@
 # Standard for Public Code
 
-![version 0.2.1](https://img.shields.io/badge/version-0.2.1-red.svg)
+![version 0.2.2](https://img.shields.io/badge/version-0.2.2-red.svg)
 ![Test](https://github.com/publiccodenet/standard/workflows/Test/badge.svg)
 ![Scheduled link check](https://github.com/publiccodenet/standard/workflows/Scheduled%20link%20check/badge.svg)
 

@@ -17,6 +17,7 @@
         - Reviewers will create issues for shortcomings found which would not prevent release
         - If needed for release, reviewers may create PRs to resolve issues
         - Re-request reviews if additional PRs are merged into release branch
+    - [ ] Once reviews are complete, merge to 'main'
     - [ ] Generate new PDF of the primary content
         - Serve html content with `script/serve.sh`
         - Optionally, for a visual pre-check, navigate to http://127.0.0.1:4000/ in a browser
