@@ -35,7 +35,7 @@ order: 10
 
 ## Policy makers: what you need to do
 
-* Frequently test with other management, designers and developers in the process if they understand what you are delivering and how you document it.
+* Frequently test with other management, developers and designers in the process if they understand what you are delivering and how you document it.
 
 ## Management: what you need to do
 
