@@ -55,7 +55,7 @@ In the Standard the word 'policy' refers to policy created and adopted by public
 
 ## Policy makers
 
-Politicians or senior civil servants that have decision making power or influence over what policy the codebase are aiming to implement.
+Politicians or senior civil servants that have decision making power or influence over which policies the codebase is aiming to implement.
 
 ## Public code
 
