@@ -28,7 +28,7 @@ The public at large: end users of the code and the services based upon it.
 
 For example, a city's residents are considered end users of a city's services and of all code that powers these services.
 
-## Manager
+## Management
 
 People with decision making power or influence over the codebase and/or the developers and designers creating the codebase, including project managers, scrum masters, product owners, and community managers.
 
@@ -53,7 +53,7 @@ At the national level, policy and legislation (the law) are usually separate. Th
 
 In the Standard the word 'policy' refers to policy created and adopted by public organizations such as governments and municipalities.
 
-## Policymaker
+## Policy makers
 
 Politicians or senior civil servants that have decision making power or influence over what policy the codebase are aiming to implement.
 
