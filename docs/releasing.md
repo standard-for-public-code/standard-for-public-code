@@ -19,6 +19,7 @@
         - Re-request reviews if additional PRs are merged into release branch
     - [ ] Once reviews are complete, merge to 'main'
     - [ ] Generate new PDF of the primary content
+        - Ensure [fonts](https://brand.publiccode.net/typography/) are installed
         - Serve html content with `script/serve.sh`
         - Optionally, for a visual pre-check, navigate to http://127.0.0.1:4000/ in a browser
         - Generate the pdf with `script/pdf.sh`
