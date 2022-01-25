@@ -12,7 +12,7 @@ order: 7
 * Contributions SHOULD conform to the standards, architecture and decisions set out in the codebase in order to pass review.
 * Reviews SHOULD include running both the code and the tests of the codebase.
 * Contributions SHOULD be reviewed by someone in a different context than the contributor.
-* Version control systems SHOULD not accept non-reviewed contributions in release versions.
+* Version control systems SHOULD NOT accept non-reviewed contributions in release versions.
 * Reviews SHOULD happen within two business days.
 * Reviews MAY be performed by multiple reviewers.
 
