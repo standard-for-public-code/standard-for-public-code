@@ -33,7 +33,7 @@ order: 4
 ## Policy makers: what you need to do
 
 * Add a list to the codebase of any other resources that policy experts, non-governmental organizations and academics would find useful for understanding or reusing your policy.
-* Consider adding contact details so that other policy makers considering reuse can ask you for advice.
+* Consider adding contact details so that other policy makers considering collaboration can ask you for advice.
 
 ## Management: what you need to do
 
