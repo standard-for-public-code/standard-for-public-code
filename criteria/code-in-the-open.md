@@ -7,17 +7,17 @@ order: 1
 ## Requirements
 
 * All source code for any policy and software in use (unless used for fraud detection) MUST be published and publicly accessible.
-* Contributors MUST NOT upload sensitive information regarding users, their organization or third parties to the repository. Examples of sensitive information include configurations, usernames and passwords, public keys and other real credentials used in the production system.
+* Contributors MUST NOT upload sensitive information regarding users, their organization or third parties to the repository.
 * Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published.
-* The source code MAY provide the general public with insight into which source code or policy underpins any specific interaction they have with your organization.
+* The source code MAY provide the general public with insight into which source code or policy underpins any specific interaction they have with an organization.
 
 ## Why this is important
 
 Coding in the open:
 
-* improves transparency,
-* increases code quality,
-* facilitates the auditing processes.
+* improves transparency
+* increases code quality
+* facilitates the auditing processes
 
 ## What this does not do
 
@@ -28,8 +28,10 @@ Coding in the open:
 
 The source for any version currently in use is published on the internet where it can be seen:
 
-* from outside the original contributing organization,
-* without the need for any form of authentication or authorization.
+* from outside the original contributing organization
+* without the need for any form of authentication or authorization
+
+For each commit, reviewers verify that content does not include sensitive information such as configurations, usernames or passwords, public keys or other real credentials used in production systems.
 
 ## Policy makers: what you need to do
 

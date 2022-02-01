@@ -1,31 +1,31 @@
 ---
-order: 8
+order: 9
 ---
-# Document your code
+# Document the code
 
 ## Requirements
 
-* All of the functionality of your codebase – policy as well as source – MUST be described in language clearly understandable for those that understand the purpose of the code.
-* The documentation of your codebase MUST contain:
+* All of the functionality of the codebase – policy as well as source – MUST be described in language clearly understandable for those that understand the purpose of the code.
+* The documentation of the codebase MUST contain:
   * a description of how to install and run the source code,
   * examples demonstrating the key functionality.
-* The documentation of your codebase SHOULD contain:
+* The documentation of the codebase SHOULD contain:
   * a high level description that is clearly understandable for a wide audience of stakeholders, like the general public and journalists,
   * a section describing how to install and run a standalone version of the source code, including, if necessary, a test dataset,
   * examples for all functionality.
-* There SHOULD be continuous integration tests for the quality of your documentation.
-* The documentation of your codebase MAY contain examples that make users want to immediately start using your codebase.
-* You MAY use the examples in your documentation to test your code.
+* There SHOULD be continuous integration tests for the quality of the documentation.
+* The documentation of the codebase MAY contain examples that make users want to immediately start using the codebase.
+* The code MAY be tested by using examples in the documentation.
 
 ## Why this is important
 
 * Users can start using and contributing more quickly.
-* You help people discover your codebase, especially people asking 'is there already code that does something like this'.
+* You help people discover the codebase, especially people asking 'is there already code that does something like this'.
 * This provides transparency into your organization and processes.
 
 ## What this does not do
 
-* Contribute directly to more reusable, portable code (see [Code in the open](./code-in-the-open.md)).
+* Contribute directly to more reusable, portable code (see [Create reusable and portable code](./reusable-and-portable-codebases.md)).
 
 ## How to test
 

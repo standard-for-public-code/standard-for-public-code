@@ -14,7 +14,7 @@ order: 2
 
 ## Why this is important
 
-This makes sure access is guaranteed to both the source code and the policy documents to facilitate effective reuse of a codebase.
+This makes sure access is guaranteed to both the source code and the policy documents to facilitate effective understanding and reuse of, as well as collaboration in, a codebase.
 
 ## What this does not do
 
@@ -29,9 +29,11 @@ This makes sure access is guaranteed to both the source code and the policy docu
 ## Policy makers: what you need to do
 
 * Collaborate with developers and designers to ensure there is no mismatch between policy code and source code.
-* Document policy in formats that are unambiguous and machine readable such as [Business Process Model and Notation](http://www.bpmn.org/), [Decision Model and Notation](https://www.omg.org/dmn/) and [Case Management Model Notation](https://www.omg.org/cmmn/).
+* Provide the relevant policy texts for inclusion in the repository.
+* Provide references and links to texts which support the policies.
+* Document policy in formats that are unambiguous and machine readable such as [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation), [Decision Model and Notation](https://www.omg.org/dmn/) and [Case Management Model Notation](https://www.omg.org/cmmn/).
 * Track policy with [the same version control](version-control-and-history.md) and documentation used to track source code.
-* Check in regularly to understand how the non-policy code in the codebase has changed and whether it still matches the intentions of the policy.
+* Check in regularly to understand how the non-policy code in the codebase has changed and whether it still matches the [intentions of the policy](document-objectives.md).
 
 ## Management: what you need to do
 

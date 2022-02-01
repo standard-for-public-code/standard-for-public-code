@@ -1,34 +1,38 @@
 ---
-order: 5
+order: 6
 ---
 
 # Maintain version control
 
 ## Requirements
 
-* You MUST have a way to maintain version control for your code.
+* The community MUST have a way to maintain version control for the code.
 * All files in a codebase MUST be version controlled.
 * All decisions MUST be documented in commit messages.
 * Every commit message MUST link to discussions and issues wherever possible.
-* You SHOULD group relevant changes in commits.
-* You SHOULD mark different versions of your codebase, for example using revision tags or textual labels.
-* You SHOULD prefer file formats that can easily be version controlled.
+* The codebase SHOULD be maintained in a distributed version control system.
+* Contributors SHOULD group relevant changes in commits.
+* Maintainers SHOULD mark released versions of the codebase, for example using revision tags or textual labels.
+* Contributors SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system.
+* Contributors MAY sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work.
 
 ## Why this is important
 
-Version control means keeping track of changes to your code over time. This allows you to create structured documentation of the history of the codebase. This is essential for collaboration at scale.
+Version control means keeping track of changes to the code over time. This allows you to create structured documentation of the history of the codebase. This is essential for collaboration at scale.
 
-Version control enables you to:
+Distributed version control enables you to:
 
-* revert to an earlier version of the codebase whenever you want to,
-* record your changes and the reasons why you made them, to help future developers understand the process,
-* compare two different versions,
-* work on changes in parallel as a team before merging them together.
+* have a full copy of the code and its history
+* revert to an earlier version of the codebase whenever you want to
+* record your changes and the reasons why you made them, to help future developers understand the process
+* compare two different versions
+* work on changes in parallel as a team before merging them together
+* continue to work when the network is unavailable, merging changes back with everyone else’s at a later date
 
 ## What this does not do
 
-* Substitute for [advertising maturity](advertise-maturity.md).
-* Guarantee your code executes correctly.
+* Substitute for [advertising maturity](document-maturity.md).
+* Guarantee the code executes correctly.
 * Guarantee collaborators.
 
 ## How to test
@@ -54,7 +58,7 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 ## Developers and designers: what you need to do
 
-* Write clear commit messages so that it is easy to understand what why the commit was made.
+* Write clear commit messages so that it is easy to understand why the commit was made.
 * Mark different versions so that it is easy to access a specific version, for example using revision tags or textual labels.
 * Write clear commit messages so that versions can be usefully compared.
 * Work with policy makers to describe how the source code was updated after a policy change.
@@ -63,4 +67,5 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 * [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
 * [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service.
-* [Semantic Versioning Specification](https://semver.org/) used by many codebases to label versions.
+* [GitHub Learning Lab](https://lab.github.com/) for learning how to use GitHub or refresh your skills.
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) a list with the most common used git commands.

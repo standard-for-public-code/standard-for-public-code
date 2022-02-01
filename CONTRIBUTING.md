@@ -9,6 +9,7 @@ We love issues and pull requests from everyone. If you're not comfortable with G
 ## Problems, suggestions and questions in issues
 
 Please help development by reporting problems, suggesting changes and asking questions. To do this, you can [create a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for the Standard for Public Code](https://github.com/publiccodenet/standard/issues).
+Or, sign up to the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
 
 You don't need to change any of our code or documentation to be a contributor!
 
@@ -44,7 +45,7 @@ If your documentation and code have passed human review, it is merged.
 
 Your ideas, documentation and code have become an integral part of this project. You are the open source hero we need!
 
-In fact, feel free to open a PR to add your name to the [`AUTHORS`](AUTHORS.md) file and get eternal attribution.
+In fact, feel free to open a pull request to add your name to the [`AUTHORS`](AUTHORS.md) file and get eternal attribution.
 
 ---
 

@@ -1,14 +1,20 @@
 # Standard for Public Code
 
-![version 0.1.4](https://img.shields.io/badge/version-0.1.4-red.svg)
+![version 0.2.2](https://img.shields.io/badge/version-0.2.2-red.svg)
+![Test](https://github.com/publiccodenet/standard/workflows/Test/badge.svg)
+![Scheduled link check](https://github.com/publiccodenet/standard/workflows/Scheduled%20link%20check/badge.svg)
 
-Request for contributions
+## Request for contributions
 
 We believe public policy and software should be inclusive, usable, open, legible, accountable, accessible and sustainable. This means we need a new way of designing, developing and procuring both the source code and policy documentation.
 
 This standard sets a quality level for codebases that meets the needs of public organizations, institutions and administrations as well as other critical infrastructural services.
 
-The standard lives at [standard.publiccode.net](https://standard.publiccode.net/), and for an overview of all content see [`index.md`](index.md).
+The standard lives at [standard.publiccode.net](https://standard.publiccode.net/). See [`index.md`](index.md) for an overview of all content.
+
+[![Thumbnail for the video on the Standard for Public Code: a printed version lying on a table between two hands](https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg)](https://www.youtube.com/watch?v=QWt6vB-cipE)
+
+[A video introduction to Standard for Public Code - Creative Commons Global Summit 2020 (4:12) on YouTube](https://www.youtube.com/watch?v=QWt6vB-cipE)
 
 ## Help improve this standard
 
@@ -22,7 +28,7 @@ The repository builds to a static site deployed at [standard.publiccode.net](htt
 
 See the scripts in the `script` folder.
 
-## Generating a PDF out of the document
+## Generating a PDF of the Standard for Public Code
 
 Using [Weasyprint](https://weasyprint.org/) the file `print.html` can be converted to a nice looking PDF.
 
@@ -30,24 +36,8 @@ Using [Weasyprint](https://weasyprint.org/) the file `print.html` can be convert
 weasyprint http://localhost:4000/print.html standard.pdf
 ```
 
-## Releasing a new version
-
-1. Create a release branch
-2. Update the new release
-    - [ ] Update version number
-    - [ ] Update release log
-    - [ ] Create new cover for print
-    - [ ] Create new cover for web PDF
-    - [ ] Generate new PDF of the document
-    - [ ] Create PDF with Illustrations pasted in
-    - [ ] Create PDF for GitHub release with front and back cover included
-3. Send the files for print to the printer
-    - [ ] Cover file
-    - [ ] Inside pages PDF
-4. Create GitHub release with the release notes and version number
-
 ## License
 
 © [The authors and contributors](AUTHORS.md)
 
-The standard is [licensed](LICENSE.md) under CC 0, which also applies to all illustrations and the documentation. This means anyone can do anything with it. If you contribute you also grant these rights to others. You can read more about how to help in the [contributing guide](CONTRIBUTING.md)
+The standard is [licensed](LICENSE.md) under CC 0, which also applies to all illustrations and the documentation. This means anyone can do anything with it. If you contribute you also grant these rights to others. You can read more about how to help in the [contributing guide](CONTRIBUTING.md).

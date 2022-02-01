@@ -11,7 +11,7 @@
   <title>{{ site.title }}</title>
   <style>
     html, .markdown-body {
-      font-family: Muli;
+      font-family: Mulish;
       font-size: 11pt;
     }
 
@@ -74,6 +74,7 @@
     a[href^="http"]:link {
       color: black;
       text-decoration: none;
+      word-wrap: normal;
     }
     a[href^="http"]:after {
       content: "" attr(href) "";
@@ -106,33 +107,75 @@
       font-family: Inter;
     }
 
-    .markdown-body h2[id$="policy-makers-what-you-need-to-do"]:before,
-    .markdown-body h2[id$="management-what-you-need-to-do"]:before,
-    .markdown-body h2[id$="developers-and-designers-what-you-need-to-do"]:before {
+    /* Headings */
+
+    .markdown-body [id$="policy-makers-what-you-need-to-do"]:before,
+    .markdown-body [id$="management-what-you-need-to-do"]:before,
+    .markdown-body [id$="developers-and-designers-what-you-need-to-do"]:before {
       display: block;
       position: absolute;
       content: 'A';
       text-align: center;
       width: 1cm;
       height: 1cm;
+      background-color: black;
+      border: 1px solid black;
       color: white;
       display: inline-block;
       margin-left: -1.2cm;
       box-sizing: border-box;
       padding: 0.12cm;
+      font-size: 0.5cm;
+      font-weight: 900;
     }
-    .markdown-body h2[id$="policy-makers-what-you-need-to-do"]:before {
+    .markdown-body [id$="policy-makers-what-you-need-to-do"]:before {
       background-color: #00EFB5;
+      border-color: #00EFB5;
       content: 'P';
     }
-    .markdown-body h2[id$="management-what-you-need-to-do"]:before {
+    .markdown-body [id$="management-what-you-need-to-do"]:before {
       background-color: #FF6D1C;
+      border-color: #FF6D1C;
       content: 'M';
     }
-    .markdown-body h2[id$="developers-and-designers-what-you-need-to-do"]:before {
+    .markdown-body [id$="developers-and-designers-what-you-need-to-do"]:before {
       background-color: #8626FF;
+      border-color: #8626FF;
       content: 'D';
     }
+
+    /* First page */
+
+    h1.title {
+      font-size: 5em;
+      font-weight: 700;
+      margin-bottom: 1cm;
+    }
+
+    ul.first-page-audiences {
+      max-width: none;
+      list-style: none;
+      font-size: 1.25em;
+      padding-left: 0;
+    }
+    .first-page-audiences li, .first-page-audiences lh {
+      display: block;
+      margin-bottom: .5cm;
+    }
+    .first-page-audiences lh {
+      margin-bottom: 1cm;
+    }
+    .first-page-audiences li {
+      padding-left: 1.2cm;
+    }
+    .first-page-audiences li::before {
+      margin-top: -.15cm;
+    }
+    #section-first-page>img {
+      width: 100%;
+    }
+    
+    /* Print specific */
 
     @media print {
       /* html { page-break-before: left } */
@@ -180,7 +223,7 @@
         margin-right: -1.5cm !important;
         margin-bottom: 0 !important;
         padding: 0 0 0 0 !important;
-    }
+      }
 
       article {
         margin: 0 2cm;
@@ -194,6 +237,11 @@
       }
       img {
         page-break-inside: avoid;
+      }
+      
+      #section-first-page>img {
+        width: 21.6cm;
+        margin: 1cm 0 1cm -3.21cm; /* This value for the left margin was done by eye */
       }
     }
 
@@ -210,7 +258,7 @@
         max-width: 50em;
         max-width: 21cm;
         box-sizing: border-box;
-        margin: 1cm;
+        margin: 2cm 0;
       }
     }
 
@@ -219,10 +267,22 @@
 <body class="markdown-body">
 
   <article id="section-first-page">
-    <p>Version {{ site.version }}</p>
     <p>Request for contributions</p>
+    <h1 class="title">Standard for Public Code</h1>
+
+    <ul class="first-page-audiences">
+      <lh>What public code is and how to implement it for:</lh>
+      <li id="first-page-policy-makers-what-you-need-to-do">Policy makers</li>
+      <li id="first-page-management-what-you-need-to-do">Management</li>
+      <li id="first-page-developers-and-designers-what-you-need-to-do">Developers and designers</li>
+    </ul>
+
+    <img src="assets/hands-shake.svg" alt="hands shaking">
+
+    <p>Version {{ site.version }}</p>
     <p><img src="/assets/cc-zero-badge.svg" alt="Licensed CC0"></p>
     <p>github.com/publiccodenet/standard</p>
+    <p><img src="/assets/dpg-badge.svg" alt="Digital Public Goods approval badge" width="92" height="46"></p>
   </article>
 
   <article id="section-authors">
@@ -349,7 +409,7 @@
 
     <h1>Contact</h1>
 
-    <p>For questions and more information about our organization you can find us at <a href="https://publiccode.net">our website</a>, email us at info@publiccode.net, or call us at +31 20 2 444 500</p>
+    <p>For questions and more information about the Foundation for Public Code you can find us at <a href="https://publiccode.net">our website</a>, email us at info@publiccode.net, or call us at +31 20 2 444 500</p>
 
   </article>
 

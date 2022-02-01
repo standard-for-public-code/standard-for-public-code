@@ -10,6 +10,8 @@
 * Mirjam van Tiel
 * Eric Herman
 * Jan Ainali
+* Felix Faassen
+* Alba Roza
 
 Amsterdam University of Applied Sciences (AUAS), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
 
@@ -24,9 +26,6 @@ Gemeente Amsterdam
 Code For NL
 
 * Johan Groenen
-
-ICTU
-
 * Edo Plantinga
 
 [Nordic Institute for Interoperability Solutions (NIIS)](https://niis.org)
@@ -42,3 +41,7 @@ Individual contributors
 * Paul Keller
 * Sky Bristol
 * Marcus Klaas de Vries
+* Arnout Engelen
+* Ngô Ngọc Đức Huy
+* Mauko Quiroga
+* Charlotte Heikendorf
