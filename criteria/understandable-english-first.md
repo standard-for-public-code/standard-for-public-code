@@ -39,7 +39,7 @@ order: 10
 
 ## Management: what you need to do
 
-* Try to limit the use of acronyms, abbreviations, puns or legal/non-English/domain specific terms in internal communications in and between teams and stakeholders. Add anyones that are being used to a glossary and link to it from those places.
+* Try to limit the use of acronyms, abbreviations, puns or legal/non-English/domain specific terms in internal communications in and between teams and stakeholders. Add any such terms to a glossary and link to it from the places they are being used.
 * Be critical of documentation and descriptions in proposals and changes - if you don't understand something, others will probably also struggle with it.
 
 ## Developers and designers: what you need to do
