@@ -148,7 +148,7 @@ The Standard for Public Code is for the people who create and reuse public code:
 
 These people work at:
 
-* public organizations: institutions and administrations
+* institutions, organizations and administrations in the public sector
 * consultancies and vendors of information technology and policy services to public organizations
 
 It is not aimed at public organizations' end users (residents or citizens), journalists or academics.
