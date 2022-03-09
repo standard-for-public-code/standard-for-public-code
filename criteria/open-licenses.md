@@ -46,5 +46,5 @@ order: 13
 
 * [Open source definition](https://opensource.org/osd) by the Open Source Initiative - all open source licenses meet this definition.
 * [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) by Creative Commons Aotearoa New Zealand.
-* [REUSE Initiative specification](https://reuse.software/spec/) by FSFE for unambiguous, human-readable and machine-readable copyright and licensing information.
+* [REUSE Initiative specification](https://reuse.software/spec/) by Free Software Foundation Europe for unambiguous, human-readable and machine-readable copyright and licensing information.
 * [SPDX License List](https://spdx.org/licenses/) by the Linux foundation with standardized, machine-readable abbreviations for most licenses.
