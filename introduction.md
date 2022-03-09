@@ -106,7 +106,28 @@ Every time a contribution is suggested to a codebase – through for instance a 
 
 The audit is presented as a review of the contribution. The codebase steward gives line by line feedback and compliance, helping the contributor to improve their contribution. The merge request cannot be fulfilled until the codebase stewards have approved the contribution.
 
-![Pull Request Acceptance process](images/audit-flow.svg)
+```mermaid
+  graph TD;
+    S0((Contributor<br>submits a<br>merge request)) --> S1{+};
+    S1 --> S2(Auditor team member assigns<br>merge request to themselves<br>within 2 business days);
+    S2 --> S3(Check changes for project governance<br>and Public Code compliance);
+    S3 --> S4{X};
+    S4 -->|Not compliant|S5(Post what needs to be<br>done so the contributor<br>can make the changes);
+    S5 --> S6(Set request status to<br>'Changes requested');
+    S6 --> S7(Make new commits to the code to<br>resolve review and audit issues);
+    S7 --> S8((Request<br>updated));
+    S8 --> S1;
+    S4 -->|Compliant| S9{+};
+    S9 --> S10(Set request status<br>to 'approved' and<br>post positively);
+    S10 --> S11(Merge);
+    S11 --> S12((End));
+    S1 --> S13(Maintainer check changes for usefulness,<br>value added and 'mergeability');
+    S13 --> S14{X};
+    S14 -->|Can be merged| S9;
+    S14 -->|Needs changes|S5(Post what needs to be<br>done so the contributor<br>can make the changes);
+    S14 -->|Cannot be merged|S15(Post why the request<br>cannot be merged<br>and close it);
+    S15 --> S16((Merge<br>request<br>rejected));
+```
 
 ### Certifying an entire codebase versus a contribution
 
