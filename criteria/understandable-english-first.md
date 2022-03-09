@@ -48,6 +48,6 @@ order: 10
 
 ## Further reading
 
-* Text of the [Web Content Accessibilty Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) - make text content readable and understandable.
-* [Upgoer 5 text editor](https://splasho.com/upgoer5/) - only allows 1000 most common words.
+* Text of the [Web Content Accessibilty Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) by W3C - make text content readable and understandable.
+* [Upgoer 5 text editor](https://splasho.com/upgoer5/) by Theo Sanderson - only allows 1000 most common words.
 * [Definition of plain language](https://www.plainlanguage.gov/about/definitions/) by United States General Services Administration.
