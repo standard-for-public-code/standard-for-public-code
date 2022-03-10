@@ -33,7 +33,7 @@ order: 4
 ## Policy makers: what you need to do
 
 * Add a list to the codebase of any other resources that policy experts, non-governmental organizations and academics would find useful for understanding or reusing your policy.
-* Consider adding contact details so that other policy makers considering reuse can ask you for advice.
+* Consider adding contact details so that other policy makers considering collaboration can ask you for advice.
 
 ## Management: what you need to do
 
@@ -48,6 +48,6 @@ order: 4
 ## Further reading
 
 * [Building welcoming communities](https://opensource.guide/building-community/) by Open Source Guides.
-* The [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) is a model code of conduct.
+* [The Open Source Contributor Funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) by Mike McQuaid.
 * [Leadership and governance](https://opensource.guide/leadership-and-governance/) for growing open source community projects, by Open Source Guides.
 * [Building online communities](http://hintjens.com/blog:117) by Pieter Hintjens (long read!).

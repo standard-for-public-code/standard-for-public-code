@@ -12,7 +12,7 @@ order: 7
 * Contributions SHOULD conform to the standards, architecture and decisions set out in the codebase in order to pass review.
 * Reviews SHOULD include running both the code and the tests of the codebase.
 * Contributions SHOULD be reviewed by someone in a different context than the contributor.
-* Version control systems SHOULD not accept non-reviewed contributions in release versions.
+* Version control systems SHOULD NOT accept non-reviewed contributions in release versions.
 * Reviews SHOULD happen within two business days.
 * Reviews MAY be performed by multiple reviewers.
 
@@ -57,4 +57,4 @@ order: 7
 
 * [How to review code the GDS way](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) by the UK Government Digital Service.
 * Branch protection on [GitHub](https://help.github.com/en/articles/about-protected-branches) and [GitLab](https://about.gitlab.com/2014/11/26/keeping-your-code-protected/).
-* [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/)
+* [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) by Sage Sharp.
