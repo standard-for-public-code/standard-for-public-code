@@ -14,7 +14,7 @@ order: 2
 
 ## Why this is important
 
-This makes sure access is guaranteed to both the source code and the policy documents to facilitate effective reuse of a codebase.
+This makes sure access is guaranteed to both the source code and the policy documents to facilitate effective understanding and reuse of, as well as collaboration in, a codebase.
 
 ## What this does not do
 

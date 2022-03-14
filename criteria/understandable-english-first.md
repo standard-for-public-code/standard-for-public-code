@@ -12,7 +12,7 @@ order: 10
 * There SHOULD be no acronyms, abbreviations, puns or legal/non-English/domain specific terms in the codebase without an explanation preceding it or a link to an explanation.
 * The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding.
 * Documentation SHOULD aim for a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable).
-* Any code, documentation and tests MAY have a translation.
+* Any code, documentation or tests MAY have a translation.
 
 ## Why this is important
 
@@ -39,7 +39,7 @@ order: 10
 
 ## Management: what you need to do
 
-* Try to limit the use of acronyms, abbreviations, puns or legal/domain specific terms in internal communications in and between teams and stakeholders.
+* Try to limit the use of acronyms, abbreviations, puns or legal/non-English/domain specific terms in internal communications in and between teams and stakeholders. Add any such terms to a glossary and link to it from the places they are being used.
 * Be critical of documentation and descriptions in proposals and changes - if you don't understand something, others will probably also struggle with it.
 
 ## Developers and designers: what you need to do
@@ -48,6 +48,6 @@ order: 10
 
 ## Further reading
 
-* Text of the [Web Content Accessibilty Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) - make text content readable and understandable.
-* [Upgoer 5 text editor](https://splasho.com/upgoer5/) - only allows 1000 most common words.
+* Text of the [Web Content Accessibilty Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) by W3C - make text content readable and understandable.
+* [Upgoer 5 text editor](https://splasho.com/upgoer5/) by Theo Sanderson - only allows 1000 most common words.
 * [Definition of plain language](https://www.plainlanguage.gov/about/definitions/) by United States General Services Administration.

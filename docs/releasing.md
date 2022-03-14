@@ -18,15 +18,12 @@
         - If needed for release, reviewers may create PRs to resolve issues
         - Re-request reviews if additional PRs are merged into release branch
     - [ ] Once reviews are complete, merge to 'main'
-    - [ ] Generate new PDF of the primary content
+    - [ ] Generate new PDFs
         - Ensure [fonts](https://brand.publiccode.net/typography/) are installed
         - Serve html content with `script/serve.sh`
         - Optionally, for a visual pre-check, navigate to http://127.0.0.1:4000/ in a browser
-        - Generate the pdf with `script/pdf.sh`
-    - [ ] Create new cover for print
-    - [ ] Create new cover for web PDF
-    - [ ] Create PDF for GitHub release with front and back cover included
-        - Generate the pdf with `pdftk Front.pdf standard.pdf Back.pdf cat output standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
+        - Generate `standard.pdf` and `standard-cover.pdf` with `script/pdf.sh`
+        - rename `standard.pdf` to standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
 4. [Send the files for print to the printer](printing.md)
     - [ ] Cover file
     - [ ] Inside pages PDF

@@ -46,9 +46,11 @@ order: 3
 
 ## Developers and designers: what you need to do
 
-* Source should be designed for reuse by other users and organizations.
-* Source should be designed to solve a general problem instead of a specific one.
-* Someone in a similar organization facing a similar problem should be able to use your solution.
+Source should be designed:
+
+* for reuse by other users and organizations.
+* to solve a general problem instead of a specific one.
+* so that someone in a similar organization facing a similar problem would be able to use (parts of) your solution.
 
 ## Further reading
 
