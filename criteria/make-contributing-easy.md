@@ -43,6 +43,6 @@ order: 5
 
 ## Further reading
 
-* [How to inspire exceptional contributions to your open-source project](https://www.netdata.cloud/blog/open-source-contributions/) by Netdata.
+* [How to inspire exceptional contributions to your open-source project](https://web.archive.org/web/20210126074725/https://www.netdata.cloud/blog/open-source-contributions/) by Netdata.
 * [The benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) by the UK Government Digital Service.
 * [The security policy](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md) by Verdaccio is a really nice example.
