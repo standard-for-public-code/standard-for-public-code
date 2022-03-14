@@ -22,6 +22,7 @@ Gemeente Amsterdam
 * Tamas Erkelens
 * Mark van der Net
 * Maurits van der Schee
+* Maurice Hendriks
 
 Code For NL
 
