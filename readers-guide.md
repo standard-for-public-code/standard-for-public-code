@@ -17,7 +17,7 @@ This section explains why it is important for the users and contributors of this
 
 ## What this does not do
 
-This section manages expectation by explaining what following the requirements will not save you from.
+This section manages expectations by explaining what following the requirements will not save you from.
 
 This helps:
 
