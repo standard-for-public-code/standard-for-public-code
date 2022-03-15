@@ -46,10 +46,15 @@ order: 3
 
 ## Developers and designers: what you need to do
 
-* Source should be designed for reuse by other users and organizations.
-* Source should be designed to solve a general problem instead of a specific one.
-* Someone in a similar organization facing a similar problem should be able to use your solution.
+Source should be designed:
+
+* for reuse by other users and organizations,
+* to solve a general problem instead of a specific one,
+* so that someone in a similar organization facing a similar problem would be able to use (parts of) your solution.
+
+If your context requires deploying to proprietary platforms or using proprietary components, ensure that collaborators can develop, use, test, and deploy without them.
 
 ## Further reading
 
 * [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) by the UK Government Digital Service.
+* [OpenAPI Specification](https://spec.openapis.org/oas/latest.html) by the OpenAPI Initiative defines a standard, programming language-agnostic interface description for human and machine readable HTTP APIs.

@@ -14,7 +14,9 @@ order: 2
 
 ## Why this is important
 
-This makes sure access is guaranteed to both the source code and the policy documents to facilitate effective reuse of a codebase.
+This makes sure access is guaranteed to both the source code and the policy documents to facilitate effective understanding and reuse of, as well as collaboration in, a codebase.
+Understanding the context and the policies in that context is paramount for the understanding of what problems a codebase is trying to solve and the way it sets out to solve them.
+To be able to evaluate whether to adopt a codebase into a new context, an organization will need to understand what process changes it must choose to make or how to contribute additional configurability to the existing solution in order to adapt it to the new context.
 
 ## What this does not do
 
@@ -29,7 +31,7 @@ This makes sure access is guaranteed to both the source code and the policy docu
 ## Policy makers: what you need to do
 
 * Collaborate with developers and designers to ensure there is no mismatch between policy code and source code.
-* Provide the relevant policy texts for inclusion in the repository.
+* Provide the relevant [policy](https://standard.publiccode.net/glossary.html#policy) texts for inclusion in the repository; if the text is not available in English, also provide an English summary. Be sure to include standards that your organization has chosen to adhere to and any organizational processes which impact the development or the deployment context of the codebase for your organization.
 * Provide references and links to texts which support the policies.
 * Document policy in formats that are unambiguous and machine readable such as [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation), [Decision Model and Notation](https://www.omg.org/dmn/) and [Case Management Model Notation](https://www.omg.org/cmmn/).
 * Track policy with [the same version control](version-control-and-history.md) and documentation used to track source code.
