@@ -10,9 +10,9 @@ March 15th 2022: 📜 the ninth draft allows English summaries for policy lackin
 * Emphasize reusability also on parts of the solutions in Create reusable and portable code.
 * Expand guidance to Developers and designers in Create reusable and portable code about deploying to proprietary platforms.
 * Add nuance to use of non-English terms in what management need to do in Use plain English.
-* Change the pull request process diagram to use Mermaid instead of BPMN to make it commnuity translations easier.
+* Change the pull request process diagram to use Mermaid instead of BPMN to make community translations easier.
 * Added Maurice Hendriks to AUTHORS.
-* Add on OpenApi Specification to further reading.
+* Added OpenApi Specification to further reading.
 * Made the attributions in further reading sections clearer.
 * Made additional minor changes to text for clarity.
 
