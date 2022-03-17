@@ -15,7 +15,7 @@ order: 4
 
 ## Why this is important
 
-* Helps newcomers understand and trust your codebase community's leadership.
+* Helps newcomers understand and trust the codebase community's leadership.
 * Prevents the community that works on a codebase splitting because there is no way to influence its goals and progress – resulting in diverging communities.
 * Helps users decide to use one codebase over another.
 

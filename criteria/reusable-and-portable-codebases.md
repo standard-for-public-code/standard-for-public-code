@@ -50,7 +50,7 @@ Source should be designed:
 
 * for reuse by other users and organizations,
 * to solve a general problem instead of a specific one,
-* so that someone in a similar organization facing a similar problem would be able to use (parts of) your solution.
+* so that someone in a similar organization facing a similar problem would be able to use (parts of) the solution.
 
 If your context requires deploying to proprietary platforms or using proprietary components, ensure that collaborators can develop, use, test, and deploy without them.
 
