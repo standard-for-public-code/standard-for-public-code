@@ -10,7 +10,7 @@ order: 13
 * Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category).
 * All code MUST be published with a license file.
 * Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
-* All source code files in the codebase SHOULD include a copyright notice and a license header that are machine readable.
+* All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable.
 * Codebases MAY have multiple licenses for different types of code and documentation.
 
 ## Why this is important
@@ -46,5 +46,5 @@ order: 13
 
 * [Open source definition](https://opensource.org/osd) by the Open Source Initiative - all open source licenses meet this definition.
 * [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) by Creative Commons Aotearoa New Zealand.
-* [REUSE Initiative specification](https://reuse.software/spec/) for unambiguous, human-readable and machine-readable copyright and licensing information.
-* [SPDX License List](https://spdx.org/licenses/) with standardized, machine-readable abbreviations for most licenses.
+* [REUSE Initiative specification](https://reuse.software/spec/) by Free Software Foundation Europe for unambiguous, human-readable and machine-readable copyright and licensing information.
+* [SPDX License List](https://spdx.org/licenses/) by the Linux foundation with standardized, machine-readable abbreviations for most licenses.

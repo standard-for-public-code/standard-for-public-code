@@ -57,4 +57,4 @@ order: 7
 
 * [How to review code the GDS way](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) by the UK Government Digital Service.
 * Branch protection on [GitHub](https://help.github.com/en/articles/about-protected-branches) and [GitLab](https://about.gitlab.com/2014/11/26/keeping-your-code-protected/).
-* [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/)
+* [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) by Sage Sharp.

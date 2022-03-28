@@ -15,7 +15,7 @@ order: 4
 
 ## Why this is important
 
-* Helps newcomers understand and trust your codebase community's leadership.
+* Helps newcomers understand and trust the codebase community's leadership.
 * Prevents the community that works on a codebase splitting because there is no way to influence its goals and progress – resulting in diverging communities.
 * Helps users decide to use one codebase over another.
 
@@ -48,6 +48,6 @@ order: 4
 ## Further reading
 
 * [Building welcoming communities](https://opensource.guide/building-community/) by Open Source Guides.
-* The [Contributor Covenant](https://www.contributor-covenant.org/version/1/4/code-of-conduct) is a model code of conduct.
+* [The Open Source Contributor Funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) by Mike McQuaid.
 * [Leadership and governance](https://opensource.guide/leadership-and-governance/) for growing open source community projects, by Open Source Guides.
 * [Building online communities](http://hintjens.com/blog:117) by Pieter Hintjens (long read!).
