@@ -32,7 +32,7 @@ order: 10
 * Validate that no unexplained acronyms, abbreviations, puns or legal/domain specific terms are in the documentation.
 * Test the documentation for grammar using [Grammarly](https://www.grammarly.com/).
 * Test the documentation for readability using [Hemingway text editor](https://hemingwayapp.com/).
-* Ask someone outside of your context if they understand your content (for example, a developer working on a different codebase).
+* Ask someone outside of your context if they understand the content (for example, a developer working on a different codebase).
 
 ## Policy makers: what you need to do
 
