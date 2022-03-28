@@ -8,8 +8,9 @@ order: 12
 
 * All functionality in the source code MUST have automated tests.
 * Contributions MUST pass all automated tests before they are admitted into the codebase.
-* Contributions MUST be small.
+* The codebase MUST have guidelines which state how contributions are expected to be organized.
 * The codebase MUST have active contributors.
+* The codebase guidelines SHOULD state that each contribution should focus on a single issue.
 * Source code test and documentation coverage SHOULD be monitored.
 * Policy and documentation MAY have testing for consistency with the source and vice versa.
 * Policy and documentation MAY have testing for style and broken links.
@@ -50,11 +51,14 @@ order: 12
 ## Management: what you need to do
 
 * Make sure to test with real end users as quickly and often as possible.
-* Procure consultancy services that deliver small parts very often instead of large parts less frequently.
+* Plan the work to deliver small parts very often instead of large parts less frequently.
+* Procure consultancy services that deliver incrementally aligned with the plan.
 * After a large failure, encourage publication of incident reports and public discussion of what was learned.
 
 ## Developers and designers: what you need to do
 
+* Help management structure the work plan such that it can be delivered as small increments.
+* Help contributors limit the scope of their contributions and feature requests to be as small as reasonable.
 * Help management and policy makers test their contributions, by for example testing their contributions for broken links or style.
 * Structure code written to handle conditions which are difficult to create in a test environment in such a way that the conditions can be simulated during testing. Forms of resource exhaustion such as running out of storage space and memory allocation failure are typical examples of difficult to create conditions.
 * Tune the test code coverage tools to avoid false alarms resulting from inlining or other optimizations.
