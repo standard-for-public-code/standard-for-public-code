@@ -26,7 +26,7 @@ Documenting codebase objectives:
 * Guarantee that the codebase achieves the stated objective(s).
 * Guarantee contributions to the codebase.
 * Prevent other codebases from attempting to achieve the same objectives.
-* Components are generic enough to be reused in any context.
+* Guarantee that components are generic enough to be reused in any context.
 
 ## How to test
 
