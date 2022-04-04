@@ -7,6 +7,7 @@ order: 3
 ## Requirements
 
 * The codebase MUST be developed to be reusable in different contexts.
+* The codebase SHOULD be modularized, so that system parts can be replaced, separated and recombined and developed more independently.
 * The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed code or services for execution and understanding.
 * The codebase SHOULD be in use by multiple parties.
 * The roadmap SHOULD be influenced by the needs of multiple parties.
