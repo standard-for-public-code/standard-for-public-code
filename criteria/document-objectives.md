@@ -19,7 +19,7 @@ Documenting codebase objectives:
 * helps scope and isolate your own development.
 * improves maintanability and reusability.
 * channels (the improvements on the existing) functionality into logically isolated chunks.
-* clearly communicates to other stakeholders and contributors what the codebase, and the individual component it is composed from, is for.
+* clearly communicates to other stakeholders and contributors what the codebase, and the individual components it is composed from, is for.
 
 ## What this does not do
 
