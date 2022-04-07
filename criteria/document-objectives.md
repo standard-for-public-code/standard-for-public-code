@@ -45,7 +45,7 @@ There is an entry for the codebase objectives, mission or goal in the codebase d
 ## Developers and designers: what you need to do
 
 * Add the technology and design objectives to the codebase documentation, for example in the `README`.
-* Design solutions into logically meaningfull and isolated chunks that can be reused into different contexes.
+* Design solutions into logically meaningful and isolated chunks that can be reused in different contexts.
 
 ## Further reading
 
