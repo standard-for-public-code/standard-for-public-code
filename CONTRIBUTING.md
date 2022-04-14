@@ -29,6 +29,12 @@ Add your changes in commits [with a message that explains them](https://robots.t
 
 If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request. Make sure to write tests that show the behavior of the newly added or changed code.
 
+#### Style
+
+The Standard for Public Code aims to [use plain English](https://standard.publiccode.net/criteria/understandable-english-first.html) and we have chosen American English for spelling.
+However, we want to emphasize that it is more important that you make your contribution than worry about spelling and typography.
+We will help you get it right in our review process and we also have a separate quality check before [making a new release](docs/releasing.md).
+
 ### 2. Pull request
 
 When submitting the pull request, please accompany it with a description of the problem you are trying to solve and the issue numbers that this pull request fixes.
