@@ -53,6 +53,10 @@ Your ideas, documentation and code have become an integral part of this project.
 
 In fact, feel free to open a pull request to add your name to the [`AUTHORS`](AUTHORS.md) file and get eternal attribution.
 
+## Translations
+
+While the Standard does not have any official translations, you can help maintain existing and add new [community translations of the Standard](https://github.com/publiccodenet/community-translations-standard).
+
 ---
 
 For more information on how to use and contribute to this project, please read the [`README`](README.md).
