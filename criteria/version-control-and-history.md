@@ -68,4 +68,4 @@ For example, adding a new category of applicant to a codebase that manages grant
 * [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
 * [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service.
 * [GitHub Learning Lab](https://lab.github.com/) by GitHub for learning how to use it or refresh your skills.
-* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) by GitHub - a list with the most common used git commands.
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) by GitHub, a list with the most common used git commands.
