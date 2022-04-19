@@ -54,7 +54,7 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 ## Management: what you need to do
 
-* Support policy makers, developers and designers to be clear about what improvements they're making to the codebase - making improvements isn't a public relations risk.
+* Support policy makers, developers and designers to be clear about what improvements they're making to the codebase. Making improvements isn't a public relations risk.
 
 ## Developers and designers: what you need to do
 
