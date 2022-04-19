@@ -8,7 +8,7 @@ Any explicitly described system of rules. This includes laws, policy and ordinan
 
 Any discrete package of code (both source and policy), the tests and the documentation required to implement a piece of policy or software.
 
-This can be – for example – a document or a version-control repository.
+This can be, for example, a document or a version-control repository.
 
 ## Continuous integration
 
