@@ -26,14 +26,14 @@
         - Optionally, for a visual pre-check, navigate to http://127.0.0.1:4000/ in a browser
         - In a separate terminal than `script/serve.sh`, generate `standard.pdf` and `standard-cover.pdf` with `script/pdf.sh`
         - Rename `standard.pdf` to standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
-4. [Send the files for print to the printer](printing.md)
-    - [ ] Cover file
-    - [ ] Inside pages PDF
-5. Create GitHub release with the release notes and version number
+4. Create GitHub release with the release notes and version number
     - [ ] `git tag $MAJOR.$MINOR.$PATCH`
     - [ ] `git push --tags`
     - [ ] From https://github.com/publiccodenet/standard/tags select "create release"
         - Title the release
         - Add changelog bullets
         - Drag-and-drop the generated .pdf into the assets
-6. Update 'develop' with a merge from 'main'
+5. Update 'develop' with a merge from 'main'
+6. [Send the files for print to the printer](printing.md)
+    - [ ] Cover file
+    - [ ] Inside pages PDF
