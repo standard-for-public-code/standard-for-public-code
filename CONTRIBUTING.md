@@ -8,7 +8,7 @@ We love issues and pull requests from everyone. If you're not comfortable with G
 
 ## Problems, suggestions and questions in issues
 
-Please help development by reporting problems, suggesting changes and asking questions. To do this, you can [create a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for the Standard for Public Code](https://github.com/publiccodenet/standard/issues).
+Please help development by reporting problems, suggesting changes and asking questions. To do this, you can [create a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for this project in the [GitHub Issues for the Standard for Public Code](https://github.com/publiccodenet/standard/issues).
 Or, sign up to the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
 
 You don't need to change any of our code or documentation to be a contributor!
@@ -17,7 +17,7 @@ You don't need to change any of our code or documentation to be a contributor!
 
 If you want to add to the documentation or code of one of our projects you should make a pull request.
 
-If you never used GitHub, get up to speed with [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) or follow one of the great free interactive courses in the [GitHub learning lab](https://lab.github.com/) on working with GitHub and working with MarkDown, the syntax this project's documentation is in.
+If you never used GitHub, get up to speed with [Understanding the GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) or follow one of the great free interactive courses in the [GitHub learning lab](https://lab.github.com/) on working with GitHub and working with MarkDown, the syntax this project's documentation is in.
 
 This project is [licensed CC-0](LICENSE.md), which essentially means that the project, along with your contributions is in the public domain in whatever jurisdiction possible, and everyone can do whatever they want with it.
 
