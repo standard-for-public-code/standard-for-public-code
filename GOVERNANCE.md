@@ -4,7 +4,7 @@ This standard lies at the core of the codebase stewardship provided by the [Foun
 
 The standard is maintained by Foundation for Public Code staff.
 
-[We welcome contributions – such as suggestions for changes or general feedback – from anyone.](/CONTRIBUTING.md)
+[We welcome contributions, such as suggestions for changes or general feedback, from anyone.](/CONTRIBUTING.md)
 
 Because of the important role that the Standard for Public Code has in our core process we require the highest standards from the Standard.
 

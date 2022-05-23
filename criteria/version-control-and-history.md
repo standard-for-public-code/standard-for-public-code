@@ -54,7 +54,7 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 ## Management: what you need to do
 
-* Support policy makers, developers and designers to be clear about what improvements they're making to the codebase - making improvements isn't a public relations risk.
+* Support policy makers, developers and designers to be clear about what improvements they're making to the codebase. Making improvements isn't a public relations risk.
 
 ## Developers and designers: what you need to do
 
@@ -68,4 +68,4 @@ For example, adding a new category of applicant to a codebase that manages grant
 * [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
 * [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service.
 * [GitHub Learning Lab](https://lab.github.com/) by GitHub for learning how to use it or refresh your skills.
-* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) by GitHub - a list with the most common used git commands.
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) by GitHub, a list with the most common used git commands.
