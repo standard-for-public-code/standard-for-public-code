@@ -37,7 +37,7 @@ order: 4
 
 ## Management: what you need to do
 
-* Make sure the documentation explains how your organization is involved in the codebase, what resources it has available for it and for how long.
+* Make sure the documentation explains how each organization is involved in the codebase, what resources it has available for it and for how long.
 * Support your experienced policy makers, developers and designers to stay part of the community for as long as possible.
 
 ## Developers and designers: what you need to do
