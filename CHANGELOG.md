@@ -1,5 +1,17 @@
 # Version history
 
+## Version 0.3.0
+
+May 23rd 2022: 🗎 the tenth draft strengthens documentation and localization.
+
+* Requirement for localization made explicit in Create reusable and portable code.
+* Documentation of governance changed from a SHOULD to a MUST.
+* Replace the very subjective (and hard to test) "contributions MUST be small" with requirement to document expectation in contributing guidelines and focus on a single issue.
+* Community translations now linked in the footer.
+* Revert "Replace BPMN svg with Mermaid flowchart".
+* Many minor clarifications to language and sentences made more simple.
+* Some hyperlinks updated.
+
 ## Version 0.2.3
 
 March 15th 2022: 📜 the ninth draft allows English summaries for policy lacking an official translation.
