@@ -6,6 +6,7 @@
         - If new dashes are introduced, check if the language can be simplified to remove them in favor of more simple sentences. If a complex sentece is needed, see if the dash can be replaced with other punction. If a dash is truly the best expression of ideas, then follow the [Chicago Manual of Style](https://en.wikipedia.org/wiki/Dash#En_dash_versus_em_dash).
 2. Create a release branch
     - From 'develop', `git checkout -b "release-$MAJOR.$MINOR.$PATCH"`
+    - Push the branch, `git push -u origin release-$MAJOR.$MINOR.$PATCH`
 3. Update the new release
     - [ ] Update version number in `_config.yml` and `README.md`
     - [ ] Update [`AUTHORS.md`](../AUTHORS.md) with new contributors
