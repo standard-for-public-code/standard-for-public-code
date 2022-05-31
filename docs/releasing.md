@@ -3,8 +3,10 @@
 1. Review state of the 'develop' branch
     - Ensure all changes intended for release are merged
     - Invite a proofread of the current state of the branch
+        - If new dashes are introduced, check if the language can be simplified to remove them in favor of more simple sentences. If a complex sentece is needed, see if the dash can be replaced with other punction. If a dash is truly the best expression of ideas, then follow the [Chicago Manual of Style](https://en.wikipedia.org/wiki/Dash#En_dash_versus_em_dash).
 2. Create a release branch
     - From 'develop', `git checkout -b "release-$MAJOR.$MINOR.$PATCH"`
+    - Push the branch, `git push -u origin release-$MAJOR.$MINOR.$PATCH`
 3. Update the new release
     - [ ] Update version number in `_config.yml` and `README.md`
     - [ ] Update [`AUTHORS.md`](../AUTHORS.md) with new contributors
@@ -18,20 +20,21 @@
         - If needed for release, reviewers may create PRs to resolve issues
         - Re-request reviews if additional PRs are merged into release branch
     - [ ] Once reviews are complete, merge to 'main'
+    - [ ] Switch to the 'main' branch, `git pull` and `git status`
     - [ ] Generate new PDFs
         - Ensure [fonts](https://brand.publiccode.net/typography/) are installed
         - Serve html content with `script/serve.sh`
         - Optionally, for a visual pre-check, navigate to http://127.0.0.1:4000/ in a browser
-        - Generate `standard.pdf` and `standard-cover.pdf` with `script/pdf.sh`
-        - rename `standard.pdf` to standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
-4. [Send the files for print to the printer](printing.md)
-    - [ ] Cover file
-    - [ ] Inside pages PDF
-5. Create GitHub release with the release notes and version number
+        - In a separate terminal than `script/serve.sh`, generate `standard.pdf` and `standard-cover.pdf` with `script/pdf.sh`
+        - Rename `standard.pdf` to standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
+4. Create GitHub release with the release notes and version number
     - [ ] `git tag $MAJOR.$MINOR.$PATCH`
     - [ ] `git push --tags`
-    - [ ] from https://github.com/publiccodenet/standard/releases edit the tag
+    - [ ] From https://github.com/publiccodenet/standard/tags select "create release"
         - Title the release
         - Add changelog bullets
         - Drag-and-drop the generated .pdf into the assets
-6. Update 'develop' with a merge from 'main'
+5. Update 'develop' with a merge from 'main'
+6. [Send the files for print to the printer](printing.md)
+    - [ ] Cover file
+    - [ ] Inside pages PDF

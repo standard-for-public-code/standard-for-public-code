@@ -1,5 +1,17 @@
 # Version history
 
+## Version 0.3.0
+
+May 23rd 2022: 🗎 the tenth draft strengthens documentation and localization.
+
+* Requirement for localization made explicit in Create reusable and portable code.
+* Documentation of governance changed from a SHOULD to a MUST.
+* Replace the very subjective (and hard to test) "contributions MUST be small" with requirement to document expectation in contributing guidelines and focus on a single issue.
+* Community translations now linked in the footer.
+* Revert "Replace BPMN svg with Mermaid flowchart".
+* Many minor clarifications to language and sentences made more simple.
+* Some hyperlinks updated.
+
 ## Version 0.2.3
 
 March 15th 2022: 📜 the ninth draft allows English summaries for policy lacking an official translation.
@@ -10,7 +22,7 @@ March 15th 2022: 📜 the ninth draft allows English summaries for policy lackin
 * Emphasize reusability also on parts of the solutions in Create reusable and portable code.
 * Expand guidance to Developers and designers in Create reusable and portable code about deploying to proprietary platforms.
 * Add nuance to use of non-English terms in what management need to do in Use plain English.
-* Change the pull request process diagram to use Mermaid instead of BPMN to make community translations easier.
+* Change the pull request process diagram to use Mermaid instead of BPMN to make [community translations](https://github.com/publiccodenet/community-translations-standard) easier.
 * Added Maurice Hendriks to AUTHORS.
 * Added OpenApi Specification to further reading.
 * Made the attributions in further reading sections clearer.
@@ -31,7 +43,7 @@ November 29th 2021: 🏛 the eighth draft recognizes that policy which executes 
 * Add Open Standards principles to further reading.
 * Add Definition of plain language to further reading.
 * Move the Semantic Versioning Specification further reading reference.
-* Clarify that publiccode.yml is one example of a machine readable metadata description.
+* Clarify that publiccode.yml is one example of a machine-readable metadata description.
 * Changed "your codebase" and "your organization" to be less possessive.
 * Made additional minor changes to text for clarity.
 * Add instructions for creating a print version.
@@ -42,8 +54,8 @@ March 1st 2021: 🧽 the seventh draft has minor cleaning up after version 0.2.0
 
 * New SHOULD requirement on using a distributed version control system and why distributed is important.
 * Feedback requirements for rejected contributions are more strict than accepted ones.
-* Specify that copyright and license notices should also be machine readable.
-* Advice on how to test that notices be machine readable.
+* Specify that copyright and license notices should also be machine-readable.
+* Advice on how to test that notices be machine-readable.
 * Clarify guidance for rolling releases.
 * Clear up definition of version control in glossary.
 * Add further reading encouraging contribution, SPDX, Git and reviewing contributions.

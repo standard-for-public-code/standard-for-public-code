@@ -6,6 +6,8 @@ We define ‘public code’ as open source software developed by public organiza
 
 The Standard for Public Code gives public organizations a model for building their own open source solutions to enable successful future reuse by similar public organizations in other places. It includes guidance for policy makers, city administrators, developers and vendors.
 
+There are also unofficial [community translations of the Standard](https://publiccodenet.github.io/community-translations-standard/) in other languages.
+
 * [Introduction and background](introduction.md)
 * [Readers guide: how to interpret this standard](readers-guide.md)
 * [Glossary](glossary.md)
