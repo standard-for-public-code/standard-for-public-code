@@ -25,7 +25,7 @@
     - [ ] `git tag $MAJOR.$MINOR.$PATCH`
     - [ ] `git push --tags`
     - [ ] From https://github.com/publiccodenet/standard/tags select "create release"
-        - Title the release
+        - Title the release: 'Nth update'
         - Add changelog bullets
 5. Trigger a rebuild of gh-pages
     - [ ] `git checkout -b rebuild-gh-pages-$MAJOR.$MINOR.$PATCH`
