@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This is script is provided for local development,
+# This script is provided for local development,
 # it is not used by continuous integration
 
 # $ help set
