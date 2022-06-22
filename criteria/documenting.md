@@ -13,6 +13,7 @@ order: 9
   * a high level description that is clearly understandable for a wide audience of stakeholders, like the general public and journalists,
   * a section describing how to install and run a standalone version of the source code, including, if necessary, a test dataset,
   * examples for all functionality.
+* The documentation SHOULD describe the key components or modules of the codebase and their relationships, for example as a high level architectural diagram.
 * There SHOULD be continuous integration tests for the quality of the documentation.
 * The documentation of the codebase MAY contain examples that make users want to immediately start using the codebase.
 * The code MAY be tested by using examples in the documentation.
