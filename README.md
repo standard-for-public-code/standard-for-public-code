@@ -1,6 +1,6 @@
 # Standard for Public Code
 
-![version 0.2.3](https://img.shields.io/badge/version-0.2.3-red.svg)
+![version 0.3.0](https://img.shields.io/badge/version-0.3.0-red.svg)
 ![Test](https://github.com/publiccodenet/standard/workflows/Test/badge.svg)
 ![Scheduled link check](https://github.com/publiccodenet/standard/workflows/Scheduled%20link%20check/badge.svg)
 
@@ -14,7 +14,7 @@ The standard lives at [standard.publiccode.net](https://standard.publiccode.net/
 
 [![Thumbnail for the video on the Standard for Public Code: a printed version lying on a table between two hands](https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg)](https://www.youtube.com/watch?v=QWt6vB-cipE)
 
-[A video introduction to Standard for Public Code - Creative Commons Global Summit 2020 (4:12) on YouTube](https://www.youtube.com/watch?v=QWt6vB-cipE)
+[A video introduction to Standard for Public Code](https://www.youtube.com/watch?v=QWt6vB-cipE) from Creative Commons Global Summit 2020 (4:12) on YouTube.
 
 ## Help improve this standard
 

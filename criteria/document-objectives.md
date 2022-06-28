@@ -6,7 +6,7 @@ order: 8
 
 ## Requirements
 
-* The codebase MUST contain documentation of its objectives – like a mission and goal statement – that is understandable by developers and designers so that they can use or contribute to the codebase.
+* The codebase MUST contain documentation of its objectives, like a mission and goal statement, that is understandable by developers and designers so that they can use or contribute to the codebase.
 * The components out of which the codebase SHOULD be composed MUST be documented by their functional isolation.
 * Codebase documentation SHOULD clearly describe the connections between policy objectives and codebase objectives.
 * The codebase MAY contain documentation of its objectives for the general public.

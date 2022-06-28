@@ -8,7 +8,9 @@ This introduction introduces the term public code, explains why this is importan
 
 ## Definition of public code
 
-Public code is both computer source code (such as software and algorithms) and public policy executed in a public context, by humans or machines. Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
+Public code is both computer source code (such as software and algorithms) and public policy executed in a public context, by humans or machines.
+It encompasses the software built to operate with and as public infrastructure, along with the arrangements for its production.
+Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
 
 ## Why public code?
 
@@ -18,7 +20,7 @@ There are many reasons for why public code is relevant now.
 
 Software is public infrastructure.
 
-In the 21st century, software can be considered vital public infrastructure. It is increasingly not just the expression of existing policy but the originator of new policy – for example where algorithms decide which districts need extra social services or policing.
+In the 21st century, software can be considered vital public infrastructure. It is increasingly not just the expression of existing policy but the originator of new policy, for example where algorithms decide which districts need extra social services or policing.
 
 Software mechanics, algorithms and data collection have become key elements in the execution of public policies. Computer code now executes policies that have been codified in legal code through democratic procedures. Both forms of code set conditions for society to function according to democratically set public values, the latter executed by humans, the former by machines. In other words, software code has increasingly started to equal legal code.
 
@@ -38,7 +40,7 @@ In the last decade, public organizations that purchased complete software soluti
 
 Public institutions, civil servants and residents deserve better.
 
-We believe the software that runs our society can no longer be a black box, controlled by outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases. Instead, governments and the people they serve need technological sovereignty – allowing them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable.
+We believe the software that runs our society can no longer be a black box, controlled by outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases. Instead, governments and the people they serve need technological sovereignty. This allows them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws. Citizens and civil society actors need this software to be transparent and accountable.
 
 The design of software as essential civic infrastructure should honor digital citizens’ rights.
 
@@ -54,7 +56,7 @@ Public software must therefore be:
 
 It must reflect the values of the society it serves, for example by being inclusive and non-discriminatory.
 
-Most proprietary software systems currently used by public organizations do not meet these requirements. Public code – software built to operate with and as public infrastructure, along with the arrangements for its production – does.
+Most proprietary software systems currently used by public organizations do not meet these requirements. Public code does.
 
 ### Values of public code
 
@@ -74,17 +76,17 @@ Public code is open source software meant for fulfilling the essential role of p
 
 Being open unlocks many other things.
 
-Local responsibility and democratic accountability are ensured when a public organization implements and maintains their own public code. By being open and with a broader contributor base, the software is more secure – it benefits from many eyes spotting potential flaws. Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt. The shared workload is more sustainable now and in the future. Its openness makes the code and its data more easily adaptable in the future – it will be easier to retool, repurpose or retire. This all results in lower risk public infrastructure.
+Local responsibility and democratic accountability are ensured when a public organization implements and maintains their own public code. By being open and with a broader contributor base, the software is more secure as it benefits from many eyes spotting potential flaws. Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt. The shared workload is more sustainable now and in the future. Its openness makes the code and its data more easily adaptable in the future. The code will be easier to retool, repurpose or retire. This all results in lower risk public infrastructure.
 
-This pooling of resources lets public administrations give extra attention to how to customize the software so it works best in each local context - creating better user experiences for their end users (residents or citizens).
+This pooling of resources lets public administrations give extra attention to how to customize the software so it works best in each local context, creating better user experiences for their end users (residents or citizens).
 
 ### Economics of public code
 
 Public code offers a better economic model for public organizations as well as for commercial companies. It's an alternative to traditional software procurement which increases local control and economic opportunity.
 
-Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendors if they need to. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts – thereby making it easier for local small and medium enterprises to bid. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
+Designed from the start to be open, adaptable and with data portability, it can be developed by in-house staff or trusted vendors. Because the code is open, the public administration can change vendors if they need to. Open code increases opportunities for public learning and scrutiny, allowing the public administration to procure smaller contracts. Smaller procurements are easier for local small and medium enterprises to bid upon. Public administrations can use their own software purchasing to stimulate innovation and competition in their local economy.
 
-This can be seen as investment leading to future economic growth – more vendors will be necessary due to growing technology demand.
+This can be seen as investment leading to future economic growth. More vendors will be necessary due to growing technology demand.
 
 ### Procuring public code
 
@@ -102,32 +104,11 @@ The audit tests the entire codebase, including source code, policy, documentatio
 
 ### How the process works
 
-Every time a contribution is suggested to a codebase – through for instance a merge request – the [codebase stewards](https://about.publiccode.net/roles/) of the Foundation for Public Code will audit the contribution for compliance with the Standard for Public Code. New contributions can only be adopted into the codebase after they have been approved as compliant with the Standard for Public Code, and have been reviewed by another contributor.
+Every time a contribution is suggested to a codebase, through for instance a merge request, the [codebase stewards](https://about.publiccode.net/roles/) of the Foundation for Public Code will audit the contribution for compliance with the Standard for Public Code. New contributions can only be adopted into the codebase after they have been approved as compliant with the Standard for Public Code, and have been reviewed by another contributor.
 
 The audit is presented as a review of the contribution. The codebase steward gives line by line feedback and compliance, helping the contributor to improve their contribution. The merge request cannot be fulfilled until the codebase stewards have approved the contribution.
 
-```mermaid
-  graph TD;
-    S0((Contributor<br>submits a<br>merge request)) --> S1{+};
-    S1 --> S2(Auditor team member assigns<br>merge request to themselves<br>within 2 business days);
-    S2 --> S3(Check changes for project governance<br>and Public Code compliance);
-    S3 --> S4{X};
-    S4 -->|Not compliant|S5(Post what needs to be<br>done so the contributor<br>can make the changes);
-    S5 --> S6(Set request status to<br>'Changes requested');
-    S6 --> S7(Make new commits to the code to<br>resolve review and audit issues);
-    S7 --> S8((Request<br>updated));
-    S8 --> S1;
-    S4 -->|Compliant| S9{+};
-    S9 --> S10(Set request status<br>to 'approved' and<br>post positively);
-    S10 --> S11(Merge);
-    S11 --> S12((End));
-    S1 --> S13(Maintainer check changes for usefulness,<br>value added and 'mergeability');
-    S13 --> S14{X};
-    S14 -->|Can be merged| S9;
-    S14 -->|Needs changes|S5(Post what needs to be<br>done so the contributor<br>can make the changes);
-    S14 -->|Cannot be merged|S15(Post why the request<br>cannot be merged<br>and close it);
-    S15 --> S16((Merge<br>request<br>rejected));
-```
+![Pull Request Acceptance process](images/audit-flow.svg)
 
 ### Certifying an entire codebase versus a contribution
 

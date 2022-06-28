@@ -1,5 +1,5 @@
 title: Standard for Public Code
-version: 0.2.3
+version: 0.3.0
 
 plugins:
   - jekyll-redirect-from
@@ -14,6 +14,7 @@ include:
 toc: true
 
 include_badges: true
+include_translations: true
 
 defaults:
   -

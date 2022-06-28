@@ -8,7 +8,7 @@ We love issues and pull requests from everyone. If you're not comfortable with G
 
 ## Problems, suggestions and questions in issues
 
-Please help development by reporting problems, suggesting changes and asking questions. To do this, you can [create a GitHub issue](https://help.github.com/articles/creating-an-issue/) for this project in the [GitHub Issues for the Standard for Public Code](https://github.com/publiccodenet/standard/issues).
+Please help development by reporting problems, suggesting changes and asking questions. To do this, you can [create a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for this project in the [GitHub Issues for the Standard for Public Code](https://github.com/publiccodenet/standard/issues).
 Or, sign up to the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
 
 You don't need to change any of our code or documentation to be a contributor!
@@ -17,7 +17,7 @@ You don't need to change any of our code or documentation to be a contributor!
 
 If you want to add to the documentation or code of one of our projects you should make a pull request.
 
-If you never used GitHub, get up to speed with [Understanding the GitHub flow](https://guides.github.com/introduction/flow/) or follow one of the great free interactive courses in the [GitHub learning lab](https://lab.github.com/) on working with GitHub and working with MarkDown, the syntax this project's documentation is in.
+If you never used GitHub, get up to speed with [Understanding the GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) or follow one of the great free interactive courses in the [GitHub learning lab](https://lab.github.com/) on working with GitHub and working with MarkDown, the syntax this project's documentation is in.
 
 This project is [licensed CC-0](LICENSE.md), which essentially means that the project, along with your contributions is in the public domain in whatever jurisdiction possible, and everyone can do whatever they want with it.
 
@@ -28,6 +28,12 @@ This project uses the [GitFlow branching model and workflow](https://nvie.com/po
 Add your changes in commits [with a message that explains them](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message). Document choices or decisions you make in the commit message, this will enable everyone to be informed of your choices in the future.
 
 If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request. Make sure to write tests that show the behavior of the newly added or changed code.
+
+#### Style
+
+The Standard for Public Code aims to [use plain English](https://standard.publiccode.net/criteria/understandable-english-first.html) and we have chosen American English for spelling.
+However, we want to emphasize that it is more important that you make your contribution than worry about spelling and typography.
+We will help you get it right in our review process and we also have a separate quality check before [making a new release](docs/releasing.md).
 
 ### 2. Pull request
 
@@ -46,6 +52,10 @@ If your documentation and code have passed human review, it is merged.
 Your ideas, documentation and code have become an integral part of this project. You are the open source hero we need!
 
 In fact, feel free to open a pull request to add your name to the [`AUTHORS`](AUTHORS.md) file and get eternal attribution.
+
+## Translations in other languages
+
+While the Standard does not have any official translations, you can help maintain existing and add new [community translations of the Standard](https://github.com/publiccodenet/community-translations-standard).
 
 ---
 
