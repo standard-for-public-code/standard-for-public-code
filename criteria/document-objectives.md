@@ -7,7 +7,6 @@ order: 8
 ## Requirements
 
 * The codebase MUST contain documentation of its objectives, like a mission and goal statement, that is understandable by developers and designers so that they can use or contribute to the codebase.
-* The components out of which the codebase SHOULD be composed MUST be documented by their functional isolation.
 * Codebase documentation SHOULD clearly describe the connections between policy objectives and codebase objectives.
 * The codebase MAY contain documentation of its objectives for the general public.
 
@@ -15,18 +14,15 @@ order: 8
 
 Documenting codebase objectives:
 
-* provides an easy way for people to decide whether this codebase, or one of its components, is interesting for them now or in the future.
-* helps scope and isolate your own development.
-* improves maintainability and reusability.
-* channels (the improvements on the existing) functionality into logically isolated chunks.
-* clearly communicates to other stakeholders and contributors what the codebase, and the individual components it's composed of, is for.
+* provides an easy way for people to decide whether this codebase, or one of its modules, is interesting for them now or in the future.
+* helps scope your own development.
+* clearly communicates to other stakeholders and contributors the purpose of the codebase and the modules of which it is composed.
 
 ## What this does not do
 
 * Guarantee that the codebase achieves the stated objective(s).
 * Guarantee contributions to the codebase.
 * Prevent other codebases from attempting to achieve the same objectives.
-* Guarantee that components are generic enough to be reused in any context.
 
 ## How to test
 
@@ -40,12 +36,10 @@ There is an entry for the codebase objectives, mission or goal in the codebase d
 ## Management: what you need to do
 
 * Add the organizational and business objectives to the codebase documentation, for example in the `README`.
-* Watch for a manageable scope of project development.
 
 ## Developers and designers: what you need to do
 
 * Add the technology and design objectives to the codebase documentation, for example in the `README`.
-* Design solutions into logically meaningful and isolated chunks that can be reused in different contexts.
 
 ## Further reading
 
