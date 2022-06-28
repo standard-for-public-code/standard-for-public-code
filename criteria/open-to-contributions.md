@@ -11,6 +11,7 @@ order: 4
 * The codebase MUST document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file.
 * The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance.
 * The codebase SHOULD have a publicly available roadmap.
+* The codebase SHOULD publish codebase activity statistics.
 * The codebase MAY include a code of conduct for contributors.
 
 ## Why this is important
