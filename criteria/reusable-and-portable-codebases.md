@@ -14,6 +14,7 @@ order: 3
 * The codebase SHOULD be localizable.
 * The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file.
 * Code and its documentation SHOULD NOT contain situation-specific information.
+* Codebase modules SHOULD be documented in such a way as to enable reuse in codebases in other contexts.
 
 ## Why this is important
 
@@ -23,12 +24,15 @@ order: 3
 * Codebases used by multiple parties are more likely to benefit from a self-sustaining community.
 * A metadata description file increases discoverability.
 * Any contributor is able to test and contribute without relying on the situation-specific infrastructure of any other contributor or deployment.
+* Composing a codebase from well documented modules improves reusability and maintainability.
+* A module is easier to reuse in another context if its purpose is clearly documented.
 
 ## What this does not do
 
 * Get others to reuse the codebase.
 * Build a community.
 * Shift responsibility for documentation, support, bug-fixing, etc. to another party.
+* Guarantee that modules are generic enough to be reused in any context.
 
 ## How to test
 
@@ -51,6 +55,7 @@ Source should be designed:
 
 * for reuse by other users and organizations regardless of locale,
 * to solve a general problem instead of a specific one,
+* in logically meaningful and isolated modules,
 * so that someone in a similar organization facing a similar problem would be able to use (parts of) the solution.
 
 If your context requires deploying to proprietary platforms or using proprietary components, ensure that collaborators can develop, use, test, and deploy without them.
