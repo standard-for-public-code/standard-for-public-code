@@ -1,11 +1,10 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-# jekyll build defaults to "origin" unless PAGES_REPO_NWO is set
-# if there is no "origin" branch and PAGES_REPO_NWO is not set
-# then default to publiccodenet/standard
-if [ "_$(git remote | grep origin)_" != "_origin_" ] &&
-   [ "_${PAGES_REPO_NWO}_" == "__" ]; then
+# if PAGES_REPO_NWO is not set then default to publiccodenet/standard
+# (jekyll defaults to "origin" if a remote of that name exists,
+# which makes sense for a true fork, but not for most contributors)
+if [ "_${PAGES_REPO_NWO}_" == "__" ]; then
 export PAGES_REPO_NWO=publiccodenet/standard
 fi
 
