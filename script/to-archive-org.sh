@@ -31,8 +31,9 @@ URLS_TOTAL=$(wc -l urls-sorted.txt | cut -f1 -d' ')
 
 # cat urls-sorted.txt
 
-echo "sending to the wayback machine ..."
 MAX_PER_MINUTE=5
+echo "sending $URLS_TOTAL URLs to the wayback machine,"
+echo "        throttled to $MAX_PER_MINUTE per minute..."
 PAUSE_TIME=$(( 1 + (60 / $MAX_PER_MINUTE) ))
 URLS_COUNT=0
 for URL in $(cat urls-sorted.txt); do
