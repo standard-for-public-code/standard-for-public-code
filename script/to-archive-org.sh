@@ -27,18 +27,22 @@ for FILE in $(git ls-tree -r --name-only $BRANCH_NAME); do
 done
 
 cat urls.txt | cut -f1 -d'#' | sort -u > urls-sorted.txt
+URLS_TOTAL=$(wc -l urls-sorted.txt | cut -f1 -d' ')
 
 # cat urls-sorted.txt
 
 echo "sending to the wayback machine ..."
 MAX_PER_MINUTE=5
 PAUSE_TIME=$(( 1 + (60 / $MAX_PER_MINUTE) ))
+URLS_COUNT=0
 for URL in $(cat urls-sorted.txt); do
 	echo sleeping for $PAUSE_TIME ....
 	sleep $PAUSE_TIME
 	# $ sudo apt-get install gridsite-clients
 	ENCODED=`urlencode $URL`
 	echo ""
+	URLS_COUNT=$(( $URLS_COUNT + 1 ))
+	echo "$URLS_COUNT of $URLS_TOTAL"
 	echo URL: $URL
 	echo encoded: $ENCODED
 	ARC_ORG_URL=https://web.archive.org/save/$ENCODED
