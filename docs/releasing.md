@@ -19,6 +19,7 @@
         - Reviewers will create issues for shortcomings found which would not prevent release
         - If needed for release, reviewers may create PRs to resolve issues
         - Re-request reviews if additional PRs are merged into release branch
+    - [ ] Run the to-archive-org.sh script
     - [ ] Once reviews are complete, merge to 'main'
 4. Create GitHub release with the release notes and version number
     - [ ] Switch to the 'main' branch, `git pull` and `git status`
