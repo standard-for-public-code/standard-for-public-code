@@ -14,9 +14,9 @@ order: 8
 
 Documenting codebase objectives:
 
-* provides an easy way for people to decide whether this codebase is interesting for them now or in the future.
+* provides an easy way for people to decide whether this codebase, or one of its modules, is interesting for them now or in the future.
 * helps scope your own development.
-* clearly communicates to other stakeholders and contributors what the codebase is for.
+* clearly communicates to other stakeholders and contributors the purpose of the codebase and the modules of which it is composed.
 
 ## What this does not do
 
