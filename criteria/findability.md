@@ -15,6 +15,7 @@
 
 * Proactiveness is needed; just publishing a codebase and hoping it's found doesn't work.
 * The more findable a codebase is, the more potential new collaborators will find it.
+* By having well-written metadata containing a unique and persistent identifer, and thus being part of the semantic web, it will be easier for other people to refer, cite, disambiguate and discover the codebase through third party tools.
 
 ## What this does not do
 
