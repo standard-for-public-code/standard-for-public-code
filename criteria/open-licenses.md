@@ -25,7 +25,7 @@ order: 13
 
 * There is at least 1 license file present in the codebase, usually called `license`.
 * The license for the source code is on the [OSI-approved Open Source license list](https://opensource.org/licenses/category) and the license for documentation is [conformant to the Open Definition](https://opendefinition.org/licenses/).
-* Check for machine-readable licenses with tools like [Licensee](https://github.com/licensee/licensee) or [REUSE](https://reuse.software/).
+* Add machine-readable license checking to the codebase continuous integration tests.
 
 ## Policy makers: what you need to do
 
