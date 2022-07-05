@@ -1,5 +1,8 @@
 # Readers guide
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+
 The Standard describes a number of criteria.
 All criteria have consistent sections that make it clear how to create great public code.
 Below is a brief explanation of each of these sections and how they are used within the criteria of the Standard.
