@@ -1,8 +1,10 @@
 ---
 order: 14
 ---
-
 # Use a coherent style
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 

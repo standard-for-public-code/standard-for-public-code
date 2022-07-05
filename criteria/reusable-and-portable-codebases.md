@@ -1,8 +1,10 @@
 ---
 order: 3
 ---
-
 # Create reusable and portable code
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 

@@ -1,5 +1,8 @@
 # Glossary
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+
 ## Code
 
 Any explicitly described system of rules. This includes laws, policy and ordinances, as well as source code that is used to build software. Both of these are rules, some executed by humans and others by machines.
