@@ -1,8 +1,10 @@
 ---
 order: 8
 ---
-
 # Document codebase objectives
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 

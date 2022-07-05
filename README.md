@@ -1,5 +1,8 @@
 # Standard for Public Code
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+
 ![version 0.3.0](https://img.shields.io/badge/version-0.3.0-red.svg)
 ![Test](https://github.com/publiccodenet/standard/workflows/Test/badge.svg)
 ![Scheduled link check](https://github.com/publiccodenet/standard/workflows/Scheduled%20link%20check/badge.svg)

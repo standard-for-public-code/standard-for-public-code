@@ -1,5 +1,8 @@
 # Version history
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+
 ## Version 0.3.0
 
 May 23rd 2022: 🗎 the tenth draft strengthens documentation and localization.
