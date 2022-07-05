@@ -1,5 +1,8 @@
 # Authors
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+
 [The Foundation for Public Code](https://publiccode.net)
 
 * Arnout Schuijff
