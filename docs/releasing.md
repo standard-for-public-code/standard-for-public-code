@@ -13,12 +13,14 @@
     - [ ] Update [`CHANGELOG.md`](../CHANGELOG.md)
     - [ ] Perform extra pass on diff to the 'main' branch
         - Reread any section or paragraph to ensure wording changes still fit the whole and do not contain grammar or spelling errors
+        - Ensure no link collisions exist in the rendered pdf using `script/pdf.sh`
         - If needed, commit fixes and repeat extra pass
     - [ ] Push branch, open a pull request to the 'main' branch
         - Request review from multiple reviewers, especially a proofreader
         - Reviewers will create issues for shortcomings found which would not prevent release
         - If needed for release, reviewers may create PRs to resolve issues
         - Re-request reviews if additional PRs are merged into release branch
+    - [ ] Run the to-archive-org.sh script
     - [ ] Once reviews are complete, merge to 'main'
 4. Create GitHub release with the release notes and version number
     - [ ] Switch to the 'main' branch, `git pull` and `git status`
