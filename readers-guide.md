@@ -5,6 +5,10 @@
 
 The Standard describes a number of criteria.
 All criteria have consistent sections that make it clear how to create great public code.
+
+References to "policy makers", "management", and "developers and designers" apply to anyone performing duties associated with these roles, regardless of their job title.
+It is common for individuals to have duties which span multiple roles.
+
 Below is a brief explanation of each of these sections and how they are used within the criteria of the Standard.
 
 ## Requirements
