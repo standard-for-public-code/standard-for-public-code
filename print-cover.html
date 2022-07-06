@@ -1,9 +1,9 @@
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2021 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 ---
 ---
 
 <!DOCTYPE html>
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2021 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 <html lang="en">
 
 <head>
@@ -45,7 +45,7 @@
     #back>* {
       position: absolute;
       left: 2.3cm;
-      width: 14cm;
+      width: 16cm;
     }
 
     #front {
@@ -82,6 +82,12 @@
 
     #logo>img {
       height: 2cm;
+    }
+
+    ol {
+      column-count: 2;
+      font-size: 12pt;
+      list-style-position: inside;
     }
 
     /* Front */
@@ -217,6 +223,15 @@
         <p>
           This standard sets a quality level for codebases that meets the needs of public organizations, institutions
           and administrations as well as other critical infrastructural services.
+        </p>
+        <p>
+          The standard specifies the criteria:
+          {% assign sorted = site.pages | sort:"order" %}
+          <ol>
+            {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+            <li>{{page.title}}</li>{% endif%}
+            {% endif%}  {% endif%}{% endfor %}
+          </ol>
         </p>
       </div>
 
