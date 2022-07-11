@@ -62,4 +62,8 @@ In fact, feel free to open a pull request to add your name to the [`AUTHORS`](AU
 
 While the Standard does not have any official translations, you can help maintain existing and add new [community translations of the Standard](https://github.com/publiccodenet/community-translations-standard).
 
+## Releases
+
+We have dedicated documentation for creating [new releases](/docs/releasing.md) and [ordering printed standards](/docs/printing.md).
+
 For more information on how to use and contribute to this project, please read the [`README`](README.md).
