@@ -11,7 +11,9 @@ We love issues and pull requests from everyone. If you're not comfortable with G
 
 ## Problems, suggestions and questions in issues
 
-Please help development by reporting problems, suggesting changes and asking questions. To do this, you can [create a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for this project in the [GitHub Issues for the Standard for Public Code](https://github.com/publiccodenet/standard/issues).
+A high-level overview of the development that we already have sketched out can be seen in the [roadmap](/docs/roadmap.md).
+Please help development by reporting problems, suggesting changes and asking questions.
+To do this, you can [create a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for this project in the [GitHub Issues for the Standard for Public Code](https://github.com/publiccodenet/standard/issues).
 
 Or, sign up to the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to
 [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
