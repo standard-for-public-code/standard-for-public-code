@@ -1,4 +1,12 @@
 #!/usr/bin/env bash
+
+# This script is referenced by .github/workflows/test.yml which executes on
+# each pull request.
+
+# As part of reviewing a contribution, reviewers are responsible for checking
+# that html is valid and conforms to the repository guidelines. This script is
+# intended to aid in that process.
+
 set -e # halt script on error
 
 # if PAGES_REPO_NWO is not set then default to publiccodenet/standard

@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
+
+# This script is referenced by .github/workflows/link-check.yml which executes
+# executes daily.
+
+# Failures reported by this script are addressed on a case-by-case basis.
+
 set -e # halt script on error
 
 # if PAGES_REPO_NWO is not set then default to publiccodenet/standard
