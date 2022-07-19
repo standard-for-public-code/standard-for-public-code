@@ -24,7 +24,8 @@ order: 15
 
 ## How to test
 
-* Inspect whether contributions are in line with the style guides specified in the documentation.
+* Confirm that contributions are in line with the style guides specified in the documentation.
+* Check for the presence of automated tests on style.
 
 ## Policy makers: what you need to do
 
