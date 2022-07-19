@@ -31,9 +31,14 @@ order: 9
 
 ## How to test
 
-* Other stakeholders, professionals from other public organizations and the general public find the documentation clear and understandable.
-* Documentation is generated from code.
-* Links and images are automatically tested.
+* Confirm that other stakeholders, professionals from other public organizations and the general public find the documentation clear and understandable.
+* Confirm that the documentation describes how to install and run the source code.
+* Confirm that the documentation includes examples of the key functionality.
+* Check with members of the general public and journalists if they can understand the high level description.
+* Check that the instructions for how to install and run a standalone version of the source code result in a running system.
+* Check that all functionality documented contains an example.
+* Check that the documentation includes a high level architectural diagram or similar.
+* Check that the documentation quality is part of integration testing, for example documentation is generated from code and links and images are tested.
 
 ## Policy makers: what you need to do
 
