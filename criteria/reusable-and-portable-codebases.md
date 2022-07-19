@@ -37,9 +37,10 @@ order: 3
 
 ## How to test
 
-* Ask someone in a similar role at another organization if they could reuse the codebase and what that would entail.
-* Codebase is in use by multiple parties or in multiple contexts.
-* For each commit, reviewers verify that content does not include situation-specific data such as hostnames, personal and organizational data, or tokens and passwords.
+* Confirm that someone in a similar role at another organization if they could reuse the codebase and what that would entail.
+* Confirm that the codebase can run without using any proprietary or non-open licensed code or services.
+* Check that the codebase is in use by multiple parties or in multiple contexts.
+* Check that the codebase files and commit history do not include situation-specific data.
 
 ## Policy makers: what you need to do
 
@@ -61,6 +62,8 @@ Source should be designed:
 
 Ensure that the codebase documentation describes the build-time and runtime dependencies.
 If your context requires deploying to proprietary platforms or using proprietary components, ensure that collaborators can develop, use, test, and deploy without them.
+
+For each commit, reviewers verify that content does not include situation-specific data such as hostnames, personal and organizational data, or tokens and passwords.
 
 ## Further reading
 
