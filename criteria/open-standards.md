@@ -27,8 +27,9 @@ order: 11
 
 ## How to test
 
-* The documentation includes a list of the standards followed within the codebase, each with a working link, or a statement that no standards were chosen.
-* The standards used for all features that offer interoperability with other components and systems are freely and publicly available on the internet.
+* Confirm that data exchange follows an OSI approved open standard.
+* Confirm that any non-open standards used are clearly documented as such.
+* Confirm that documentation includes a list of the standards followed within the codebase, each with a working link, or a statement that no standards were chosen.
 
 ## Policy makers: what you need to do
 
