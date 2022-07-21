@@ -1,4 +1,4 @@
-# Findability
+# Make the codebase findable
 
 ## Requirements
 
