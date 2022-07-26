@@ -172,7 +172,7 @@ Policy and documentation MAY have testing for style and broken links. | Ok |
 Requirement | meets | links and notes
 -----|-----|-----
 All code and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable. | Ok | [CC 0](https://github.com/publiccodenet/standard/blob/develop/LICENSE.md)
-Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category). | Ok | CC 0
+Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category). |  | CC 0
 All code MUST be published with a license file. | Ok | [License](https://github.com/publiccodenet/standard/blob/develop/LICENSE.md)
 Contributors MUST NOT be required to transfer copyright of their contributions to the codebase. | Ok |
 All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable. |  | merged to develop, not yet merged to main and released
