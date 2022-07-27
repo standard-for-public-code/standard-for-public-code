@@ -9,7 +9,7 @@ order: 13
 ## Requirements
 
 * All code and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
-* Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category).
+* Software source code MUST be licensed under an [OSI-approved or FSF Free/Libre license](https://spdx.org/licenses/).
 * All code MUST be published with a license file.
 * Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
 * All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable.
@@ -26,7 +26,7 @@ order: 13
 ## How to test
 
 * There is at least 1 license file present in the codebase, usually called `license`.
-* The license for the source code is on the [OSI-approved Open Source license list](https://opensource.org/licenses/category) and the license for documentation is [conformant to the Open Definition](https://opendefinition.org/licenses/).
+* The license for the source code is on the [OSI-approved or FSF Free/Libre license list](https://spdx.org/licenses/) and the license for documentation is [conformant to the Open Definition](https://opendefinition.org/licenses/).
 * Add machine-readable license checking to the codebase continuous integration tests.
 
 ## Policy makers: what you need to do
