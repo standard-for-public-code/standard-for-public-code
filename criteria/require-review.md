@@ -16,7 +16,7 @@ order: 7
 * Contributions SHOULD be reviewed by someone in a different context than the contributor.
 * Version control systems SHOULD NOT accept non-reviewed contributions in release versions.
 * Reviews SHOULD happen within two business days.
-* Reviews MAY be performed by multiple reviewers.
+* Performing reviews by multiple reviewers is OPTIONAL.
 
 ## Why this is important
 

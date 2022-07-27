@@ -12,7 +12,7 @@ order: 1
 * All source code for any software in use (unless used for fraud detection) MUST be published and publicly accessible.
 * Contributors MUST NOT upload sensitive information regarding users, their organization or third parties to the repository.
 * Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published.
-* The codebase MAY provide the general public with insight into which source code or policy underpins any specific interaction they have with an organization.
+* Documenting which source code or policy underpins any specific interaction the general public may have with an organization is OPTIONAL.
 
 ## Why this is important
 

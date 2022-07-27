@@ -16,7 +16,7 @@ order: 6
 * Contributors SHOULD group relevant changes in commits.
 * Maintainers SHOULD mark released versions of the codebase, for example using revision tags or textual labels.
 * Contributors SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system.
-* Contributors MAY sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work.
+* It is OPTIONAL for contributors to sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work.
 
 ## Why this is important
 
