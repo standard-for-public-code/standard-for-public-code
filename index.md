@@ -28,6 +28,7 @@ There are also unofficial [community translations of the Standard](https://publi
   * [Use open standards](criteria/open-standards.md)
   * [Use continuous integration](criteria/continuous-integration.md)
   * [Publish with an open license](criteria/open-licenses.md)
+  * [Make the codebase findable](criteria/findability.md)
   * [Use a coherent style](criteria/style.md)
   * [Document codebase maturity](criteria/document-maturity.md)
 * [Authors](AUTHORS.md)
