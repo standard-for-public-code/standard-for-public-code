@@ -36,6 +36,8 @@ Add your changes in commits [with a message that explains them](https://robots.t
 
 If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request. Make sure to write tests that show the behavior of the newly added or changed code.
 
+Contributions should [follow](docs/standard-for-public-code.md) the requirements set out in the criteria of the Standard for Public code itself.
+
 #### Style
 
 The Standard for Public Code aims to [use plain English](https://standard.publiccode.net/criteria/understandable-english-first.html) and we have chosen American English for spelling.
