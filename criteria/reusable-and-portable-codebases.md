@@ -14,7 +14,6 @@ order: 3
 * The roadmap SHOULD be influenced by the needs of multiple parties.
 * Configuration SHOULD be used to make code adapt to context specific needs.
 * The codebase SHOULD be localizable.
-* The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file.
 * Code and its documentation SHOULD NOT contain situation-specific information.
 * Codebase modules SHOULD be documented in such a way as to enable reuse in codebases in other contexts.
 
