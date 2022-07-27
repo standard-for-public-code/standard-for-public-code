@@ -25,9 +25,11 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 
 ## How to test
 
-* The codebase has a strategy for versioning which is documented.
-* It is clear where to get the newest version.
-* The codebase doesn't depend on any codebases marked with a less mature status.
+* Confirm that the codebase has a strategy for versioning which is documented.
+* Confirm that it is clear where to get the newest version.
+* Confirm that the codebase doesn't depend on any codebases marked with a less mature status.
+* Confirm that the codebase is ready to use or labeled as prototype, alpha, beta or pre-release version.
+* Check that there is a log of changes.
 
 ## Policy makers: what you need to do
 

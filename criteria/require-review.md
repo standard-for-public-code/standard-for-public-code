@@ -36,7 +36,14 @@ order: 7
 
 ## How to test
 
-* Every commit in the history has been reviewed by a different contributor in a different context.
+* Confirm that every commit in the history has been reviewed by a different contributor.
+* Confirm that reviews include source, policy, tests and documentation.
+* Confirm that rejected contributions were appropriately explained.
+* Check if reviews cover conformance to standards, architecture and codebase guidelines.
+* Check with reviewers if they run the code and tests during review.
+* Check with reviewers if commits have been reviewed by a different contributor in a different context.
+* Check for use of branch protection in the version control system.
+* Check the times between contribution submission and review.
 
 ## Policy makers: what you need to do
 

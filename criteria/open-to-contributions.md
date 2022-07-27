@@ -29,9 +29,13 @@ order: 4
 
 ## How to test
 
-* It's possible to submit suggestions for changes to the codebase.
-* There are contribution guidelines.
-* Codebase governance is clearly explained, including how to influence codebase governance.
+* Confirm that it is possible to submit suggestions for changes to the codebase.
+* Confirm there are contribution guidelines.
+* Confirm that the codebase governance is clearly explained, including how to influence codebase governance.
+* Check for a list of involved organizations.
+* Check for a roadmap.
+* Check for published activity statistics.
+* Check for a code of conduct.
 
 ## Policy makers: what you need to do
 

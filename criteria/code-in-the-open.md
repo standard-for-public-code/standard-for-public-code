@@ -35,7 +35,7 @@ The source for any version currently in use is published on the internet where i
 * from outside the original contributing organization
 * without the need for any form of authentication or authorization
 
-For each commit, reviewers verify that content does not include sensitive information such as configurations, usernames or passwords, public keys or other real credentials used in production systems.
+Review the codebase files and commit history to verify no sensitive information is included.
 
 ## Policy makers: what you need to do
 
@@ -49,6 +49,7 @@ For each commit, reviewers verify that content does not include sensitive inform
 
 ## Developers and designers: what you need to do
 
+* As a reviewer, for each commit, verify that content does not include sensitive information such as configurations, usernames or passwords, public keys or other real credentials used in production systems.
 * Clearly split data and code, in order to meet the requirement about sensitive information above.
 
 ## Further reading

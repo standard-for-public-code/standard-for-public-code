@@ -37,11 +37,12 @@ order: 12
 
 ## How to test
 
-* There are tests present.
-* Code coverage tools check whether coverage is at 100% of the code.
-* Contributions are only admitted into the codebase after all of the tests are passed.
-* Everyone working on the codebase integrates their work at least once a day.
-* There are contributions from within the last three months.
+* Confirm that there are tests present.
+* Confirm that code coverage tools check that coverage is at 100% of the code.
+* Confirm that contributions are only admitted into the codebase after all of the tests are passed.
+* Confirm that contribution guidelines explain how to structure contributions.
+* Confirm that there are contributions from within the last three months.
+* Check if code coverage data is published.
 
 ## Policy makers: what you need to do
 
@@ -65,6 +66,7 @@ order: 12
 * Structure code written to handle conditions which are difficult to create in a test environment in such a way that the conditions can be simulated during testing. Forms of resource exhaustion such as running out of storage space and memory allocation failure are typical examples of difficult to create conditions.
 * Tune the test code coverage tools to avoid false alarms resulting from inlining or other optimizations.
 * Deploy often.
+* Integrate your work at least once a day.
 
 ## Further reading
 

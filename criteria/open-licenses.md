@@ -25,9 +25,11 @@ order: 13
 
 ## How to test
 
-* There is at least 1 license file present in the codebase, usually called `license`.
-* The license for the source code is on the [OSI-approved or FSF Free/Libre license list](https://spdx.org/licenses/) and the license for documentation is [conformant to the Open Definition](https://opendefinition.org/licenses/).
-* Add machine-readable license checking to the codebase continuous integration tests.
+* Confirm that the codebase is clearly licensed.
+* Confirm that the license for the source code is on the [OSI-approved or FSF Free/Libre license list](https://spdx.org/licenses/) and the license for documentation is [conformant to the Open Definition](https://opendefinition.org/licenses/).
+* Confirm that the licenses used in the codebase are included as files.
+* Confirm that contribution guidelines and repository configuration do not require transfer of copyright.
+* Check for machine-readable license checking in the codebase continuous integration tests.
 
 ## Policy makers: what you need to do
 
