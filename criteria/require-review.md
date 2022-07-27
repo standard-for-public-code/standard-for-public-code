@@ -1,8 +1,10 @@
 ---
 order: 7
 ---
-
 # Require review of contributions
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
@@ -34,7 +36,14 @@ order: 7
 
 ## How to test
 
-* Every commit in the history has been reviewed by a different contributor in a different context.
+* Confirm that every commit in the history has been reviewed by a different contributor.
+* Confirm that reviews include source, policy, tests and documentation.
+* Confirm that rejected contributions were appropriately explained.
+* Check if reviews cover conformance to standards, architecture and codebase guidelines.
+* Check with reviewers if they run the code and tests during review.
+* Check with reviewers if commits have been reviewed by a different contributor in a different context.
+* Check for use of branch protection in the version control system.
+* Check the times between contribution submission and review.
 
 ## Policy makers: what you need to do
 
@@ -56,5 +65,5 @@ order: 7
 ## Further reading
 
 * [How to review code the GDS way](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) by the UK Government Digital Service.
-* Branch protection on [GitHub](https://help.github.com/en/articles/about-protected-branches) and [GitLab](https://about.gitlab.com/2014/11/26/keeping-your-code-protected/).
+* Branch protection on [GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) and [GitLab](https://about.gitlab.com/2014/11/26/keeping-your-code-protected/).
 * [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) by Sage Sharp.

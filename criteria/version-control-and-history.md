@@ -1,8 +1,10 @@
 ---
 order: 6
 ---
-
 # Maintain version control
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
@@ -37,12 +39,13 @@ Distributed version control enables you to:
 
 ## How to test
 
-* The codebase is kept in version control using software such as Git.
-
-* All commit messages explain:
-  * why the change was made,
-  * what the discussion about the change was or where to find it (with a URL).
-* It is possible to access a specific version of the codebase, for example through a revision tag or a textual label.
+* Confirm that the codebase is kept in version control using software such as Git.
+* Review the commit history, confirming that all commit messages explain why the change was made.
+* Review the commit history, confirming that where possible all commit messages include the discussion about the change was or where to find it (with a URL).
+* Check if the version control system is distributed.
+* Review the commit history, check if grouping of relevant changes in accordance with the contributing guidelines.
+* Check that it is possible to access a specific version of the codebase, for example through a revision tag or a textual label.
+* Check that the file formats used in the codebase are text formats where possible.
 
 ## Policy makers: what you need to do
 
@@ -54,7 +57,7 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 ## Management: what you need to do
 
-* Support policy makers, developers and designers to be clear about what improvements they're making to the codebase - making improvements isn't a public relations risk.
+* Support policy makers, developers and designers to be clear about what improvements they're making to the codebase. Making improvements isn't a public relations risk.
 
 ## Developers and designers: what you need to do
 
@@ -68,4 +71,4 @@ For example, adding a new category of applicant to a codebase that manages grant
 * [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
 * [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service.
 * [GitHub Learning Lab](https://lab.github.com/) by GitHub for learning how to use it or refresh your skills.
-* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) by GitHub - a list with the most common used git commands.
+* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) by GitHub, a list with the most common used git commands.

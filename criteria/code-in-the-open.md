@@ -1,15 +1,18 @@
 ---
 order: 1
 ---
-
 # Code in the open
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
-* All source code for any policy and software in use (unless used for fraud detection) MUST be published and publicly accessible.
+* All source code for any policy in use (unless used for fraud detection) MUST be published and publicly accessible.
+* All source code for any software in use (unless used for fraud detection) MUST be published and publicly accessible.
 * Contributors MUST NOT upload sensitive information regarding users, their organization or third parties to the repository.
 * Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published.
-* The source code MAY provide the general public with insight into which source code or policy underpins any specific interaction they have with an organization.
+* The codebase MAY provide the general public with insight into which source code or policy underpins any specific interaction they have with an organization.
 
 ## Why this is important
 
@@ -18,6 +21,8 @@ Coding in the open:
 * improves transparency
 * increases code quality
 * facilitates the auditing processes
+
+These aspects together create more opportunities for citizens to understand how software and policy impact their interactions with a public organization.
 
 ## What this does not do
 
@@ -31,7 +36,7 @@ The source for any version currently in use is published on the internet where i
 * from outside the original contributing organization
 * without the need for any form of authentication or authorization
 
-For each commit, reviewers verify that content does not include sensitive information such as configurations, usernames or passwords, public keys or other real credentials used in production systems.
+Review the codebase files and commit history to verify no sensitive information is included.
 
 ## Policy makers: what you need to do
 
@@ -45,6 +50,7 @@ For each commit, reviewers verify that content does not include sensitive inform
 
 ## Developers and designers: what you need to do
 
+* As a reviewer, for each commit, verify that content does not include sensitive information such as configurations, usernames or passwords, public keys or other real credentials used in production systems.
 * Clearly split data and code, in order to meet the requirement about sensitive information above.
 
 ## Further reading

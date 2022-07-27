@@ -1,5 +1,20 @@
 # Version history
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+
+## Version 0.3.0
+
+May 23rd 2022: 🗎 the tenth draft strengthens documentation and localization.
+
+* Requirement for localization made explicit in Create reusable and portable code.
+* Documentation of governance changed from a SHOULD to a MUST.
+* Replace the very subjective (and hard to test) "contributions MUST be small" with requirement to document expectation in contributing guidelines and focus on a single issue.
+* Community translations now linked in the footer.
+* Revert "Replace BPMN svg with Mermaid flowchart".
+* Many minor clarifications to language and sentences made more simple.
+* Some hyperlinks updated.
+
 ## Version 0.2.3
 
 March 15th 2022: 📜 the ninth draft allows English summaries for policy lacking an official translation.
@@ -10,7 +25,7 @@ March 15th 2022: 📜 the ninth draft allows English summaries for policy lackin
 * Emphasize reusability also on parts of the solutions in Create reusable and portable code.
 * Expand guidance to Developers and designers in Create reusable and portable code about deploying to proprietary platforms.
 * Add nuance to use of non-English terms in what management need to do in Use plain English.
-* Change the pull request process diagram to use Mermaid instead of BPMN to make community translations easier.
+* Change the pull request process diagram to use Mermaid instead of BPMN to make [community translations](https://github.com/publiccodenet/community-translations-standard) easier.
 * Added Maurice Hendriks to AUTHORS.
 * Added OpenApi Specification to further reading.
 * Made the attributions in further reading sections clearer.

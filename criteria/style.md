@@ -1,8 +1,10 @@
 ---
-order: 14
+order: 15
 ---
-
 # Use a coherent style
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
@@ -22,7 +24,8 @@ order: 14
 
 ## How to test
 
-* Inspect whether contributions are in line with the style guides specified in the documentation.
+* Confirm that contributions are in line with the style guides specified in the documentation.
+* Check for the presence of automated tests on style.
 
 ## Policy makers: what you need to do
 

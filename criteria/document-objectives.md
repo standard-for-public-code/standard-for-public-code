@@ -1,12 +1,14 @@
 ---
 order: 8
 ---
-
 # Document codebase objectives
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
-* The codebase MUST contain documentation of its objectives – like a mission and goal statement – that is understandable by developers and designers so that they can use or contribute to the codebase.
+* The codebase MUST contain documentation of its objectives, like a mission and goal statement, that is understandable by developers and designers so that they can use or contribute to the codebase.
 * Codebase documentation SHOULD clearly describe the connections between policy objectives and codebase objectives.
 * The codebase MAY contain documentation of its objectives for the general public.
 
@@ -14,9 +16,9 @@ order: 8
 
 Documenting codebase objectives:
 
-* provides an easy way for people to decide whether this codebase is interesting for them now or in the future.
+* provides an easy way for people to decide whether this codebase, or one of its modules, is interesting for them now or in the future.
 * helps scope your own development.
-* clearly communicates to other stakeholders and contributors what the codebase is for.
+* clearly communicates to other stakeholders and contributors the purpose of the codebase and the modules of which it is composed.
 
 ## What this does not do
 
@@ -26,7 +28,8 @@ Documenting codebase objectives:
 
 ## How to test
 
-There is an entry for the codebase objectives, mission or goal in the codebase documentation.
+* Confirm that the codebase documentation includes the codebase objectives, mission or goal .
+* Check for descriptions of connections between policy objectives and codebase objectives.
 
 ## Policy makers: what you need to do
 

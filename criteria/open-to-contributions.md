@@ -1,22 +1,25 @@
 ---
 order: 4
 ---
-
 # Welcome contributors
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
 * The codebase MUST allow anyone to submit suggestions for changes to the codebase.
 * The codebase MUST include contribution guidelines explaining what kinds of contributions are welcome and how contributors can get involved, for example in a `CONTRIBUTING` file.
+* The codebase MUST document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file.
 * The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance.
-* The codebase SHOULD document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file.
 * The codebase SHOULD have a publicly available roadmap.
+* The codebase SHOULD publish codebase activity statistics.
 * The codebase MAY include a code of conduct for contributors.
 
 ## Why this is important
 
 * Helps newcomers understand and trust the codebase community's leadership.
-* Prevents the community that works on a codebase splitting because there is no way to influence its goals and progress – resulting in diverging communities.
+* Prevents the community that works on a codebase splitting because there is no way to influence its goals and progress, resulting in diverging communities.
 * Helps users decide to use one codebase over another.
 
 ## What this does not do
@@ -26,9 +29,13 @@ order: 4
 
 ## How to test
 
-* It's possible to submit suggestions for changes to the codebase.
-* There are contribution guidelines.
-* Codebase governance is clearly explained, including how to influence codebase governance.
+* Confirm that it is possible to submit suggestions for changes to the codebase.
+* Confirm there are contribution guidelines.
+* Confirm that the codebase governance is clearly explained, including how to influence codebase governance.
+* Check for a list of involved organizations.
+* Check for a roadmap.
+* Check for published activity statistics.
+* Check for a code of conduct.
 
 ## Policy makers: what you need to do
 
@@ -37,7 +44,9 @@ order: 4
 
 ## Management: what you need to do
 
-* Make sure the documentation explains how your organization is involved in the codebase, what resources it has available for it and for how long.
+* Make sure that the documentation of the governance includes the current process for how to make changes to the governance.
+* If the community has some consensus about how the governance should change, then include those ideas stated as ambitions in the documentation.
+* Make sure the documentation explains how each organization is involved in the codebase, what resources it has available for it and for how long.
 * Support your experienced policy makers, developers and designers to stay part of the community for as long as possible.
 
 ## Developers and designers: what you need to do

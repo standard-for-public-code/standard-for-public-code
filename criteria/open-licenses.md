@@ -1,13 +1,15 @@
 ---
 order: 13
 ---
-
 # Publish with an open license
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
 * All code and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
-* Software source code MUST be licensed under an [OSI-approved open source license](https://opensource.org/licenses/category).
+* Software source code MUST be licensed under an [OSI-approved or FSF Free/Libre license](https://spdx.org/licenses/).
 * All code MUST be published with a license file.
 * Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
 * All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable.
@@ -23,9 +25,11 @@ order: 13
 
 ## How to test
 
-* There is at least 1 license file present in the codebase, usually called `license`.
-* The license for the source code is on the [OSI-approved Open Source license list](https://opensource.org/licenses/category) and the license for documentation is [conformant to the Open Definition](https://opendefinition.org/licenses/).
-* Check for machine-readable licenses with tools like [Licensee](https://github.com/licensee/licensee) or [REUSE](https://reuse.software/).
+* Confirm that the codebase is clearly licensed.
+* Confirm that the license for the source code is on the [OSI-approved or FSF Free/Libre license list](https://spdx.org/licenses/) and the license for documentation is [conformant to the Open Definition](https://opendefinition.org/licenses/).
+* Confirm that the licenses used in the codebase are included as files.
+* Confirm that contribution guidelines and repository configuration do not require transfer of copyright.
+* Check for machine-readable license checking in the codebase continuous integration tests.
 
 ## Policy makers: what you need to do
 
@@ -44,7 +48,7 @@ order: 13
 
 ## Further reading
 
-* [Open source definition](https://opensource.org/osd) by the Open Source Initiative - all open source licenses meet this definition.
+* [Open source definition](https://opensource.org/osd) by the Open Source Initiative, all open source licenses meet this definition.
 * [Animated video introduction to Creative Commons](https://creativecommons.org/about/videos/creative-commons-kiwi) by Creative Commons Aotearoa New Zealand.
 * [REUSE Initiative specification](https://reuse.software/spec/) by Free Software Foundation Europe for unambiguous, human-readable and machine-readable copyright and licensing information.
 * [SPDX License List](https://spdx.org/licenses/) by the Linux foundation with standardized, machine-readable abbreviations for most licenses.

@@ -1,13 +1,15 @@
 ---
 order: 2
 ---
-
 # Bundle policy and source code
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
 * A codebase MUST include the policy that the source code is based on.
-* A codebase MUST include all source code that the policy is based on.
+* A codebase MUST include all source code that the policy is based on, unless used for fraud detection.
 * All policy and source code that the codebase is based on MUST be documented, reusable and portable.
 * Policy SHOULD be provided in machine readable and unambiguous formats.
 * Continuous integration tests SHOULD validate that the source code and the policy are executed coherently.
@@ -25,8 +27,10 @@ To be able to evaluate whether to adopt a codebase into a new context, an organi
 
 ## How to test
 
-* Policy is provided in machine-readable and unambiguous formats.
-* Continuous integration tests validate that the source code and policy are executed coherently.
+* Confirm with a civil servant that all policy that the source code is based on is included.
+* Confirm with a civil servant that all source code that the policy is based on is included.
+* Check if policy can be interpreted by a machine.
+* Check the continuous integration tests for coherent execution of source code and policy pass.
 
 ## Policy makers: what you need to do
 
