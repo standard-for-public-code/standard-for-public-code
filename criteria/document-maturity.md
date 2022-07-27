@@ -1,5 +1,5 @@
 ---
-order: 15
+order: 16
 redirect_from:
     - criteria/advertise-maturity
 ---
@@ -12,11 +12,7 @@ redirect_from:
 
 * A codebase MUST be versioned.
 * A codebase that is ready to use MUST only depend on other codebases that are also ready to use.
-* A codebase that is not yet ready to use MUST have one of these labels:
-  * prototype: to test the look and feel, and to internally prove the concept of the technical possibilities,
-  * alpha: to do guided tests with a limited set of users,
-  * beta: to open up testing to a larger section of the general public, for example to test if the codebase works at scale,
-  * pre-release version: code that is ready to be released but hasn't received formal approval yet.
+* A codebase that is not yet ready to use MUST have one of the labels: prototype, alpha, beta or pre-release version.
 * A codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`.
 
 ## Why this is important
@@ -41,6 +37,11 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 ## Management: what you need to do
 
 * Make sure that services only rely on codebases of equal or greater maturity than the service. For example, don't use a beta codebase in a production service or a prototype codebase in a beta service.
+* If the codebase is not ready for general use, work with the developers to ensure the codebase is properly labeled:
+  * prototype: to test the look and feel, and to internally prove the concept of the technical possibilities,
+  * alpha: to do guided tests with a limited set of users,
+  * beta: to open up testing to a larger section of the general public, for example to test if the codebase works at scale,
+  * pre-release version: code that is ready to be released but hasn't received formal approval yet.
 
 ## Developers and designers: what you need to do
 

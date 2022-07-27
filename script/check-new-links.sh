@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# This script is referenced by .github/workflows/test.yml which executes on
+# each pull request.
+
+# As part of reviewing a contribution, reviewers are responsible for checking
+# that new links are valid. This script is intended to aid in that process.
+# Rather than checking all links with an incoming contribution, only the links
+# added by that contribution should be checked.
+
 NOT_OK_COUNT=0
 SKIP_PATTERNS=(
 	'github\.com/.*/edit' # links may not exist yet

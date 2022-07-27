@@ -29,7 +29,7 @@ Please note that this project is released with a [code of conduct](CODE_OF_CONDU
 
 The repository builds to a static site deployed at [standard.publiccode.net](https://standard.publiccode.net/). It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
-See the scripts in the `script` folder.
+See the scripts in the [script](https://github.com/publiccodenet/standard/tree/main/script) folder.
 
 ## Generating a PDF of the Standard for Public Code
 

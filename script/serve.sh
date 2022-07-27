@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# The serve.sh script can be used to preview how jekyll will build the site.
+# See also: pdf.sh
+
 # if PAGES_REPO_NWO is not set then default to publiccodenet/standard
 # (jekyll defaults to "origin" if a remote of that name exists,
 # which makes sense for a true fork, but not for most contributors)
