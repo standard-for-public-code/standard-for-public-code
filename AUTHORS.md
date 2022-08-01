@@ -6,6 +6,7 @@
 * Alba Roza, [The Foundation for Public Code](https://publiccode.net)
 * Arnout Engelen
 * Arnout Schuijff, The Foundation for Public Code
+* Audrey Tang, [digitalminister.tw](https://digitalminister.tw/)
 * Ben Cerveny, The Foundation for Public Code
 * Bert Spaan
 * Boris van Hoytema, The Foundation for Public Code
