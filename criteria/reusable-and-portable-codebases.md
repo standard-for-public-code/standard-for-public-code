@@ -19,7 +19,7 @@ order: 3
 
 ## Why this is important
 
-* Enables other policy makers, developers and designers to reuse what you've developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintainability and higher reliability.
+* Enables other policy makers, developers and designers to reuse what you've developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintainenance and higher reliability.
 * Makes the code easier for new people to understand (as it's more general).
 * Makes it easier to control the mission, vision and scope of the codebase because the codebase is thoughtfully and purposefully designed for reusability.
 * Codebases used by multiple parties are more likely to benefit from a self-sustaining community.
