@@ -37,7 +37,7 @@ order: 3
 
 ## How to test
 
-* Confirm that someone in a similar role at another organization if they could reuse the codebase and what that would entail.
+* Confirm with someone in a similar role at another organization if they can reuse the codebase and what that would entail.
 * Confirm that the codebase can run without using any proprietary or non-open licensed code or services.
 * Check that the codebase is in use by multiple parties or in multiple contexts.
 * Check that the codebase files and commit history do not include situation-specific data.
@@ -49,7 +49,7 @@ order: 3
 
 ## Management: what you need to do
 
-* Make sure that stakeholders and business owners understand that reusability is an explicit goal of the codebase as it reduces technical debt and provides sustainability for it.
+* Make sure that stakeholders and business owners understand that reusability is an explicit codebase goal as this reduces technical debt and provides sustainability for the codebase.
 
 ## Developers and designers: what you need to do
 
