@@ -11,7 +11,7 @@ order: 15
 * Contributions MUST adhere to either a coding or writing style guide, either the codebase community's own or an existing one that is advertised in or part of the codebase.
 * Contributions SHOULD pass automated tests on style.
 * The codebase SHOULD include inline comments and documentation for non-trivial sections.
-* The style guide MAY include sections on [understandable English](understandable-english-first.md).
+* Including sections on [understandable English](understandable-english-first.md) in the style guide is OPTIONAL.
 
 ## Why this is important
 
