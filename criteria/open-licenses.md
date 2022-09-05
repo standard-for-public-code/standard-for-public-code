@@ -13,7 +13,7 @@ order: 13
 * All code MUST be published with a license file.
 * Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
 * All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable.
-* Codebases MAY have multiple licenses for different types of code and documentation.
+* Having multiple licenses for different types of code and documentation is OPTIONAL.
 
 ## Why this is important
 

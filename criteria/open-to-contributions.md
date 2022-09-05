@@ -14,7 +14,7 @@ order: 4
 * The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance.
 * The codebase SHOULD have a publicly available roadmap.
 * The codebase SHOULD publish codebase activity statistics.
-* The codebase MAY include a code of conduct for contributors.
+* Including a code of conduct for contributors in the codebase is OPTIONAL.
 
 ## Why this is important
 
