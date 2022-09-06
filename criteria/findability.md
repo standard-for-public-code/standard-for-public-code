@@ -13,14 +13,15 @@ order: 14
 * The codebase MUST be findable using a search engine by codebase name.
 * Maintainers SHOULD submit the codebase to relevant software catalogs.
 * The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
-* The codebase SHOULD have a unique and persistent identifier, such as a [Wikidata item](https://www.wikidata.org/wiki/Wikidata:Introduction) or [FSF software directory listing](https://directory.fsf.org/wiki/Main_Page), mentioning the major contributors, repository location and website.
+* The codebase SHOULD have a unique and persistent identifier, such as a [Wikidata item](https://www.wikidata.org/wiki/Wikidata:Introduction) or [FSF software directory listing](https://directory.fsf.org/wiki/Main_Page), where the entry mentions the major contributors, repository location and website.
 * The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file.
-* There MAY be a dedicated domain name for the codebase.
-* The community MAY present regularly at conferences.
+* A dedicated domain name for the codebase is OPTIONAL.
+* Regular presentations at conferences by the community is OPTIONAL.
 
 ## Why this is important
 
 * Proactiveness is needed; just publishing a codebase and hoping it's found doesn't work.
+* A metadata description file increases discoverability.
 * The more findable a codebase is, the more potential new collaborators will find it.
 * By having well-written metadata containing a unique and persistent identifer, and thus being part of the semantic web, it will be easier for other people to refer, cite, disambiguate and discover the codebase through third party tools.
 

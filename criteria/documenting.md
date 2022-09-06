@@ -16,8 +16,8 @@ order: 9
 * The documentation of the codebase SHOULD contain examples for all functionality.
 * The documentation SHOULD describe the key components or modules of the codebase and their relationships, for example as a high level architectural diagram.
 * There SHOULD be continuous integration tests for the quality of the documentation.
-* The documentation of the codebase MAY contain examples that make users want to immediately start using the codebase.
-* The code MAY be tested by using examples in the documentation.
+* Including examples that make users want to immediately start using the codebase in the documentation of the codebase is OPTIONAL.
+* Testing the code by using examples in the documentation is OPTIONAL.
 
 ## Why this is important
 
@@ -38,7 +38,7 @@ order: 9
 * Check that the instructions for how to install and run a standalone version of the source code result in a running system.
 * Check that all functionality documented contains an example.
 * Check that the documentation includes a high level architectural diagram or similar.
-* Check that the documentation quality is part of integration testing, for example documentation is generated from code and links and images are tested.
+* Check that the documentation quality is part of integration testing, for example documentation is generated from code, and links and images are tested.
 
 ## Policy makers: what you need to do
 

@@ -10,7 +10,7 @@ order: 8
 
 * The codebase MUST contain documentation of its objectives, like a mission and goal statement, that is understandable by developers and designers so that they can use or contribute to the codebase.
 * Codebase documentation SHOULD clearly describe the connections between policy objectives and codebase objectives.
-* The codebase MAY contain documentation of its objectives for the general public.
+* Documenting the objectives of the codebase for the general public is OPTIONAL.
 
 ## Why this is important
 
@@ -28,7 +28,7 @@ Documenting codebase objectives:
 
 ## How to test
 
-* Confirm that the codebase documentation includes the codebase objectives, mission or goal .
+* Confirm that the codebase documentation includes the codebase objectives, mission or goal.
 * Check for descriptions of connections between policy objectives and codebase objectives.
 
 ## Policy makers: what you need to do

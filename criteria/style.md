@@ -11,7 +11,7 @@ order: 15
 * Contributions MUST adhere to either a coding or writing style guide, either the codebase community's own or an existing one that is advertised in or part of the codebase.
 * Contributions SHOULD pass automated tests on style.
 * The codebase SHOULD include inline comments and documentation for non-trivial sections.
-* The style guide MAY include sections on [understandable English](understandable-english-first.md).
+* Including sections on [understandable English](understandable-english-first.md) in the style guide is OPTIONAL.
 
 ## Why this is important
 
@@ -40,7 +40,7 @@ order: 15
 If the codebase does not already have engineering guidelines or other contributor guidance, start by adding documentation to the repository describing whatever is being done now, for example in the `CONTRIBUTING` or `README`.
 An important purpose of the file is to communicate design preferences, naming conventions, and other aspects machines can't easily check.
 Guidance should include what would be expected from code contributions in order for them to be merged by the maintainers, including source, tests and documentation.
-Continually improve upon and expand this documentation as you go with the aim of evolving this documentation into engineering guidelines.
+Continually improve upon and expand this documentation with the aim of evolving this documentation into engineering guidelines.
 
 Additionally:
 
