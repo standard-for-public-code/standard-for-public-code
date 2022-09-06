@@ -13,7 +13,7 @@ order: 14
 * The codebase MUST be findable using a search engine by codebase name.
 * Maintainers SHOULD submit the codebase to relevant software catalogs.
 * The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
-* The codebase SHOULD have a unique and persistent identifier, such as a [Wikidata item](https://www.wikidata.org/wiki/Wikidata:Introduction) or [FSF software directory listing](https://directory.fsf.org/wiki/Main_Page), where the entry mentions the major contributors, repository location and website.
+* The codebase SHOULD have a unique and persistent identifier, such as a Wikidata item or [FSF software directory listing](https://directory.fsf.org/wiki/Main_Page), where the entry mentions the major contributors, repository location and website.
 * The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file.
 * A dedicated domain name for the codebase is OPTIONAL.
 * Regular presentations at conferences by the community is OPTIONAL.
@@ -57,4 +57,5 @@ Check that the codebase appears in the first set of results on more than one maj
 
 ## Further reading
 
+* [Introduction to Wikidata](https://www.wikidata.org/wiki/Wikidata:Introduction) by the Wikidata community.
 * The [FAIR Guiding Principles for scientific data management and stewardship](https://www.go-fair.org/fair-principles/) by the GO FAIR International Support and Coordination Office provide a nice list of attributes that make (meta)data more machine actionable (and hence more findable). Some of these apply directly to codebases, while others may provoke exploration into what the codebase equivalent would be.
