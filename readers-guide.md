@@ -24,7 +24,7 @@ This section explains why it is important for the users and contributors of this
 
 ## What this does not do
 
-This section manages expectation by explaining what following the requirements will not save you from.
+This section manages expectations by explaining what following the requirements will not save you from.
 
 This helps:
 
@@ -47,7 +47,7 @@ Policy makers set the priorities and goals of projects and may be less technolog
 
 This section tries to specifically speak to management by offering concrete actions they can perform in their role.
 
-Management is responsible for on-time project delivery, stakeholder management and continued delivery of the service. For this they are wholly reliant on both the policy makers as well as the developers and designers. They need to create the right culture, line up the right resources and provide the right structures to deliver great services.
+Management is responsible for on-time project delivery, stakeholder management and continued delivery of the service. For this they are wholly reliant on both policy makers as well as developers and designers. They need to create the right culture, line up the right resources and provide the right structures to deliver great services.
 
 ## Developers and designers: what you need to do
 

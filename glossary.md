@@ -70,5 +70,5 @@ In revision (or version) control systems, a repository is a data structure which
 
 Version control is the management of changes to source code and the files associated with it.
 Changes are usually identified by a code, termed the *revision number* (or similar).
-Each revision is associated with the time it was made and the person making the change thus making it easier to retrace the evolution of the code.
+Each revision is associated with the time it was made and the person making the change, thus making it easier to retrace the evolution of the code.
 Revision control systems can be used to compare different versions with each other and to see how content has changed over time.

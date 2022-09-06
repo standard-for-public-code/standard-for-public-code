@@ -19,11 +19,10 @@ order: 3
 
 ## Why this is important
 
-* Enables other policy makers, developers and designers to reuse what you've developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintainability and higher reliability.
+* Enables other policy makers, developers and designers to reuse what you've developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintenance and higher reliability.
 * Makes the code easier for new people to understand (as it's more general).
 * Makes it easier to control the mission, vision and scope of the codebase because the codebase is thoughtfully and purposefully designed for reusability.
 * Codebases used by multiple parties are more likely to benefit from a self-sustaining community.
-* A metadata description file increases discoverability.
 * Any contributor is able to test and contribute without relying on the situation-specific infrastructure of any other contributor or deployment.
 * Composing a codebase from well documented modules improves reusability and maintainability.
 * A module is easier to reuse in another context if its purpose is clearly documented.
@@ -37,8 +36,8 @@ order: 3
 
 ## How to test
 
-* Confirm that someone in a similar role at another organization if they could reuse the codebase and what that would entail.
-* Confirm that the codebase can run without using any proprietary or non-open licensed code or services.
+* Confirm with someone in a similar role at another organization if they can reuse the codebase and what that would entail.
+* Confirm that the codebase can run without using any proprietary or non open-licensed code or services.
 * Check that the codebase is in use by multiple parties or in multiple contexts.
 * Check that the codebase files and commit history do not include situation-specific data.
 
@@ -49,7 +48,7 @@ order: 3
 
 ## Management: what you need to do
 
-* Make sure that stakeholders and business owners understand that reusability is an explicit goal of the codebase as it reduces technical debt and provides sustainability for it.
+* Make sure that stakeholders and business owners understand that reusability is an explicit codebase goal as this reduces technical debt and provides sustainability for the codebase.
 
 ## Developers and designers: what you need to do
 

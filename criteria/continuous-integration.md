@@ -62,7 +62,7 @@ order: 12
 
 * Help management structure the work plan such that it can be delivered as small increments.
 * Help contributors limit the scope of their contributions and feature requests to be as small as reasonable.
-* Help management and policy makers test their contributions, by for example testing their contributions for broken links or style.
+* Help management and policy makers test their contributions, for example by testing their contributions for broken links or style.
 * Structure code written to handle conditions which are difficult to create in a test environment in such a way that the conditions can be simulated during testing. Forms of resource exhaustion such as running out of storage space and memory allocation failure are typical examples of difficult to create conditions.
 * Tune the test code coverage tools to avoid false alarms resulting from inlining or other optimizations.
 * Deploy often.

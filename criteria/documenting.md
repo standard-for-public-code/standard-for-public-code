@@ -38,7 +38,7 @@ order: 9
 * Check that the instructions for how to install and run a standalone version of the source code result in a running system.
 * Check that all functionality documented contains an example.
 * Check that the documentation includes a high level architectural diagram or similar.
-* Check that the documentation quality is part of integration testing, for example documentation is generated from code and links and images are tested.
+* Check that the documentation quality is part of integration testing, for example documentation is generated from code, and links and images are tested.
 
 ## Policy makers: what you need to do
 

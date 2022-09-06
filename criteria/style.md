@@ -40,7 +40,7 @@ order: 15
 If the codebase does not already have engineering guidelines or other contributor guidance, start by adding documentation to the repository describing whatever is being done now, for example in the `CONTRIBUTING` or `README`.
 An important purpose of the file is to communicate design preferences, naming conventions, and other aspects machines can't easily check.
 Guidance should include what would be expected from code contributions in order for them to be merged by the maintainers, including source, tests and documentation.
-Continually improve upon and expand this documentation as you go with the aim of evolving this documentation into engineering guidelines.
+Continually improve upon and expand this documentation with the aim of evolving this documentation into engineering guidelines.
 
 Additionally:
 

@@ -16,9 +16,9 @@ order: 2
 
 ## Why this is important
 
-This makes sure access is guaranteed to both the source code and the policy documents to facilitate effective understanding and reuse of, as well as collaboration in, a codebase.
-Understanding the context and the policies in that context is paramount for the understanding of what problems a codebase is trying to solve and the way it sets out to solve them.
-To be able to evaluate whether to adopt a codebase into a new context, an organization will need to understand what process changes it must choose to make or how to contribute additional configurability to the existing solution in order to adapt it to the new context.
+Access to both the source code and the policy documents is necessary for understanding and reuse of, as well as collaboration in, a codebase.
+Understanding the context and the policies in that context is fundamental to understanding what problems a codebase is trying to solve and how it sets out to solve them.
+To be able to evaluate whether to adopt a codebase in a new context, an organization will need to understand what process changes it must choose to make or how to contribute additional configurability to the existing solution in order to adapt it to the new context.
 
 ## What this does not do
 
