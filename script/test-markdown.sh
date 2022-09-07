@@ -4,7 +4,7 @@
 # each pull request.
 
 # As part of reviewing a contribution, reviewers are responsible for checking
-# that new markdown is valid and conforms to the repository guidelines. This
+# that new Markdown is valid and conforms to the repository guidelines. This
 # script is intended to aid in that process.
 
 # Lint markdown using the Markdownlint gem with the default ruleset except for:

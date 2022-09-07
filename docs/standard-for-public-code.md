@@ -186,7 +186,7 @@ Requirement | meets | links and notes
 -----|-----|-----
 Contributions MUST adhere to either a coding or writing style guide, either the codebase community’s own or an existing one that is advertised in or part of the codebase. |  | Some guidance, could be made clearer in the CONTRIBUTING
 Contributions SHOULD pass automated tests on style. | Ok |
-The codebase SHOULD include inline comments and documentation for non-trivial sections. | N/A | maybe some of the jekyll could apply
+The codebase SHOULD include inline comments and documentation for non-trivial sections. | N/A | maybe some of the Jekyll could apply
 The style guide MAY include sections on understandable English. | Ok |
 
 ## [Document codebase maturity](https://standard.publiccode.net/criteria/document-maturity.html)

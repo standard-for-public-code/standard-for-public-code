@@ -30,7 +30,7 @@ URL_IGNORE_REGEXES="\
 "
 
 # Check for broken links and missing alt tags:
-# jekyll does not require extentions like HTML
+# jekyll does not require extensions like HTML
 # ignoring problem urls (see above)
 # set an extra long timout for test-servers with poor connectivity
 # ignore request rate limit errors (HTTP 429)

@@ -45,7 +45,7 @@
         - In a separate terminal than `script/serve.sh`, generate `standard.pdf` and `standard-cover.pdf` with `script/pdf.sh`
         - Rename `standard.pdf` to standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
     - [ ] Add PDF to release
-        - In a browser navigate to the release and "edit"
+        - In a browser navigate to the release and 'edit'
         - Drag-and-drop the generated .pdf into the assets
 7. Update 'develop' with a merge from 'main'
 8. [Send the files for print to the printer](printing.md)
