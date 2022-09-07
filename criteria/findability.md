@@ -33,7 +33,7 @@ order: 14
 
 Check that the codebase appears in the first set of results on more than one major search engine when you search for:
 
-* plain problem description
+* plain English problem description
 * technical problem description
 * codebase name
 
