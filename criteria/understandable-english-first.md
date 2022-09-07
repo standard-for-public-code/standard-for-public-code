@@ -35,7 +35,7 @@ order: 10
 * Confirm any non-English policy has an accompanying summary in English.
 * Confirm that translations and the English version have the same content.
 * Check that no unexplained acronyms, abbreviations, puns or legal/non-English/domain specific terms are in the documentation.
-* Check the spelling, grammar, and readability of the documentation.
+* Check the spelling, grammar and readability of the documentation.
 
 ## Policy makers: what you need to do
 

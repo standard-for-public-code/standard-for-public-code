@@ -2,7 +2,7 @@
 
 The Standard for Public Code is not a codebase created in the context of a policy mandate, thus some criteria do not apply directly.
 
-Link to commitment to meet the Standard for Public Code:
+Link to commitment to meet the Standard for Public Code: [CONTRIBUTING.md](../CONTRIBUTING.md#1-make-your-changes)
 
 ## [Code in the Open](https://standard.publiccode.net/criteria/code-in-the-open.html)
 
@@ -10,7 +10,7 @@ Link to commitment to meet the Standard for Public Code:
 
 Requirement | meets | links and notes
 -----|-----|-----
-All source code for any policy and software in use (unless used for fraud detection) MUST be published and publicly accessible. | Ok | [GitHub repository](https://github.com/publiccodenet/standard/) , no official policy at this time
+All source code for any policy and software in use (unless used for fraud detection) MUST be published and publicly accessible. | Ok | [GitHub repository](https://github.com/publiccodenet/standard/), no official policy at this time
 Contributors MUST NOT upload sensitive information | Ok |
 Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published. | Ok | [GitHub releases](https://github.com/publiccodenet/standard/releases)
 The source code MAY provide the general public with insight into which source code or policy underpins any specific interaction they have with an organization. | N/A |
@@ -186,7 +186,7 @@ Requirement | meets | links and notes
 -----|-----|-----
 Contributions MUST adhere to either a coding or writing style guide, either the codebase community’s own or an existing one that is advertised in or part of the codebase. |  | Some guidance, could be made clearer in the CONTRIBUTING
 Contributions SHOULD pass automated tests on style. | Ok |
-The codebase SHOULD include inline comments and documentation for non-trivial sections. | N/A | maybe some of the jekyll could apply
+The codebase SHOULD include inline comments and documentation for non-trivial sections. | N/A | maybe some of the Jekyll could apply
 The style guide MAY include sections on understandable English. | Ok |
 
 ## [Document codebase maturity](https://standard.publiccode.net/criteria/document-maturity.html)

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# The serve.sh script can be used to preview how jekyll will build the site.
+# The serve.sh script can be used to preview how Jekyll will build the site.
 # See also: pdf.sh
 
 # if PAGES_REPO_NWO is not set then default to publiccodenet/standard

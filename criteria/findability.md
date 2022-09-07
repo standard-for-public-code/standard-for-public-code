@@ -9,14 +9,14 @@ order: 14
 
 ## Requirements
 
-* The codebase MUST be findable using a search engine by description of the problem it solves in natural language.
+* The codebase MUST be findable using a search engine by describing the problem it solves in natural language.
 * The codebase MUST be findable using a search engine by codebase name.
 * Maintainers SHOULD submit the codebase to relevant software catalogs.
 * The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
 * The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, repository location and website.
 * The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file.
 * A dedicated domain name for the codebase is OPTIONAL.
-* Regular presentations at conferences by the community is OPTIONAL.
+* Regular presentations at conferences by the community are OPTIONAL.
 
 ## Why this is important
 
@@ -27,13 +27,13 @@ order: 14
 
 ## What this does not do
 
-* Ensure new collaborators or replicators
+* Ensure new collaborators or replicators.
 
 ## How to test
 
 Check that the codebase appears in the first set of results on more than one major search engine when you search for:
 
-* plain problem description
+* plain English problem description
 * technical problem description
 * codebase name
 
