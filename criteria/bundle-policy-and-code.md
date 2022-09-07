@@ -10,7 +10,6 @@ order: 2
 
 * A codebase MUST include the policy that the source code is based on.
 * A codebase MUST include all source code that the policy is based on, unless used for fraud detection.
-* All policy and source code that the codebase is based on MUST be documented, reusable and portable.
 * Policy SHOULD be provided in machine readable and unambiguous formats.
 * Continuous integration tests SHOULD validate that the source code and the policy are executed coherently.
 
