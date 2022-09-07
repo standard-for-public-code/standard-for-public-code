@@ -16,7 +16,7 @@ order: 14
 * The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, repository location and website.
 * The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file.
 * A dedicated domain name for the codebase is OPTIONAL.
-* Regular presentations at conferences by the community is OPTIONAL.
+* Regular presentations at conferences by the community are OPTIONAL.
 
 ## Why this is important
 
