@@ -28,7 +28,7 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 * Certification badges
 * Physical paper checklist
 * Becoming validated by multiple codebases
-* Update criteria URL
+* Update criteria URLs
 * Linkable requirements
 * New cover art
 * Register for ISBN
