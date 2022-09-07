@@ -27,7 +27,7 @@ order: 14
 
 ## What this does not do
 
-* Ensure new collaborators or replicators
+* Ensure new collaborators or replicators.
 
 ## How to test
 
