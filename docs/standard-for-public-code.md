@@ -2,7 +2,7 @@
 
 The Standard for Public Code is not a codebase created in the context of a policy mandate, thus some criteria do not apply directly.
 
-Link to commitment to meet the Standard for Public Code:
+Link to commitment to meet the Standard for Public Code: [CONTRIBUTING.md](../CONTRIBUTING.md#1-make-your-changes)
 
 ## [Code in the Open](https://standard.publiccode.net/criteria/code-in-the-open.html)
 
