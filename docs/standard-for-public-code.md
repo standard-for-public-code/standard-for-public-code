@@ -10,7 +10,7 @@ Link to commitment to meet the Standard for Public Code: [CONTRIBUTING.md](../CO
 
 Requirement | meets | links and notes
 -----|-----|-----
-All source code for any policy and software in use (unless used for fraud detection) MUST be published and publicly accessible. | Ok | [GitHub repository](https://github.com/publiccodenet/standard/) , no official policy at this time
+All source code for any policy and software in use (unless used for fraud detection) MUST be published and publicly accessible. | Ok | [GitHub repository](https://github.com/publiccodenet/standard/), no official policy at this time
 Contributors MUST NOT upload sensitive information | Ok |
 Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published. | Ok | [GitHub releases](https://github.com/publiccodenet/standard/releases)
 The source code MAY provide the general public with insight into which source code or policy underpins any specific interaction they have with an organization. | N/A |
