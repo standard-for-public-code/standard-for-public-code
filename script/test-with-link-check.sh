@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# This script is referenced by .github/workflows/link-check.yml which executes
+# This script is referenced by .github/workflows/link-check.yml which
 # executes daily.
 
 # Failures reported by this script are addressed on a case-by-case basis.
