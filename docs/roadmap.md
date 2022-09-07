@@ -21,7 +21,7 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 * Links to examples of Standard-compliant implementations
 * Put "Why is this important" before requirements
 * Possibly: add in the illustrations for each criterion
-* As far as possible, make the standard standard compliant
+* As far as possible, make the standard Standard-compliant
 
 ## Longer term
 
