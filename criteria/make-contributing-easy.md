@@ -1,8 +1,10 @@
 ---
 order: 5
 ---
-
 # Make contributing easy
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
@@ -24,8 +26,10 @@ order: 5
 
 ## How to test
 
-* There's a public issue tracker.
-* It's possible to participate in a discussion with other users about the software.
+* Confirm that there is a public issue tracker.
+* Confirm that there are instructions for privately reporting security issues.
+* Confirm that the codebase contains links to the public issue tracker and submitted codebase changes.
+* Confirm that it is possible to participate in a discussion with other users and developers about the software using channels described in the codebase.
 
 ## Policy makers: what you need to do
 

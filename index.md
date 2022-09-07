@@ -1,5 +1,8 @@
 # Contents
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+
 Welcome to the Standard for Public Code.
 
 We define ‘public code’ as open source software developed by public organizations, together with the policy and guidance needed for collaboration and reuse.
@@ -25,6 +28,7 @@ There are also unofficial [community translations of the Standard](https://publi
   * [Use open standards](criteria/open-standards.md)
   * [Use continuous integration](criteria/continuous-integration.md)
   * [Publish with an open license](criteria/open-licenses.md)
+  * [Make the codebase findable](criteria/findability.md)
   * [Use a coherent style](criteria/style.md)
   * [Document codebase maturity](criteria/document-maturity.md)
 * [Authors](AUTHORS.md)

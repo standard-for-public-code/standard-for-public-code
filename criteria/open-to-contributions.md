@@ -1,8 +1,10 @@
 ---
 order: 4
 ---
-
 # Welcome contributors
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
@@ -11,7 +13,8 @@ order: 4
 * The codebase MUST document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file.
 * The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance.
 * The codebase SHOULD have a publicly available roadmap.
-* The codebase MAY include a code of conduct for contributors.
+* The codebase SHOULD publish codebase activity statistics.
+* Including a code of conduct for contributors in the codebase is OPTIONAL.
 
 ## Why this is important
 
@@ -26,9 +29,13 @@ order: 4
 
 ## How to test
 
-* It's possible to submit suggestions for changes to the codebase.
-* There are contribution guidelines.
-* Codebase governance is clearly explained, including how to influence codebase governance.
+* Confirm that it is possible to submit suggestions for changes to the codebase.
+* Confirm there are contribution guidelines.
+* Confirm that the codebase governance is clearly explained, including how to influence codebase governance.
+* Check for a list of involved organizations.
+* Check for a roadmap.
+* Check for published activity statistics.
+* Check for a code of conduct.
 
 ## Policy makers: what you need to do
 

@@ -1,22 +1,23 @@
 ---
 order: 2
 ---
-
 # Bundle policy and source code
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
 * A codebase MUST include the policy that the source code is based on.
-* A codebase MUST include all source code that the policy is based on.
-* All policy and source code that the codebase is based on MUST be documented, reusable and portable.
+* A codebase MUST include all source code that the policy is based on, unless used for fraud detection.
 * Policy SHOULD be provided in machine readable and unambiguous formats.
 * Continuous integration tests SHOULD validate that the source code and the policy are executed coherently.
 
 ## Why this is important
 
-This makes sure access is guaranteed to both the source code and the policy documents to facilitate effective understanding and reuse of, as well as collaboration in, a codebase.
-Understanding the context and the policies in that context is paramount for the understanding of what problems a codebase is trying to solve and the way it sets out to solve them.
-To be able to evaluate whether to adopt a codebase into a new context, an organization will need to understand what process changes it must choose to make or how to contribute additional configurability to the existing solution in order to adapt it to the new context.
+Access to both the source code and the policy documents is necessary for understanding and reuse of, as well as collaboration in, a codebase.
+Understanding the context and the policies in that context is fundamental to understanding what problems a codebase is trying to solve and how it sets out to solve them.
+To be able to evaluate whether to adopt a codebase in a new context, an organization will need to understand what process changes it must choose to make or how to contribute additional configurability to the existing solution in order to adapt it to the new context.
 
 ## What this does not do
 
@@ -25,8 +26,10 @@ To be able to evaluate whether to adopt a codebase into a new context, an organi
 
 ## How to test
 
-* Policy is provided in machine-readable and unambiguous formats.
-* Continuous integration tests validate that the source code and policy are executed coherently.
+* Confirm with a civil servant that all policy that the source code is based on is included.
+* Confirm with a civil servant that all source code that the policy is based on is included.
+* Check if policy can be interpreted by a machine.
+* Check the continuous integration tests for coherent execution of source code and policy pass.
 
 ## Policy makers: what you need to do
 

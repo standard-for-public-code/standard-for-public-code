@@ -1,6 +1,9 @@
 # Standard for Public Code
 
-![version 0.3.0](https://img.shields.io/badge/version-0.3.0-red.svg)
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+
+![version 0.4.0](https://img.shields.io/badge/version-0.4.0-red.svg)
 ![Test](https://github.com/publiccodenet/standard/workflows/Test/badge.svg)
 ![Scheduled link check](https://github.com/publiccodenet/standard/workflows/Scheduled%20link%20check/badge.svg)
 
@@ -20,13 +23,13 @@ The standard lives at [standard.publiccode.net](https://standard.publiccode.net/
 
 We are looking for people like you to [contribute](CONTRIBUTING.md) to this project by suggesting improvements and helping develop it. 😊 Get started by reading our [contributors guide](CONTRIBUTING.md). Since it is such a core document we will accept contributions when they add significant value. We've described how we govern the standard in the [governance statement](GOVERNANCE.md).
 
-Please note that this project is released with a [contributor code of conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms. Please be lovely to all other community members.
+Please note that this project is released with a [code of conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms. Please be lovely to all other community members.
 
 ## Preview, build and deploy
 
 The repository builds to a static site deployed at [standard.publiccode.net](https://standard.publiccode.net/). It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
-See the scripts in the `script` folder.
+See the scripts in the [script](https://github.com/publiccodenet/standard/tree/main/script) folder.
 
 ## Generating a PDF of the Standard for Public Code
 

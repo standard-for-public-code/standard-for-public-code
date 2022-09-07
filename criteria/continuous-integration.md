@@ -1,8 +1,10 @@
 ---
 order: 12
 ---
-
 # Use continuous integration
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
@@ -12,8 +14,8 @@ order: 12
 * The codebase MUST have active contributors.
 * The codebase guidelines SHOULD state that each contribution should focus on a single issue.
 * Source code test and documentation coverage SHOULD be monitored.
-* Policy and documentation MAY have testing for consistency with the source and vice versa.
-* Policy and documentation MAY have testing for style and broken links.
+* Testing policy and documentation for consistency with the source and vice versa is OPTIONAL.
+* Testing policy and documentation for style and broken links is OPTIONAL.
 
 ## Why this is important
 
@@ -35,11 +37,12 @@ order: 12
 
 ## How to test
 
-* There are tests present.
-* Code coverage tools check whether coverage is at 100% of the code.
-* Contributions are only admitted into the codebase after all of the tests are passed.
-* Everyone working on the codebase integrates their work at least once a day.
-* There are contributions from within the last three months.
+* Confirm that there are tests present.
+* Confirm that code coverage tools check that coverage is at 100% of the code.
+* Confirm that contributions are only admitted into the codebase after all of the tests are passed.
+* Confirm that contribution guidelines explain how to structure contributions.
+* Confirm that there are contributions from within the last three months.
+* Check if code coverage data is published.
 
 ## Policy makers: what you need to do
 
@@ -59,14 +62,15 @@ order: 12
 
 * Help management structure the work plan such that it can be delivered as small increments.
 * Help contributors limit the scope of their contributions and feature requests to be as small as reasonable.
-* Help management and policy makers test their contributions, by for example testing their contributions for broken links or style.
+* Help management and policy makers test their contributions, for example by testing their contributions for broken links or style.
 * Structure code written to handle conditions which are difficult to create in a test environment in such a way that the conditions can be simulated during testing. Forms of resource exhaustion such as running out of storage space and memory allocation failure are typical examples of difficult to create conditions.
 * Tune the test code coverage tools to avoid false alarms resulting from inlining or other optimizations.
 * Deploy often.
+* Integrate your work at least once a day.
 
 ## Further reading
 
 * [What is continuous integration](https://www.martinfowler.com/articles/continuousIntegration.html) by Martin Fowler.
 * [What is continuous delivery](https://www.continuousdelivery.com/) by Jez Humble.
 * [Use continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) by the UK Government Digital Service.
-* [Quality assurance: testing your service regularly](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) by the Government Digital Service (United Kingdom).
+* [Quality assurance: testing your service regularly](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) by the UK Government Digital Service.

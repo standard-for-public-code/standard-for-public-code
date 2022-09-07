@@ -1,8 +1,10 @@
 ---
 order: 6
 ---
-
 # Maintain version control
+
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 
 ## Requirements
 
@@ -14,7 +16,7 @@ order: 6
 * Contributors SHOULD group relevant changes in commits.
 * Maintainers SHOULD mark released versions of the codebase, for example using revision tags or textual labels.
 * Contributors SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system.
-* Contributors MAY sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work.
+* It is OPTIONAL for contributors to sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work.
 
 ## Why this is important
 
@@ -37,12 +39,13 @@ Distributed version control enables you to:
 
 ## How to test
 
-* The codebase is kept in version control using software such as Git.
-
-* All commit messages explain:
-  * why the change was made,
-  * what the discussion about the change was or where to find it (with a URL).
-* It is possible to access a specific version of the codebase, for example through a revision tag or a textual label.
+* Confirm that the codebase is kept in version control using software such as Git.
+* Review the commit history, confirming that all commit messages explain why the change was made.
+* Review the commit history, confirming that where possible all commit messages include the discussion about the change was or where to find it (with a URL).
+* Check if the version control system is distributed.
+* Review the commit history, check if grouping of relevant changes in accordance with the contributing guidelines.
+* Check that it is possible to access a specific version of the codebase, for example through a revision tag or a textual label.
+* Check that the file formats used in the codebase are text formats where possible.
 
 ## Policy makers: what you need to do
 

@@ -1,5 +1,8 @@
 # Contributing to this standard
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+
 🙇‍♀️ Thank you for contributing!
 
 We understand that a standard like this can only be set in collaboration with as many public technologists, policy makers and interested folk as possible. Thus we appreciate your input, enjoy feedback and welcome improvements to this project and are very open to collaboration.
@@ -8,8 +11,12 @@ We love issues and pull requests from everyone. If you're not comfortable with G
 
 ## Problems, suggestions and questions in issues
 
-Please help development by reporting problems, suggesting changes and asking questions. To do this, you can [create a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for this project in the [GitHub Issues for the Standard for Public Code](https://github.com/publiccodenet/standard/issues).
-Or, sign up to the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
+A high-level overview of the development that we already have sketched out can be seen in the [roadmap](/docs/roadmap.md).
+Please help development by reporting problems, suggesting changes and asking questions.
+To do this, you can [create a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for this project in the [GitHub Issues for the Standard for Public Code](https://github.com/publiccodenet/standard/issues).
+
+Or, sign up to the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to
+[standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
 
 You don't need to change any of our code or documentation to be a contributor!
 
@@ -28,6 +35,8 @@ This project uses the [GitFlow branching model and workflow](https://nvie.com/po
 Add your changes in commits [with a message that explains them](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message). Document choices or decisions you make in the commit message, this will enable everyone to be informed of your choices in the future.
 
 If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request. Make sure to write tests that show the behavior of the newly added or changed code.
+
+Contributions should [follow](docs/standard-for-public-code.md) the requirements set out in the criteria of the Standard for Public code itself.
 
 #### Style
 
@@ -57,6 +66,8 @@ In fact, feel free to open a pull request to add your name to the [`AUTHORS`](AU
 
 While the Standard does not have any official translations, you can help maintain existing and add new [community translations of the Standard](https://github.com/publiccodenet/community-translations-standard).
 
----
+## Releases
+
+We have dedicated documentation for creating [new releases](/docs/releasing.md) and [ordering printed standards](/docs/printing.md).
 
 For more information on how to use and contribute to this project, please read the [`README`](README.md).
