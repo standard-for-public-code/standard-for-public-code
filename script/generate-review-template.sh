@@ -41,9 +41,13 @@ for FILE in $CRITERIA_FILES; do
 Requirement | meets | links and notes
 -----|-----|-----
 EOF
-awk 'BEGIN {p=0}; /## Requirements/ {p=1 ; next}; /##/ {p=0 ; next}; \
-	p { s = ""; for (i = 2; i <= NF; i++) s = s $i " "; \
-	if (length(s) > 0) print s "|  |"}' $FILE >> $TEMPLATE
+	# awk will process each line of file
+	# set 'p' to 1 if we are in the "## Requirements" section, or skip line
+	# set 's' to be all the words except the leading "*" of requirement
+	# if not a blank line, print 's' and the column pipe delimiters
+	awk 'BEGIN {p=0}; /## Requirements/ {p=1 ; next}; /##/ {p=0 ; next}; \
+		p { s = ""; for (i = 2; i <= NF; i++) s = s $i " "; \
+		if (length(s) > 0) print s "|  |"}' $FILE >> $TEMPLATE
 done
 
 # strip local links in requirement lines by looking for lines lacking a colon
