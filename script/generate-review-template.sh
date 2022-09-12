@@ -50,7 +50,8 @@ EOF
 		if (length(s) > 0) print s "|  |"}' $FILE >> $TEMPLATE
 done
 
-# strip local links in requirement lines by looking for lines lacking a colon
-sed -i -e's/\[\([^]]*\)\]([^:)]*)/\1/g' $TEMPLATE
+# fully qualify local links in requirement lines
+# by looking for links lacking a colon
+sed -i -e's@\[\([^]]*\)\](\([^:)]*\).md)@[\1](https://standard.publiccode.net/criteria/\2.html)@g' $TEMPLATE
 
 ls -l $TEMPLATE
