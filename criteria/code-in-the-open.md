@@ -31,12 +31,9 @@ These aspects together create more opportunities for citizens to understand how 
 
 ## How to test
 
-The source for any version currently in use is published on the internet where it can be seen:
-
-* from outside the original contributing organization
-* without the need for any form of authentication or authorization
-
-Review the codebase files and commit history to verify no sensitive information is included.
+* Confirm that the source for each version currently in use is published on the internet where it can be seen from outside the original contributing organization and without the need for any form of authentication or authorization.
+* Confirm that the codebase files and commit history do not include sensitive information.
+* Check for the publication of source code not currently in use.
 
 ## Policy makers: what you need to do
 
