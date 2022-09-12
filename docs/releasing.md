@@ -14,6 +14,7 @@
     - [ ] Update [`AUTHORS.md`](../AUTHORS.md) with new contributors
     - [ ] Update [`CHANGELOG.md`](../CHANGELOG.md)
     - [ ] Perform extra pass on diff to the 'main' branch
+        - run `script/generate-review-template.sh` and commit updated `docs/review-template.md`
         - Reread any section or paragraph to ensure wording changes still fit the whole and do not contain grammar or spelling errors
         - Ensure no link collisions exist in the rendered pdf using `script/pdf.sh`
         - If needed, commit fixes and repeat extra pass
