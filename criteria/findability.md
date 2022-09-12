@@ -31,11 +31,15 @@ order: 14
 
 ## How to test
 
-Check that the codebase appears in the first set of results on more than one major search engine when you search for:
-
-* plain English problem description
-* technical problem description
-* codebase name
+* Confirm that the codebase appears in the first set of results on more than one major search engine when searching by a plain English problem description.
+* Confirm that the codebase appears in the first set of results on more than one major search engine when searching by a technical problem description.
+* Confirm that the codebase appears in the first set of results on more than one major search engine when searching by the codebase name.
+* Check for the codebase listing in relevant software catalogs.
+* Check for a codebase website which describes the problem the codebase solves.
+* Check unique and persistent identifier entries for mention of the major contributors.
+* Check unique and persistent identifier entries for the repository location.
+* Check unique and persistent identifier entries for the codebase website.
+* Check for a machine-readable metadata description file.
 
 ## Policy makers: what you need to do
 
