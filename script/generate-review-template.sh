@@ -45,4 +45,8 @@ awk 'BEGIN {p=0}; /## Requirements/ {p=1 ; next}; /##/ {p=0 ; next}; \
 	p { s = ""; for (i = 2; i <= NF; i++) s = s $i " "; \
 	if (length(s) > 0) print s "|  |"}' $FILE >> $TEMPLATE
 done
+
+# strip local links in requirement lines by looking for lines lacking a colon
+sed -i -e's/\[\(.*\)\]([^:]*)/\1/g' $TEMPLATE
+
 ls -l $TEMPLATE
