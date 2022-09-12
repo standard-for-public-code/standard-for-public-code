@@ -51,6 +51,6 @@ EOF
 done
 
 # strip local links in requirement lines by looking for lines lacking a colon
-sed -i -e's/\[\(.*\)\]([^:]*)/\1/g' $TEMPLATE
+sed -i -e's/\[\([^]]*\)\]([^:)]*)/\1/g' $TEMPLATE
 
 ls -l $TEMPLATE
