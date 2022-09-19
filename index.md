@@ -37,3 +37,5 @@ There are also unofficial [community translations of the Standard](https://publi
 * [Governance](GOVERNANCE.md)
 * [Version history](CHANGELOG.md)
 * [License](LICENSE.md)
+
+The Standard for Public Code is currently in beta.

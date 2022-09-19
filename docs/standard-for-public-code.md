@@ -214,11 +214,11 @@ Including sections on [understandable English](https://standard.publiccode.net/c
 
 ## [Document codebase maturity](https://standard.publiccode.net/criteria/document-maturity.html)
 
-- [ ] criterion met.
+- [x] criterion met.
 
 Requirement | meets | links and notes
 -----|-----|-----
 A codebase MUST be versioned. | Ok |
 A codebase that is ready to use MUST only depend on other codebases that are also ready to use. | Ok |
-A codebase that is not yet ready to use MUST have one of the labels: prototype, alpha, beta or pre-release version. |  | labled as "draft", consider adding "beta" label?
+A codebase that is not yet ready to use MUST have one of the labels: prototype, alpha, beta or pre-release version. | Ok |
 A codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`. | Ok | [CHANGELOG](https://github.com/publiccodenet/standard/blob/develop/CHANGELOG.md)

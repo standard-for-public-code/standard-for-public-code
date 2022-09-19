@@ -21,7 +21,7 @@ The standard lives at [standard.publiccode.net](https://standard.publiccode.net/
 
 ## Help improve this standard
 
-We are looking for people like you to [contribute](CONTRIBUTING.md) to this project by suggesting improvements and helping develop it. 😊 Get started by reading our [contributors guide](CONTRIBUTING.md). Since it is such a core document we will accept contributions when they add significant value. We've described how we govern the standard in the [governance statement](GOVERNANCE.md).
+We are looking for people like you to [contribute](CONTRIBUTING.md) to this project, currently in beta, by suggesting improvements and helping develop it. 😊 Get started by reading our [contributors guide](CONTRIBUTING.md). Since it is such a core document we will accept contributions when they add significant value. We've described how we govern the standard in the [governance statement](GOVERNANCE.md).
 
 Please note that this project is released with a [code of conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms. Please be lovely to all other community members.
 
