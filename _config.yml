@@ -10,6 +10,7 @@ include:
   - "CONTRIBUTING.md"
   - "LICENSE.md"
   - "CODE_OF_CONDUCT.md"
+  - "docs/review-template.md"
 
 toc: true
 

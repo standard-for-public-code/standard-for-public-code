@@ -43,8 +43,9 @@
         - Ensure [fonts](https://brand.publiccode.net/typography/) are installed
         - Serve html content with `script/serve.sh`
         - Optionally, for a visual pre-check, navigate to http://127.0.0.1:4000/ in a browser
-        - In a separate terminal than `script/serve.sh`, generate `standard.pdf` and `standard-cover.pdf` with `script/pdf.sh`
-        - Rename `standard.pdf` to standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
+        - In a separate terminal than `script/serve.sh`, generate `standard.pdf`, `standard-cover.pdf` and `review-template.pdf` with `script/pdf.sh`
+        - Rename `standard.pdf` to `standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
+        - Rename `review-template.pdf` to `review-template-$MAJOR.$MINOR.$PATCH.pdf`
     - [ ] Add PDF to release
         - In a browser navigate to the release and 'edit'
         - Drag-and-drop the generated .pdf into the assets
