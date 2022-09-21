@@ -6,11 +6,7 @@ TEMPLATE=docs/review-template.md
 THIS_YEAR=$(date +%Y)
 STANDARD_VERSION=$(grep version: _config.yml | cut -f2 -d':' | xargs)
 cat << EOF > $TEMPLATE
----
-type: Resource
----
-
-# [Codebase] and the Standard for Public Code version $STANDARD_VERSION
+# &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95; and the Standard for Public Code version $STANDARD_VERSION
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- generated $THIS_YEAR by The Foundation for Public Code <info@publiccode.net> -->
@@ -36,9 +32,9 @@ for FILE in $CRITERIA_FILES; do
 
 ## [$CRITERIA_TITLE]($CRITERIA_LINK)
 
-- [ ] criterion met.
+&#9744; criterion met.
 
-Requirement | meets | links and notes
+Requirement | meets | &nbsp;links&nbsp;and&nbsp;notes&nbsp;
 -----|-----|-----
 EOF
 	# awk will process each line of file
