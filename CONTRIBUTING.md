@@ -50,7 +50,9 @@ We will help you get it right in our review process and we also have a separate 
 
 ### 2. Pull request
 
-When submitting the pull request, please accompany it with a description of the problem you are trying to solve and the issue numbers that this pull request fixes.
+When submitting the pull request, please accompany it with a description of the problem you are trying to solve and the issue number that this pull request fixes.
+It is preferred for each pull request to address a single issue where possible.
+In some cases a single set of changes may address multiple issues, in which case be sure to list all issue numbers fixed.
 
 ### 3. Improve
 
