@@ -194,7 +194,7 @@ Requirement | meets | links and notes
 -----|-----|-----
 The codebase MUST be findable using a search engine by describing the problem it solves in natural language. |  |
 The codebase MUST be findable using a search engine by codebase name. | Ok |
-Maintainers SHOULD submit the codebase to relevant software catalogs. |  |
+Maintainers SHOULD submit the codebase to relevant software catalogs. | Ok | In the [DPG registry](https://digitalpublicgoods.net/registry/standard-for-public-code.html)
 The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers). | Ok |
 The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, repository location and website. | Ok | [Q68006929](https://www.wikidata.org/wiki/Q68006929) on Wikidata
 The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file. |  |
