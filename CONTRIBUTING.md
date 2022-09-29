@@ -26,7 +26,7 @@ If you want to add to the documentation or code of one of our projects you shoul
 
 If you never used GitHub, get up to speed with [Understanding the GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) or follow one of the great free interactive courses in the [GitHub learning lab](https://lab.github.com/) on working with GitHub and working with MarkDown, the syntax this project's documentation is in.
 
-This project is [licensed CC-0](LICENSE.md), which essentially means that the project, along with your contributions is in the public domain in whatever jurisdiction possible, and everyone can do whatever they want with it.
+This project is licensed Creative Commons Zero v1.0 Universal, which essentially means that the project, along with your contributions is in the public domain in whatever jurisdiction possible, and everyone can do whatever they want with it.
 
 ### 1. Make your changes
 

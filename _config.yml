@@ -8,7 +8,7 @@ remote_theme: publiccodenet/jekyll-theme
 include:
   - "README.md"
   - "CONTRIBUTING.md"
-  - "LICENSE.md"
+  - "LICENSE"
   - "CODE_OF_CONDUCT.md"
   - "docs/review-template.md"
 
