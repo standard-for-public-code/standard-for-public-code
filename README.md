@@ -45,4 +45,4 @@ weasyprint http://localhost:4000/print.html standard.pdf
 
 © [The authors and contributors](AUTHORS.md)
 
-The standard is [licensed](LICENSE.md) under CC 0, which also applies to all illustrations and the documentation. This means anyone can do anything with it. If you contribute you also grant these rights to others. You can read more about how to help in the [contributing guide](CONTRIBUTING.md).
+The standard is [licensed](LICENSE) under CC 0, which also applies to all illustrations and the documentation. This means anyone can do anything with it. If you contribute you also grant these rights to others. You can read more about how to help in the [contributing guide](CONTRIBUTING.md).

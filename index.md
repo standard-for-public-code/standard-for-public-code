@@ -36,4 +36,4 @@ There are also unofficial [community translations of the Standard](https://publi
 * [Code of conduct](CODE_OF_CONDUCT.md)
 * [Governance](GOVERNANCE.md)
 * [Version history](CHANGELOG.md)
-* [License](LICENSE.md)
+* [License](license.html)
