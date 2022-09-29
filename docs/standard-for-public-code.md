@@ -38,7 +38,7 @@ Requirement | meets | links and notes
 -----|-----|-----
 The codebase MUST be developed to be reusable in different contexts. | Ok |
 The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed code or services for execution and understanding. | Ok |
-The codebase SHOULD be in use by multiple parties. | maybe? | Codebases are exploring, but we can not point to committed engagement; contributors are not yet using the Standard in their own orgs
+The codebase SHOULD be in use by multiple parties. | Ok | [Signalen](https://github.com/Amsterdam/signals/blob/master/docs/CONTRIBUTING.md#under-foundation-for-public-code-incubating-codebase-stewardship), [OpenZaak](https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md#under-foundation-for-public-code-incubating-codebase-stewardship), [Algoritmeregister](https://github.com/Algoritmeregister/standard#standard-for-public-code-compliance), [Standard for Public Code](https://github.com/publiccodenet/standard/blob/develop/CONTRIBUTING.md#1-make-your-changes)
 The roadmap SHOULD be influenced by the needs of multiple parties. | Ok | Community calls influenced initial roadmap
 Configuration SHOULD be used to make code adapt to context specific needs. | N/A |
 The codebase SHOULD be localizable. | | Images not yet easily localizable
