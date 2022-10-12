@@ -23,10 +23,13 @@ bundle exec jekyll build
 # * github.com/foo/edit/ : may reference yet-to-exist pages
 # * docs.github.com/en : blocked by github DDoS protection
 # * plausible.io/js/plausible.js : does not serve to scripts
+# * opensource.org : gives "failed: 503 No error" when run as GitHub workflow
+#
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
 ,/plausible\.io\/js\/plausible\.js/\
+,/opensource\.org/\
 "
 
 # Check for broken links and missing alt tags:
