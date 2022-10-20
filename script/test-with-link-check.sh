@@ -24,12 +24,14 @@ bundle exec jekyll build
 # * docs.github.com/en : blocked by github DDoS protection
 # * plausible.io/js/plausible.js : does not serve to scripts
 # * opensource.org : gives "failed: 503 No error" when run as GitHub workflow
+# * reclameland.nl : often "failed: 403 No error" when run as GitHub workflow
 #
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
 ,/plausible\.io\/js\/plausible\.js/\
 ,/opensource\.org/\
+,/reclameland\.nl\/drukken\/softcover-boeken/
 "
 
 # Check for broken links and missing alt tags:
