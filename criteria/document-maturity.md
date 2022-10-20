@@ -12,7 +12,7 @@ redirect_from:
 
 * A codebase MUST be versioned.
 * A codebase that is ready to use MUST only depend on other codebases that are also ready to use.
-* A codebase that is not yet ready to use MUST have one of the labels: prototype, alpha, beta or pre-release version.
+* A codebase that is not yet ready to use MUST have one of the labels: pre-alpha, alpha, beta or release candidate.
 * A codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`.
 
 ## Why this is important
@@ -28,7 +28,7 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 * Confirm that the codebase has a strategy for versioning which is documented.
 * Confirm that it is clear where to get the newest version.
 * Confirm that the codebase doesn't depend on any codebases marked with a less mature status.
-* Confirm that the codebase is ready to use or labeled as prototype, alpha, beta or pre-release version.
+* Confirm that the codebase is ready to use or labeled as prototype, alpha, beta or release candidate version.
 * Check that there is a log of changes.
 
 ## Policy makers: what you need to do
@@ -40,10 +40,10 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 
 * Make sure that services only rely on codebases of equal or greater maturity than the service. For example, don't use a beta codebase in a production service or a prototype codebase in a beta service.
 * If the codebase is not ready for general use, work with the developers to ensure the codebase is properly labeled:
-  * prototype: to test the look and feel, and to internally prove the concept of the technical possibilities,
+  * pre-alpha: to test the look and feel, and to internally prove the concept of the technical possibilities,
   * alpha: to do guided tests with a limited set of users,
   * beta: to open up testing to a larger section of the general public, for example to test if the codebase works at scale,
-  * pre-release version: code that is ready to be released but hasn't received formal approval yet.
+  * release candidate: code that is ready to be released but hasn't received formal approval yet.
 
 ## Developers and designers: what you need to do
 
@@ -57,3 +57,4 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 * [Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery) by the UK Government Digital Service.
 * [Semantic Versioning Specification](https://semver.org/) used by many codebases to label versions.
 * [What are the Discovery, Alpha, Beta and Live stages in developing a service? [Video 0'0"59]](https://www.youtube.com/watch?v=_cyI7DMhgYc) by the UK Government Digital Service.
+* [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle)
