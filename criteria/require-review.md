@@ -26,6 +26,7 @@ order: 7
 * Catches the most obvious mistakes that could happen.
 * Gives contributors the security that their contributions are only accepted if they really add value.
 * Assures contributors of a guaranteed time for feedback or collaborative improvement.
+* Prompt reviews increase both rate of delivery and contributor engagement.
 
 ## What this does not do
 
@@ -67,3 +68,4 @@ order: 7
 * [How to review code the GDS way](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) by the UK Government Digital Service.
 * Branch protection on [GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) and [GitLab](https://about.gitlab.com/2014/11/26/keeping-your-code-protected/).
 * [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) by Sage Sharp.
+* [Measuring Engagement](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) by Mozilla.
