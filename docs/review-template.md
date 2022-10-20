@@ -218,5 +218,5 @@ Requirement | meets | &nbsp;links&nbsp;and&nbsp;notes&nbsp;
 -----|-----|-----
 A codebase MUST be versioned. |  |
 A codebase that is ready to use MUST only depend on other codebases that are also ready to use. |  |
-A codebase that is not yet ready to use MUST have one of the labels: prototype, alpha, beta or pre-release version. |  |
+A codebase that is not yet ready to use MUST have one of the labels: pre-alpha, alpha, beta or release candidate. |  |
 A codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`. |  |
