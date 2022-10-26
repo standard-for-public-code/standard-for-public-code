@@ -45,10 +45,11 @@
         - Optionally, for a visual pre-check, navigate to http://127.0.0.1:4000/ in a browser
         - In a separate terminal than `script/serve.sh`, generate `standard.pdf`, `standard-cover.pdf` and `review-template.pdf` with `script/pdf.sh`
         - Rename `standard.pdf` to `standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
+        - Rename `standard-cover.pdf` to `standard-cover-$MAJOR.$MINOR.$PATCH.pdf`
         - Rename `review-template.pdf` to `review-template-$MAJOR.$MINOR.$PATCH.pdf`
-    - [ ] Add PDF to release
+    - [ ] Add PDFs to release
         - In a browser navigate to the release and 'edit'
-        - Drag-and-drop the generated .pdf into the assets
+        - Drag-and-drop the three generated .pdfs into the assets
 7. Update 'develop' with a merge from 'main'
 8. [Send the files for print to the printer](printing.md)
     - [ ] Cover file
