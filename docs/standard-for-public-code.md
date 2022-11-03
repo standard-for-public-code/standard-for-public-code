@@ -160,15 +160,15 @@ Standards that are machine testable SHOULD be preferred over those that are not.
 
 ## [Use continuous integration](https://standard.publiccode.net/criteria/continuous-integration.html)
 
-- [ ] criterion met.
+- [x] criterion met.
 
 Requirement | meets | links and notes
 -----|-----|-----
 All functionality in the source code MUST have automated tests. | Ok |
 Contributions MUST pass all automated tests before they are admitted into the codebase. | Ok |
-The codebase MUST have guidelines explaining how to structure contributions. |  | room to improve
+The codebase MUST have guidelines explaining how to structure contributions. | Ok |
 The codebase MUST have active contributors. | Ok |
-The codebase guidelines SHOULD state that each contribution should focus on a single issue. |  | Should add to CONTRIBUTING
+The codebase guidelines SHOULD state that each contribution should focus on a single issue. | Ok |
 Source code test and documentation coverage SHOULD be monitored. | N/A |
 Testing policy and documentation for consistency with the source and vice versa is OPTIONAL. | N/A |
 Testing policy and documentation for style and broken links is OPTIONAL. | Ok |
