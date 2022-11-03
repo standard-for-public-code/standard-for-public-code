@@ -47,14 +47,14 @@ Codebase modules SHOULD be documented in such a way as to enable reuse in codeba
 
 ## [Welcome contributors](https://standard.publiccode.net/criteria/open-to-contributions.html)
 
-- [ ] criterion met.
+- [x] criterion met.
 
 Requirement | meets | links and notes
 -----|-----|-----
 The codebase MUST allow anyone to submit suggestions for changes to the codebase. | Ok |
 The codebase MUST include contribution guidelines explaining what kinds of contributions are welcome and how contributors can get involved, for example in a `CONTRIBUTING` file. | Ok | [CONTRIBUTING](https://github.com/publiccodenet/standard/blob/develop/CONTRIBUTING.md)
 The codebase MUST document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file. | Ok | [GOVERNANCE](https://github.com/publiccodenet/standard/blob/develop/GOVERNANCE.md)
-The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance. | maybe? | Are we clear enough in expressing that the Foundation is the only committed, engaged organization?
+The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance. | Ok |
 The codebase SHOULD have a publicly available roadmap. | Ok | [Roadmap](https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md)
 The codebase SHOULD publish codebase activity statistics. | Ok | [GitHub Pulse](https://github.com/publiccodenet/standard/pulse)
 Including a code of conduct for contributors in the codebase is OPTIONAL. | Ok | [CODE OF CONDUCT](https://github.com/publiccodenet/standard/blob/develop/CODE_OF_CONDUCT.md)
