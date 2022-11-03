@@ -48,6 +48,14 @@ The Standard for Public Code aims to [use plain English](https://standard.public
 However, we want to emphasize that it is more important that you make your contribution than worry about spelling and typography.
 We will help you get it right in our review process and we also have a separate quality check before [making a new release](docs/releasing.md).
 
+#### Standards to follow
+
+These are the standards that the Standard for Public Code uses.
+Please make sure that your contributions are aligned with them so that they easier can be merged.
+
+* [IETF RFC 2119](https://tools.ietf.org/html/rfc2119) - for requirement level keywords
+* [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/#readable) - for readibility
+
 ### 2. Pull request
 
 When submitting the pull request, please accompany it with a description of the problem you are trying to solve and the issue number that this pull request fixes.
