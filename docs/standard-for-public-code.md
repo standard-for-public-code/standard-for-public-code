@@ -73,7 +73,7 @@ The documentation SHOULD include instructions for how to report potentially secu
 
 ## [Maintain version control](https://standard.publiccode.net/criteria/version-control-and-history.html)
 
-- [ ] criterion met.
+- [x] criterion met.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -82,7 +82,7 @@ All files in a codebase MUST be version controlled. | Ok |
 All decisions MUST be documented in commit messages. | Ok |
 Every commit message MUST link to discussions and issues wherever possible. | Ok |
 The codebase SHOULD be maintained in a distributed version control system. | Ok | git
-Contributors SHOULD group relevant changes in commits. |  | could use an extra sentence in CONTRIBUTING.md, historically mostly good
+Contributors SHOULD group relevant changes in commits. | Ok |
 Maintainers SHOULD mark released versions of the codebase, for example using revision tags or textual labels. | Ok | GitHub releases
 Contributors SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system. | Ok | (bpmn is an exception)
 It is OPTIONAL for contributors to sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work. | Ok |
