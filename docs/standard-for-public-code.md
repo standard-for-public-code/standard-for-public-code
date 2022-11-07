@@ -147,13 +147,13 @@ Providing a translation of any code, documentation or tests is OPTIONAL. | We ha
 
 ## [Use open standards](https://standard.publiccode.net/criteria/open-standards.html)
 
-- [ ] criterion met.
+- [x] criterion met.
 
 Requirement | meets | links and notes
 -----|-----|-----
 For features of a codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr). | N/A |
 Any non-open standards used MUST be recorded clearly as such in the documentation. | N/A |
-Any standard chosen for use within the codebase MUST be listed in the documentation with a link to where it is available. |  | RFC2119 is referenced in the reader's guide, need to make a complete list
+Any standard chosen for use within the codebase MUST be listed in the documentation with a link to where it is available. | Ok | [CONTRIBUTING](../CONTRIBUTING.md#standards-to-follow)
 Any non-open standards chosen for use within the codebase MUST NOT hinder collaboration and reuse. | N/A |
 If no existing open standard is available, effort SHOULD be put into developing one. | N/A |
 Standards that are machine testable SHOULD be preferred over those that are not. | N/A |
