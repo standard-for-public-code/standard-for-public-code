@@ -11,13 +11,13 @@ redirect_from:
 ## Requirements
 
 * A codebase MUST be versioned.
-* A codebase that is ready to use MUST only depend on other codebases that are also ready to use.
-* A codebase that is not yet ready to use MUST have one of the labels: pre-alpha, alpha, beta or release candidate.
+* A codebase version that is ready to use MUST only depend on other codebase versions that are also ready to use.
+* A codebase version that is not yet ready to use MUST have one of the labels: pre-alpha, alpha, beta or release candidate.
 * A codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`.
 
 ## Why this is important
 
-Clearly signalling a codebase's maturity helps others decide whether to reuse, invest in or contribute to it.
+Clearly signalling a codebase version's maturity helps others decide whether to reuse, invest in or contribute to it.
 
 ## What this does not do
 
@@ -38,8 +38,8 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 
 ## Management: what you need to do
 
-* Make sure that services only rely on codebases of equal or greater maturity than the service. For example, don't use a beta codebase in a production service or a prototype codebase in a beta service.
-* If the codebase is not ready for general use, work with the developers to ensure the codebase is properly labeled:
+* Make sure that services only rely on codebase versions of equal or greater maturity than the service. For example, don't use a beta version of a codebase in a production service or an alpha codebase version in a beta service.
+* If the codebase version is not ready for general use, work with the developers to ensure the version is properly labeled:
   * pre-alpha: to test the look and feel, and to internally prove the concept of the technical possibilities,
   * alpha: to do guided tests with a limited set of users,
   * beta: to open up testing to a larger section of the general public, for example to test if the codebase works at scale,
