@@ -36,15 +36,16 @@ URL_IGNORE_REGEXES="\
 ,/www\.dta\.gov\.au\/help-and-advice/\
 "
 
+# ignore request rate limit errors (HTTP 429)
+# --http_status_ignore "429" \
+
 # Check for broken links and missing alt tags:
 # jekyll does not require extensions like HTML
 # ignoring problem urls (see above)
 # set an extra long timout for test-servers with poor connectivity
-# ignore request rate limit errors (HTTP 429)
 # using the files in Jekylls build folder
 bundle exec htmlproofer \
     --assume-extension \
     --url-ignore $URL_IGNORE_REGEXES \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
-    --http_status_ignore "429" \
     ./_site
