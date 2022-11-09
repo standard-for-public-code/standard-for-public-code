@@ -29,7 +29,7 @@
     - [ ] Switch to the 'main' branch, `git pull` and `git status`
     - [ ] `git tag $MAJOR.$MINOR.$PATCH`
     - [ ] `git push --tags`
-    - [ ] From https://github.com/publiccodenet/standard/tags select "create release"
+    - [ ] From [tags](https://github.com/publiccodenet/standard/tags) select "create release"
         - Title the release: 'Nth update'
         - Add changelog bullets
 5. Trigger a rebuild of gh-pages
@@ -42,7 +42,7 @@
     - [ ] Generate new PDFs
         - Ensure [fonts](https://brand.publiccode.net/typography/) are installed
         - Serve html content with `script/serve.sh`
-        - Optionally, for a visual pre-check, navigate to http://127.0.0.1:4000/ in a browser
+        - Optionally, for a visual pre-check, navigate to [http://127.0.0.1:4000](http://127.0.0.1:4000/) in a browser
         - In a separate terminal than `script/serve.sh`, generate `standard.pdf`, `standard-cover.pdf` and `review-template.pdf` with `script/pdf.sh`
         - Rename `standard.pdf` to `standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
         - Rename `standard-cover.pdf` to `standard-cover-$MAJOR.$MINOR.$PATCH.pdf`
