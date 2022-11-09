@@ -15,7 +15,7 @@ Public code is both computer source code (such as software and algorithms) and p
 It encompasses the software built to operate with and as public infrastructure, along with the arrangements for its production.
 Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
 
-## Why public code?
+## Reasons for public code
 
 There are many reasons for why public code is relevant now.
 
