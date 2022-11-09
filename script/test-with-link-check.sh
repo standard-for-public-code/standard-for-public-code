@@ -26,6 +26,7 @@ bundle exec jekyll build
 # * opensource.org : gives "failed: 503 No error" when run as GitHub workflow
 # * reclameland.nl : often "failed: 403 No error" when run as GitHub workflow
 # * www.dta.gov.au : often "failed: 403 No error" when run as GitHub workflow
+# * 127.0.0.1 : localhost does not need to be checked
 #
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
@@ -34,6 +35,7 @@ URL_IGNORE_REGEXES="\
 ,/opensource\.org/\
 ,/reclameland\.nl\/drukken\/softcover-boeken/\
 ,/www\.dta\.gov\.au\/help-and-advice/\
+,/127\.0\.0\.1:/\
 "
 
 # ignore request rate limit errors (HTTP 429)
