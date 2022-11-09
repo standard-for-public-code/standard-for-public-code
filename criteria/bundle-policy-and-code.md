@@ -34,7 +34,7 @@ To be able to evaluate whether to adopt a codebase in a new context, an organiza
 ## Policy makers: what you need to do
 
 * Collaborate with developers and designers to ensure there is no mismatch between policy code and source code.
-* Provide the relevant [policy](https://standard.publiccode.net/glossary.html#policy) texts for inclusion in the repository; if the text is not available in English, also provide an English summary. Be sure to include standards that your organization has chosen to adhere to and any organizational processes which impact the development or the deployment context of the codebase for your organization.
+* Provide the relevant [policy](../glossary.html#policy) texts for inclusion in the repository; if the text is not available in English, also provide an English summary. Be sure to include standards that your organization has chosen to adhere to and any organizational processes which impact the development or the deployment context of the codebase for your organization.
 * Provide references and links to texts which support the policies.
 * Document policy in formats that are unambiguous and machine-readable such as [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation), [Decision Model and Notation](https://en.wikipedia.org/wiki/Decision_Model_and_Notation) and [Case Management Model Notation](https://en.wikipedia.org/wiki/CMMN).
 * Track policy with [the same version control](version-control-and-history.md) and documentation used to track source code.
