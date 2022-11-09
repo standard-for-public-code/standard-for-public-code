@@ -26,6 +26,7 @@ bundle exec jekyll build
 # * opensource.org : gives "failed: 503 No error" when run as GitHub workflow
 # * reclameland.nl : often "failed: 403 No error" when run as GitHub workflow
 # * www.dta.gov.au : often "failed: 403 No error" when run as GitHub workflow
+# * 127.0.0.1 : localhost does not need to be checked
 #
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
@@ -34,17 +35,19 @@ URL_IGNORE_REGEXES="\
 ,/opensource\.org/\
 ,/reclameland\.nl\/drukken\/softcover-boeken/\
 ,/www\.dta\.gov\.au\/help-and-advice/\
+,/127\.0\.0\.1:/\
 "
+
+# ignore request rate limit errors (HTTP 429)
+# --http_status_ignore "429" \
 
 # Check for broken links and missing alt tags:
 # jekyll does not require extensions like HTML
 # ignoring problem urls (see above)
 # set an extra long timout for test-servers with poor connectivity
-# ignore request rate limit errors (HTTP 429)
 # using the files in Jekylls build folder
 bundle exec htmlproofer \
     --assume-extension \
     --url-ignore $URL_IGNORE_REGEXES \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
-    --http_status_ignore "429" \
     ./_site
