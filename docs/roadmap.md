@@ -1,5 +1,8 @@
 # Roadmap
 
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- 2022 by The Foundation for Public Code <info@publiccode.net> -->
+
 Last updated: 2022-07-11
 
 This document intends to shed light on the current development plans of the team.

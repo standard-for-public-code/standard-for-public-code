@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: CC0-1.0
+# 2021-2022 by The Foundation for Public Code <info@publiccode.net>
 
 # This script is referenced by .github/workflows/link-check.yml which
 # executes daily.
