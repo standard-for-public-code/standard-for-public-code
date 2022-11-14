@@ -1,4 +1,6 @@
 #!/bin/bash
+# SPDX-License-Identifier: CC0-1.0
+# 2021-2022 by The Foundation for Public Code <info@publiccode.net>
 
 # This script is referenced by .github/workflows/test.yml which executes on
 # each pull request.
