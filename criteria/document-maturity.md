@@ -42,7 +42,7 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 * If the codebase is not ready for general use, work with the developers to ensure the codebase is properly labeled:
   * prototype: to test the look and feel, and to internally prove the concept of the technical possibilities,
   * alpha: to do guided tests with a limited set of users,
-  * beta: to open up testing to a larger section of the general public, for example to test if the codebase works at scale,
+  * beta: to open up testing to a larger section of the [general public](../glossary.md#general-public), for example to test if the codebase works at scale,
   * pre-release version: code that is ready to be released but hasn't received formal approval yet.
 
 ## Developers and designers: what you need to do

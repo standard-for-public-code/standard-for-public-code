@@ -11,7 +11,7 @@ order: 9
 * All of the functionality of the [codebase](../glossary.md#codebase), policy as well as source, MUST be described in language clearly understandable for those that understand the purpose of the [code](../glossary.md#code).
 * The documentation of the codebase MUST contain a description of how to install and run the source code.
 * The documentation of the codebase MUST contain examples demonstrating the key functionality.
-* The documentation of the codebase SHOULD contain a high level description that is clearly understandable for a wide audience of stakeholders, like the general public and journalists.
+* The documentation of the codebase SHOULD contain a high level description that is clearly understandable for a wide audience of stakeholders, like the [general public](../glossary.md#general-public) and journalists.
 * The documentation of the codebase SHOULD contain a section describing how to install and run a standalone version of the source code, including, if necessary, a test dataset.
 * The documentation of the codebase SHOULD contain examples for all functionality.
 * The documentation SHOULD describe the key components or modules of the codebase and their relationships, for example as a high level architectural diagram.

@@ -10,7 +10,7 @@ order: 8
 
 * The [codebase](../glossary.md#codebase) MUST contain documentation of its objectives, like a mission and goal statement, that is understandable by developers and designers so that they can use or contribute to the codebase.
 * Codebase documentation SHOULD clearly describe the connections between policy objectives and codebase objectives.
-* Documenting the objectives of the codebase for the general public is OPTIONAL.
+* Documenting the objectives of the codebase for the [general public](../glossary.md#general-public) is OPTIONAL.
 
 ## Why this is important
 
