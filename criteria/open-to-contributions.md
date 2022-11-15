@@ -8,7 +8,7 @@ order: 4
 
 ## Requirements
 
-* The codebase MUST allow anyone to submit suggestions for changes to the codebase.
+* The [codebase](../glossary.md#codebase) MUST allow anyone to submit suggestions for changes to the codebase.
 * The codebase MUST include contribution guidelines explaining what kinds of contributions are welcome and how contributors can get involved, for example in a `CONTRIBUTING` file.
 * The codebase MUST document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file.
 * The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance.

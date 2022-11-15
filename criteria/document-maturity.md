@@ -10,7 +10,7 @@ redirect_from:
 
 ## Requirements
 
-* The codebase MUST be versioned.
+* The [codebase](../glossary.md#codebase) MUST be versioned.
 * The codebase that is ready to use MUST only depend on other codebases that are also ready to use.
 * The codebase that is not yet ready to use MUST have one of the labels: prototype, alpha, beta or pre-release version.
 * The codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`.

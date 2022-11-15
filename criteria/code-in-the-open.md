@@ -27,7 +27,7 @@ These aspects together create more opportunities for citizens to understand how 
 ## What this does not do
 
 * Make source code or policy reusable.
-* Make the codebase and the code within it understandable to as many people as possible.
+* Make the [codebase](../glossary.md#codebase) and the code within it understandable to as many people as possible.
 
 ## How to test
 

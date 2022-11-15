@@ -9,7 +9,7 @@ order: 14
 
 ## Requirements
 
-* The codebase MUST be findable using a search engine by describing the problem it solves in natural language.
+* The [codebase](../glossary.md#codebase) MUST be findable using a search engine by describing the problem it solves in natural language.
 * The codebase MUST be findable using a search engine by codebase name.
 * Maintainers SHOULD submit the codebase to relevant software catalogs.
 * The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
