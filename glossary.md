@@ -64,7 +64,9 @@ To facilitate reuse, public code should be either released into the public domai
 
 ## Repository
 
-In revision (or version) control systems, a repository is a data structure which stores metadata for a set of files or directory structure. (source: SVNBook)
+A repository is a storage location used by version control tools for files and metadata of a codebase.
+Repositories allow multiple developers to work on the same set of files.
+Repositories are able to store multiple versions of sets of files.
 
 ## Version control
 
