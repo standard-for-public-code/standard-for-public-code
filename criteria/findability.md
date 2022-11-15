@@ -13,7 +13,7 @@ order: 14
 * The codebase MUST be findable using a search engine by codebase name.
 * Maintainers SHOULD submit the codebase to relevant software catalogs.
 * The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
-* The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, repository location and website.
+* The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, [repository](../glossary.md#repository) location and website.
 * The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file.
 * A dedicated domain name for the codebase is OPTIONAL.
 * Regular presentations at conferences by the community are OPTIONAL.
