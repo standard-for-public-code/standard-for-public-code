@@ -8,7 +8,7 @@ order: 12
 
 ## Requirements
 
-* All functionality in the source code MUST have automated tests.
+* All functionality in the source [code](../glossary.md#code) MUST have automated tests.
 * Contributions MUST pass all automated tests before they are admitted into the codebase.
 * The codebase MUST have guidelines explaining how to structure contributions.
 * The codebase MUST have active contributors.

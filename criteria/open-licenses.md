@@ -8,7 +8,7 @@ order: 13
 
 ## Requirements
 
-* All code and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
+* All [code](../glossary.md#code) and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
 * Software source code MUST be licensed under an [OSI-approved or FSF Free/Libre license](https://spdx.org/licenses/).
 * All code MUST be published with a license file.
 * Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.

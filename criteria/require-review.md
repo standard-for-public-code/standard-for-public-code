@@ -12,7 +12,7 @@ order: 7
 * Reviews MUST include source, policy, tests and documentation.
 * Reviewers MUST provide feedback on all decisions to not accept a contribution.
 * Contributions SHOULD conform to the standards, architecture and decisions set out in the codebase in order to pass review.
-* Reviews SHOULD include running both the code and the tests of the codebase.
+* Reviews SHOULD include running both the [code](../glossary.md#code) and the tests of the codebase.
 * Contributions SHOULD be reviewed by someone in a different context than the contributor.
 * Version control systems SHOULD NOT accept non-reviewed contributions in release versions.
 * Reviews SHOULD happen within two business days.

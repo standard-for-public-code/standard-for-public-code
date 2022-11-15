@@ -38,7 +38,7 @@ order: 11
 
 ## Management: what you need to do
 
-* Consider including open standard compliance assessment in code reviews.
+* Consider including open standard compliance assessment in [code](../glossary.md#code) reviews.
 
 ## Developers and designers: what you need to do
 

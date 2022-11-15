@@ -21,7 +21,7 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 
 ## What this does not do
 
-* Guarantee that others will use the code.
+* Guarantee that others will use the [code](../glossary.md#code).
 
 ## How to test
 

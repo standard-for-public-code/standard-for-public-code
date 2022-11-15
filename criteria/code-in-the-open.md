@@ -8,7 +8,7 @@ order: 1
 
 ## Requirements
 
-* All source code for any policy in use (unless used for fraud detection) MUST be published and publicly accessible.
+* All source [code](../glossary.md#code) for any policy in use (unless used for fraud detection) MUST be published and publicly accessible.
 * All source code for any software in use (unless used for fraud detection) MUST be published and publicly accessible.
 * Contributors MUST NOT upload sensitive information regarding users, their organization or third parties to the [repository](../glossary.md#repository).
 * Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published.
