@@ -31,3 +31,4 @@ jobs:
       - run: ./script/test-markdown.sh
       - run: ./script/test-with-link-check.sh
       - run: ./script/find-missing-spdx.sh
+      - run: ./script/missing-glossary-links.sh
