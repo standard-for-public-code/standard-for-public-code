@@ -43,7 +43,7 @@ order: 7
 * Check if reviews cover conformance to standards, architecture and codebase guidelines.
 * Check with reviewers if they run the code and tests during review.
 * Check with reviewers if commits have been reviewed by a different contributor in a different context.
-* Check for use of branch protection in the version control system.
+* Check for use of branch protection in the [version control](../glossary.md#version-control) system.
 * Check the times between contribution submission and review.
 
 ## Policy makers: what you need to do
