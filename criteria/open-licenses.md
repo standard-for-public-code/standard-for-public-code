@@ -29,7 +29,7 @@ order: 13
 * Confirm that the license for the source code is on the [OSI-approved or FSF Free/Libre license list](https://spdx.org/licenses/) and the license for documentation [conforms to the Open Definition](https://opendefinition.org/licenses/).
 * Confirm that the licenses used in the codebase are included as files.
 * Confirm that contribution guidelines and [repository](../glossary.md#repository) configuration do not require transfer of copyright.
-* Check for machine-readable license checking in the codebase continuous integration tests.
+* Check for machine-readable license checking in the codebase [continuous integration](../glossary.md#continuous-integration) tests.
 
 ## Policy makers: what you need to do
 

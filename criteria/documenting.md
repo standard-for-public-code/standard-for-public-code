@@ -15,7 +15,7 @@ order: 9
 * The documentation of the codebase SHOULD contain a section describing how to install and run a standalone version of the source code, including, if necessary, a test dataset.
 * The documentation of the codebase SHOULD contain examples for all functionality.
 * The documentation SHOULD describe the key components or modules of the codebase and their relationships, for example as a high level architectural diagram.
-* There SHOULD be continuous integration tests for the quality of the documentation.
+* There SHOULD be [continuous integration](../glossary.md#continuous-integration) tests for the quality of the documentation.
 * Including examples that make users want to immediately start using the codebase in the documentation of the codebase is OPTIONAL.
 * Testing the code by using examples in the documentation is OPTIONAL.
 

@@ -42,7 +42,7 @@ order: 11
 
 ## Developers and designers: what you need to do
 
-* Add continuous integration tests for compliance with the standards.
+* Add [continuous integration](../glossary.md#continuous-integration) tests for compliance with the standards.
 * Review the commits and other [repository](../glossary.md#repository) resources for references to standards and cross-check those with the standards listed.
 
 ## Further reading

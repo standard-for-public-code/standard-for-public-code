@@ -19,7 +19,7 @@ order: 12
 
 ## Why this is important
 
-* Using continuous integration:
+* Using [continuous integration](../glossary.md#continuous-integration):
   * allows you to quickly identify problems with the codebase,
   * enables risk taking and focusing on problem solving while minimizing stress for the contributors,
   * lowers barriers for new contributors by reducing the amount of understanding necessary to suggest changes,
