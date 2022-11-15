@@ -9,7 +9,7 @@ order: 7
 ## Requirements
 
 * All contributions that are accepted or committed to release versions of the [codebase](../glossary.md#codebase) MUST be reviewed by another contributor.
-* Reviews MUST include source, policy, tests and documentation.
+* Reviews MUST include source, [policy](../glossary.md#policy), tests and documentation.
 * Reviewers MUST provide feedback on all decisions to not accept a contribution.
 * Contributions SHOULD conform to the standards, architecture and decisions set out in the codebase in order to pass review.
 * Reviews SHOULD include running both the [code](../glossary.md#code) and the tests of the codebase.

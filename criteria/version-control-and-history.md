@@ -49,7 +49,7 @@ Distributed version control enables you to:
 
 ## Policy makers: what you need to do
 
-* If a new version of the codebase is created because of a policy change, make sure it's clear in the documentation:
+* If a new version of the codebase is created because of a [policy](../glossary.md#policy) change, make sure it's clear in the documentation:
   * what the policy change is,
   * how it's changed the codebase.
 

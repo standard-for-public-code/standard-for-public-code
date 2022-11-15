@@ -29,7 +29,7 @@ order: 15
 
 ## Policy makers: what you need to do
 
-* Create, follow and continually improve on a style guide for policy and documentation as well as document this in the codebase, for example in the `CONTRIBUTING` or `README`.
+* Create, follow and continually improve on a style guide for [policy](../glossary.md#policy) and documentation as well as document this in the codebase, for example in the `CONTRIBUTING` or `README`.
 
 ## Management: what you need to do
 

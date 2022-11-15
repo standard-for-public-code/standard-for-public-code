@@ -47,4 +47,4 @@ order: 11
 
 ## Further reading
 
-* [Open Standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), policy paper of the UK Cabinet Office.
+* [Open Standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), [policy](../glossary.md#policy) paper of the UK Cabinet Office.

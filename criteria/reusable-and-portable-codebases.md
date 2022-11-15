@@ -43,7 +43,7 @@ order: 3
 
 ## Policy makers: what you need to do
 
-* Document your policy with enough clarity and detail that it can be understood outside of its original context.
+* Document your [policy](../glossary.md#policy) with enough clarity and detail that it can be understood outside of its original context.
 * Make sure your organization is listed as a known user by the codebase.
 
 ## Management: what you need to do

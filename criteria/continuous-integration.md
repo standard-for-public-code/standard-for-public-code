@@ -14,7 +14,7 @@ order: 12
 * The codebase MUST have active contributors.
 * The codebase guidelines SHOULD state that each contribution should focus on a single issue.
 * Source code test and documentation coverage SHOULD be monitored.
-* Testing policy and documentation for consistency with the source and vice versa is OPTIONAL.
+* Testing [policy](../glossary.md#policy) and documentation for consistency with the source and vice versa is OPTIONAL.
 * Testing policy and documentation for style and broken links is OPTIONAL.
 
 ## Why this is important

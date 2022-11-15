@@ -33,7 +33,7 @@ order: 5
 
 ## Policy makers: what you need to do
 
-* Track policy issues in the codebase, so that a relevant external policy expert can volunteer help.
+* Track [policy](../glossary.md#policy) issues in the codebase, so that a relevant external policy expert can volunteer help.
 
 ## Management: what you need to do
 

@@ -45,7 +45,7 @@ order: 14
 
 * Contribute a description of the policy area or problem this codebase acts on or operates.
 * Test your problem description with peers outside of your context who aren't familiar with the codebase.
-* Present on how the codebase implements the policy at relevent conferences.
+* Present on how the codebase implements the [policy](../glossary.md#policy) at relevent conferences.
 
 ## Management: what you need to do
 

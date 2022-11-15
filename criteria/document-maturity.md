@@ -33,7 +33,7 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 
 ## Policy makers: what you need to do
 
-* When developing policy, understand that any code developed needs to be tested and improved before it can be put into service.
+* When developing [policy](../glossary.md#policy), understand that any code developed needs to be tested and improved before it can be put into service.
 * Consider versioning policy changes, especially when they trigger new versions of the source code.
 
 ## Management: what you need to do
