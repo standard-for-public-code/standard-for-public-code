@@ -58,5 +58,5 @@ order: 4
 
 * [Building welcoming communities](https://opensource.guide/building-community/) by Open Source Guides.
 * [The Open Source Contributor Funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) by Mike McQuaid.
-* [Leadership and governance](https://opensource.guide/leadership-and-governance/) for growing open source community projects, by Open Source Guides.
+* [Leadership and governance](https://opensource.guide/leadership-and-governance/) for growing [open source](../glossary.md#open-source) community projects, by Open Source Guides.
 * [Building online communities](http://hintjens.com/blog:117) by Pieter Hintjens (long read!).
