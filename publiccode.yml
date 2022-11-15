@@ -1,0 +1,74 @@
+# SPDX-License-Identifier: CC0-1.0
+# 2022 by The Foundation for Public Code <info@publiccode.net>
+# This repository adheres to the publiccode.yml standard by including this 
+# metadata file that makes public software easily discoverable.
+# More info at https://github.com/italia/publiccode.yml
+
+publiccodeYmlVersion: '0.2'
+categories:
+  - collaboration
+  - project-collaboration
+description:
+  en:
+    features:
+      - enables collabration
+      - enables successful future reuse
+      - |-
+        gives public organizations a model for building their own open source
+        solutions
+      - |-
+        gives guidance for policy makers, city administrators, developers and
+        vendors
+    genericName: standard
+    localisedName: Standard for Public Code
+    longDescription: |
+      The Standard for Public Code gives public organizations a model for
+      preparing open source solutions to enable collaborations with similar
+      public organizations in other places. It includes guidance for policy
+      makers, city administrators, developers and vendors.
+
+
+      We define ‘public code’ as open source software developed by public
+      organizations, together with the policy and guidance needed for
+      collaboration and reuse.
+
+
+      The Standard is recognized as a [Digital Public
+      Good](https://digitalpublicgoods.net/registry/standard-for-public-code.html)
+      by the [Digital Public Goods Alliance](https://digitalpublicgoods.net/).
+    shortDescription: |-
+      It gives public organizations a model for preparing open source solutions
+      to enable collaborations with similar public organizations in other
+      places.
+    videos:
+      - 'https://www.youtube.com/watch?v=QWt6vB-cipE'
+developmentStatus: beta
+landingURL: 'https://standard.publiccode.net'
+legal:
+  authorsFile: 'https://raw.githubusercontent.com/publiccodenet/standard/master/AUTHORS.md'
+  license: CC0-1.0
+  mainCopyrightOwner: Foundation for Public Code
+  repoOwner: Foundation for Public Code
+localisation:
+  availableLanguages:
+    - en
+  localisationReady: false
+maintenance:
+  contacts:
+    - affiliation: Foundation for Public Code
+      email: eric@publiccode.net
+      name: Eric Herman
+    - affiliation: Foundation for Public Code
+      email: jan@publiccode.net
+      name: Jan Ainali
+  type: internal
+name: Standard for Public Code
+platforms:
+  - web
+releaseDate: '2022-09-07'
+roadmap: 'https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md'
+softwareType: standalone/other
+softwareVersion: 0.4.0
+url: 'https://github.com/publiccodenet/standard'
+usedBy:
+  - Provincie Zuid-Holland
