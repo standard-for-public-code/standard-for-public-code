@@ -8,7 +8,7 @@ order: 11
 
 ## Requirements
 
-* For features of a codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
+* For features of the codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
 * Any non-open standards used MUST be recorded clearly as such in the documentation.
 * Any standard chosen for use within the codebase MUST be listed in the documentation with a link to where it is available.
 * Any non-open standards chosen for use within the codebase MUST NOT hinder collaboration and reuse.
