@@ -23,8 +23,8 @@ Documenting which source code or policy underpins any specific interaction the g
 
 Requirement | meets | &nbsp;links&nbsp;and&nbsp;notes&nbsp;
 -----|-----|-----
-A codebase MUST include the policy that the source code is based on. |  |
-A codebase MUST include all source code that the policy is based on, unless used for fraud detection. |  |
+The codebase MUST include the policy that the source code is based on. |  |
+The codebase MUST include all source code that the policy is based on, unless used for fraud detection. |  |
 Policy SHOULD be provided in machine readable and unambiguous formats. |  |
 Continuous integration tests SHOULD validate that the source code and the policy are executed coherently. |  |
 
@@ -76,7 +76,7 @@ The documentation SHOULD include instructions for how to report potentially secu
 Requirement | meets | &nbsp;links&nbsp;and&nbsp;notes&nbsp;
 -----|-----|-----
 The community MUST have a way to maintain version control for the code. |  |
-All files in a codebase MUST be version controlled. |  |
+All files in the codebase MUST be version controlled. |  |
 All decisions MUST be documented in commit messages. |  |
 Every commit message MUST link to discussions and issues wherever possible. |  |
 The codebase SHOULD be maintained in a distributed version control system. |  |
@@ -149,7 +149,7 @@ Providing a translation of any code, documentation or tests is OPTIONAL. |  |
 
 Requirement | meets | &nbsp;links&nbsp;and&nbsp;notes&nbsp;
 -----|-----|-----
-For features of a codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr). |  |
+For features of the codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr). |  |
 Any non-open standards used MUST be recorded clearly as such in the documentation. |  |
 Any standard chosen for use within the codebase MUST be listed in the documentation with a link to where it is available. |  |
 Any non-open standards chosen for use within the codebase MUST NOT hinder collaboration and reuse. |  |
@@ -216,7 +216,7 @@ Including sections on [understandable English](https://standard.publiccode.net/c
 
 Requirement | meets | &nbsp;links&nbsp;and&nbsp;notes&nbsp;
 -----|-----|-----
-A codebase MUST be versioned. |  |
-A codebase that is ready to use MUST only depend on other codebases that are also ready to use. |  |
-A codebase that is not yet ready to use MUST have one of the labels: prototype, alpha, beta or pre-release version. |  |
-A codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`. |  |
+The codebase MUST be versioned. |  |
+The codebase that is ready to use MUST only depend on other codebases that are also ready to use. |  |
+The codebase that is not yet ready to use MUST have one of the labels: prototype, alpha, beta or pre-release version. |  |
+The codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`. |  |

@@ -9,7 +9,7 @@ order: 6
 ## Requirements
 
 * The community MUST have a way to maintain version control for the code.
-* All files in a codebase MUST be version controlled.
+* All files in the codebase MUST be version controlled.
 * All decisions MUST be documented in commit messages.
 * Every commit message MUST link to discussions and issues wherever possible.
 * The codebase SHOULD be maintained in a distributed version control system.

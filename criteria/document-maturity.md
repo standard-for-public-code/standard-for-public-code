@@ -10,10 +10,10 @@ redirect_from:
 
 ## Requirements
 
-* A codebase MUST be versioned.
-* A codebase that is ready to use MUST only depend on other codebases that are also ready to use.
-* A codebase that is not yet ready to use MUST have one of the labels: prototype, alpha, beta or pre-release version.
-* A codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`.
+* The codebase MUST be versioned.
+* The codebase that is ready to use MUST only depend on other codebases that are also ready to use.
+* The codebase that is not yet ready to use MUST have one of the labels: prototype, alpha, beta or pre-release version.
+* The codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`.
 
 ## Why this is important
 
