@@ -8,18 +8,18 @@ order: 12
 
 ## Requirements
 
-* All functionality in the source code MUST have automated tests.
-* Contributions MUST pass all automated tests before they are admitted into the codebase.
+* All functionality in the source [code](../glossary.md#code) MUST have automated tests.
+* Contributions MUST pass all automated tests before they are admitted into the [codebase](../glossary.md#codebase).
 * The codebase MUST have guidelines explaining how to structure contributions.
 * The codebase MUST have active contributors.
 * The codebase guidelines SHOULD state that each contribution should focus on a single issue.
 * Source code test and documentation coverage SHOULD be monitored.
-* Testing policy and documentation for consistency with the source and vice versa is OPTIONAL.
+* Testing [policy](../glossary.md#policy) and documentation for consistency with the source and vice versa is OPTIONAL.
 * Testing policy and documentation for style and broken links is OPTIONAL.
 
 ## Why this is important
 
-* Using continuous integration:
+* Using [continuous integration](../glossary.md#continuous-integration):
   * allows you to quickly identify problems with the codebase,
   * enables risk taking and focusing on problem solving while minimizing stress for the contributors,
   * lowers barriers for new contributors by reducing the amount of understanding necessary to suggest changes,

@@ -8,8 +8,8 @@ order: 10
 
 ## Requirements
 
-* All codebase documentation MUST be in English.
-* All code MUST be in English, except where policy is machine interpreted as code.
+* All [codebase](../glossary.md#codebase) documentation MUST be in English.
+* All [code](../glossary.md#code) MUST be in English, except where [policy](../glossary.md#policy) is machine interpreted as code.
 * All bundled policy not available in English MUST have an accompanying summary in English.
 * Any translation MUST be up to date with the English version and vice versa.
 * There SHOULD be no acronyms, abbreviations, puns or legal/non-English/domain specific terms in the codebase without an explanation preceding it or a link to an explanation.

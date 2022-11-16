@@ -10,7 +10,7 @@ redirect_from:
 
 ## Requirements
 
-* The codebase MUST be versioned.
+* The [codebase](../glossary.md#codebase) MUST be versioned.
 * The codebase that is ready to use MUST only depend on other codebases that are also ready to use.
 * The codebase that is not yet ready to use MUST have one of the labels: prototype, alpha, beta or pre-release version.
 * The codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`.
@@ -21,7 +21,7 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 
 ## What this does not do
 
-* Guarantee that others will use the code.
+* Guarantee that others will use the [code](../glossary.md#code).
 
 ## How to test
 
@@ -33,7 +33,7 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 
 ## Policy makers: what you need to do
 
-* When developing policy, understand that any code developed needs to be tested and improved before it can be put into service.
+* When developing [policy](../glossary.md#policy), understand that any code developed needs to be tested and improved before it can be put into service.
 * Consider versioning policy changes, especially when they trigger new versions of the source code.
 
 ## Management: what you need to do
@@ -42,14 +42,14 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 * If the codebase is not ready for general use, work with the developers to ensure the codebase is properly labeled:
   * prototype: to test the look and feel, and to internally prove the concept of the technical possibilities,
   * alpha: to do guided tests with a limited set of users,
-  * beta: to open up testing to a larger section of the general public, for example to test if the codebase works at scale,
+  * beta: to open up testing to a larger section of the [general public](../glossary.md#general-public), for example to test if the codebase works at scale,
   * pre-release version: code that is ready to be released but hasn't received formal approval yet.
 
 ## Developers and designers: what you need to do
 
 * Add a prominent header to every interface that indicates the maturity level of the code.
 * Version all releases.
-* Especially in 'rolling release' scenarios, the version may be automatically derived from the version control system metadata (for example by using [git describe](https://git-scm.com/docs/git-describe)).
+* Especially in 'rolling release' scenarios, the version may be automatically derived from the [version control](../glossary.md#version-control) system metadata (for example by using [git describe](https://git-scm.com/docs/git-describe)).
 
 ## Further reading
 

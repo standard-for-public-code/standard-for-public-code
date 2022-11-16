@@ -8,8 +8,8 @@ order: 6
 
 ## Requirements
 
-* The community MUST have a way to maintain version control for the code.
-* All files in the codebase MUST be version controlled.
+* The community MUST have a way to maintain [version control](../glossary.md#version-control) for the [code](../glossary.md#code).
+* All files in the [codebase](../glossary.md#codebase) MUST be version controlled.
 * All decisions MUST be documented in commit messages.
 * Every commit message MUST link to discussions and issues wherever possible.
 * The codebase SHOULD be maintained in a distributed version control system.
@@ -49,7 +49,7 @@ Distributed version control enables you to:
 
 ## Policy makers: what you need to do
 
-* If a new version of the codebase is created because of a policy change, make sure it's clear in the documentation:
+* If a new version of the codebase is created because of a [policy](../glossary.md#policy) change, make sure it's clear in the documentation:
   * what the policy change is,
   * how it's changed the codebase.
 

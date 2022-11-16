@@ -8,7 +8,7 @@ order: 11
 
 ## Requirements
 
-* For features of the codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
+* For features of the [codebase](../glossary.md#codebase) that facilitate the exchange of data the codebase MUST use an [open standard](../glossary.md#open-standard) that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
 * Any non-open standards used MUST be recorded clearly as such in the documentation.
 * Any standard chosen for use within the codebase MUST be listed in the documentation with a link to where it is available.
 * Any non-open standards chosen for use within the codebase MUST NOT hinder collaboration and reuse.
@@ -38,13 +38,13 @@ order: 11
 
 ## Management: what you need to do
 
-* Consider including open standard compliance assessment in code reviews.
+* Consider including open standard compliance assessment in [code](../glossary.md#code) reviews.
 
 ## Developers and designers: what you need to do
 
-* Add continuous integration tests for compliance with the standards.
-* Review the commits and other repository resources for references to standards and cross-check those with the standards listed.
+* Add [continuous integration](../glossary.md#continuous-integration) tests for compliance with the standards.
+* Review the commits and other [repository](../glossary.md#repository) resources for references to standards and cross-check those with the standards listed.
 
 ## Further reading
 
-* [Open Standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), policy paper of the UK Cabinet Office.
+* [Open Standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles), [policy](../glossary.md#policy) paper of the UK Cabinet Office.

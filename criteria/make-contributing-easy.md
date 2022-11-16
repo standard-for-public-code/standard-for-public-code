@@ -8,7 +8,7 @@ order: 5
 
 ## Requirements
 
-* The codebase MUST have a public issue tracker that accepts suggestions from anyone.
+* The [codebase](../glossary.md#codebase) MUST have a public issue tracker that accepts suggestions from anyone.
 * The codebase MUST include instructions for how to privately report security issues for responsible disclosure.
 * The documentation MUST link to both the public issue tracker and submitted codebase changes, for example in a `README` file.
 * The codebase MUST have communication channels for users and developers, for example email lists.
@@ -33,7 +33,7 @@ order: 5
 
 ## Policy makers: what you need to do
 
-* Track policy issues in the codebase, so that a relevant external policy expert can volunteer help.
+* Track [policy](../glossary.md#policy) issues in the codebase, so that a relevant external policy expert can volunteer help.
 
 ## Management: what you need to do
 

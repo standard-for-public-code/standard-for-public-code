@@ -8,11 +8,11 @@ order: 7
 
 ## Requirements
 
-* All contributions that are accepted or committed to release versions of the codebase MUST be reviewed by another contributor.
-* Reviews MUST include source, policy, tests and documentation.
+* All contributions that are accepted or committed to release versions of the [codebase](../glossary.md#codebase) MUST be reviewed by another contributor.
+* Reviews MUST include source, [policy](../glossary.md#policy), tests and documentation.
 * Reviewers MUST provide feedback on all decisions to not accept a contribution.
 * Contributions SHOULD conform to the standards, architecture and decisions set out in the codebase in order to pass review.
-* Reviews SHOULD include running both the code and the tests of the codebase.
+* Reviews SHOULD include running both the [code](../glossary.md#code) and the tests of the codebase.
 * Contributions SHOULD be reviewed by someone in a different context than the contributor.
 * Version control systems SHOULD NOT accept non-reviewed contributions in release versions.
 * Reviews SHOULD happen within two business days.
@@ -43,7 +43,7 @@ order: 7
 * Check if reviews cover conformance to standards, architecture and codebase guidelines.
 * Check with reviewers if they run the code and tests during review.
 * Check with reviewers if commits have been reviewed by a different contributor in a different context.
-* Check for use of branch protection in the version control system.
+* Check for use of branch protection in the [version control](../glossary.md#version-control) system.
 * Check the times between contribution submission and review.
 
 ## Policy makers: what you need to do

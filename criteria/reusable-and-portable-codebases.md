@@ -8,8 +8,8 @@ order: 3
 
 ## Requirements
 
-* The codebase MUST be developed to be reusable in different contexts.
-* The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed code or services for execution and understanding.
+* The [codebase](../glossary.md#codebase) MUST be developed to be reusable in [different contexts](../glossary.md#different-contexts).
+* The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed [code](../glossary.md#code) or services for execution and understanding.
 * The codebase SHOULD be in use by multiple parties.
 * The roadmap SHOULD be influenced by the needs of multiple parties.
 * Configuration SHOULD be used to make code adapt to context specific needs.
@@ -43,7 +43,7 @@ order: 3
 
 ## Policy makers: what you need to do
 
-* Document your policy with enough clarity and detail that it can be understood outside of its original context.
+* Document your [policy](../glossary.md#policy) with enough clarity and detail that it can be understood outside of its original context.
 * Make sure your organization is listed as a known user by the codebase.
 
 ## Management: what you need to do
