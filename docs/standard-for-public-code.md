@@ -175,7 +175,7 @@ Testing policy and documentation for style and broken links is OPTIONAL. | Ok |
 
 ## [Publish with an open license](https://standard.publiccode.net/criteria/open-licenses.html)
 
-- [ ] criterion met.
+- [x] criterion met.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -183,7 +183,7 @@ All code and documentation MUST be licensed such that it may be freely reusable,
 Software source code MUST be licensed under an [OSI-approved or FSF Free/Libre license](https://spdx.org/licenses/). | Ok | CC 0
 All code MUST be published with a license file. | Ok | CC 0
 Contributors MUST NOT be required to transfer copyright of their contributions to the codebase. | Ok |
-All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable. |  | almost all files have SPDX
+All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable. | Ok |
 Having multiple licenses for different types of code and documentation is OPTIONAL. | Ok | CC0
 
 ## [Make the codebase findable](https://standard.publiccode.net/criteria/findability.html)
