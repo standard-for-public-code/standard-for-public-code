@@ -1,4 +1,2038 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- created with bpmn-js / http://bpmn.io -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1255" height="875" viewBox="-1 -1 1255 875" version="1.1"><defs><marker id="sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x" viewBox="0 0 20 20" refX="11" refY="10" markerWidth="10" markerHeight="10" orient="auto"><path d="M 1 5 L 11 10 L 1 15 Z" style="fill: black; stroke-width: 1px; stroke-linecap: round; stroke-dasharray: 10000, 1; stroke: black;"/></marker></defs><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Participant_1uzdwi9" style="display: block;" transform="translate(5 5)"><g class="djs-visual"><rect x="0" y="0" width="1243" height="863" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><polyline points="30,0 30,863 " style="fill: none; stroke: black; stroke-width: 2px;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;" transform="matrix(-1.83697e-16 -1 1 -1.83697e-16 0 863)"><tspan x="357.4609375" y="18.6">Merge Request Acceptance</tspan></text></g><rect x="0" y="0" width="1243" height="863" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="1255" height="875" class="djs-outline" style="fill: none;"/></g><g class="djs-children"><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Lane_076vdb4" style="display: block;" transform="translate(35 511)"><g class="djs-visual"><rect x="0" y="0" width="1213" height="357" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.35;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;" transform="matrix(-1.83697e-16 -1 1 -1.83697e-16 0 357)"><tspan x="92.921875" y="18.6">Maintainers (community or staff)</tspan></text></g><rect x="0" y="0" width="1213" height="357" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="1225" height="369" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Lane_1f7md8k" style="display: block;" transform="translate(35 251)"><g class="djs-visual"><rect x="0" y="0" width="1213" height="260" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.35;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;" transform="matrix(-1.83697e-16 -1 1 -1.83697e-16 0 260)"><tspan x="94.109375" y="18.6">Auditor (staff)</tspan></text></g><rect x="0" y="0" width="1213" height="260" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="1225" height="272" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Lane_1nksklx" style="display: block;" transform="translate(35 5)"><g class="djs-visual"><rect x="0" y="0" width="1213" height="246" rx="0" ry="0" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.35;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;" transform="matrix(-1.83697e-16 -1 1 -1.83697e-16 0 246)"><tspan x="93.2421875" y="18.6">Contributor</tspan></text></g><rect x="0" y="0" width="1213" height="246" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="1225" height="258" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_0nv73yk" style="display: block;"><g class="djs-visual"><path d="m  264,101L264,153 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="264,101 264,153 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="258" y="95" width="12" height="64" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_03617zc" style="display: block;"><g class="djs-visual"><path d="m  1023,83L282,83 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="1023,83 282,83 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="276" y="77" width="753" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_12cjvcl" style="display: block;"><g class="djs-visual"><path d="m  326,688L404,688 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="326,688 404,688 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="320" y="682" width="90" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_1ol70ri" style="display: block;"><g class="djs-visual"><path d="m  429,713L429,798 L550,798 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="429,713 429,798 550,798 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="423" y="707" width="133" height="97" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_0rhyzwy" style="display: block;"><g class="djs-visual"><path d="m  454,688L551,688 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="454,688 551,688 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="448" y="682" width="109" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_1jqz1t4" style="display: block;"><g class="djs-visual"><path d="m  429,663L429,583 L552,583 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="429,663 429,583 552,583 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="423" y="577" width="135" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_1di9x3v" style="display: block;"><g class="djs-visual"><path d="m  652,583L709,583 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="652,583 709,583 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="646" y="577" width="69" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_1yp8rot" style="display: block;"><g class="djs-visual"><path d="m  759,583L857,583 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="759,583 857,583 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="753" y="577" width="110" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_05mfz70" style="display: block;"><g class="djs-visual"><path d="m  650,798L1055,798 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="650,798 1055,798 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="644" y="792" width="417" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_12xd7jy" style="display: block;"><g class="djs-visual"><path d="m  651,688L1023,688 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="651,688 1023,688 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="645" y="682" width="384" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_1xn8nqf" style="display: block;"><g class="djs-visual"><path d="m  957,583L1055,583 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="957,583 1055,583 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="951" y="577" width="110" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_1kn34sd" style="display: block;"><g class="djs-visual"><path d="m  659,329L709,329 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="659,329 709,329 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="653" y="323" width="62" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_0cs7czv" style="display: block;"><g class="djs-visual"><path d="m  460,329L559,329 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="460,329 559,329 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="454" y="323" width="111" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_0tgi5qa" style="display: block;"><g class="djs-visual"><path d="m  759,329L857,329 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="759,329 857,329 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="753" y="323" width="110" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_1rtxdkq" style="display: block;"><g class="djs-visual"><path d="m  1123,329L1178,329 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="1123,329 1178,329 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1117" y="323" width="67" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_09bfug6" style="display: block;"><g class="djs-visual"><path d="m  957,329L1023,329 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="957,329 1023,329 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="951" y="323" width="78" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_0a4skj5" style="display: block;"><g class="djs-visual"><path d="m  734,354L734,399 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="734,354 734,399 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="728" y="348" width="12" height="57" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_0d0j1o9" style="display: block;"><g class="djs-visual"><path d="m  1123,688L1203,688 L1203,354 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="1123,688 1203,688 1203,354 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1117" y="348" width="92" height="346" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_03bhxgc" style="display: block;"><g class="djs-visual"><path d="m  289,178L410,178 L410,289 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="289,178 410,178 410,289 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="283" y="172" width="133" height="123" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_198eo1f" style="display: block;"><g class="djs-visual"><path d="m  264,203L264,648 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="264,203 264,648 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="258" y="197" width="12" height="457" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_05mjxtu" style="display: block;"><g class="djs-visual"><path d="m  1203,304L1203,83 L1123,83 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="1203,304 1203,83 1123,83 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="1117" y="77" width="92" height="233" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_0y1tbfz" style="display: block;"><g class="djs-visual"><path d="m  734,479L734,558 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="734,479 734,558 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="728" y="473" width="12" height="91" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="SequenceFlow_1n2lokl" style="display: block;"><g class="djs-visual"><path d="m  151,178L239,178 " style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"/></g><polyline points="151,178 239,178 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="145" y="172" width="100" height="12" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ExclusiveGateway_0lj1mzd" style="display: block;" transform="translate(239 153)"><g class="djs-visual"><polygon points="25,0 50,25 25,50 0,25" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><path d="m 23,10 0,12.5 -12.5,0 0,5 12.5,0 0,12.5 5,0 0,-12.5 12.5,0 0,-5 -12.5,0 0,-12.5 -5,0 z" style="fill: black; stroke-width: 1px; stroke: black;"/></g><rect x="0" y="0" width="50" height="50" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="62" height="62" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Task_1we0ftm" style="display: block;" transform="translate(684 399)"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="1.640625" y="29.200000000000003">Set request status </tspan><tspan x="4.34375" y="43.6">to 'approved' and </tspan><tspan x="12.3203125" y="58">post positively</tspan></text></g><rect x="0" y="0" width="100" height="80" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Task_0eo5k8p" style="display: block;" transform="translate(1023 289)"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="1.640625" y="29.200000000000003">Set request status</tspan><tspan x="18.171875" y="43.6">to 'Changes </tspan><tspan x="22.171875" y="58">requested'</tspan></text></g><rect x="0" y="0" width="100" height="80" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ExclusiveGateway_1taqzwp" style="display: block;" transform="translate(1178 304)"><g class="djs-visual"><polygon points="25,0 50,25 25,50 0,25" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><circle cx="25" cy="25" r="13" style="stroke: black; stroke-width: 2.5px; fill: white;"/></g><rect x="0" y="0" width="50" height="50" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="62" height="62" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Task_1jvo7yr" style="display: block;" transform="translate(857 289)"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5.640625" y="22">Post what needs </tspan><tspan x="3.6328125" y="36.4">to be done so the </tspan><tspan x="10.3125" y="50.8">contributor can </tspan><tspan x="0.96875" y="65.19999999999999">make the changes</tspan></text></g><rect x="0" y="0" width="100" height="80" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Task_1e6u030" style="display: block;" transform="translate(559 289)"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="8.6484375" y="14.799999999999999">Check changes </tspan><tspan x="23.328125" y="29.199999999999996">for project </tspan><tspan x="6.96875" y="43.599999999999994">governance and </tspan><tspan x="17.6484375" y="57.99999999999999">Public Code </tspan><tspan x="19.65625" y="72.39999999999999">compliance</tspan></text></g><rect x="0" y="0" width="100" height="80" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ExclusiveGateway_16dt4jh" style="display: block;" transform="translate(709 304)"><g class="djs-visual"><polygon points="25,0 50,25 25,50 0,25" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><path d="m 16,15 7.42857142857143,9.714285714285715 -7.42857142857143,9.714285714285715 3.428571428571429,0 5.714285714285715,-7.464228571428572 5.714285714285715,7.464228571428572 3.428571428571429,0 -7.42857142857143,-9.714285714285715 7.42857142857143,-9.714285714285715 -3.428571428571429,0 -5.714285714285715,7.464228571428572 -5.714285714285715,-7.464228571428572 -3.428571428571429,0 z" style="fill: black; stroke-width: 1px; stroke: black;"/></g><rect x="0" y="0" width="50" height="50" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="62" height="62" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Task_00zivpe" style="display: block;" transform="translate(360 289)"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="11.578125" y="14.799999999999999">Team member </tspan><tspan x="10.984375" y="29.199999999999996">assigns merge </tspan><tspan x="23.3203125" y="43.599999999999994">request to </tspan><tspan x="2.6484375" y="57.99999999999999">themselves within</tspan><tspan x="6.9765625" y="72.39999999999999">2 business days</tspan></text></g><rect x="0" y="0" width="100" height="80" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="EndEvent_0pwrxif" style="display: block;" transform="translate(1055 565)"><g class="djs-visual"><circle cx="18" cy="18" r="18" style="stroke: black; stroke-width: 4px; fill: white; fill-opacity: 0.95;"/><circle cx="18" cy="18" r="10" style="stroke: black; stroke-width: 4px; fill: black;"/></g><rect x="0" y="0" width="36" height="36" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="48" height="48" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Task_19zn6ew" style="display: block;" transform="translate(1023 648)"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="1.640625" y="29.200000000000003">Set request status</tspan><tspan x="18.171875" y="43.6">to 'Changes </tspan><tspan x="22.171875" y="58">requested'</tspan></text></g><rect x="0" y="0" width="100" height="80" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="EndEvent_0saf65e" style="display: block;" transform="translate(1055 780)"><g class="djs-visual"><circle cx="18" cy="18" r="18" style="stroke: black; stroke-width: 4px; fill: white; fill-opacity: 0.95;"/><path d="M 18,7.2 l 9,16.2 l -18,0 Z" style="fill: black; stroke-width: 1px; stroke: black;"/></g><rect x="0" y="0" width="36" height="36" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="48" height="48" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="EndEvent_0saf65e_label" style="display: block;" transform="translate(1038 823)"><g class="djs-visual"><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="0" y="9.899999999999999">Merge request </tspan><tspan x="15.8984375" y="23.099999999999998">rejected</tspan></text></g><rect x="0" y="0" width="71" height="27" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="83" height="39" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Task_086jpwe" style="display: block;" transform="translate(857 543)"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="33" y="43.599999999999994">Merge</tspan></text></g><rect x="0" y="0" width="100" height="80" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ExclusiveGateway_07enuzf" style="display: block;" transform="translate(709 558)"><g class="djs-visual"><polygon points="25,0 50,25 25,50 0,25" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><path d="m 23,10 0,12.5 -12.5,0 0,5 12.5,0 0,12.5 5,0 0,-12.5 12.5,0 0,-5 -12.5,0 0,-12.5 -5,0 z" style="fill: black; stroke-width: 1px; stroke: black;"/></g><rect x="0" y="0" width="50" height="50" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="62" height="62" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Task_14zxqvw" style="display: block;" transform="translate(552 543)"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="1.640625" y="29.200000000000003">Set request status </tspan><tspan x="4.34375" y="43.6">to 'approved' and </tspan><tspan x="12.3203125" y="58">post positively</tspan></text></g><rect x="0" y="0" width="100" height="80" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Task_1kdtu8l" style="display: block;" transform="translate(551 648)"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5.640625" y="22">Post what needs </tspan><tspan x="3.6328125" y="36.4">to be done so the </tspan><tspan x="10.3125" y="50.8">contributor can </tspan><tspan x="0.96875" y="65.19999999999999">make the changes</tspan></text></g><rect x="0" y="0" width="100" height="80" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Task_034pqdf" style="display: block;" transform="translate(550 758)"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="15.65625" y="22">Post why the </tspan><tspan x="1.96875" y="36.4">request cannot be </tspan><tspan x="2.3046875" y="50.8">merged and close </tspan><tspan x="47" y="65.19999999999999">it</tspan></text></g><rect x="0" y="0" width="100" height="80" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="ExclusiveGateway_18cpa2c" style="display: block;" transform="translate(404 663)"><g class="djs-visual"><polygon points="25,0 50,25 25,50 0,25" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><path d="m 16,15 7.42857142857143,9.714285714285715 -7.42857142857143,9.714285714285715 3.428571428571429,0 5.714285714285715,-7.464228571428572 5.714285714285715,7.464228571428572 3.428571428571429,0 -7.42857142857143,-9.714285714285715 7.42857142857143,-9.714285714285715 -3.428571428571429,0 -5.714285714285715,7.464228571428572 -5.714285714285715,-7.464228571428572 -3.428571428571429,0 z" style="fill: black; stroke-width: 1px; stroke: black;"/></g><rect x="0" y="0" width="50" height="50" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="62" height="62" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Task_0lar2cf" style="display: block;" transform="translate(226 648)"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="8.6484375" y="22">Check changes </tspan><tspan x="10.984375" y="36.4">for usefulness, </tspan><tspan x="5.6328125" y="50.8">value added and </tspan><tspan x="15.3671875" y="65.19999999999999">'mergeability'</tspan></text></g><rect x="0" y="0" width="100" height="80" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="Task_0vlsi2n" style="display: block;" transform="translate(1023 43)"><g class="djs-visual"><rect x="0" y="0" width="100" height="80" rx="10" ry="10" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="22.65625" y="14.799999999999999">Make new </tspan><tspan x="10.9921875" y="29.199999999999996">commits to the </tspan><tspan x="9.3125" y="43.599999999999994">code to resolve </tspan><tspan x="6.3125" y="57.99999999999999">review and audit </tspan><tspan x="33" y="72.39999999999999">issues</tspan></text></g><rect x="0" y="0" width="100" height="80" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="92" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="StartEvent_1" style="display: block;" transform="translate(115 160)"><g class="djs-visual"><circle cx="18" cy="18" r="18" style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"/><path d="m 8.459999999999999,11.34 l 0,12.6 l 18.900000000000002,0 l 0,-12.6 z l 9.450000000000001,5.4 l 9.450000000000001,-5.4" style="fill: white; stroke-width: 1px; stroke: black;"/></g><rect x="0" y="0" width="36" height="36" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="48" height="48" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="StartEvent_1_label" style="display: block;" transform="translate(92 203)"><g class="djs-visual"><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="13.3671875" y="9.899999999999999">Contributor </tspan><tspan x="0" y="23.099999999999998">submits a merge </tspan><tspan x="22.3046875" y="36.3">request</tspan></text></g><rect x="0" y="0" width="82" height="40" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="94" height="52" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="IntermediateThrowEvent_0p1fpyk" style="display: block;" transform="translate(246 65)"><g class="djs-visual"><circle cx="18" cy="18" r="18" style="stroke: black; stroke-width: 1px; fill: white; fill-opacity: 0.95;"/><circle cx="18" cy="18" r="15" style="stroke: black; stroke-width: 1px; fill: none;"/><path d="m 8.459999999999999,11.34 l 0,12.6 l 18.900000000000002,0 l 0,-12.6 z l 9.450000000000001,5.4 l 9.450000000000001,-5.4" style="fill: white; stroke-width: 1px; stroke: black;"/></g><rect x="0" y="0" width="36" height="36" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="48" height="48" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="IntermediateThrowEvent_0p1fpyk_label" style="display: block;" transform="translate(222 42)"><g class="djs-visual"><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="0" y="9.899999999999999">Request updated</tspan></text></g><rect x="0" y="0" width="84" height="14" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="96" height="26" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="TextAnnotation_1apl4dn" style="display: block;" transform="translate(83 28)"><g class="djs-visual"><rect x="0" y="0" width="100" height="110" rx="0" ry="0" style="stroke: none; stroke-width: 2px; fill: none;"/><path d="m 0, 0 m 10,0 l -10,0 l 0,110 l 10,0" style="fill: none; stroke-width: 2px; stroke: black;"/><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 12px; font-weight: normal; fill: black;"><tspan x="5" y="15.799999999999999">Merge request </tspan><tspan x="5" y="30.199999999999996">to a 'protected </tspan><tspan x="5" y="44.599999999999994">branch' or </tspan><tspan x="5" y="58.99999999999999">Foundation For</tspan><tspan x="5" y="73.39999999999999">Public Code </tspan><tspan x="5" y="87.79999999999998">managed </tspan><tspan x="5" y="102.19999999999999">codebase</tspan></text></g><rect x="0" y="0" width="100" height="110" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="112" height="122" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="SequenceFlow_0a4skj5_label" style="display: block;" transform="translate(741 371)"><g class="djs-visual"><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="0" y="9.899999999999999">Compliant</tspan></text></g><rect x="0" y="0" width="50" height="14" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="62" height="26" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="SequenceFlow_0tgi5qa_label" style="display: block;" transform="translate(774 311)"><g class="djs-visual"><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="0" y="9.899999999999999">Not compliant</tspan></text></g><rect x="0" y="0" width="68" height="14" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="80" height="26" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="SequenceFlow_1jqz1t4_label" style="display: block;" transform="translate(459 565)"><g class="djs-visual"><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="0" y="9.899999999999999">Can be merged</tspan></text></g><rect x="0" y="0" width="76" height="14" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="88" height="26" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="SequenceFlow_0rhyzwy_label" style="display: block;" transform="translate(464 670)"><g class="djs-visual"><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="0" y="9.899999999999999">Needs changes</tspan></text></g><rect x="0" y="0" width="77" height="14" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="89" height="26" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-shape" data-element-id="SequenceFlow_1ol70ri_label" style="display: block;" transform="translate(481 766)"><g class="djs-visual"><text lineHeight="1.2" class="djs-label" style="font-family: Arial, sans-serif; font-size: 11px; font-weight: normal; fill: black;"><tspan x="0" y="9.899999999999999">Cannot be </tspan><tspan x="6.7265625" y="23.099999999999998">merged</tspan></text></g><rect x="0" y="0" width="51" height="27" class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="-6" y="-6" width="63" height="39" class="djs-outline" style="fill: none;"/></g></g><g class="djs-group"><g class="djs-element djs-connection" data-element-id="Association_11xsykf" style="display: block;"><g class="djs-visual"><polyline points="133,160 133,138 " style="fill: none; stroke: black; stroke-width: 2px; stroke-dasharray: 0.5, 5; stroke-linecap: round; stroke-linejoin: round;"/></g><polyline points="133,160 133,138 " class="djs-hit" style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"/><rect x="127" y="132" width="12" height="34" class="djs-outline" style="fill: none;"/></g></g></g></g></svg>
+
+<svg
+   width="1255"
+   height="875"
+   viewBox="-1 -1 1255 875"
+   version="1.2"
+   id="svg897"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5">
+    <marker
+       id="sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x"
+       viewBox="0 0 20 20"
+       refX="11"
+       refY="10"
+       markerWidth="10"
+       markerHeight="10"
+       orient="auto">
+      <path
+         d="M 1 5 L 11 10 L 1 15 Z"
+         style="fill: black; stroke-width: 1px; stroke-linecap: round; stroke-dasharray: 10000, 1; stroke: black;"
+         id="path2" />
+    </marker>
+  </defs>
+  <text x="356" y="25" style="font-family: Arial; font-size: 12px;" transform="matrix(0 -1 1 0 0 863)">
+    Merge Request Acceptance
+  </text>
+  <text x="100" y="55" style="font-family: Arial; font-size: 12px;" transform="matrix(0 -1 1 0 0 863)">
+    Maintainers (community or staff)
+  </text>
+  <text x="450" y="55" style="font-family: Arial; font-size: 12px;" transform="matrix(0 -1 1 0 0 863)">
+    Auditor (staff)
+  </text>
+  <text x="700" y="55" style="font-family: Arial; font-size: 12px;" transform="matrix(0 -1 1 0 0 863)">
+    Contributor
+  </text>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="left">
+    <flowRegion>
+      <path d="M88,33.5L186,33.5L186,143.5L88,143.5z"/>
+    </flowRegion>
+      <flowPara>Merge request to a 'protected branch' or Foundation For Public Code managed codebase
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="11px" font-family="Arial" line-height="1.2" text-align="center">
+    <flowRegion>
+      <path d="M88,203L180,203L180,300L88,300z"/>
+    </flowRegion>
+      <flowPara>Contributor submits a merge request
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="11px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M214,42L314,42L314,70L214,70z"/>
+    </flowRegion>
+      <flowPara>Request updated
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M1027,47.5L1117,47.5L1117,170L1027,170z"/>
+    </flowRegion>
+      <flowPara>Make new commits to the code to resolve review and audit issues
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M363,295L458,295L458,375L363,375z"/>
+    </flowRegion>
+      <flowPara>Team member assigns merge request to themselves within 2 business days
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M565,295L655,295L655,375L565,375z"/>
+    </flowRegion>
+      <flowPara>Check changes for project governance and Public Code compliance
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="11px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M723,369L813,369L813,390L723,390z"/>
+    </flowRegion>
+      <flowPara>Compliant
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="11px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M763,311L853,311L853,332L763,332z"/>
+    </flowRegion>
+      <flowPara>Not compliant
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M864,295L954,295L954,375L864,375z"/>
+    </flowRegion>
+      <flowPara>Post what needs to be done so the contributor can make the changes
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M1027,303L1117,303L1117,400L1027,400z"/>
+    </flowRegion>
+      <flowPara>Set request status to 'Changes requested'
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M689,410L779,410L779,490L689,490z"/>
+    </flowRegion>
+      <flowPara>Set request status to 'approved' and post positively
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="11px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M449,565L539,565L539,585L449,585z"/>
+    </flowRegion>
+      <flowPara>Can be merged
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M559,555L649,555L649,635L559,635z"/>
+    </flowRegion>
+      <flowPara>Set request status to 'approved' and post positively
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M864,575L954,575L954,595L864,595z"/>
+    </flowRegion>
+      <flowPara>Merge
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M231,659L321,659L321,746L231,746z"/>
+    </flowRegion>
+      <flowPara>Check changes for usefulness, value added and 'mergeability'
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="11px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M449,667L539,667L539,687L449,687z"/>
+    </flowRegion>
+      <flowPara>Needs changes
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M556,654L646,654L646,741L556,741z"/>
+    </flowRegion>
+      <flowPara>Post what needs to be done so the contributor can make the changes
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M1027,661L1117,661L1117,748L1027,748z"/>
+    </flowRegion>
+      <flowPara>Set request status to 'Changes requested'
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="11px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M429,777L539,777L539,797L429,797z"/>
+    </flowRegion>
+      <flowPara>Cannot be merged
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="12px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M556,769L646,769L646,856L556,856z"/>
+    </flowRegion>
+      <flowPara>Post why the request cannot be merged and close it
+     </flowPara>
+  </flowRoot>
+  <flowRoot font-size="11px" font-family="Arial" line-height="1.2" text-align="center">
+       <flowRegion>
+      <path d="M1027,823L1117,823L1117,878L1027,878z"/>
+    </flowRegion>
+      <flowPara>Merge request rejected
+     </flowPara>
+  </flowRoot>
+  <g
+     class="djs-group"
+     id="g895">
+    <g
+       class="djs-element djs-shape"
+       data-element-id="Participant_1uzdwi9"
+       style="display: block;"
+       transform="translate(5 5)"
+       id="g21">
+      <g
+         class="djs-visual"
+         id="g15">
+        <rect
+           x="0"
+           y="0"
+           width="1243"
+           height="863"
+           rx="0"
+           ry="0"
+           style="stroke: black; stroke-width: 2px; fill: none;"
+           id="rect7" />
+        <polyline
+           points="30,0 30,863 "
+           style="fill: none; stroke: black; stroke-width: 2px;"
+           id="polyline9" />
+      </g>
+      <rect
+         x="0"
+         y="0"
+         width="1243"
+         height="863"
+         class="djs-hit"
+         style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+         id="rect17" />
+      <rect
+         x="-6"
+         y="-6"
+         width="1255"
+         height="875"
+         class="djs-outline"
+         style="fill: none;"
+         id="rect19" />
+    </g>
+    <g
+       class="djs-children"
+       id="g893">
+      <g
+         class="djs-group"
+         id="g37">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Lane_076vdb4"
+           style="display: block;"
+           transform="translate(35 511)"
+           id="g35">
+          <g
+             class="djs-visual"
+             id="g29">
+            <rect
+               x="0"
+               y="0"
+               width="1213"
+               height="357"
+               rx="0"
+               ry="0"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect23" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="1213"
+             height="357"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect31" />
+          <rect
+             x="-6"
+             y="-6"
+             width="1225"
+             height="369"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect33" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g53">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Lane_1f7md8k"
+           style="display: block;"
+           transform="translate(35 251)"
+           id="g51">
+          <g
+             class="djs-visual"
+             id="g45">
+            <rect
+               x="0"
+               y="0"
+               width="1213"
+               height="260"
+               rx="0"
+               ry="0"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect39" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="1213"
+             height="260"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect47" />
+          <rect
+             x="-6"
+             y="-6"
+             width="1225"
+             height="272"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect49" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g69">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Lane_1nksklx"
+           style="display: block;"
+           transform="translate(35 5)"
+           id="g67">
+          <g
+             class="djs-visual"
+             id="g61">
+            <rect
+               x="0"
+               y="0"
+               width="1213"
+               height="246"
+               rx="0"
+               ry="0"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect55" />
+          </g>
+          <rect
+             x="-6"
+             y="-6"
+             width="1225"
+             height="258"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect65" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g81">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_0nv73yk"
+           style="display: block;"
+           id="g79">
+          <g
+             class="djs-visual"
+             id="g73">
+            <path
+               d="m  264,101L264,153 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path71" />
+          </g>
+          <polyline
+             points="264,101 264,153 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline75" />
+          <rect
+             x="258"
+             y="95"
+             width="12"
+             height="64"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect77" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g93">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_03617zc"
+           style="display: block;"
+           id="g91">
+          <g
+             class="djs-visual"
+             id="g85">
+            <path
+               d="m  1023,83L282,83 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path83" />
+          </g>
+          <polyline
+             points="1023,83 282,83 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline87" />
+          <rect
+             x="276"
+             y="77"
+             width="753"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect89" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g105">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_12cjvcl"
+           style="display: block;"
+           id="g103">
+          <g
+             class="djs-visual"
+             id="g97">
+            <path
+               d="m  326,688L404,688 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path95" />
+          </g>
+          <polyline
+             points="326,688 404,688 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline99" />
+          <rect
+             x="320"
+             y="682"
+             width="90"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect101" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g117">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_1ol70ri"
+           style="display: block;"
+           id="g115">
+          <g
+             class="djs-visual"
+             id="g109">
+            <path
+               d="m  429,713L429,798 L550,798 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path107" />
+          </g>
+          <polyline
+             points="429,713 429,798 550,798 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline111" />
+          <rect
+             x="423"
+             y="707"
+             width="133"
+             height="97"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect113" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g129">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_0rhyzwy"
+           style="display: block;"
+           id="g127">
+          <g
+             class="djs-visual"
+             id="g121">
+            <path
+               d="m  454,688L551,688 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path119" />
+          </g>
+          <polyline
+             points="454,688 551,688 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline123" />
+          <rect
+             x="448"
+             y="682"
+             width="109"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect125" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g141">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_1jqz1t4"
+           style="display: block;"
+           id="g139">
+          <g
+             class="djs-visual"
+             id="g133">
+            <path
+               d="m  429,663L429,583 L552,583 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path131" />
+          </g>
+          <polyline
+             points="429,663 429,583 552,583 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline135" />
+          <rect
+             x="423"
+             y="577"
+             width="135"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect137" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g153">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_1di9x3v"
+           style="display: block;"
+           id="g151">
+          <g
+             class="djs-visual"
+             id="g145">
+            <path
+               d="m  652,583L709,583 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path143" />
+          </g>
+          <polyline
+             points="652,583 709,583 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline147" />
+          <rect
+             x="646"
+             y="577"
+             width="69"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect149" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g165">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_1yp8rot"
+           style="display: block;"
+           id="g163">
+          <g
+             class="djs-visual"
+             id="g157">
+            <path
+               d="m  759,583L857,583 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path155" />
+          </g>
+          <polyline
+             points="759,583 857,583 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline159" />
+          <rect
+             x="753"
+             y="577"
+             width="110"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect161" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g177">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_05mfz70"
+           style="display: block;"
+           id="g175">
+          <g
+             class="djs-visual"
+             id="g169">
+            <path
+               d="m  650,798L1055,798 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path167" />
+          </g>
+          <polyline
+             points="650,798 1055,798 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline171" />
+          <rect
+             x="644"
+             y="792"
+             width="417"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect173" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g189">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_12xd7jy"
+           style="display: block;"
+           id="g187">
+          <g
+             class="djs-visual"
+             id="g181">
+            <path
+               d="m  651,688L1023,688 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path179" />
+          </g>
+          <polyline
+             points="651,688 1023,688 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline183" />
+          <rect
+             x="645"
+             y="682"
+             width="384"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect185" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g201">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_1xn8nqf"
+           style="display: block;"
+           id="g199">
+          <g
+             class="djs-visual"
+             id="g193">
+            <path
+               d="m  957,583L1055,583 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path191" />
+          </g>
+          <polyline
+             points="957,583 1055,583 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline195" />
+          <rect
+             x="951"
+             y="577"
+             width="110"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect197" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g213">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_1kn34sd"
+           style="display: block;"
+           id="g211">
+          <g
+             class="djs-visual"
+             id="g205">
+            <path
+               d="m  659,329L709,329 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path203" />
+          </g>
+          <polyline
+             points="659,329 709,329 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline207" />
+          <rect
+             x="653"
+             y="323"
+             width="62"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect209" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g225">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_0cs7czv"
+           style="display: block;"
+           id="g223">
+          <g
+             class="djs-visual"
+             id="g217">
+            <path
+               d="m  460,329L559,329 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path215" />
+          </g>
+          <polyline
+             points="460,329 559,329 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline219" />
+          <rect
+             x="454"
+             y="323"
+             width="111"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect221" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g237">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_0tgi5qa"
+           style="display: block;"
+           id="g235">
+          <g
+             class="djs-visual"
+             id="g229">
+            <path
+               d="m  759,329L857,329 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path227" />
+          </g>
+          <polyline
+             points="759,329 857,329 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline231" />
+          <rect
+             x="753"
+             y="323"
+             width="110"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect233" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g249">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_1rtxdkq"
+           style="display: block;"
+           id="g247">
+          <g
+             class="djs-visual"
+             id="g241">
+            <path
+               d="m  1123,329L1178,329 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path239" />
+          </g>
+          <polyline
+             points="1123,329 1178,329 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline243" />
+          <rect
+             x="1117"
+             y="323"
+             width="67"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect245" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g261">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_09bfug6"
+           style="display: block;"
+           id="g259">
+          <g
+             class="djs-visual"
+             id="g253">
+            <path
+               d="m  957,329L1023,329 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path251" />
+          </g>
+          <polyline
+             points="957,329 1023,329 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline255" />
+          <rect
+             x="951"
+             y="323"
+             width="78"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect257" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g273">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_0a4skj5"
+           style="display: block;"
+           id="g271">
+          <g
+             class="djs-visual"
+             id="g265">
+            <path
+               d="m  734,354L734,399 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path263" />
+          </g>
+          <polyline
+             points="734,354 734,399 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline267" />
+          <rect
+             x="728"
+             y="348"
+             width="12"
+             height="57"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect269" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g285">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_0d0j1o9"
+           style="display: block;"
+           id="g283">
+          <g
+             class="djs-visual"
+             id="g277">
+            <path
+               d="m  1123,688L1203,688 L1203,354 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path275" />
+          </g>
+          <polyline
+             points="1123,688 1203,688 1203,354 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline279" />
+          <rect
+             x="1117"
+             y="348"
+             width="92"
+             height="346"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect281" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g297">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_03bhxgc"
+           style="display: block;"
+           id="g295">
+          <g
+             class="djs-visual"
+             id="g289">
+            <path
+               d="m  289,178L410,178 L410,289 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path287" />
+          </g>
+          <polyline
+             points="289,178 410,178 410,289 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline291" />
+          <rect
+             x="283"
+             y="172"
+             width="133"
+             height="123"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect293" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g309">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_198eo1f"
+           style="display: block;"
+           id="g307">
+          <g
+             class="djs-visual"
+             id="g301">
+            <path
+               d="m  264,203L264,648 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path299" />
+          </g>
+          <polyline
+             points="264,203 264,648 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline303" />
+          <rect
+             x="258"
+             y="197"
+             width="12"
+             height="457"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect305" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g321">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_05mjxtu"
+           style="display: block;"
+           id="g319">
+          <g
+             class="djs-visual"
+             id="g313">
+            <path
+               d="m  1203,304L1203,83 L1123,83 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path311" />
+          </g>
+          <polyline
+             points="1203,304 1203,83 1123,83 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline315" />
+          <rect
+             x="1117"
+             y="77"
+             width="92"
+             height="233"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect317" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g333">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_0y1tbfz"
+           style="display: block;"
+           id="g331">
+          <g
+             class="djs-visual"
+             id="g325">
+            <path
+               d="m  734,479L734,558 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path323" />
+          </g>
+          <polyline
+             points="734,479 734,558 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline327" />
+          <rect
+             x="728"
+             y="473"
+             width="12"
+             height="91"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect329" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g345">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="SequenceFlow_1n2lokl"
+           style="display: block;"
+           id="g343">
+          <g
+             class="djs-visual"
+             id="g337">
+            <path
+               d="m  151,178L239,178 "
+               style="fill: none; stroke-width: 2px; stroke: black; stroke-linejoin: round; marker-end: url('#sequenceflow-end-white-black-c3mlbpggemsk1x0dua1bwpq0x');"
+               id="path335" />
+          </g>
+          <polyline
+             points="151,178 239,178 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline339" />
+          <rect
+             x="145"
+             y="172"
+             width="100"
+             height="12"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect341" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g359">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="ExclusiveGateway_0lj1mzd"
+           style="display: block;"
+           transform="translate(239 153)"
+           id="g357">
+          <g
+             class="djs-visual"
+             id="g351">
+            <polygon
+               points="25,0 50,25 25,50 0,25"
+               style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"
+               id="polygon347" />
+            <path
+               d="m 23,10 0,12.5 -12.5,0 0,5 12.5,0 0,12.5 5,0 0,-12.5 12.5,0 0,-5 -12.5,0 0,-12.5 -5,0 z"
+               style="fill: black; stroke-width: 1px; stroke: black;"
+               id="path349" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="50"
+             height="50"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect353" />
+          <rect
+             x="-6"
+             y="-6"
+             width="62"
+             height="62"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect355" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g379">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Task_1we0ftm"
+           style="display: block;"
+           transform="translate(684 399)"
+           id="g377">
+          <g
+             class="djs-visual"
+             id="g371">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="80"
+               rx="10"
+               ry="10"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect361" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="80"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect373" />
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect375" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g399">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Task_0eo5k8p"
+           style="display: block;"
+           transform="translate(1023 289)"
+           id="g397">
+          <g
+             class="djs-visual"
+             id="g391">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="80"
+               rx="10"
+               ry="10"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect381" />
+          </g>
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect395" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g413">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="ExclusiveGateway_1taqzwp"
+           style="display: block;"
+           transform="translate(1178 304)"
+           id="g411">
+          <g
+             class="djs-visual"
+             id="g405">
+            <polygon
+               points="25,0 50,25 25,50 0,25"
+               style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"
+               id="polygon401" />
+            <circle
+               cx="25"
+               cy="25"
+               r="13"
+               style="stroke: black; stroke-width: 2.5px; fill: white;"
+               id="circle403" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="50"
+             height="50"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect407" />
+          <rect
+             x="-6"
+             y="-6"
+             width="62"
+             height="62"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect409" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g435">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Task_1jvo7yr"
+           style="display: block;"
+           transform="translate(857 289)"
+           id="g433">
+          <g
+             class="djs-visual"
+             id="g427">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="80"
+               rx="10"
+               ry="10"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect415" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="80"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect429" />
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect431" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g459">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Task_1e6u030"
+           style="display: block;"
+           transform="translate(559 289)"
+           id="g457">
+          <g
+             class="djs-visual"
+             id="g451">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="80"
+               rx="10"
+               ry="10"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect437" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="80"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect453" />
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect455" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g473">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="ExclusiveGateway_16dt4jh"
+           style="display: block;"
+           transform="translate(709 304)"
+           id="g471">
+          <g
+             class="djs-visual"
+             id="g465">
+            <polygon
+               points="25,0 50,25 25,50 0,25"
+               style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"
+               id="polygon461" />
+            <path
+               d="m 16,15 7.42857142857143,9.714285714285715 -7.42857142857143,9.714285714285715 3.428571428571429,0 5.714285714285715,-7.464228571428572 5.714285714285715,7.464228571428572 3.428571428571429,0 -7.42857142857143,-9.714285714285715 7.42857142857143,-9.714285714285715 -3.428571428571429,0 -5.714285714285715,7.464228571428572 -5.714285714285715,-7.464228571428572 -3.428571428571429,0 z"
+               style="fill: black; stroke-width: 1px; stroke: black;"
+               id="path463" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="50"
+             height="50"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect467" />
+          <rect
+             x="-6"
+             y="-6"
+             width="62"
+             height="62"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect469" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g497">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Task_00zivpe"
+           style="display: block;"
+           transform="translate(360 289)"
+           id="g495">
+          <g
+             class="djs-visual"
+             id="g489">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="80"
+               rx="10"
+               ry="10"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect475" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="80"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect491" />
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect493" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g511">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="EndEvent_0pwrxif"
+           style="display: block;"
+           transform="translate(1055 565)"
+           id="g509">
+          <g
+             class="djs-visual"
+             id="g503">
+            <circle
+               cx="18"
+               cy="18"
+               r="18"
+               style="stroke: black; stroke-width: 4px; fill: white; fill-opacity: 0.95;"
+               id="circle499" />
+            <circle
+               cx="18"
+               cy="18"
+               r="10"
+               style="stroke: black; stroke-width: 4px; fill: black;"
+               id="circle501" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="36"
+             height="36"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect505" />
+          <rect
+             x="-6"
+             y="-6"
+             width="48"
+             height="48"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect507" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g531">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Task_19zn6ew"
+           style="display: block;"
+           transform="translate(1023 648)"
+           id="g529">
+          <g
+             class="djs-visual"
+             id="g523">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="80"
+               rx="10"
+               ry="10"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect513" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="80"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect525" />
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect527" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g545">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="EndEvent_0saf65e"
+           style="display: block;"
+           transform="translate(1055 780)"
+           id="g543">
+          <g
+             class="djs-visual"
+             id="g537">
+            <circle
+               cx="18"
+               cy="18"
+               r="18"
+               style="stroke: black; stroke-width: 4px; fill: white; fill-opacity: 0.95;"
+               id="circle533" />
+            <path
+               d="M 18,7.2 l 9,16.2 l -18,0 Z"
+               style="fill: black; stroke-width: 1px; stroke: black;"
+               id="path535" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="36"
+             height="36"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect539" />
+          <rect
+             x="-6"
+             y="-6"
+             width="48"
+             height="48"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect541" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g561">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="EndEvent_0saf65e_label"
+           style="display: block;"
+           transform="translate(1038 823)"
+           id="g559">
+          <g
+             class="djs-visual"
+             id="g553">
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="71"
+             height="27"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect555" />
+          <rect
+             x="-6"
+             y="-6"
+             width="83"
+             height="39"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect557" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g577">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Task_086jpwe"
+           style="display: block;"
+           transform="translate(857 543)"
+           id="g575">
+          <g
+             class="djs-visual"
+             id="g569">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="80"
+               rx="10"
+               ry="10"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect563" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="80"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect571" />
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect573" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g591">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="ExclusiveGateway_07enuzf"
+           style="display: block;"
+           transform="translate(709 558)"
+           id="g589">
+          <g
+             class="djs-visual"
+             id="g583">
+            <polygon
+               points="25,0 50,25 25,50 0,25"
+               style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"
+               id="polygon579" />
+            <path
+               d="m 23,10 0,12.5 -12.5,0 0,5 12.5,0 0,12.5 5,0 0,-12.5 12.5,0 0,-5 -12.5,0 0,-12.5 -5,0 z"
+               style="fill: black; stroke-width: 1px; stroke: black;"
+               id="path581" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="50"
+             height="50"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect585" />
+          <rect
+             x="-6"
+             y="-6"
+             width="62"
+             height="62"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect587" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g611">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Task_14zxqvw"
+           style="display: block;"
+           transform="translate(552 543)"
+           id="g609">
+          <g
+             class="djs-visual"
+             id="g603">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="80"
+               rx="10"
+               ry="10"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect593" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="80"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect605" />
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect607" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g633">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Task_1kdtu8l"
+           style="display: block;"
+           transform="translate(551 648)"
+           id="g631">
+          <g
+             class="djs-visual"
+             id="g625">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="80"
+               rx="10"
+               ry="10"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect613" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="80"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect627" />
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect629" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g655">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Task_034pqdf"
+           style="display: block;"
+           transform="translate(550 758)"
+           id="g653">
+          <g
+             class="djs-visual"
+             id="g647">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="80"
+               rx="10"
+               ry="10"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect635" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="80"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect649" />
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect651" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g669">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="ExclusiveGateway_18cpa2c"
+           style="display: block;"
+           transform="translate(404 663)"
+           id="g667">
+          <g
+             class="djs-visual"
+             id="g661">
+            <polygon
+               points="25,0 50,25 25,50 0,25"
+               style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"
+               id="polygon657" />
+            <path
+               d="m 16,15 7.42857142857143,9.714285714285715 -7.42857142857143,9.714285714285715 3.428571428571429,0 5.714285714285715,-7.464228571428572 5.714285714285715,7.464228571428572 3.428571428571429,0 -7.42857142857143,-9.714285714285715 7.42857142857143,-9.714285714285715 -3.428571428571429,0 -5.714285714285715,7.464228571428572 -5.714285714285715,-7.464228571428572 -3.428571428571429,0 z"
+               style="fill: black; stroke-width: 1px; stroke: black;"
+               id="path659" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="50"
+             height="50"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect663" />
+          <rect
+             x="-6"
+             y="-6"
+             width="62"
+             height="62"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect665" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g691">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Task_0lar2cf"
+           style="display: block;"
+           transform="translate(226 648)"
+           id="g689">
+          <g
+             class="djs-visual"
+             id="g683">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="80"
+               rx="10"
+               ry="10"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect671" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="80"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect685" />
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect687" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g715">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="Task_0vlsi2n"
+           style="display: block;"
+           transform="translate(1023 43)"
+           id="g713">
+          <g
+             class="djs-visual"
+             id="g707">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="80"
+               rx="10"
+               ry="10"
+               style="stroke: black; stroke-width: 2px; fill: none;"
+               id="rect693" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="80"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect709" />
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="92"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect711" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g729">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="StartEvent_1"
+           style="display: block;"
+           transform="translate(115 160)"
+           id="g727">
+          <g
+             class="djs-visual"
+             id="g721">
+            <circle
+               cx="18"
+               cy="18"
+               r="18"
+               style="stroke: black; stroke-width: 2px; fill: white; fill-opacity: 0.95;"
+               id="circle717" />
+            <path
+               d="m 8.459999999999999,11.34 l 0,12.6 l 18.900000000000002,0 l 0,-12.6 z l 9.450000000000001,5.4 l 9.450000000000001,-5.4"
+               style="fill: white; stroke-width: 1px; stroke: black;"
+               id="path719" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="36"
+             height="36"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect723" />
+          <rect
+             x="-6"
+             y="-6"
+             width="48"
+             height="48"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect725" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g747">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="StartEvent_1_label"
+           style="display: block;"
+           transform="translate(92 203)"
+           id="g745">
+          <g
+             class="djs-visual"
+             id="g739">
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="82"
+             height="40"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect741" />
+          <rect
+             x="-6"
+             y="-6"
+             width="94"
+             height="52"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect743" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g763">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="IntermediateThrowEvent_0p1fpyk"
+           style="display: block;"
+           transform="translate(246 65)"
+           id="g761">
+          <g
+             class="djs-visual"
+             id="g755">
+            <circle
+               cx="18"
+               cy="18"
+               r="18"
+               style="stroke: black; stroke-width: 1px; fill: white; fill-opacity: 0.95;"
+               id="circle749" />
+            <circle
+               cx="18"
+               cy="18"
+               r="15"
+               style="stroke: black; stroke-width: 1px; fill: none;"
+               id="circle751" />
+            <path
+               d="m 8.459999999999999,11.34 l 0,12.6 l 18.900000000000002,0 l 0,-12.6 z l 9.450000000000001,5.4 l 9.450000000000001,-5.4"
+               style="fill: white; stroke-width: 1px; stroke: black;"
+               id="path753" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="36"
+             height="36"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect757" />
+          <rect
+             x="-6"
+             y="-6"
+             width="48"
+             height="48"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect759" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g807">
+        <g
+           class="djs-element djs-shape"
+           data-element-id="TextAnnotation_1apl4dn"
+           style="display: block;"
+           transform="translate(83 28)"
+           id="g805">
+          <g
+             class="djs-visual"
+             id="g799">
+            <rect
+               x="0"
+               y="0"
+               width="100"
+               height="110"
+               rx="0"
+               ry="0"
+               style="stroke: none; stroke-width: 2px; fill: none;"
+               id="rect779" />
+            <path
+               d="m 0, 0 m 10,0 l -10,0 l 0,110 l 10,0"
+               style="fill: none; stroke-width: 2px; stroke: black;"
+               id="path781" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="100"
+             height="110"
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="rect801" />
+          <rect
+             x="-6"
+             y="-6"
+             width="112"
+             height="122"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect803" />
+        </g>
+      </g>
+      <g
+         class="djs-group"
+         id="g891">
+        <g
+           class="djs-element djs-connection"
+           data-element-id="Association_11xsykf"
+           style="display: block;"
+           id="g889">
+          <g
+             class="djs-visual"
+             id="g883">
+            <polyline
+               points="133,160 133,138 "
+               style="fill: none; stroke: black; stroke-width: 2px; stroke-dasharray: 0.5, 5; stroke-linecap: round; stroke-linejoin: round;"
+               id="polyline881" />
+          </g>
+          <polyline
+             points="133,160 133,138 "
+             class="djs-hit"
+             style="fill: none; stroke-opacity: 0; stroke: white; stroke-width: 15px;"
+             id="polyline885" />
+          <rect
+             x="127"
+             y="132"
+             width="12"
+             height="34"
+             class="djs-outline"
+             style="fill: none;"
+             id="rect887" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
