@@ -7,6 +7,10 @@
 ![Test](https://github.com/publiccodenet/standard/workflows/Test/badge.svg)
 ![Scheduled link check](https://github.com/publiccodenet/standard/workflows/Scheduled%20link%20check/badge.svg)
 
+The Standard for Public Code is in a draft format.
+We are preparing it for a version 1.0 release.
+Currently, we are testing it on a small number of codebases.
+
 ## Request for contributions
 
 We believe public policy and software should be inclusive, usable, open, legible, accountable, accessible and sustainable. This means we need a new way of designing, developing and procuring both the source code and policy documentation.
