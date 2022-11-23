@@ -50,9 +50,11 @@ In the Standard the word 'policy' refers to policy created and adopted by public
 
 ## Public code
 
+Public code is open source software developed by public organizations, together with the policy and guidance needed for collaboration and reuse.
+
 Public code is both computer source code (such as software and algorithms) and public policy executed in a public context, by humans or machines.
 
-Because public code serves the public interest, it should be open, legible, accountable, accessible and sustainable.
+Public code serves the public interest, is open, legible, accountable, accessible and sustainable.
 
 By developing public code independently from but still implementable in the local context for which it was developed, as well as documenting the development process openly, public code can provide a building block for others to:
 
@@ -60,7 +62,7 @@ By developing public code independently from but still implementable in the loca
 * take as a starting point to continue development
 * use as a basis for learning
 
-To facilitate reuse, public code should be either released into the public domain or licensed with an open license that permits others to view and reuse the work freely and to produce derivative works.
+To facilitate reuse, public code is either released into the public domain or licensed with an open license that permits others to view and reuse the work freely and to produce derivative works.
 
 ## Repository
 
