@@ -32,7 +32,7 @@ Continuous integration tests SHOULD validate that the source code and the policy
 
 ## [Create reusable and portable code](https://standard.publiccode.net/criteria/reusable-and-portable-codebases.html)
 
-- [ ] criterion met.
+- [x] criterion met.
 
 Requirement | meets | links and notes
 -----|-----|-----
@@ -41,7 +41,7 @@ The codebase MUST be independent from any secret, undisclosed, proprietary or no
 The codebase SHOULD be in use by multiple parties. | Ok | [Signalen](https://github.com/Amsterdam/signals/blob/master/docs/CONTRIBUTING.md#under-foundation-for-public-code-incubating-codebase-stewardship), [OpenZaak](https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md#under-foundation-for-public-code-incubating-codebase-stewardship), [Algoritmeregister](https://github.com/Algoritmeregister/standard#standard-for-public-code-compliance), [Standard for Public Code](https://github.com/publiccodenet/standard/blob/develop/CONTRIBUTING.md#1-make-your-changes)
 The roadmap SHOULD be influenced by the needs of multiple parties. | Ok | Community calls influenced initial roadmap
 Configuration SHOULD be used to make code adapt to context specific needs. | N/A |
-The codebase SHOULD be localizable. | | Images not yet easily localizable
+The codebase SHOULD be localizable. | Ok |
 Code and its documentation SHOULD NOT contain situation-specific information. | Ok |
 Codebase modules SHOULD be documented in such a way as to enable reuse in codebases in other contexts. | N/A |
 
