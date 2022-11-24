@@ -5,9 +5,11 @@
 
 🙇‍♀️ Thank you for contributing!
 
-We understand that a standard like this can only be set in collaboration with as many public technologists, policy makers and interested folk as possible. Thus we appreciate your input, enjoy feedback and welcome improvements to this project and are very open to collaboration.
+We understand that a standard like this can only be set in collaboration with as many public technologists, policy makers and interested folk as possible.
+Thus we appreciate your input, enjoy feedback and welcome improvements to this project and are very open to collaboration.
 
-We love issues and pull requests from everyone. If you're not comfortable with GitHub, you can email use your feedback at <info@publiccode.net>.
+We love issues and pull requests from everyone.
+If you're not comfortable with GitHub, you can email use your feedback at <info@publiccode.net>.
 
 ## Problems, suggestions and questions in issues
 
@@ -33,14 +35,16 @@ This project is licensed Creative Commons Zero v1.0 Universal, which essentially
 Contributions should [follow](docs/standard-for-public-code.md) the requirements set out in the criteria of the Standard for Public code itself.
 Reviewers will also be ensuring that contributions are aligned with the [values of public code](introduction.md#values-of-public-code).
 
-This project uses the [GitFlow branching model and workflow](https://nvie.com/posts/a-successful-git-branching-model/). When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
+This project uses the [GitFlow branching model and workflow](https://nvie.com/posts/a-successful-git-branching-model/).
+When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
 
 Add your changes in commits [with a message that explains them](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message).
 If more than one type of change is needed, group logically related changes into separate commits.
 For example, white-space fixes could be a separate commit from text content changes.
 Document choices or decisions you make in the commit message, this will enable everyone to be informed of your choices in the future.
 
-If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request. Make sure to write tests that show the behavior of the newly added or changed code.
+If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request.
+Make sure to write tests that show the behavior of the newly added or changed code.
 
 #### Style
 
@@ -66,13 +70,17 @@ In some cases a single set of changes may address multiple issues, in which case
 
 All contributions have to be reviewed by someone.
 
-It could be that your contribution can be merged immediately by a maintainer. However, usually, a new pull request needs some improvements before it can be merged. Other contributors (or helper robots) might have feedback. If this is the case the reviewing maintainer will help you improve your documentation and code.
+It could be that your contribution can be merged immediately by a maintainer.
+However, usually, a new pull request needs some improvements before it can be merged.
+Other contributors (or helper robots) might have feedback.
+If this is the case the reviewing maintainer will help you improve your documentation and code.
 
 If your documentation and code have passed human review, it is merged.
 
 ### 4. Celebrate
 
-Your ideas, documentation and code have become an integral part of this project. You are the open source hero we need!
+Your ideas, documentation and code have become an integral part of this project.
+You are the open source hero we need!
 
 In fact, feel free to open a pull request to add your name to the [`AUTHORS`](AUTHORS.md) file and get eternal attribution.
 
