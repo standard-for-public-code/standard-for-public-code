@@ -5,7 +5,9 @@
 
 ## Code
 
-Any explicitly described system of rules. This includes laws, policy and ordinances, as well as source code that is used to build software. Both of these are rules, some executed by humans and others by machines.
+Any explicitly described system of rules.
+This includes laws, policy and ordinances, as well as source code that is used to build software.
+Both of these are rules, some executed by humans and others by machines.
 
 ## Codebase
 
@@ -44,7 +46,8 @@ Policies can assist in both subjective and objective decision making.
 
 Public policy is the process by which governments translate their political vision into programs and actions to deliver outcomes.
 
-At the national level, policy and legislation (the law) are usually separate. The distinction is often more blurred in local government.
+At the national level, policy and legislation (the law) are usually separate.
+The distinction is often more blurred in local government.
 
 In the Standard the word 'policy' refers to policy created and adopted by public organizations such as governments and municipalities.
 
