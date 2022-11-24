@@ -20,7 +20,9 @@ order: 6
 
 ## Why this is important
 
-Version control means keeping track of changes to the code over time. This allows you to create structured documentation of the history of the codebase. This is essential for collaboration at scale.
+Version control means keeping track of changes to the code over time.
+This allows you to create structured documentation of the history of the codebase.
+This is essential for collaboration at scale.
 
 Distributed version control enables you to:
 
