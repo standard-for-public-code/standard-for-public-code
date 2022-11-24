@@ -2,7 +2,8 @@
 <!-- written in 2021 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
 # Printing
 
-The printed Standard for Public Code is printed by Reclameland. This guide tries to provide the relevant information to print it there or somewhere else.
+The printed Standard for Public Code is printed by Reclameland.
+This guide tries to provide the relevant information to print it there or somewhere else.
 
 Details, mostly in order they are on the Reclameland page with the Dutch if necessary:
 
