@@ -15,8 +15,7 @@ Below is a brief explanation of each of these sections and how they are used wit
 
 This section lists what needs to be done in order to comply with the standard.
 
-In order to limit ambiguity, the key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL
-NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119).
+In order to limit ambiguity, the key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119).
 
 ## Why this is important
 
@@ -33,7 +32,8 @@ This helps:
 
 ## How to test
 
-This section offers actions you can take to see if a contribution is compliant with the Standard. This is key if you want to operationalize the Standard.
+This section offers actions you can take to see if a contribution is compliant with the Standard.
+This is key if you want to operationalize the Standard.
 
 We've tried to word it so that someone who is not intimately acquainted with the subject matter can still do a basic check for compliance.
 
@@ -47,7 +47,9 @@ Policy makers set the priorities and goals of projects and may be less technolog
 
 This section tries to specifically speak to management by offering concrete actions they can perform in their role.
 
-Management is responsible for on-time project delivery, stakeholder management and continued delivery of the service. For this they are wholly reliant on both policy makers as well as developers and designers. They need to create the right culture, line up the right resources and provide the right structures to deliver great services.
+Management is responsible for on-time project delivery, stakeholder management and continued delivery of the service.
+For this they are wholly reliant on both policy makers as well as developers and designers.
+They need to create the right culture, line up the right resources and provide the right structures to deliver great services.
 
 ## Developers and designers: what you need to do
 
