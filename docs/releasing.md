@@ -54,3 +54,4 @@
 8. [Send the files for print to the printer](printing.md)
     - [ ] Cover file
     - [ ] Inside pages PDF
+9. Ping [translation](https://github.com/publiccodenet/community-translations-standard) contributors
