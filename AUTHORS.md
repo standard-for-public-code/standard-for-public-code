@@ -23,6 +23,7 @@
 * Marcus Klaas de Vries
 * Mark van der Net, [Gemeente Amsterdam](https://www.amsterdam.nl/en/)
 * Martijn de Waal, [Amsterdam University of Applied Sciences (AUAS)](https://www.amsterdamuas.com/), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
+* Matti Schneider
 * Mauko Quiroga
 * Maurice Hendriks, Gemeente Amsterdam
 * Maurits van der Schee, Gemeente Amsterdam
