@@ -46,6 +46,10 @@ Document choices or decisions you make in the commit message, this will enable e
 If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request.
 Make sure to write tests that show the behavior of the newly added or changed code.
 
+#### Applicable policy
+
+Currently, the Standard for Public Code is not implementing any specific public policy.
+
 #### Style
 
 The Standard for Public Code aims to [use plain English](https://standard.publiccode.net/criteria/understandable-english-first.html) and we have chosen American English for spelling.
