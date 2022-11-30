@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # SPDX-License-Identifier: CC0-1.0
-# 2022 by The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 
 # This script is provided for local development,
 # it is not used by continuous integration

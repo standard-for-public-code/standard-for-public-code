@@ -1,7 +1,7 @@
 # Welcome to the Standard for Public Code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 The Standard for Public Code is a set of criteria that supports public organizations in developing and maintaining software and policy together.
 

@@ -1,7 +1,7 @@
 # Standard for Public Code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 The Standard for Public Code gives public organizations a model for preparing open source solutions to enable collaborations with similar public organizations in other places.
 It includes guidance for policy makers, city administrators, developers and vendors.

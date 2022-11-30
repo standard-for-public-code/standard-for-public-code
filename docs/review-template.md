@@ -1,7 +1,7 @@
 # &#95;&#95;&#95;&#95;&#95;&#95;&#95;&#95; and the Standard for Public Code version 0.4.0
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- generated 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 Link to commitment to meet the Standard for Public Code:
 

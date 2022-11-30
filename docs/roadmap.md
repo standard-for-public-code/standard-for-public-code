@@ -1,7 +1,7 @@
 # Roadmap
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 Last updated: 2022-07-11
 
