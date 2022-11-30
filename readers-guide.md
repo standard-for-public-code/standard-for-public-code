@@ -1,7 +1,7 @@
 # Readers guide
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 The Standard describes a number of criteria.
 All criteria have consistent sections that make it clear how to create great public code.

@@ -1,5 +1,5 @@
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2021 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2021-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 # Releasing a new version of the Standard for public code
 
 1. Review state of the 'develop' branch
