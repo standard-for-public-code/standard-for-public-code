@@ -21,7 +21,7 @@ Documenting which source code or policy underpins any specific interaction the g
 
 ## [Bundle policy and source code](https://standard.publiccode.net/criteria/bundle-policy-and-code.html)
 
-- [ ] criterion met.
+- [x] criterion met.
 
 Requirement | meets | links and notes
 -----|-----|-----
