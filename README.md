@@ -7,9 +7,9 @@ The Standard for Public Code gives public organizations a model for preparing op
 It includes guidance for policy makers, city administrators, developers and vendors.
 
 ![version 0.4.0](https://img.shields.io/badge/version-0.4.0-yellow.svg)
-![pages-build-deployment](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment/badge.svg)
-![Test](https://github.com/publiccodenet/standard/workflows/Test/badge.svg)
-![Scheduled link check](https://github.com/publiccodenet/standard/workflows/Scheduled%20link%20check/badge.svg)
+[![pages-build-deployment](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment)
+[![Test](https://github.com/publiccodenet/standard/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/test.yml)
+[![Scheduled link check](https://github.com/publiccodenet/standard/actions/workflows/link-check.yml/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/link-check.yml)
 
 The Standard for Public Code is in a draft format.
 We are preparing it for a version 1.0 release.
