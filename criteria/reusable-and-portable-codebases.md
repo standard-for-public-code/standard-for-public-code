@@ -67,7 +67,4 @@ For each commit, reviewers verify that content does not include situation-specif
 ## Further reading
 
 * [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) by the UK Government Digital Service.
-* [OpenAPI Specification](https://spec.openapis.org/oas/latest.html) by the OpenAPI Initiative defines a standard, programming language-agnostic interface description for human and machine-readable HTTP APIs.
 * [Localization vs. Internationalization](https://www.w3.org/International/questions/qa-i18n) by the World Wide Web Consortium.
-* [Internationalization techniques: Authoring HTML & CSS](https://www.w3.org/International/techniques/authoring-html) by the World Wide Web Consortium.
-* [GNU gettext](https://www.gnu.org/software/gettext/gettext.html) of the GNU Operating System.
