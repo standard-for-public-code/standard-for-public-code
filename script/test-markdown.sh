@@ -14,4 +14,6 @@
 # MD013 Line length: we allow long lines
 # MD029 Ordered list item prefix: we allow lists to be sequentially numbered
 #
-bundle exec mdl -r ~MD007,~MD013,~MD029 -i -g '.'
+# Temporary hack to deal with weasyprint, see commit 831def8c3382
+# MD033 Inline HTML: hack in criteria/code-in-the-open.md line 53
+bundle exec mdl -r ~MD007,~MD013,~MD029,~MD033 -i -g '.'
