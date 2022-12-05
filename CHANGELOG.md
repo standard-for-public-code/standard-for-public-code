@@ -9,7 +9,7 @@ December 5th 2022: 🖳 the twelth draft clarifies document maturity.
 
 * Document maturity focuses on whether or not versions of the codebase are ready to use.
 * Document maturity no longer requires specific labels of codebases that are not ready to use.
-* Audit flow image now genereated from an easier to translate format.
+* Audit flow image now generated from an easier to translate format.
 * Improved guidance on How to test.
 * Add publiccode.yml file.
 * Add review template.
