@@ -50,6 +50,7 @@ These aspects together create more opportunities for citizens to understand how 
 * As a reviewer, for each commit, verify that content does not include sensitive information such as configurations, usernames or passwords, public keys or other real credentials used in production systems.
 * Clearly split data and code, in order to meet the requirement about sensitive information above.
 
+<p style="page-break-after: always;" ></p>
 ## Further reading
 
 * [Coding in the open](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/) by the UK Government Digital Service.
