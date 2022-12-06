@@ -4,11 +4,11 @@ order: 5
 # Make contributing easy
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
-* The codebase MUST have a public issue tracker that accepts suggestions from anyone.
+* The [codebase](../glossary.md#codebase) MUST have a public issue tracker that accepts suggestions from anyone.
 * The codebase MUST include instructions for how to privately report security issues for responsible disclosure.
 * The documentation MUST link to both the public issue tracker and submitted codebase changes, for example in a `README` file.
 * The codebase MUST have communication channels for users and developers, for example email lists.
@@ -33,7 +33,7 @@ order: 5
 
 ## Policy makers: what you need to do
 
-* Track policy issues in the codebase, so that a relevant external policy expert can volunteer help.
+* Track [policy](../glossary.md#policy) issues in the codebase, so that a relevant external policy expert can volunteer help.
 
 ## Management: what you need to do
 
@@ -49,4 +49,3 @@ order: 5
 
 * [How to inspire exceptional contributions to your open-source project](https://dev.to/joelhans/how-to-inspire-exceptional-contributions-to-your-open-source-project-1ebf) by Joel Hans.
 * [The benefits of coding in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/) by the UK Government Digital Service.
-* [The security policy](https://github.com/verdaccio/verdaccio/blob/master/SECURITY.md) by Verdaccio is a really nice example.

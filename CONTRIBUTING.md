@@ -1,13 +1,15 @@
 # Contributing to this standard
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 🙇‍♀️ Thank you for contributing!
 
-We understand that a standard like this can only be set in collaboration with as many public technologists, policy makers and interested folk as possible. Thus we appreciate your input, enjoy feedback and welcome improvements to this project and are very open to collaboration.
+We understand that a standard like this can only be set in collaboration with as many public technologists, policy makers and interested folk as possible.
+Thus we appreciate your input, enjoy feedback and welcome improvements to this project and are very open to collaboration.
 
-We love issues and pull requests from everyone. If you're not comfortable with GitHub, you can email use your feedback at <info@publiccode.net>.
+We love issues and pull requests from everyone.
+If you're not comfortable with GitHub, you can email use your feedback at <info@publiccode.net>.
 
 ## Problems, suggestions and questions in issues
 
@@ -24,19 +26,29 @@ You don't need to change any of our code or documentation to be a contributor!
 
 If you want to add to the documentation or code of one of our projects you should make a pull request.
 
-If you never used GitHub, get up to speed with [Understanding the GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) or follow one of the great free interactive courses in the [GitHub learning lab](https://lab.github.com/) on working with GitHub and working with MarkDown, the syntax this project's documentation is in.
+If you never used GitHub, get up to speed with [Understanding the GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow) or follow one of the great free interactive courses in [GitHub Skills](https://skills.github.com/) on working with GitHub and working with MarkDown, the syntax this project's documentation is in.
 
-This project is [licensed CC-0](LICENSE.md), which essentially means that the project, along with your contributions is in the public domain in whatever jurisdiction possible, and everyone can do whatever they want with it.
+This project is licensed Creative Commons Zero v1.0 Universal, which essentially means that the project, along with your contributions is in the public domain in whatever jurisdiction possible, and everyone can do whatever they want with it.
 
 ### 1. Make your changes
 
-This project uses the [GitFlow branching model and workflow](https://nvie.com/posts/a-successful-git-branching-model/). When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
-
-Add your changes in commits [with a message that explains them](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message). Document choices or decisions you make in the commit message, this will enable everyone to be informed of your choices in the future.
-
-If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request. Make sure to write tests that show the behavior of the newly added or changed code.
-
 Contributions should [follow](docs/standard-for-public-code.md) the requirements set out in the criteria of the Standard for Public code itself.
+Reviewers will also be ensuring that contributions are aligned with the [values of public code](introduction.md#values-of-public-code).
+
+This project uses the [GitFlow branching model and workflow](https://nvie.com/posts/a-successful-git-branching-model/).
+When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
+
+Add your changes in commits [with a message that explains them](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message).
+If more than one type of change is needed, group logically related changes into separate commits.
+For example, white-space fixes could be a separate commit from text content changes.
+Document choices or decisions you make in the commit message, this will enable everyone to be informed of your choices in the future.
+
+If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request.
+Make sure to write tests that show the behavior of the newly added or changed code.
+
+#### Applicable policy
+
+Currently, the Standard for Public Code is not implementing any specific public policy.
 
 #### Style
 
@@ -44,21 +56,35 @@ The Standard for Public Code aims to [use plain English](https://standard.public
 However, we want to emphasize that it is more important that you make your contribution than worry about spelling and typography.
 We will help you get it right in our review process and we also have a separate quality check before [making a new release](docs/releasing.md).
 
+#### Standards to follow
+
+These are the standards that the Standard for Public Code uses.
+Please make sure that your contributions are aligned with them so that they can be merged more easily.
+
+* [IETF RFC 2119](https://tools.ietf.org/html/rfc2119) - for requirement level keywords
+* [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/#readable) - for readibility
+
 ### 2. Pull request
 
-When submitting the pull request, please accompany it with a description of the problem you are trying to solve and the issue numbers that this pull request fixes.
+When submitting the pull request, please accompany it with a description of the problem you are trying to solve and the issue number that this pull request fixes.
+It is preferred for each pull request to address a single issue where possible.
+In some cases a single set of changes may address multiple issues, in which case be sure to list all issue numbers fixed.
 
 ### 3. Improve
 
 All contributions have to be reviewed by someone.
 
-It could be that your contribution can be merged immediately by a maintainer. However, usually, a new pull request needs some improvements before it can be merged. Other contributors (or helper robots) might have feedback. If this is the case the reviewing maintainer will help you improve your documentation and code.
+It could be that your contribution can be merged immediately by a maintainer.
+However, usually, a new pull request needs some improvements before it can be merged.
+Other contributors (or helper robots) might have feedback.
+If this is the case the reviewing maintainer will help you improve your documentation and code.
 
 If your documentation and code have passed human review, it is merged.
 
 ### 4. Celebrate
 
-Your ideas, documentation and code have become an integral part of this project. You are the open source hero we need!
+Your ideas, documentation and code have become an integral part of this project.
+You are the open source hero we need!
 
 In fact, feel free to open a pull request to add your name to the [`AUTHORS`](AUTHORS.md) file and get eternal attribution.
 

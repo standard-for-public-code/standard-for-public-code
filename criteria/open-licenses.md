@@ -4,14 +4,14 @@ order: 13
 # Publish with an open license
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
-* All code and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
+* All [code](../glossary.md#code) and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
 * Software source code MUST be licensed under an [OSI-approved or FSF Free/Libre license](https://spdx.org/licenses/).
 * All code MUST be published with a license file.
-* Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
+* Contributors MUST NOT be required to transfer copyright of their contributions to the [codebase](../glossary.md#codebase).
 * All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable.
 * Having multiple licenses for different types of code and documentation is OPTIONAL.
 
@@ -28,12 +28,12 @@ order: 13
 * Confirm that the codebase is clearly licensed.
 * Confirm that the license for the source code is on the [OSI-approved or FSF Free/Libre license list](https://spdx.org/licenses/) and the license for documentation [conforms to the Open Definition](https://opendefinition.org/licenses/).
 * Confirm that the licenses used in the codebase are included as files.
-* Confirm that contribution guidelines and repository configuration do not require transfer of copyright.
-* Check for machine-readable license checking in the codebase continuous integration tests.
+* Confirm that contribution guidelines and [repository](../glossary.md#repository) configuration do not require transfer of copyright.
+* Check for machine-readable license checking in the codebase [continuous integration](../glossary.md#continuous-integration) tests.
 
 ## Policy makers: what you need to do
 
-* Develop policy that requires code to be open source.
+* Develop [policy](../glossary.md#policy) that requires code to be [open source](../glossary.md#open-source).
 * Develop policy that disincentivizes non-open source code and technology in procurement.
 
 ## Management: what you need to do

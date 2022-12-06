@@ -4,12 +4,12 @@ order: 6
 # Maintain version control
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
-* The community MUST have a way to maintain version control for the code.
-* All files in a codebase MUST be version controlled.
+* The community MUST have a way to maintain [version control](../glossary.md#version-control) for the [code](../glossary.md#code).
+* All files in the [codebase](../glossary.md#codebase) MUST be version controlled.
 * All decisions MUST be documented in commit messages.
 * Every commit message MUST link to discussions and issues wherever possible.
 * The codebase SHOULD be maintained in a distributed version control system.
@@ -20,7 +20,9 @@ order: 6
 
 ## Why this is important
 
-Version control means keeping track of changes to the code over time. This allows you to create structured documentation of the history of the codebase. This is essential for collaboration at scale.
+Version control means keeping track of changes to the code over time.
+This allows you to create structured documentation of the history of the codebase.
+This is essential for collaboration at scale.
 
 Distributed version control enables you to:
 
@@ -49,7 +51,7 @@ Distributed version control enables you to:
 
 ## Policy makers: what you need to do
 
-* If a new version of the codebase is created because of a policy change, make sure it's clear in the documentation:
+* If a new version of the codebase is created because of a [policy](../glossary.md#policy) change, make sure it's clear in the documentation:
   * what the policy change is,
   * how it's changed the codebase.
 
@@ -70,5 +72,5 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 * [Producing OSS: Version Control Vocabulary](https://producingoss.com/en/vc.html#vc-vocabulary) by Karl Fogel.
 * [Maintaining version control in coding](https://www.gov.uk/service-manual/technology/maintaining-version-control-in-coding) by the UK Government Digital Service.
-* [GitHub Learning Lab](https://lab.github.com/) by GitHub for learning how to use it or refresh your skills.
+* [GitHub Skills](https://skills.github.com/) by GitHub for learning how to use GitHub or refresh your skills.
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) by GitHub, a list with the most common used git commands.

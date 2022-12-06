@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2021-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+
 name: Scheduled link check
 on:
   schedule:
@@ -27,3 +30,5 @@ jobs:
       - run: bundle install
       - run: ./script/test-markdown.sh
       - run: ./script/test-with-link-check.sh
+      - run: ./script/find-missing-spdx.sh
+      - run: ./script/missing-glossary-links.sh

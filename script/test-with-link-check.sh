@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2021-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 
 # This script is referenced by .github/workflows/link-check.yml which
 # executes daily.
@@ -23,21 +25,31 @@ bundle exec jekyll build
 # * github.com/foo/edit/ : may reference yet-to-exist pages
 # * docs.github.com/en : blocked by github DDoS protection
 # * plausible.io/js/plausible.js : does not serve to scripts
+# * opensource.org : gives "failed: 503 No error" when run as GitHub workflow
+# * reclameland.nl : often "failed: 403 No error" when run as GitHub workflow
+# * www.dta.gov.au : often "failed: 403 No error" when run as GitHub workflow
+# * 127.0.0.1 : localhost does not need to be checked
+#
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
 ,/docs\.github\.com\/en\//\
 ,/plausible\.io\/js\/plausible\.js/\
+,/opensource\.org/\
+,/reclameland\.nl\/drukken\/softcover-boeken/\
+,/www\.dta\.gov\.au\/help-and-advice/\
+,/127\.0\.0\.1:/\
 "
+
+# ignore request rate limit errors (HTTP 429)
+# --http_status_ignore "429" \
 
 # Check for broken links and missing alt tags:
 # jekyll does not require extensions like HTML
 # ignoring problem urls (see above)
 # set an extra long timout for test-servers with poor connectivity
-# ignore request rate limit errors (HTTP 429)
 # using the files in Jekylls build folder
 bundle exec htmlproofer \
     --assume-extension \
     --url-ignore $URL_IGNORE_REGEXES \
     --typhoeus-config '{"timeout":60,"ssl_verifypeer":false,"ssl_verifyhost":"0"}' \
-    --http_status_ignore "429" \
     ./_site

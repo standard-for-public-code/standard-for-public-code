@@ -1,0 +1,198 @@
+/* audit-flow-dot */
+/* SPDX-License-Identifier: CC0-1.0 */
+/* SPDX-FileCopyrightText: 2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS */
+
+/* To generate the audit-flow.svg, run the following command: */
+/* dot audit-flow.dot -Tsvg -o audit-flow.svg */
+
+digraph {
+	fontname = "Arial";
+
+	contrib_context [
+		fontname = "Arial"
+		label = "Merge request to a\n'protected branch' or\nFoundation for\nPublic Code\nmanaged codebase"
+	];
+	contrib_submit [
+		fontname = "Arial"
+		label = "Contributor submits\na merge request"
+	];
+	contrib_fix [
+		fontname = "Arial"
+		label = "Make new commits to the code to\nresolve review and audit issues"
+	];
+	contrib_update [
+		fontname = "Arial"
+		label = "Request\nupdated"
+	];
+
+	audit_assign [
+		fontname = "Arial"
+		label = "Auditor team member\nassigns merge request\nto themselves within\n2 business days"
+	];
+	audit_check [
+		fontname = "Arial"
+		label = "Check changes for\ncodebase governance and\nStandard for Public Code\ncompliance"
+	];
+	audit_check_fail [
+		fontname = "Arial"
+		label = "Post what needs to be\ndone so the contributor\ncan make the changes"
+	];
+	maint_check_fail [
+		fontname = "Arial"
+		label = "Post what needs to be\ndone so the contributor\ncan make the changes"
+	];
+	audit_changes_requested [
+		fontname = "Arial"
+		label = "Set request status to\n'Changes requested'"
+	];
+	maint_changes_requested [
+		fontname = "Arial"
+		label = "Set request status to\n'Changes requested'"
+	];
+	audit_check_pass [
+		fontname = "Arial"
+		label = "Set request status\nto 'approved' and\npost positively"
+	];
+	maint_check_pass [
+		fontname = "Arial"
+		label = "Set request status\nto 'approved' and\npost positively"
+	];
+	maint_check [
+		fontname = "Arial"
+		label = "Maintainer checks changes\nfor usefulness,\nvalue added and\n'mergeability'"
+	];
+	maint_merge [
+		fontname = "Arial"
+		label = "Merge"
+	];
+	maint_check_reject [
+		fontname = "Arial"
+		label = "Post why the request\ncannot be merged\nand close it"
+	];
+	maint_request_rejected [
+		fontname = "Arial"
+		label = "Merge\nrequest\nrejected"
+	];
+	maint_request_merged [
+		fontname = "Arial"
+		label = "Merge\nrequest\nmerged"
+	];
+
+
+	subgraph cluster_contrib {
+		fontname = "Arial";
+		label = "Contributor";
+
+		contrib_context [ shape = "rectangle" ];
+		contrib_submit;
+		subgraph cluster_contrib_update {
+			label = "";
+			style = "invis";
+			contrib_fix;
+			contrib_update;
+			contrib_submit_join;
+		}
+	}
+
+	subgraph cluster_audit {
+		fontname = "Arial";
+		label = "Auditor\n(staff)";
+
+		audit_assign;
+		audit_check;
+		audit_check_branch;
+		audit_check_pass;
+		audit_check_fail;
+		audit_changes_requested;
+		audit_changes_req_join;
+	}
+
+	subgraph cluster_maint {
+		fontname = "Arial";
+		label = "Maintainers\n(community or staff)";
+
+		maint_check;
+		maint_check_branch;
+		maint_check_pass;
+		maint_pass_join;
+		maint_merge;
+		maint_request_merged [ shape = "circle" style = "bold" ];
+		maint_check_fail;
+		maint_changes_requested;
+		maint_check_reject;
+		maint_request_rejected [ shape = "circle" style = "bold" ];
+	}
+
+	contrib_submit_join [
+		shape = "diamond"
+		fontname = "Arial"
+		label = "+"
+	];
+	audit_check_branch [
+		shape = "diamond"
+		fontname = "Arial"
+		label = "X"
+	];
+	audit_changes_req_join [
+		shape = "diamond"
+		fontname = "Arial"
+		label = "O"
+	];
+	maint_pass_join [
+		shape = "diamond"
+		fontname = "Arial"
+		label = "+"
+	];
+	maint_check_branch [
+		shape = "diamond"
+		fontname = "Arial"
+		label = "X"
+	];
+
+	/* graph connections (edges) */
+	contrib_context -> contrib_submit [
+		style = "dashed"
+		arrowhead = "none"
+	];
+	contrib_submit -> contrib_submit_join;
+	contrib_submit_join -> audit_assign;
+	contrib_submit_join -> maint_check;
+	contrib_fix -> contrib_update;
+	contrib_update -> contrib_submit_join;
+
+	audit_assign -> audit_check;
+	audit_check -> audit_check_branch;
+	audit_check_branch -> audit_check_pass [
+		fontname = "Arial"
+		label = "Compliant"
+	];
+	audit_check_branch -> audit_check_fail [
+		fontname = "Arial"
+		label = "Not compliant"
+	];
+	audit_check_pass -> maint_pass_join;
+	audit_check_fail -> audit_changes_requested;
+	audit_changes_requested -> audit_changes_req_join;
+	audit_changes_req_join -> contrib_fix;
+
+	maint_check -> maint_check_branch;
+	maint_check_branch -> maint_check_pass [
+		fontname = "Arial"
+		label = "Can\nbe merged"
+	];
+	maint_check_branch -> maint_check_fail [
+		fontname = "Arial"
+		label = "Needs\nchanges"
+	];
+	maint_check_branch -> maint_check_reject [
+		fontname = "Arial"
+		label = "Cannot\nbe merged"
+	];
+	maint_check_pass -> maint_pass_join;
+	maint_pass_join -> maint_merge;
+	maint_merge -> maint_request_merged;
+	maint_check_fail -> maint_changes_requested;
+	maint_changes_requested -> audit_changes_req_join;
+	maint_check_reject -> maint_request_rejected;
+
+}

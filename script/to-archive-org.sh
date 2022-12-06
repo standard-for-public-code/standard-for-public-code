@@ -5,6 +5,22 @@
 
 # TODO FIXXXME: use something better than bash
 
+if [ "_${ARCHIVER_LOG_FILE}_" == "__" ]; then
+	NOW=$(date --utc +%Y%m%dT%H%M%SZ)
+	ARCHIVER_LOG_FILE=/tmp/to-archive-org.sh.${NOW}.log
+fi
+echo "ARCHIVER_LOG_FILE=$ARCHIVER_LOG_FILE"
+
+if [ "_${ARCHIVER_USER_AGENT}_" == "__" ]; then
+	GIT_USER_NAME=$(git config --get user.name)
+	GIT_USER_EMAIL=$(git config --get user.email)
+	RUN_BY="$GIT_USER_NAME ( $GIT_USER_EMAIL )"
+	REMOTE=$(git remote -v | head -n1 | cut -f1 -d$'\t')
+	REPO_URL=$(git config --get remote.${REMOTE}.url)
+	ARCHIVER_USER_AGENT="'url-archiver run by $RUN_BY for $REPO_URL'"
+fi
+echo "ARCHIVER_USER_AGENT=$ARCHIVER_USER_AGENT"
+
 rm -f urls.txt
 
 # find . -type f -name '*.md' -print0 |
@@ -26,7 +42,15 @@ for FILE in $(git ls-tree -r --name-only $BRANCH_NAME); do
 		>> urls.txt
 done
 
-cat urls.txt | cut -f1 -d'#' | sort -u > urls-sorted.txt
+# create a list of unique URLs, excluding archive.org and localhost
+cat urls.txt \
+	| cut -f1 -d'#' \
+	| grep -v '^http[s]\?://web.archive.org' \
+	| grep -v '^http[s]\?://localhost' \
+	| grep -v '^http[s]\?://127.0.0.1' \
+	| sort -u \
+	> urls-sorted.txt
+
 URLS_TOTAL=$(wc -l urls-sorted.txt | cut -f1 -d' ')
 
 # cat urls-sorted.txt
@@ -46,10 +70,15 @@ for URL in $(cat urls-sorted.txt); do
 	echo "$URLS_COUNT of $URLS_TOTAL"
 	echo URL: $URL
 	echo encoded: $ENCODED
+
+	echo "" >> $ARCHIVER_LOG_FILE
+	echo "----------" >> $ARCHIVER_LOG_FILE
+	echo $URL >> $ARCHIVER_LOG_FILE
 	ARC_ORG_URL=https://web.archive.org/save/$ENCODED
-	# wget  --post-data "url=$URL" https://web.archive.org/save
-	wget \
-		--user-agent="foundation-for-public-code-url-archiver" \
-		$ARC_ORG_URL
+	echo $ARC_ORG_URL >> $ARCHIVER_LOG_FILE
+	curl --user-agent "$ARCHIVER_USER_AGENT" \
+		$ARC_ORG_URL >> $ARCHIVER_LOG_FILE
+	echo "" >> $ARCHIVER_LOG_FILE
+	echo "----------" >> $ARCHIVER_LOG_FILE
 done
 echo "done"

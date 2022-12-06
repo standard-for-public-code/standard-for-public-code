@@ -4,11 +4,11 @@ order: 15
 # Use a coherent style
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
-* Contributions MUST adhere to either a coding or writing style guide, either the codebase community's own or an existing one that is advertised in or part of the codebase.
+* Contributions MUST adhere to either a coding or writing style guide, either the [codebase](../glossary.md#codebase) community's own or an existing one that is advertised in or part of the codebase.
 * Contributions SHOULD pass automated tests on style.
 * The codebase SHOULD include inline comments and documentation for non-trivial sections.
 * Including sections on [understandable English](understandable-english-first.md) in the style guide is OPTIONAL.
@@ -29,7 +29,7 @@ order: 15
 
 ## Policy makers: what you need to do
 
-* Create, follow and continually improve on a style guide for policy and documentation as well as document this in the codebase, for example in the `CONTRIBUTING` or `README`.
+* Create, follow and continually improve on a style guide for [policy](../glossary.md#policy) and documentation as well as document this in the codebase, for example in the `CONTRIBUTING` or `README`.
 
 ## Management: what you need to do
 
@@ -37,9 +37,9 @@ order: 15
 
 ## Developers and designers: what you need to do
 
-If the codebase does not already have engineering guidelines or other contributor guidance, start by adding documentation to the repository describing whatever is being done now, for example in the `CONTRIBUTING` or `README`.
+If the codebase does not already have engineering guidelines or other contributor guidance, start by adding documentation to the [repository](../glossary.md#repository) describing whatever is being done now, for example in the `CONTRIBUTING` or `README`.
 An important purpose of the file is to communicate design preferences, naming conventions, and other aspects machines can't easily check.
-Guidance should include what would be expected from code contributions in order for them to be merged by the maintainers, including source, tests and documentation.
+Guidance should include what would be expected from [code](../glossary.md#code) contributions in order for them to be merged by the maintainers, including source, tests and documentation.
 Continually improve upon and expand this documentation with the aim of evolving this documentation into engineering guidelines.
 
 Additionally:

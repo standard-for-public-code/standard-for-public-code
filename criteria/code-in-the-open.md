@@ -4,15 +4,15 @@ order: 1
 # Code in the open
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
-* All source code for any policy in use (unless used for fraud detection) MUST be published and publicly accessible.
+* All source [code](../glossary.md#code) for any [policy](../glossary.md#policy) in use (unless used for fraud detection) MUST be published and publicly accessible.
 * All source code for any software in use (unless used for fraud detection) MUST be published and publicly accessible.
-* Contributors MUST NOT upload sensitive information regarding users, their organization or third parties to the repository.
+* Contributors MUST NOT upload sensitive information regarding users, their organization or third parties to the [repository](../glossary.md#repository).
 * Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published.
-* Documenting which source code or policy underpins any specific interaction the general public may have with an organization is OPTIONAL.
+* Documenting which source code or policy underpins any specific interaction the [general public](../glossary.md#general-public) may have with an organization is OPTIONAL.
 
 ## Why this is important
 
@@ -27,16 +27,13 @@ These aspects together create more opportunities for citizens to understand how 
 ## What this does not do
 
 * Make source code or policy reusable.
-* Make the codebase and the code within it understandable to as many people as possible.
+* Make the [codebase](../glossary.md#codebase) and the code within it understandable to as many people as possible.
 
 ## How to test
 
-The source for any version currently in use is published on the internet where it can be seen:
-
-* from outside the original contributing organization
-* without the need for any form of authentication or authorization
-
-Review the codebase files and commit history to verify no sensitive information is included.
+* Confirm that the source for each version currently in use is published on the internet where it can be seen from outside the original contributing organization and without the need for any form of authentication or authorization.
+* Confirm that the codebase files and commit history do not include sensitive information.
+* Check for the publication of source code not currently in use.
 
 ## Policy makers: what you need to do
 
@@ -53,6 +50,7 @@ Review the codebase files and commit history to verify no sensitive information 
 * As a reviewer, for each commit, verify that content does not include sensitive information such as configurations, usernames or passwords, public keys or other real credentials used in production systems.
 * Clearly split data and code, in order to meet the requirement about sensitive information above.
 
+<p style="page-break-after: always;" ></p>
 ## Further reading
 
 * [Coding in the open](https://gds.blog.gov.uk/2012/10/12/coding-in-the-open/) by the UK Government Digital Service.

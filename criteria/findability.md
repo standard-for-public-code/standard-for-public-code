@@ -5,15 +5,15 @@ order: 14
 # Make the codebase findable
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
-* The codebase MUST be findable using a search engine by describing the problem it solves in natural language.
+* The [codebase](../glossary.md#codebase) MUST be findable using a search engine by describing the problem it solves in natural language.
 * The codebase MUST be findable using a search engine by codebase name.
 * Maintainers SHOULD submit the codebase to relevant software catalogs.
 * The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
-* The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, repository location and website.
+* The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, [repository](../glossary.md#repository) location and website.
 * The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file.
 * A dedicated domain name for the codebase is OPTIONAL.
 * Regular presentations at conferences by the community are OPTIONAL.
@@ -31,17 +31,21 @@ order: 14
 
 ## How to test
 
-Check that the codebase appears in the first set of results on more than one major search engine when you search for:
-
-* plain English problem description
-* technical problem description
-* codebase name
+* Confirm that the codebase appears in the first set of results on more than one major search engine when searching by a plain English problem description.
+* Confirm that the codebase appears in the first set of results on more than one major search engine when searching by a technical problem description.
+* Confirm that the codebase appears in the first set of results on more than one major search engine when searching by the codebase name.
+* Check for the codebase listing in relevant software catalogs.
+* Check for a codebase website which describes the problem the codebase solves.
+* Check unique and persistent identifier entries for mention of the major contributors.
+* Check unique and persistent identifier entries for the repository location.
+* Check unique and persistent identifier entries for the codebase website.
+* Check for a machine-readable metadata description file.
 
 ## Policy makers: what you need to do
 
 * Contribute a description of the policy area or problem this codebase acts on or operates.
 * Test your problem description with peers outside of your context who aren't familiar with the codebase.
-* Present on how the codebase implements the policy at relevent conferences.
+* Present on how the codebase implements the [policy](../glossary.md#policy) at relevent conferences.
 
 ## Management: what you need to do
 

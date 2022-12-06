@@ -1,7 +1,7 @@
 # Authors
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 * Alba Roza, [The Foundation for Public Code](https://publiccode.net)
 * Arnout Engelen
@@ -23,6 +23,7 @@
 * Marcus Klaas de Vries
 * Mark van der Net, [Gemeente Amsterdam](https://www.amsterdam.nl/en/)
 * Martijn de Waal, [Amsterdam University of Applied Sciences (AUAS)](https://www.amsterdamuas.com/), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
+* Matti Schneider
 * Mauko Quiroga
 * Maurice Hendriks, Gemeente Amsterdam
 * Maurits van der Schee, Gemeente Amsterdam

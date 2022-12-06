@@ -4,15 +4,15 @@ order: 7
 # Require review of contributions
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
-* All contributions that are accepted or committed to release versions of the codebase MUST be reviewed by another contributor.
-* Reviews MUST include source, policy, tests and documentation.
+* All contributions that are accepted or committed to release versions of the [codebase](../glossary.md#codebase) MUST be reviewed by another contributor.
+* Reviews MUST include source, [policy](../glossary.md#policy), tests and documentation.
 * Reviewers MUST provide feedback on all decisions to not accept a contribution.
 * Contributions SHOULD conform to the standards, architecture and decisions set out in the codebase in order to pass review.
-* Reviews SHOULD include running both the code and the tests of the codebase.
+* Reviews SHOULD include running both the [code](../glossary.md#code) and the tests of the codebase.
 * Contributions SHOULD be reviewed by someone in a different context than the contributor.
 * Version control systems SHOULD NOT accept non-reviewed contributions in release versions.
 * Reviews SHOULD happen within two business days.
@@ -26,6 +26,7 @@ order: 7
 * Catches the most obvious mistakes that could happen.
 * Gives contributors the security that their contributions are only accepted if they really add value.
 * Assures contributors of a guaranteed time for feedback or collaborative improvement.
+* Prompt reviews increase both rate of delivery and contributor engagement.
 
 ## What this does not do
 
@@ -42,7 +43,7 @@ order: 7
 * Check if reviews cover conformance to standards, architecture and codebase guidelines.
 * Check with reviewers if they run the code and tests during review.
 * Check with reviewers if commits have been reviewed by a different contributor in a different context.
-* Check for use of branch protection in the version control system.
+* Check for use of branch protection in the [version control](../glossary.md#version-control) system.
 * Check the times between contribution submission and review.
 
 ## Policy makers: what you need to do
@@ -65,5 +66,6 @@ order: 7
 ## Further reading
 
 * [How to review code the GDS way](https://gds-way.cloudapps.digital/manuals/code-review-guidelines.html#content) by the UK Government Digital Service.
-* Branch protection on [GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) and [GitLab](https://about.gitlab.com/2014/11/26/keeping-your-code-protected/).
+* Branch protection on [GitHub](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/about-protected-branches) and [GitLab](https://about.gitlab.com/blog/2014/11/26/keeping-your-code-protected/).
 * [The Gentle Art of Patch Review](https://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) by Sage Sharp.
+* [Measuring Engagement](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) by Mozilla.

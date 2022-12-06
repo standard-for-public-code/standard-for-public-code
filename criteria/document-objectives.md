@@ -4,13 +4,13 @@ order: 8
 # Document codebase objectives
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
-* The codebase MUST contain documentation of its objectives, like a mission and goal statement, that is understandable by developers and designers so that they can use or contribute to the codebase.
-* Codebase documentation SHOULD clearly describe the connections between policy objectives and codebase objectives.
-* Documenting the objectives of the codebase for the general public is OPTIONAL.
+* The [codebase](../glossary.md#codebase) MUST contain documentation of its objectives, like a mission and goal statement, that is understandable by developers and designers so that they can use or contribute to the codebase.
+* Codebase documentation SHOULD clearly describe the connections between [policy](../glossary.md#policy) objectives and codebase objectives.
+* Documenting the objectives of the codebase for the [general public](../glossary.md#general-public) is OPTIONAL.
 
 ## Why this is important
 

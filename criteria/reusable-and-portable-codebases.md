@@ -4,12 +4,12 @@ order: 3
 # Create reusable and portable code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
-* The codebase MUST be developed to be reusable in different contexts.
-* The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed code or services for execution and understanding.
+* The [codebase](../glossary.md#codebase) MUST be developed to be reusable in [different contexts](../glossary.md#different-contexts).
+* The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed [code](../glossary.md#code) or services for execution and understanding.
 * The codebase SHOULD be in use by multiple parties.
 * The roadmap SHOULD be influenced by the needs of multiple parties.
 * Configuration SHOULD be used to make code adapt to context specific needs.
@@ -43,7 +43,7 @@ order: 3
 
 ## Policy makers: what you need to do
 
-* Document your policy with enough clarity and detail that it can be understood outside of its original context.
+* Document your [policy](../glossary.md#policy) with enough clarity and detail that it can be understood outside of its original context.
 * Make sure your organization is listed as a known user by the codebase.
 
 ## Management: what you need to do
@@ -67,7 +67,4 @@ For each commit, reviewers verify that content does not include situation-specif
 ## Further reading
 
 * [Making source code open and reusable](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) by the UK Government Digital Service.
-* [OpenAPI Specification](https://spec.openapis.org/oas/latest.html) by the OpenAPI Initiative defines a standard, programming language-agnostic interface description for human and machine-readable HTTP APIs.
 * [Localization vs. Internationalization](https://www.w3.org/International/questions/qa-i18n) by the World Wide Web Consortium.
-* [Internationalization techniques: Authoring HTML & CSS](https://www.w3.org/International/techniques/authoring-html) by the World Wide Web Consortium.
-* [GNU gettext](https://www.gnu.org/software/gettext/gettext.html) of the GNU Operating System.

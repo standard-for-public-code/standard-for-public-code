@@ -1,11 +1,13 @@
 # Glossary
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- written in 2019 - 2022 by The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Code
 
-Any explicitly described system of rules. This includes laws, policy and ordinances, as well as source code that is used to build software. Both of these are rules, some executed by humans and others by machines.
+Any explicitly described system of rules.
+This includes laws, policy and ordinances, as well as source code that is used to build software.
+Both of these are rules, some executed by humans and others by machines.
 
 ## Codebase
 
@@ -44,15 +46,18 @@ Policies can assist in both subjective and objective decision making.
 
 Public policy is the process by which governments translate their political vision into programs and actions to deliver outcomes.
 
-At the national level, policy and legislation (the law) are usually separate. The distinction is often more blurred in local government.
+At the national level, policy and legislation (the law) are usually separate.
+The distinction is often more blurred in local government.
 
 In the Standard the word 'policy' refers to policy created and adopted by public organizations such as governments and municipalities.
 
 ## Public code
 
+Public code is open source software developed by public organizations, together with the policy and guidance needed for collaboration and reuse.
+
 Public code is both computer source code (such as software and algorithms) and public policy executed in a public context, by humans or machines.
 
-Because public code serves the public interest, it should be open, legible, accountable, accessible and sustainable.
+Public code serves the public interest, is open, legible, accountable, accessible and sustainable.
 
 By developing public code independently from but still implementable in the local context for which it was developed, as well as documenting the development process openly, public code can provide a building block for others to:
 
@@ -60,11 +65,13 @@ By developing public code independently from but still implementable in the loca
 * take as a starting point to continue development
 * use as a basis for learning
 
-To facilitate reuse, public code should be either released into the public domain or licensed with an open license that permits others to view and reuse the work freely and to produce derivative works.
+To facilitate reuse, public code is either released into the public domain or licensed with an open license that permits others to view and reuse the work freely and to produce derivative works.
 
 ## Repository
 
-In revision (or version) control systems, a repository is a data structure which stores metadata for a set of files or directory structure. (source: SVNBook)
+A repository is a storage location used by version control tools for files and metadata of a codebase.
+Repositories allow multiple contributors to work on the same set of files.
+Repositories are able to store multiple versions of sets of files.
 
 ## Version control
 
