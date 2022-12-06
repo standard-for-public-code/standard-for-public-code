@@ -45,9 +45,9 @@ done
 # create a list of unique URLs, excluding archive.org and localhost
 cat urls.txt \
 	| cut -f1 -d'#' \
-	| grep -v '^https://web.archive.org' \
-	| grep -v '^http[s]\?://localhost/' \
-	| grep -v '^http[s]\?://127.0.0.1/' \
+	| grep -v '^http[s]\?://web.archive.org' \
+	| grep -v '^http[s]\?://localhost' \
+	| grep -v '^http[s]\?://127.0.0.1' \
 	| sort -u \
 	> urls-sorted.txt
 
