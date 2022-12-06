@@ -65,7 +65,7 @@ maintenance:
 name: Standard for Public Code
 platforms:
   - web
-releaseDate: '2022-12-05'
+releaseDate: '2022-12-06'
 roadmap: 'https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md'
 softwareType: standalone/other
 softwareVersion: 0.4.1
