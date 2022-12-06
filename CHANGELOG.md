@@ -5,7 +5,7 @@
 
 ## Version 0.4.1
 
-December 5th 2022: 🖳 the twelth draft clarifies document maturity.
+December 5th 2022: 📝 the twelfth draft clarifies document maturity.
 
 * Document maturity focuses on whether or not versions of the codebase are ready to use.
 * Document maturity no longer requires specific labels for codebases that are not ready to use.
