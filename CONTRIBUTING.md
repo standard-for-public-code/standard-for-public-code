@@ -59,7 +59,7 @@ We will help you get it right in our review process and we also have a separate 
 #### Standards to follow
 
 These are the standards that the Standard for Public Code uses.
-Please make sure that your contributions are aligned with them so that they easier can be merged.
+Please make sure that your contributions are aligned with them so that they can be merged more easily.
 
 * [IETF RFC 2119](https://tools.ietf.org/html/rfc2119) - for requirement level keywords
 * [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/#readable) - for readibility

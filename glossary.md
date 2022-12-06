@@ -70,7 +70,7 @@ To facilitate reuse, public code is either released into the public domain or li
 ## Repository
 
 A repository is a storage location used by version control tools for files and metadata of a codebase.
-Repositories allow multiple developers to work on the same set of files.
+Repositories allow multiple contributors to work on the same set of files.
 Repositories are able to store multiple versions of sets of files.
 
 ## Version control

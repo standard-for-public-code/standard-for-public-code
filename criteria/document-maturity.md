@@ -11,8 +11,8 @@ redirect_from:
 ## Requirements
 
 * The [codebase](../glossary.md#codebase) MUST be versioned.
-* The codebase MUST prominently document whether or not there are versions of the codebase which are ready to use.
-* Codebase versions which are ready to use MUST only depend on versions of other codebases that are also ready to use.
+* The codebase MUST prominently document whether or not there are versions of the codebase that are ready to use.
+* Codebase versions that are ready to use MUST only depend on versions of other codebases that are also ready to use.
 * The codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`.
 * The method for assigning version identifiers SHOULD be documented.
 * It is OPTIONAL to use semantic versioning.
@@ -28,8 +28,8 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 ## How to test
 
 * Confirm that the codebase has a strategy for versioning which is documented.
-* Confirm that it is obvious to policy makers, managers, developers and designers whether the codebase has versions which are ready to use.
-* Confirm that ready to use versions of the codebase do not depend on any versions of other codebases which are not ready to use.
+* Confirm that it is obvious to policy makers, managers, developers and designers whether the codebase has versions that are ready to use.
+* Confirm that ready to use versions of the codebase do not depend on any versions of other codebases that are not ready to use.
 * Check that the versioning scheme of the codebase is documented and followed.
 * Check that there is a log of changes.
 
