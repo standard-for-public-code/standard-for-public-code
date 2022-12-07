@@ -54,7 +54,7 @@ See the scripts in the [script](https://github.com/publiccodenet/standard/tree/m
 Using [Weasyprint](https://weasyprint.org/) the file `print.html` can be converted to a nice looking PDF.
 
 ```bash
-weasyprint http://localhost:4000/print.html standard.pdf
+script/pdf.sh
 ```
 
 ## License
