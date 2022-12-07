@@ -3,6 +3,7 @@
 
 Gemfile.lock
 _site
+_build_pdf
 standard.pdf
 standard-cover.pdf
 vendor/

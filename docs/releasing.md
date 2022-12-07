@@ -17,8 +17,9 @@
         - run `script/generate-review-template.sh` and commit updated `docs/review-template.md`
         - update `docs/standard-for-public-code.md` with the new text from the review template, updating any status changes as a result
         - Reread any section or paragraph to ensure wording changes still fit the whole and do not contain grammar or spelling errors
+        - Ensure [fonts](https://brand.publiccode.net/typography/) are installed
         - Ensure a more current version of `weasyprint` than 54.1, as that does not render the fonts correctly
-        - Ensure no link collisions exist in the rendered pdf using `script/pdf.sh`
+        - Ensure no link collisions exist in the rendered pdf using `script/pdf.sh rc1`
         - If needed, commit fixes and repeat extra pass
     - [ ] Push branch, open a pull request to the 'main' branch
         - Request review from multiple reviewers, especially a proofreader
@@ -42,13 +43,7 @@
     - [ ] Approve and merge PR (containing empty commit)
 6. PDF Generation
     - [ ] Generate new PDFs
-        - Ensure [fonts](https://brand.publiccode.net/typography/) are installed
-        - Serve html content with `script/serve.sh`
-        - Optionally, for a visual pre-check, navigate to [http://127.0.0.1:4000](http://127.0.0.1:4000/) in a browser
-        - In a separate terminal than `script/serve.sh`, generate `standard.pdf`, `standard-cover.pdf` and `review-template.pdf` with `script/pdf.sh`
-        - Rename `standard.pdf` to `standard-for-public-code-$MAJOR.$MINOR.$PATCH.pdf`
-        - Rename `standard-cover.pdf` to `standard-cover-$MAJOR.$MINOR.$PATCH.pdf`
-        - Rename `review-template.pdf` to `review-template-$MAJOR.$MINOR.$PATCH.pdf`
+        - run `script/pdf.sh` to generate the PDFs
     - [ ] Add PDFs to release
         - In a browser navigate to the release and 'edit'
         - Drag-and-drop the three generated .pdfs into the assets
