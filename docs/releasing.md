@@ -17,7 +17,7 @@
         - run `script/generate-review-template.sh` and commit updated `docs/review-template.md`
         - update `docs/standard-for-public-code.md` with the new text from the review template, updating any status changes as a result
         - Reread any section or paragraph to ensure wording changes still fit the whole and do not contain grammar or spelling errors
-        - Ensure [fonts](https://brand.publiccode.net/typography/) are installed
+        - Ensure [fonts](https://brand.publiccode.net/typography/) are installed, e.g.: `script/ensure-font.sh`
         - Ensure no link collisions exist in the rendered pdf using `script/pdf.sh rc1`
         - If needed, commit fixes and repeat extra pass
     - [ ] Push branch, open a pull request to the 'main' branch
