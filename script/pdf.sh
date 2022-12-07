@@ -13,6 +13,58 @@ else
 PRE_RELEASE_ID=""
 fi
 
+function weasyprint_version() {
+	weasyprint --version \
+		| sed -e's/[^0-9]*\([0-9\.]*\).*/\1/'
+}
+
+function temp_weasyprint_info() {
+	if [ $TMP_WEASYPRINT -gt 0 ]; then
+		WEASY_PRINT_VER=$(weasyprint_version)
+		echo "================================================="
+		echo "temp WeasyPrint installed, version $WEASY_PRINT_VER"
+		echo "to use this version outside of this script,"
+		echo "type the following command:"
+		echo
+		echo "$ source /tmp/weasyprint/venv/bin/activate"
+		echo "================================================="
+	fi
+}
+
+function ensure_good_weasyprint () {
+	WEASY_PRINT_VER=$(weasyprint_version)
+	echo "WEASY_PRINT_VER='$WEASY_PRINT_VER'"
+
+	if [ "_${WEASY_PRINT_VER}_" != "__" ]; then
+		MAJ_VER=$(echo "${WEASY_PRINT_VER}" | cut -f1 -d'.')
+		MIN__VER=$(echo "${WEASY_PRINT_VER}" | cut -f2 -d'.')
+	else
+		MAJ_VER=0
+		MIN_VER=0
+	fi
+
+	if [ "$MAJ_VER" -lt 57 ]; then
+		echo "WeasyPrint version: $WEASY_PRINT_VER less than 57"
+	        echo "installing new weasyprint"
+		pushd /tmp
+		rm -rf weasyprint
+		git clone https://github.com/Kozea/WeasyPrint.git weasyprint
+		cd weasyprint
+		python3 -m venv venv
+	        source venv/bin/activate
+	        pip install weasyprint
+		TMP_WEASYPRINT=1
+		echo
+		temp_weasyprint_info
+		echo
+		popd
+	fi
+	if [ "_${TMP_WEASYPRINT}_" == "__" ]; then
+		TMP_WEASYPRINT=0
+	fi
+}
+ensure_good_weasyprint
+
 # grep to extract version line from _config.yml,
 # cut to take just the content after the colon
 # xargs to strip the leading space
@@ -63,5 +115,7 @@ weasyprint --presentational-hints \
 	"http://localhost:$JEKYLL_PDF_PORT/print-review-template.html" \
 	review-template-$VERSION.pdf
 ls -l review-template-$VERSION.pdf
+
+temp_weasyprint_info
 
 echo "done"
