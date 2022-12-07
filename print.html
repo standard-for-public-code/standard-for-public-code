@@ -396,7 +396,13 @@
 
   <article id="section-changelog">
 
-    {% for page in site.pages %}{% if page.name == "CHANGELOG.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+    <h1>Version history</h1>
+   {% assign sorted = site.pages | reverse %}
+   {% for page in sorted %}
+   {% if page.dir == "/changelog/" %}
+   {{page.content | markdownify}}
+   {% endif%}
+   {% endfor %}
 
   </article>
 

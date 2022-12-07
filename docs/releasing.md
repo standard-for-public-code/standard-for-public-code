@@ -13,7 +13,7 @@
 3. Update the new release
     - [ ] Update version number in `_config.yml` and `README.md`
     - [ ] Update [`AUTHORS.md`](../AUTHORS.md) with new contributors
-    - [ ] Update [`CHANGELOG.md`](../CHANGELOG.md)
+    - [ ] Add a `changelog/changelog-$MAJOR.$MINOR.$PATCH.md` file
     - [ ] Perform extra pass on diff to the 'main' branch
         - run `script/generate-review-template.sh` and commit updated `docs/review-template.md`
         - update `docs/standard-for-public-code.md` with the new text from the review template, updating any status changes as a result
