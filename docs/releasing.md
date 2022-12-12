@@ -31,22 +31,13 @@
 4. Create GitHub release with the release notes and version number
     - [ ] Switch to the 'main' branch, `git pull` and `git status`
     - [ ] `git tag $MAJOR.$MINOR.$PATCH`
-    - [ ] `git push --tags`
-    - [ ] From [tags](https://github.com/publiccodenet/standard/tags) select "create release"
-        - Title the release: 'Nth update'
-        - Add changelog bullets
+    - [ ] `git push --tags` (see: `../.github/workflows/release-on-tag.yml`)
 5. Trigger a rebuild of gh-pages
     - [ ] `git checkout -b rebuild-gh-pages-$MAJOR.$MINOR.$PATCH`
     - [ ] `git commit --allow-empty -m"Rebuild GH Pages $MAJOR.$MINOR.$PATCH"`
     - [ ] `git push -u origin rebuild-gh-pages-$MAJOR.$MINOR.$PATCH`
     - [ ] Open a pull request from this branch to `main`
     - [ ] Approve and merge PR (containing empty commit)
-6. PDF Generation
-    - [ ] Generate new PDFs
-        - run `script/pdf.sh` to generate the PDFs
-    - [ ] Add PDFs to release
-        - In a browser navigate to the release and 'edit'
-        - Drag-and-drop the three generated .pdfs into the assets
 7. Update 'develop' with a merge from 'main'
 8. [Send the files for print to the printer](printing.md)
     - [ ] Cover file

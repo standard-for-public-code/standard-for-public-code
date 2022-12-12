@@ -103,18 +103,18 @@ sleep 1;
 
 weasyprint --presentational-hints \
 	"http://localhost:$JEKYLL_PDF_PORT/print.html" \
-	standard-$VERSION.pdf
-ls -l standard-$VERSION.pdf
+	standard-for-public-code-$VERSION.pdf
+ls -l	standard-for-public-code-$VERSION.pdf
 
 weasyprint --presentational-hints \
 	"http://localhost:$JEKYLL_PDF_PORT/print-cover.html" \
 	standard-cover-$VERSION.pdf
-ls -l standard-cover-$VERSION.pdf
+ls -l	standard-cover-$VERSION.pdf
 
 weasyprint --presentational-hints \
 	"http://localhost:$JEKYLL_PDF_PORT/print-review-template.html" \
-	review-template-$VERSION.pdf
-ls -l review-template-$VERSION.pdf
+	standard-review-template-$VERSION.pdf
+ls -l	standard-review-template-$VERSION.pdf
 
 temp_weasyprint_info
 

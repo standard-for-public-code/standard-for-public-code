@@ -4,8 +4,7 @@
 Gemfile.lock
 _site
 _build_pdf
-standard.pdf
-standard-cover.pdf
+*.pdf
 vendor/
 urls-sorted.txt
 urls.txt
