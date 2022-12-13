@@ -8,3 +8,4 @@ _build_pdf
 vendor/
 urls-sorted.txt
 urls.txt
+release.body
