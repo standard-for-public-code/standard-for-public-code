@@ -116,6 +116,9 @@ weasyprint --presentational-hints \
 	standard-review-template-$VERSION.pdf
 ls -l	standard-review-template-$VERSION.pdf
 
+pandoc $JEKYLL_PDF_DIR/print.html -o standard-for-public-code-$VERSION.epub
+ls -l standard-for-public-code-$VERSION.epub
+
 temp_weasyprint_info
 
 echo "done"

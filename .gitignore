@@ -5,6 +5,7 @@ Gemfile.lock
 _site
 _build_pdf
 *.pdf
+*.epub
 vendor/
 urls-sorted.txt
 urls.txt
