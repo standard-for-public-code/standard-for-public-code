@@ -26,6 +26,7 @@ jobs:
           fontconfig
           python3.10-venv
           python3-pip
+          pandoc
       - name: bundle-install
         run: bundle install
       - name: install-fonts
@@ -38,5 +39,7 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           prerelease: true
-          files: standard-*.pdf
+          files: |
+            standard-*.pdf
+            standard-*.epub
           body_path: release.body
