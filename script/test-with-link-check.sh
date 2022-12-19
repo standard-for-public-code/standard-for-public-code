@@ -26,6 +26,7 @@ bundle exec jekyll build
 # * docs.github.com/en : blocked by github DDoS protection
 # * plausible.io/js/plausible.js : does not serve to scripts
 # * opensource.org : gives "failed: 503 No error" when run as GitHub workflow
+# * belastingdienst.nl/wps/wcm/connect/bldcontenten : regular timeouts
 # * reclameland.nl : often "failed: 403 No error" when run as GitHub workflow
 # * www.dta.gov.au : often "failed: 403 No error" when run as GitHub workflow
 # * 127.0.0.1 : localhost does not need to be checked
@@ -35,6 +36,7 @@ URL_IGNORE_REGEXES="\
 ,/docs\.github\.com\/en\//\
 ,/plausible\.io\/js\/plausible\.js/\
 ,/opensource\.org/\
+,/belastingdienst\.nl\/wps\/wcm\/connect\/bldcontenten/\
 ,/reclameland\.nl\/drukken\/softcover-boeken/\
 ,/www\.dta\.gov\.au\/help-and-advice/\
 ,/127\.0\.0\.1:/\
