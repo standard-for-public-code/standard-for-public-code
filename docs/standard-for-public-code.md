@@ -1,4 +1,4 @@
-# The Standard for Public Code's compliance to the criteria and requirements of the Standard for Public Code version 0.4.0
+# The Standard for Public Code's compliance to the criteria and requirements of the Standard for Public Code version 0.4.1
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
