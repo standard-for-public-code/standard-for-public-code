@@ -47,7 +47,7 @@ order: 9
 
 ## Management: what you need to do
 
-* Try to use the codebase.
+* Try to use the codebase, so your feedback can improve how clearly the policy and code are documented. For example, is the current documentation sufficient to persuade a manager at another public organization to use this codebase?
 * Make sure you understand both the policy and source code as well as the documentation.
 
 ## Developers and designers: what you need to do
