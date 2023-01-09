@@ -15,7 +15,18 @@ Below is a brief explanation of each of these sections and how they are used wit
 
 This section lists what needs to be done in order to comply with the standard.
 
-In order to limit ambiguity, the key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119).
+The following keywords in this document are to be interpreted as described in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119):
+
+* MUST
+* MUST NOT
+* REQUIRED
+* SHALL
+* SHALL NOT
+* SHOULD
+* SHOULD NOT
+* RECOMMENDED
+* MAY
+* OPTIONAL
 
 ## Why this is important
 

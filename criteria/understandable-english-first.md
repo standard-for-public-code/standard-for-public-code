@@ -22,6 +22,7 @@ order: 10
 * Makes the codebase and what it does understandable for a wider variety of stakeholders in multiple contexts.
 * Helps with the discoverability of the codebase.
 * Can help you meet the [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility), which requires most public sector information to be accessible.
+* Language that is easy to understand lowers the cost for creating and maintaining translations.
 
 ## What this does not do
 
