@@ -54,13 +54,13 @@ order: 12
 ## Management: what you need to do
 
 * Make sure to test with real end users as quickly and often as possible.
-* Plan the work to deliver small parts very often instead of large parts less frequently.
+* Plan the work to integrate small parts very often instead of large parts less frequently.
 * Procure consultancy services that deliver incrementally aligned with the plan.
 * After a large failure, encourage publication of incident reports and public discussion of what was learned.
 
 ## Developers and designers: what you need to do
 
-* Help management structure the work plan such that it can be delivered as small increments.
+* Help management structure the work plan such that it can be integrated as small increments.
 * Help contributors limit the scope of their contributions and feature requests to be as small as reasonable.
 * Help management and policy makers test their contributions, for example by testing their contributions for broken links or style.
 * Structure code written to handle conditions which are difficult to create in a test environment in such a way that the conditions can be simulated during testing. Forms of resource exhaustion such as running out of storage space and memory allocation failure are typical examples of difficult to create conditions.
@@ -71,6 +71,5 @@ order: 12
 ## Further reading
 
 * [What is continuous integration](https://www.martinfowler.com/articles/continuousIntegration.html) by Martin Fowler.
-* [What is continuous delivery](https://www.continuousdelivery.com/) by Jez Humble.
 * [Use continuous delivery](https://gds-way.cloudapps.digital/standards/continuous-delivery.html) by the UK Government Digital Service.
 * [Quality assurance: testing your service regularly](https://www.gov.uk/service-manual/technology/quality-assurance-testing-your-service-regularly) by the UK Government Digital Service.
