@@ -20,9 +20,3 @@ exclude_rule 'MD029'
 # Temporary hack to deal with weasyprint, see commit 831def8c3382
 # MD033 Inline HTML: hack in criteria/code-in-the-open.md line 53
 exclude_rule 'MD033'
-
-# Temporary hack to deal with ".mdlrc ignored in sub-directories"
-# https://github.com/markdownlint/markdownlint/issues/420
-# ideally this rule exclusion would only be in the changelog/ directory
-exclude_rule 'MD002' # MD002 First header should be a top level header
-exclude_rule 'MD041' # MD041 First line in file should be a top level header

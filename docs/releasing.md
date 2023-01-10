@@ -1,7 +1,7 @@
 # Releasing a new version of the Standard for public code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2021-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 1. Review state of the 'develop' branch
     - Ensure all changes intended for release are merged
@@ -13,7 +13,7 @@
 3. Update the new release
     - [ ] Update version number in `_config.yml` and `README.md`
     - [ ] Update [`AUTHORS.md`](../AUTHORS.md) with new contributors
-    - [ ] Add a `changelog/changelog-$MAJOR.$MINOR.$PATCH.md` file
+    - [ ] Update [`CHANGELOG.md`](../CHANGELOG.md)
     - [ ] Perform extra pass on diff to the 'main' branch
         - run `script/generate-review-template.sh` and commit updated `docs/review-template.md`
         - update `docs/standard-for-public-code.md` with the new text from the review template, updating any status changes as a result
