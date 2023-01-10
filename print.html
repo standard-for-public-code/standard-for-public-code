@@ -3,7 +3,7 @@
 
 <!DOCTYPE html>
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -396,13 +396,7 @@
 
   <article id="section-changelog">
 
-    <h1>Version history</h1>
-   {% assign sorted = site.pages | reverse %}
-   {% for page in sorted %}
-   {% if page.dir == "/changelog/" %}
-   {{page.content | markdownify}}
-   {% endif%}
-   {% endfor %}
+    {% for page in site.pages %}{% if page.name == "CHANGELOG.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 
