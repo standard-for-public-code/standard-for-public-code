@@ -46,7 +46,7 @@ order: 3
 * Document your [policy](../glossary.md#policy) with enough clarity and detail that it can be understood outside of its original context.
 * Make sure your organization is listed as a known user by the codebase.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Make sure that stakeholders and business owners understand that reusability is an explicit codebase goal as this reduces technical debt and provides sustainability for the codebase.
 

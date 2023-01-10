@@ -46,12 +46,12 @@ order: 12
 
 ## Policy makers: what you need to do
 
-* Involve management as well as developers and designers as early in the process as possible and keep them engaged throughout development of your policy.
+* Involve managers as well as developers and designers as early in the process as possible and keep them engaged throughout development of your policy.
 * Make sure there are also automated tests set up for policy documentation.
 * Fix policy documentation promptly if it fails a test.
 * Make sure the code reflects any changes to the policy (see [Maintain version control](version-control-and-history.md)).
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Make sure to test with real end users as quickly and often as possible.
 * Plan the work to integrate small parts very often instead of large parts less frequently.
@@ -60,9 +60,9 @@ order: 12
 
 ## Developers and designers: what you need to do
 
-* Help management structure the work plan such that it can be integrated as small increments.
+* Help managers structure the work plan such that it can be integrated as small increments.
 * Help contributors limit the scope of their contributions and feature requests to be as small as reasonable.
-* Help management and policy makers test their contributions, for example by testing their contributions for broken links or style.
+* Help managers and policy makers test their contributions, for example by testing their contributions for broken links or style.
 * Structure code written to handle conditions which are difficult to create in a test environment in such a way that the conditions can be simulated during testing. Forms of resource exhaustion such as running out of storage space and memory allocation failure are typical examples of difficult to create conditions.
 * Tune the test code coverage tools to avoid false alarms resulting from inlining or other optimizations.
 * Deploy often.

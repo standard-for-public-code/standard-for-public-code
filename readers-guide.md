@@ -6,7 +6,7 @@
 The Standard describes a number of criteria.
 All criteria have consistent sections that make it clear how to create great public code.
 
-References to "policy makers", "management", and "developers and designers" apply to anyone performing duties associated with these roles, regardless of their job title.
+References to "policy makers", "managers", and "developers and designers" apply to anyone performing duties associated with these roles, regardless of their job title.
 It is common for individuals to have duties which span multiple roles.
 
 Below is a brief explanation of each of these sections and how they are used within the criteria of the Standard.
@@ -54,11 +54,11 @@ This section tries to specifically speak to policy makers by offering them concr
 
 Policy makers set the priorities and goals of projects and may be less technologically experienced.
 
-## Management: what you need to do
+## Managers: what you need to do
 
-This section tries to specifically speak to management by offering concrete actions they can perform in their role.
+This section tries to specifically speak to managers by offering concrete actions they can perform in their role.
 
-Management is responsible for on-time project delivery, stakeholder management and continued delivery of the service.
+Managers are responsible for on-time project delivery, stakeholder management and continued delivery of the service.
 For this they are wholly reliant on both policy makers as well as developers and designers.
 They need to create the right culture, line up the right resources and provide the right structures to deliver great services.
 

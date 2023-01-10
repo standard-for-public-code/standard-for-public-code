@@ -42,7 +42,7 @@ order: 4
 * Add a list to the codebase of any other resources that [policy](../glossary.md#policy) experts, non-governmental organizations and academics would find useful for understanding or reusing your policy.
 * Consider adding contact details so that other policy makers considering collaboration can ask you for advice.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Make sure that the documentation of the governance includes the current process for how to make changes to the governance.
 * If the community has some consensus about how the governance should change, then include those ideas stated as ambitions in the documentation.
@@ -52,7 +52,7 @@ order: 4
 ## Developers and designers: what you need to do
 
 * Respond promptly to requests.
-* Keep your management informed of the time and resources you require to support other contributors.
+* Keep your managers informed of the time and resources you require to support other contributors.
 
 ## Further reading
 

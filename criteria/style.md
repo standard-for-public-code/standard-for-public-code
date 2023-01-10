@@ -31,7 +31,7 @@ order: 15
 
 * Create, follow and continually improve on a style guide for [policy](../glossary.md#policy) and documentation as well as document this in the codebase, for example in the `CONTRIBUTING` or `README`.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Include written language, source, test and policy standards in your organizational definition of quality.
 

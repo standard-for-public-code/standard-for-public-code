@@ -51,7 +51,7 @@ order: 7
 * Institute a 'four eyes' policy where everything, not just code, is reviewed.
 * Use a version control system or methodology that enables review and feedback.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Make delivering great code a shared objective.
 * Make sure writing and reviewing contributions to source, policy, documentation and tests are considered equally valuable.

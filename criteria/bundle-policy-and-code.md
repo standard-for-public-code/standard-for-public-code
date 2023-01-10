@@ -40,7 +40,7 @@ To be able to evaluate whether to adopt a codebase in a new context, an organiza
 * Track policy with [the same version control](version-control-and-history.md) and documentation used to track source code.
 * Check in regularly to understand how the non-policy code in the codebase has changed and whether it still matches the [intentions of the policy](document-objectives.md).
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Keep policy makers, developers and designers involved and connected throughout the whole development process.
 * Make sure policy makers, developers and designers are working to the same objectives.

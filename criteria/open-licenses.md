@@ -36,7 +36,7 @@ order: 13
 * Develop [policy](../glossary.md#policy) that requires code to be [open source](../glossary.md#open-source).
 * Develop policy that disincentivizes non-open source code and technology in procurement.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Only work with open source vendors that deliver their code by publishing it under an open source license.
 * Beware that even though [Creative Commons licenses](https://creativecommons.org/licenses/) are great for documentation, licenses that stipulate Non-Commercial or No Derivatives are NOT freely reusable, changeable and redistributable and don't fulfill these requirements.

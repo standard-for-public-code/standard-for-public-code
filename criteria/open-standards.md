@@ -36,7 +36,7 @@ order: 11
 * Mandate use of open standards everywhere possible.
 * Prohibit procurement of technology that does not use open standards.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Consider including open standard compliance assessment in [code](../glossary.md#code) reviews.
 
