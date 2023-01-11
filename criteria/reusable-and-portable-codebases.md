@@ -6,6 +6,13 @@ order: 3
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
+Creating reusable and portable code enables policy makers, developers and designers to reuse what has been developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintenance and higher reliability.
+Organizing a codebase such that it is composed of well documented modules improves reusability and maintainability.
+Thoughtfully and purposefully designed for reusability, allows for the mission, vision and scope of the codebase to be shared by multiple parties.
+Codebases used by multiple parties are more likely to benefit from a self-sustaining community.
+A module is easier to reuse in another context if its purpose is clearly documented.
+Code which does not rely on the situation-specific infrastructure of any contributor or deployment can be tested by any other contributor.
+
 ## Requirements
 
 * The [codebase](../glossary.md#codebase) MUST be developed to be reusable in [different contexts](../glossary.md#different-contexts).
@@ -16,16 +23,6 @@ order: 3
 * The codebase SHOULD be localizable.
 * Code and its documentation SHOULD NOT contain situation-specific information.
 * Codebase modules SHOULD be documented in such a way as to enable reuse in codebases in other contexts.
-
-## Why this is important
-
-* Enables other policy makers, developers and designers to reuse what you've developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintenance and higher reliability.
-* Makes the code easier for new people to understand (as it's more general).
-* Makes it easier to control the mission, vision and scope of the codebase because the codebase is thoughtfully and purposefully designed for reusability.
-* Codebases used by multiple parties are more likely to benefit from a self-sustaining community.
-* Any contributor is able to test and contribute without relying on the situation-specific infrastructure of any other contributor or deployment.
-* Composing a codebase from well documented modules improves reusability and maintainability.
-* A module is easier to reuse in another context if its purpose is clearly documented.
 
 ## What this does not do
 
