@@ -6,6 +6,9 @@ order: 1
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
+Coding in the open improves transparency, increases code quality, facilitates the auditing processes, and enables collaboration.
+These aspects together create more opportunities for citizens to understand how software and policy impact their interactions with a public organization.
+
 ## Requirements
 
 * All source [code](../glossary.md#code) for any [policy](../glossary.md#policy) in use (unless used for fraud detection) MUST be published and publicly accessible.
@@ -13,16 +16,6 @@ order: 1
 * Contributors MUST NOT upload sensitive information regarding users, their organization or third parties to the [repository](../glossary.md#repository).
 * Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published.
 * Documenting which source code or policy underpins any specific interaction the [general public](../glossary.md#general-public) may have with an organization is OPTIONAL.
-
-## Why this is important
-
-Coding in the open:
-
-* improves transparency
-* increases code quality
-* facilitates the auditing processes
-
-These aspects together create more opportunities for citizens to understand how software and policy impact their interactions with a public organization.
 
 ## What this does not do
 
