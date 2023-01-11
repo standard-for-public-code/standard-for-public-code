@@ -36,7 +36,7 @@ Documenting codebase objectives:
 * Add the policy objectives to the codebase documentation, for example in the `README`.
 * Include relevant policies which impact the community, codebase, and development like value and ethics based policies, for example accessibility or equal opportunity.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Add the organizational and business objectives to the codebase documentation, for example in the `README`.
 

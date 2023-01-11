@@ -47,7 +47,7 @@ order: 14
 * Test your problem description with peers outside of your context who aren't familiar with the codebase.
 * Present on how the codebase implements the [policy](../glossary.md#policy) at relevent conferences.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Budget for content design and Search Engine Optimization skills in the team.
 * Ensure people involved in the project present at relevant conferences.

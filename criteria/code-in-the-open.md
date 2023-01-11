@@ -40,7 +40,7 @@ These aspects together create more opportunities for citizens to understand how 
 * Develop policies in the open.
 * Prioritize open and transparent policies.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Develop a culture that embraces openness, learning and feedback.
 * Collaborate with external vendors and freelancers by working in the open.

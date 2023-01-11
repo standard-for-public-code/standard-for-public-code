@@ -40,16 +40,16 @@ order: 10
 
 ## Policy makers: what you need to do
 
-* Frequently test with other management, developers and designers in the process if they understand what you are delivering and how you document it.
+* Frequently test with other managers, developers and designers in the process if they understand what you are delivering and how you document it.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Try to limit the use of acronyms, abbreviations, puns or legal/non-English/domain specific terms in internal communications in and between teams and stakeholders. Add any such terms to a glossary and link to it from the places they are being used.
 * Be critical of documentation and descriptions in proposals and changes. If you don't understand something, others will probably also struggle with it.
 
 ## Developers and designers: what you need to do
 
-* Frequently test with policy makers and management if they understand what you are delivering and how you document it.
+* Frequently test with policy makers and managers if they understand what you are delivering and how you document it.
 * Ask someone outside of your context if they understand the content (for example, a developer working on a different codebase).
 
 ## Further reading
