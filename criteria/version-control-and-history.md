@@ -5,6 +5,10 @@ order: 6
 ---
 # Maintain version control
 
+Version control means keeping track of changes to the code over time.
+This allows you to maintain structured documentation of the history of the codebase.
+This is essential for collaboration at scale as it enables developers to work on changes in parallel and it help developers in the future to understand the reasons for changes.
+
 ## Requirements
 
 * The community MUST have a way to maintain [version control](../glossary.md#version-control) for the [code](../glossary.md#code).
@@ -16,21 +20,6 @@ order: 6
 * Maintainers SHOULD mark released versions of the codebase, for example using revision tags or textual labels.
 * Contributors SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system.
 * It is OPTIONAL for contributors to sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work.
-
-## Why this is important
-
-Version control means keeping track of changes to the code over time.
-This allows you to create structured documentation of the history of the codebase.
-This is essential for collaboration at scale.
-
-Distributed version control enables you to:
-
-* have a full copy of the code and its history
-* revert to an earlier version of the codebase whenever you want to
-* record your changes and the reasons why you made them, to help future developers understand the process
-* compare two different versions
-* work on changes in parallel as a team before merging them together
-* continue to work when the network is unavailable, merging changes back with everyone else’s at a later date
 
 ## What this does not do
 
