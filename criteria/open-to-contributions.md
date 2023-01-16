@@ -6,6 +6,11 @@ order: 4
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
+The atmosphere in a codebase community helps users decide to use one codebase over another.
+A codebase community which welcomes anyone to become a contributor enables it to grow and sustain itself over time.
+A community where contributors have clear ways of how to influence its goals and progress is less likely to split and end up in diverging communities.
+Newcomers need to understand and trust the codebase community’s governance.
+
 ## Requirements
 
 * The [codebase](../glossary.md#codebase) MUST allow anyone to submit suggestions for changes to the codebase.
@@ -15,12 +20,6 @@ order: 4
 * The codebase SHOULD have a publicly available roadmap.
 * The codebase SHOULD publish codebase activity statistics.
 * Including a code of conduct for contributors in the codebase is OPTIONAL.
-
-## Why this is important
-
-* Helps newcomers understand and trust the codebase community's leadership.
-* Prevents the community that works on a codebase splitting because there is no way to influence its goals and progress, resulting in diverging communities.
-* Helps users decide to use one codebase over another.
 
 ## What this does not do
 
