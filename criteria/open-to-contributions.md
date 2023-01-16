@@ -25,7 +25,6 @@ order: 4
 ## What this does not do
 
 * Guarantee others will join the community.
-* Guarantee others will reuse the codebase.
 
 ## How to test
 
