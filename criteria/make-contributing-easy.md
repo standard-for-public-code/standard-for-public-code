@@ -22,7 +22,7 @@ order: 5
 
 ## What this does not do
 
-* Guarantee others will reuse the codebase.
+* Guarantee others will contribute to the codebase.
 
 ## How to test
 
