@@ -5,6 +5,9 @@ order: 13
 ---
 # Publish with an open license
 
+An open and well known license makes it possible for anyone to see the code in order to understand how it works, to use it freely and to contribute to the codebase.
+Clearly indicating the license for each file within a codebase facilitates correct reuse and attribution of parts of a codebase.
+
 ## Requirements
 
 * All [code](../glossary.md#code) and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
@@ -13,10 +16,6 @@ order: 13
 * Contributors MUST NOT be required to transfer copyright of their contributions to the [codebase](../glossary.md#codebase).
 * All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable.
 * Having multiple licenses for different types of code and documentation is OPTIONAL.
-
-## Why this is important
-
-* Makes it possible for anyone to see the code and know that they can and how they can reuse it.
 
 ## What this does not do
 
