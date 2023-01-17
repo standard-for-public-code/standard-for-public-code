@@ -6,6 +6,10 @@ order: 11
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
+Open standards guarantee access to the knowledge required to use and contribute to the codebase.
+They enable interoperability between systems and reduce the risk of vendor lock-in.
+Open standards which are unambiguous allow for independent development of either side of data exchange.
+
 ## Requirements
 
 * For features of the [codebase](../glossary.md#codebase) that facilitate the exchange of data the codebase MUST use an [open standard](../glossary.md#open-standard) that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
@@ -15,12 +19,6 @@ order: 11
 * If no existing open standard is available, effort SHOULD be put into developing one.
 * Open standards that are machine testable SHOULD be preferred over open standards that are not.
 * Non-open standards that are machine testable SHOULD be preferred over non-open standards that are not.
-
-## Why this is important
-
-* Creates interoperability between systems.
-* Reduces possible vendor lock-in.
-* Guarantees access to the knowledge required to reuse and contribute to the codebase.
 
 ## What this does not do
 
