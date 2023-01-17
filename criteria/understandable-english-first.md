@@ -5,6 +5,14 @@ order: 10
 ---
 # Use plain English
 
+English is the <i>de facto</i> language of collaboration in software development.
+
+Public sector information needs to be accessible to all its constituents.
+Plain and simple language makes the codebase and what it does easier to understand for a wider variety of people.
+
+Translations further increase the possible reach of a codebase.
+Language that is easy to understand lowers the cost of creating and maintaining translations.
+
 ## Requirements
 
 * All [codebase](../glossary.md#codebase) documentation MUST be in English.
@@ -14,13 +22,6 @@ order: 10
 * There SHOULD be no acronyms, abbreviations, puns or legal/non-English/domain specific terms in the codebase without an explanation preceding it or a link to an explanation.
 * Documentation SHOULD aim for a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable).
 * Providing a translation of any code, documentation or tests is OPTIONAL.
-
-## Why this is important
-
-* Makes the codebase and what it does understandable for a wider variety of stakeholders in multiple contexts.
-* Helps with the discoverability of the codebase.
-* Can help you meet the [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility), which requires most public sector information to be accessible.
-* Language that is easy to understand lowers the cost of creating and maintaining translations.
 
 ## What this does not do
 
@@ -53,5 +54,6 @@ order: 10
 ## Further reading
 
 * Text of the [Web Content Accessibilty Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) by W3C, make text content readable and understandable.
+* [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility) by the European Commission, is an example of regulation requiring high accessibility.
 * [Upgoer 5 text editor](https://splasho.com/upgoer5/) by Theo Sanderson, only allows 1000 most common English words.
 * [Definition of plain language](https://www.plainlanguage.gov/about/definitions/) by United States General Services Administration.
