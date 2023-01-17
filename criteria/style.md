@@ -6,17 +6,15 @@ order: 15
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
+Following a consistent and coherent style enables contributors in different environments to work together.
+Unifying vocabularies reduces friction in communication between contributors.
+
 ## Requirements
 
 * The [codebase](../glossary.md#codebase) MUST use a coding or writing style guide, either the codebase community's own or an existing one referred to in the codebase.
 * Contributions SHOULD pass automated tests on style.
 * The style guide SHOULD include expectations for inline comments and documentation for non-trivial sections.
 * Including expectations for [understandable English](understandable-english-first.md) in the style guide is OPTIONAL.
-
-## Why this is important
-
-* Enables contributors in different environments to work together on a unified product.
-* Unifying vocabularies reduces friction in communication between contributors.
 
 ## What this does not do
 
