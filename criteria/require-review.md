@@ -6,6 +6,11 @@ order: 7
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
+Peer-review of contributions is essential for code quality, reducing security risks and operational risks.
+Requiring thorough review of contributions encourages a culture of making every contribution of high quality, completeness and value.
+Code review increases the chance of discovering and fixing potential bugs or mistakes before they are added to the codebase.
+A policy of prompt reviews assures contributors of a guaranteed time for feedback or collaborative improvement which increases both rate of delivery and contributor engagement.
+
 ## Requirements
 
 * All contributions that are accepted or committed to release versions of the [codebase](../glossary.md#codebase) MUST be reviewed by another contributor.
@@ -17,16 +22,6 @@ order: 7
 * Version control systems SHOULD NOT accept non-reviewed contributions in release versions.
 * Reviews SHOULD happen within two business days.
 * Performing reviews by multiple reviewers is OPTIONAL.
-
-## Why this is important
-
-* Increases codebase quality.
-* Reduces security risks as well as operational risks.
-* Creates a culture of making every contribution great.
-* Catches the most obvious mistakes that could happen.
-* Gives contributors the security that their contributions are only accepted if they really add value.
-* Assures contributors of a guaranteed time for feedback or collaborative improvement.
-* Prompt reviews increase both rate of delivery and contributor engagement.
 
 ## What this does not do
 
