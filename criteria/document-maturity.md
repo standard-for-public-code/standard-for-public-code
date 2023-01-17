@@ -7,6 +7,10 @@ redirect_from:
 ---
 # Document codebase maturity
 
+Clearly signalling a codebase's maturity helps others decide whether to use and contribute to it.
+A codebase version's maturity includes the maturity of its dependencies.
+Understanding how a codebase has evolved is key to understanding the codebase and how to contribute to it.
+
 ## Requirements
 
 * The [codebase](../glossary.md#codebase) MUST be versioned.
@@ -15,10 +19,6 @@ redirect_from:
 * The codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`.
 * The method for assigning version identifiers SHOULD be documented.
 * It is OPTIONAL to use semantic versioning.
-
-## Why this is important
-
-Clearly signalling a codebase's maturity helps others decide whether to reuse, invest in or contribute to it.
 
 ## What this does not do
 
