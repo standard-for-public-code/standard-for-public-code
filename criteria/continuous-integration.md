@@ -16,6 +16,7 @@ order: 12
 * Source code test and documentation coverage SHOULD be monitored.
 * Testing [policy](../glossary.md#policy) and documentation for consistency with the source and vice versa is OPTIONAL.
 * Testing policy and documentation for style and broken links is OPTIONAL.
+* Testing the code by using examples in the documentation is OPTIONAL.
 
 ## Why this is important
 
