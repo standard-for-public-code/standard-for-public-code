@@ -11,6 +11,7 @@ order: 14
 
 * The [codebase](../glossary.md#codebase) MUST be findable using a search engine by describing the problem it solves in natural language.
 * The codebase MUST be findable using a search engine by codebase name.
+* The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding.
 * Maintainers SHOULD submit the codebase to relevant software catalogs.
 * The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
 * The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, [repository](../glossary.md#repository) location and website.
@@ -34,6 +35,7 @@ order: 14
 * Confirm that the codebase appears in the first set of results on more than one major search engine when searching by a plain English problem description.
 * Confirm that the codebase appears in the first set of results on more than one major search engine when searching by a technical problem description.
 * Confirm that the codebase appears in the first set of results on more than one major search engine when searching by the codebase name.
+* Check that the codebase name is free of acronyms, abbreviations, puns or organizational branding.
 * Check for the codebase listing in relevant software catalogs.
 * Check for a codebase website which describes the problem the codebase solves.
 * Check unique and persistent identifier entries for mention of the major contributors.
