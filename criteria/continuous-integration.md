@@ -11,7 +11,7 @@ order: 12
 * All functionality in the source [code](../glossary.md#code) MUST have automated tests.
 * Contributions MUST pass all automated tests before they are admitted into the [codebase](../glossary.md#codebase).
 * The codebase MUST have guidelines explaining how to structure contributions.
-* The codebase MUST have active contributors.
+* The codebase MUST have active contributors who can review contributions.
 * The codebase guidelines SHOULD state that each contribution should focus on a single issue.
 * Source code test and documentation coverage SHOULD be monitored.
 * Testing [policy](../glossary.md#policy) and documentation for consistency with the source and vice versa is OPTIONAL.
