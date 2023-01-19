@@ -29,14 +29,14 @@ order: 3
 
 ## What this does not do
 
-* Get others to reuse the codebase.
+* Get others to use the codebase.
 * Build a community.
 * Shift responsibility for documentation, support, bug-fixing, etc. to another party.
 * Guarantee that modules are generic enough to be reused in any context.
 
 ## How to test
 
-* Confirm with someone in a similar role at another organization if they can reuse the codebase and what that would entail.
+* Confirm with someone in a similar role at another organization if they can use the codebase and what that would entail.
 * Confirm that the codebase can run without using any proprietary or non open-licensed code or services.
 * Check that the codebase is in use by multiple parties or in multiple contexts.
 * Check that the codebase files and commit history do not include situation-specific data.
