@@ -11,7 +11,7 @@ categories:
 description:
   en:
     features:
-      - enables collabration
+      - enables collaboration
       - enables successful future reuse
       - |-
         gives public organizations a model for building their own open source
@@ -43,7 +43,7 @@ description:
     videos:
       - 'https://www.youtube.com/watch?v=QWt6vB-cipE'
 developmentStatus: beta
-landingURL: 'https://standard.publiccode.net'
+landingURL: 'https://standard.publiccode.net/'
 legal:
   authorsFile: 'https://raw.githubusercontent.com/publiccodenet/standard/master/AUTHORS.md'
   license: CC0-1.0
@@ -69,6 +69,6 @@ releaseDate: '2022-12-06'
 roadmap: 'https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md'
 softwareType: standalone/other
 softwareVersion: 0.4.1
-url: 'https://github.com/publiccodenet/standard'
+url: 'https://github.com/publiccodenet/standard/'
 usedBy:
   - Provincie Zuid-Holland
