@@ -13,7 +13,8 @@ order: 11
 * Any standard chosen for use within the codebase MUST be listed in the documentation with a link to where it is available.
 * Any non-open standards chosen for use within the codebase MUST NOT hinder collaboration and reuse.
 * If no existing open standard is available, effort SHOULD be put into developing one.
-* Standards that are machine testable SHOULD be preferred over those that are not.
+* Open standards that are machine testable SHOULD be preferred over open standars that are not.
+* Non-open standards that are machine testable SHOULD be preferred over non-open standards that are not.
 
 ## Why this is important
 
