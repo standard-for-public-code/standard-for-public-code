@@ -32,9 +32,9 @@ order: 14
 
 ## How to test
 
-* Confirm that the codebase appears in the first set of results on more than one major search engine when searching by a plain English problem description.
-* Confirm that the codebase appears in the first set of results on more than one major search engine when searching by a technical problem description.
-* Confirm that the codebase appears in the first set of results on more than one major search engine when searching by the codebase name.
+* Confirm that the codebase appears in the results on more than one major search engine when searching by a plain English problem description.
+* Confirm that the codebase appears in the results on more than one major search engine when searching by a technical problem description.
+* Confirm that the codebase appears in the results on more than one major search engine when searching by the codebase name.
 * Check that the codebase name is free of acronyms, abbreviations, puns or organizational branding.
 * Check for the codebase listing in relevant software catalogs.
 * Check for a codebase website which describes the problem the codebase solves.
