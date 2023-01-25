@@ -38,8 +38,8 @@
     - [ ] `git push -u origin rebuild-gh-pages-$MAJOR.$MINOR.$PATCH`
     - [ ] Open a pull request from this branch to `main`
     - [ ] Approve and merge PR (containing empty commit)
-7. Update 'develop' with a merge from 'main'
-8. [Send the files for print to the printer](printing.md)
+6. Update 'develop' with a merge from 'main'
+7. [Send the files for print to the printer](printing.md)
     - [ ] Cover file
     - [ ] Inside pages PDF
-9. Ping [translation](https://github.com/publiccodenet/community-translations-standard) contributors
+8. Ping [translation](https://github.com/publiccodenet/community-translations-standard) contributors
