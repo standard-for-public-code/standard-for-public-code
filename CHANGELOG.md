@@ -5,6 +5,17 @@
 
 <!-- script/release-body.sh expects VERSION in the first second-level header -->
 
+## Version 0.5.0
+
+January 25th 2023: 🎨 the thirteenth draft focuses on documenting style guidelines.
+
+* Adjust the coding style requirement to focus the codebase using a style guide rather than contributor behavior.
+* Moved requirement for codebase names to Make the codebase findable from Use plain English.
+* Moved requirement about testing the code by using examples to Use continuous integration from Document the code.
+* Split requirement about machine testable standards to clarify that open is more important than testable.
+* Adjust how to test findability requirements to be less reliant on search engine algorithms.
+* Made minor changes to text for clarity and consistency.
+
 ## Version 0.4.1
 
 December 5th 2022: 📝 the twelfth draft clarifies document maturity.

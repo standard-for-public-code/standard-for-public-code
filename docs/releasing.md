@@ -11,7 +11,7 @@
     - From 'develop', `git checkout -b "release-$MAJOR.$MINOR.$PATCH"`
     - Push the branch, `git push -u origin release-$MAJOR.$MINOR.$PATCH`
 3. Update the new release
-    - [ ] Update version number in `_config.yml` and `README.md`
+    - [ ] Update version number in `_config.yml`, `README.md` and `publiccode.yml`
     - [ ] Update [`AUTHORS.md`](../AUTHORS.md) with new contributors
     - [ ] Update [`CHANGELOG.md`](../CHANGELOG.md)
     - [ ] Perform extra pass on diff to the 'main' branch
