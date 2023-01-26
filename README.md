@@ -6,7 +6,7 @@
 The Standard for Public Code gives public organizations a model for preparing open source solutions to enable collaborations with similar public organizations in other places.
 It includes guidance for policy makers, city administrators, developers and vendors.
 
-![version 0.4.1](https://img.shields.io/badge/version-0.4.1-yellow.svg)
+![version 0.5.0](https://img.shields.io/badge/version-0.5.0-yellow.svg)
 [![pages-build-deployment](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment)
 [![Test](https://github.com/publiccodenet/standard/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/test.yml)
 [![Scheduled link check](https://github.com/publiccodenet/standard/actions/workflows/link-check.yml/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/link-check.yml)
@@ -15,16 +15,16 @@ The Standard for Public Code is in a draft format.
 We are preparing it for a version 1.0 release.
 Currently, we are testing it on a small number of codebases.
 
-## Applying the Standard for Public Code on your codebase
+## Applying the Standard for Public Code to your codebase
 
 If you want to apply the Standard for Public Code to your codebase, just go ahead, it's an open standard and free for anyone to use.
-To see how ready your codebase is, you can do a quick [eligibility self assessment](https://publiccodenet.github.io/assessment-eligibility) that will give you some rough expectations on how much work you may need to do to meet all criteria.
+To see how ready your codebase is, you can do a quick [eligibility self assessment](https://publiccodenet.github.io/assessment-eligibility) that will give you a rough idea of how much work you may need to do to meet all criteria.
 
-The standard *should* be mostly self-explanatory in how to apply it on your codebase.
-If anything in the standard is unclear, we encourage you to open an issue here so that we can help you and everyone else who feel the same as you.
-For inspiration, look at the [Community built implementation guide](https://publiccodenet.github.io/community-implementation-guide-standard/) which contains examples and other tips.
+The standard *should* be mostly self-explanatory in how to apply it to your codebase.
+If anything in the standard is unclear, we encourage you to open an issue here so that we can help you and anyone else who feels the same as you.
+For inspiration, look at the [community built implementation guide](https://publiccodenet.github.io/community-implementation-guide-standard/) which contains examples and other tips.
 
-If there are any breaking changes in a new version of the Standard for Public Code, the codebase stewards at the Foundation for Public Code will help any implementors of the standard to understand how the gaps can be closed.
+If there are any breaking changes in a new version of the Standard for Public Code, the codebase stewards at the Foundation for Public Code will help any implementers of the standard understand how the gaps can be closed.
 
 If you want to commit your codebase to become fully compliant to the standard for future certification, please contact us at <info@publiccode.net> to initiate a formal [assessment](https://about.publiccode.net/activities/codebase-stewardship/lifecycle-diagram.html#assessment).
 
