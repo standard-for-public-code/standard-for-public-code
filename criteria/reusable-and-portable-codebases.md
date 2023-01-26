@@ -4,7 +4,7 @@ order: 3
 # Create reusable and portable code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
@@ -29,14 +29,14 @@ order: 3
 
 ## What this does not do
 
-* Get others to reuse the codebase.
+* Get others to use the codebase.
 * Build a community.
 * Shift responsibility for documentation, support, bug-fixing, etc. to another party.
 * Guarantee that modules are generic enough to be reused in any context.
 
 ## How to test
 
-* Confirm with someone in a similar role at another organization if they can reuse the codebase and what that would entail.
+* Confirm with someone in a similar role at another organization if they can use the codebase and what that would entail.
 * Confirm that the codebase can run without using any proprietary or non open-licensed code or services.
 * Check that the codebase is in use by multiple parties or in multiple contexts.
 * Check that the codebase files and commit history do not include situation-specific data.
@@ -46,7 +46,7 @@ order: 3
 * Document your [policy](../glossary.md#policy) with enough clarity and detail that it can be understood outside of its original context.
 * Make sure your organization is listed as a known user by the codebase.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Make sure that stakeholders and business owners understand that reusability is an explicit codebase goal as this reduces technical debt and provides sustainability for the codebase.
 

@@ -6,7 +6,7 @@ redirect_from:
 # Document codebase maturity
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
@@ -38,7 +38,7 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 * When developing [policy](../glossary.md#policy), understand that any code developed needs to be tested and improved before it can be put into service.
 * Consider versioning policy changes, especially when they trigger new versions of the source code.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Make sure that services only rely on versions of codebases of equal or greater maturity than the service. For example, don't use a beta version of a codebase in a production service.
 

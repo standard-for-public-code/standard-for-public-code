@@ -1,7 +1,7 @@
 # Introduction
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 The Standard for Public Code is a set of criteria that supports public organizations in developing and maintaining software and policy together.
 
@@ -152,7 +152,7 @@ By auditing every new merge request the codebase can move incrementally towards 
 
 ## The goals for the Standard for Public Code
 
-This Standard supports developers, designers, business management and policy makers to:
+This Standard supports developers, designers, managers and policy makers to:
 
 * develop high quality software and policy for better public service delivery
 * develop codebases that can be reused across contexts and collaboratively maintained
@@ -179,7 +179,7 @@ The Standard for Public Code is meant to be time and technology independent.
 The Standard for Public Code is for the people who create and reuse public code:
 
 * policy makers
-* business and project management
+* business and project managers
 * developers and designers
 
 These people work at:

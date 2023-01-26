@@ -4,14 +4,14 @@ order: 15
 # Use a coherent style
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
-* Contributions MUST adhere to either a coding or writing style guide, either the [codebase](../glossary.md#codebase) community's own or an existing one that is advertised in or part of the codebase.
+* The [codebase](../glossary.md#codebase) MUST use a coding or writing style guide, either the codebase community's own or an existing one referred to in the codebase.
 * Contributions SHOULD pass automated tests on style.
-* The codebase SHOULD include inline comments and documentation for non-trivial sections.
-* Including sections on [understandable English](understandable-english-first.md) in the style guide is OPTIONAL.
+* The style guide SHOULD include expectations for inline comments and documentation for non-trivial sections.
+* Including expectations for [understandable English](understandable-english-first.md) in the style guide is OPTIONAL.
 
 ## Why this is important
 
@@ -31,7 +31,7 @@ order: 15
 
 * Create, follow and continually improve on a style guide for [policy](../glossary.md#policy) and documentation as well as document this in the codebase, for example in the `CONTRIBUTING` or `README`.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Include written language, source, test and policy standards in your organizational definition of quality.
 

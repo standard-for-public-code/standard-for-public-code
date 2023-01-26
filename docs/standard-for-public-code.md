@@ -1,7 +1,7 @@
-# The Standard for Public Code's compliance to the criteria and requirements of the Standard for Public Code version 0.4.0
+# The Standard for Public Code's compliance to the criteria and requirements of the Standard for Public Code version 0.5.0
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 The Standard for Public Code is not a codebase created in the context of a policy mandate, thus some criteria do not apply directly.
 
@@ -128,7 +128,6 @@ The documentation of the codebase SHOULD contain examples for all functionality.
 The documentation SHOULD describe the key components or modules of the codebase and their relationships, for example as a high level architectural diagram. | N/A |
 There SHOULD be [continuous integration](../glossary.md#continuous-integration) tests for the quality of the documentation. | Ok | [GitHub Actions](https://github.com/publiccodenet/standard/actions)
 Including examples that make users want to immediately start using the codebase in the documentation of the codebase is OPTIONAL. |  | We're not linking to examples
-Testing the code by using examples in the documentation is OPTIONAL. | N/A |
 
 ## [Use plain English](https://standard.publiccode.net/criteria/understandable-english-first.html)
 
@@ -141,7 +140,6 @@ All [code](../glossary.md#code) MUST be in English, except where [policy](../glo
 All bundled policy not available in English MUST have an accompanying summary in English. | N/A |
 Any translation MUST be up to date with the English version and vice versa. | N/A | Community translations lag
 There SHOULD be no acronyms, abbreviations, puns or legal/non-English/domain specific terms in the codebase without an explanation preceding it or a link to an explanation. | Ok |
-The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding. | Ok |
 Documentation SHOULD aim for a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable). | Ok | [CONTRIBUTING](https://github.com/publiccodenet/standard/blob/develop/CONTRIBUTING.md#style)
 Providing a translation of any code, documentation or tests is OPTIONAL. | We have [Community translations](https://publiccodenet.github.io/community-translations-standard/)
 
@@ -156,7 +154,8 @@ Any non-open standards used MUST be recorded clearly as such in the documentatio
 Any standard chosen for use within the codebase MUST be listed in the documentation with a link to where it is available. | Ok | [CONTRIBUTING](../CONTRIBUTING.md#standards-to-follow)
 Any non-open standards chosen for use within the codebase MUST NOT hinder collaboration and reuse. | N/A |
 If no existing open standard is available, effort SHOULD be put into developing one. | N/A |
-Standards that are machine testable SHOULD be preferred over those that are not. | N/A |
+Open standards that are machine testable SHOULD be preferred over open standards that are not. | N/A |
+Non-open standards that are machine testable SHOULD be preferred over non-open standards that are not. | N/A |
 
 ## [Use continuous integration](https://standard.publiccode.net/criteria/continuous-integration.html)
 
@@ -167,11 +166,12 @@ Requirement | meets | links and notes
 All functionality in the source [code](../glossary.md#code) MUST have automated tests. | Ok |
 Contributions MUST pass all automated tests before they are admitted into the [codebase](../glossary.md#codebase). | Ok |
 The codebase MUST have guidelines explaining how to structure contributions. | Ok |
-The codebase MUST have active contributors. | Ok |
+The codebase MUST have active contributors who can review contributions. | Ok |
 The codebase guidelines SHOULD state that each contribution should focus on a single issue. | Ok |
 Source code test and documentation coverage SHOULD be monitored. | N/A |
 Testing [policy](../glossary.md#policy) and documentation for consistency with the source and vice versa is OPTIONAL.| N/A |
 Testing policy and documentation for style and broken links is OPTIONAL. | Ok |
+Testing the code by using examples in the documentation is OPTIONAL. | N/A |
 
 ## [Publish with an open license](https://standard.publiccode.net/criteria/open-licenses.html)
 
@@ -193,6 +193,7 @@ Requirement | meets | links and notes
 -----|-----|-----
 The [codebase](../glossary.md#codebase) MUST be findable using a search engine by describing the problem it solves in natural language. |  |
 The codebase MUST be findable using a search engine by codebase name. | Ok |
+The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding. | Ok |
 Maintainers SHOULD submit the codebase to relevant software catalogs. | Ok | In the [DPG registry](https://digitalpublicgoods.net/registry/standard-for-public-code.html)
 The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers). | Ok |
 The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, [repository](../glossary.md#repository) location and website. | Ok | [Q68006929](https://www.wikidata.org/wiki/Q68006929) on Wikidata
@@ -206,10 +207,10 @@ Regular presentations at conferences by the community are OPTIONAL. | Ok |
 
 Requirement | meets | links and notes
 -----|-----|-----
-Contributions MUST adhere to either a coding or writing style guide, either the [codebase](../glossary.md#codebase) community's own or an existing one that is advertised in or part of the codebase.  | Ok |
+The [codebase](../glossary.md#codebase) MUST use a coding or writing style guide, either the codebase community's own or an existing one referred to in the codebase. | Ok |
 Contributions SHOULD pass automated tests on style. | Ok |
-The codebase SHOULD include inline comments and documentation for non-trivial sections. | N/A | maybe some of the Jekyll could apply
-Including sections on [understandable English](https://standard.publiccode.net/criteria/understandable-english-first.html) in the style guide is OPTIONAL. | Ok |
+The style guide SHOULD include expectations for inline comments and documentation for non-trivial sections. | N/A | maybe some of the Jekyll could apply
+Including expectations on [understandable English](https://standard.publiccode.net/criteria/understandable-english-first.html) in the style guide is OPTIONAL. | Ok |
 
 ## [Document codebase maturity](https://standard.publiccode.net/criteria/document-maturity.html)
 
@@ -218,8 +219,8 @@ Including sections on [understandable English](https://standard.publiccode.net/c
 Requirement | meets | links and notes
 -----|-----|-----
 The [codebase](../glossary.md#codebase) MUST be versioned. | Ok |
-The codebase MUST prominently document whether or not there are versions of the codebase which are ready to use. | Ok |
-Codebase versions which are ready to use MUST only depend on versions of other codebases that are also ready to use. | Ok |
+The codebase MUST prominently document whether or not there are versions of the codebase that are ready to use. | Ok |
+Codebase versions that are ready to use MUST only depend on versions of other codebases that are also ready to use. | Ok |
 A codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`. | Ok | [CHANGELOG](https://github.com/publiccodenet/standard/blob/develop/CHANGELOG.md)
 The method for assigning version identifiers SHOULD be documented. | Ok |
 It is OPTIONAL to use semantic versioning. | Ok |

@@ -1,12 +1,12 @@
 # Standard for Public Code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 The Standard for Public Code gives public organizations a model for preparing open source solutions to enable collaborations with similar public organizations in other places.
 It includes guidance for policy makers, city administrators, developers and vendors.
 
-![version 0.4.1](https://img.shields.io/badge/version-0.4.1-yellow.svg)
+![version 0.5.0](https://img.shields.io/badge/version-0.5.0-yellow.svg)
 [![pages-build-deployment](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment)
 [![Test](https://github.com/publiccodenet/standard/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/test.yml)
 [![Scheduled link check](https://github.com/publiccodenet/standard/actions/workflows/link-check.yml/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/link-check.yml)
@@ -14,6 +14,19 @@ It includes guidance for policy makers, city administrators, developers and vend
 The Standard for Public Code is in a draft format.
 We are preparing it for a version 1.0 release.
 Currently, we are testing it on a small number of codebases.
+
+## Applying the Standard for Public Code to your codebase
+
+If you want to apply the Standard for Public Code to your codebase, just go ahead, it's an open standard and free for anyone to use.
+To see how ready your codebase is, you can do a quick [eligibility self assessment](https://publiccodenet.github.io/assessment-eligibility) that will give you a rough idea of how much work you may need to do to meet all criteria.
+
+The standard *should* be mostly self-explanatory in how to apply it to your codebase.
+If anything in the standard is unclear, we encourage you to open an issue here so that we can help you and anyone else who feels the same as you.
+For inspiration, look at the [community built implementation guide](https://publiccodenet.github.io/community-implementation-guide-standard/) which contains examples and other tips.
+
+If there are any breaking changes in a new version of the Standard for Public Code, the codebase stewards at the Foundation for Public Code will help any implementers of the standard understand how the gaps can be closed.
+
+If you want to commit your codebase to become fully compliant to the standard for future certification, please contact us at <info@publiccode.net> to initiate a formal [assessment](https://about.publiccode.net/activities/codebase-stewardship/lifecycle-diagram.html#assessment).
 
 ## Request for contributions
 
@@ -54,7 +67,7 @@ See the scripts in the [script](https://github.com/publiccodenet/standard/tree/m
 Using [Weasyprint](https://weasyprint.org/) the file `print.html` can be converted to a nice looking PDF.
 
 ```bash
-weasyprint http://localhost:4000/print.html standard.pdf
+script/pdf.sh
 ```
 
 ## License

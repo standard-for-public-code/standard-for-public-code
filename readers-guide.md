@@ -1,12 +1,12 @@
 # Readers guide
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 The Standard describes a number of criteria.
 All criteria have consistent sections that make it clear how to create great public code.
 
-References to "policy makers", "management", and "developers and designers" apply to anyone performing duties associated with these roles, regardless of their job title.
+References to "policy makers", "managers", and "developers and designers" apply to anyone performing duties associated with these roles, regardless of their job title.
 It is common for individuals to have duties which span multiple roles.
 
 Below is a brief explanation of each of these sections and how they are used within the criteria of the Standard.
@@ -15,7 +15,18 @@ Below is a brief explanation of each of these sections and how they are used wit
 
 This section lists what needs to be done in order to comply with the standard.
 
-In order to limit ambiguity, the key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119).
+The following keywords in this document are to be interpreted as described in [IETF RFC 2119](https://tools.ietf.org/html/rfc2119):
+
+* MUST
+* MUST NOT
+* REQUIRED
+* SHALL
+* SHALL NOT
+* SHOULD
+* SHOULD NOT
+* RECOMMENDED
+* MAY
+* OPTIONAL
 
 ## Why this is important
 
@@ -43,11 +54,11 @@ This section tries to specifically speak to policy makers by offering them concr
 
 Policy makers set the priorities and goals of projects and may be less technologically experienced.
 
-## Management: what you need to do
+## Managers: what you need to do
 
-This section tries to specifically speak to management by offering concrete actions they can perform in their role.
+This section tries to specifically speak to managers by offering concrete actions they can perform in their role.
 
-Management is responsible for on-time project delivery, stakeholder management and continued delivery of the service.
+Managers are responsible for on-time project delivery, stakeholder management and continued delivery of the service.
 For this they are wholly reliant on both policy makers as well as developers and designers.
 They need to create the right culture, line up the right resources and provide the right structures to deliver great services.
 

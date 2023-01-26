@@ -4,7 +4,7 @@ order: 11
 # Use open standards
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
@@ -13,7 +13,8 @@ order: 11
 * Any standard chosen for use within the codebase MUST be listed in the documentation with a link to where it is available.
 * Any non-open standards chosen for use within the codebase MUST NOT hinder collaboration and reuse.
 * If no existing open standard is available, effort SHOULD be put into developing one.
-* Standards that are machine testable SHOULD be preferred over those that are not.
+* Open standards that are machine testable SHOULD be preferred over open standards that are not.
+* Non-open standards that are machine testable SHOULD be preferred over non-open standards that are not.
 
 ## Why this is important
 
@@ -36,7 +37,7 @@ order: 11
 * Mandate use of open standards everywhere possible.
 * Prohibit procurement of technology that does not use open standards.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Consider including open standard compliance assessment in [code](../glossary.md#code) reviews.
 

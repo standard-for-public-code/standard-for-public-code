@@ -4,7 +4,7 @@ order: 1
 # Code in the open
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
@@ -40,7 +40,7 @@ These aspects together create more opportunities for citizens to understand how 
 * Develop policies in the open.
 * Prioritize open and transparent policies.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Develop a culture that embraces openness, learning and feedback.
 * Collaborate with external vendors and freelancers by working in the open.

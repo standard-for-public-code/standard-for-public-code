@@ -4,7 +4,7 @@ order: 9
 # Document the code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
@@ -17,7 +17,6 @@ order: 9
 * The documentation SHOULD describe the key components or modules of the codebase and their relationships, for example as a high level architectural diagram.
 * There SHOULD be [continuous integration](../glossary.md#continuous-integration) tests for the quality of the documentation.
 * Including examples that make users want to immediately start using the codebase in the documentation of the codebase is OPTIONAL.
-* Testing the code by using examples in the documentation is OPTIONAL.
 
 ## Why this is important
 
@@ -45,9 +44,9 @@ order: 9
 * Check in regularly to understand how the non-policy code in the codebase has changed.
 * Give feedback on how to make non-policy documentation more clear.
 
-## Management: what you need to do
+## Managers: what you need to do
 
-* Try to use the codebase.
+* Try to use the codebase, so your feedback can improve how clearly the policy and code are documented. For example, is the current documentation sufficient to persuade a manager at another public organization to use this codebase?
 * Make sure you understand both the policy and source code as well as the documentation.
 
 ## Developers and designers: what you need to do

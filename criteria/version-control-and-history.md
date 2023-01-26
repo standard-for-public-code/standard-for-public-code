@@ -4,7 +4,7 @@ order: 6
 # Maintain version control
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
@@ -57,7 +57,7 @@ Distributed version control enables you to:
 
 For example, adding a new category of applicant to a codebase that manages granting permits would be considered a policy change.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Support policy makers, developers and designers to be clear about what improvements they're making to the codebase. Making improvements isn't a public relations risk.
 

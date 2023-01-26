@@ -1,10 +1,12 @@
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 
 Gemfile.lock
 _site
-standard.pdf
-standard-cover.pdf
+_build_pdf
+*.pdf
+*.epub
 vendor/
 urls-sorted.txt
 urls.txt
+release.body

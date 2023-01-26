@@ -4,7 +4,7 @@ order: 10
 # Use plain English
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
@@ -13,7 +13,6 @@ order: 10
 * All bundled policy not available in English MUST have an accompanying summary in English.
 * Any translation MUST be up to date with the English version and vice versa.
 * There SHOULD be no acronyms, abbreviations, puns or legal/non-English/domain specific terms in the codebase without an explanation preceding it or a link to an explanation.
-* The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding.
 * Documentation SHOULD aim for a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable).
 * Providing a translation of any code, documentation or tests is OPTIONAL.
 
@@ -22,6 +21,7 @@ order: 10
 * Makes the codebase and what it does understandable for a wider variety of stakeholders in multiple contexts.
 * Helps with the discoverability of the codebase.
 * Can help you meet the [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility), which requires most public sector information to be accessible.
+* Language that is easy to understand lowers the cost of creating and maintaining translations.
 
 ## What this does not do
 
@@ -39,16 +39,16 @@ order: 10
 
 ## Policy makers: what you need to do
 
-* Frequently test with other management, developers and designers in the process if they understand what you are delivering and how you document it.
+* Frequently test with other managers, developers and designers in the process if they understand what you are delivering and how you document it.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Try to limit the use of acronyms, abbreviations, puns or legal/non-English/domain specific terms in internal communications in and between teams and stakeholders. Add any such terms to a glossary and link to it from the places they are being used.
 * Be critical of documentation and descriptions in proposals and changes. If you don't understand something, others will probably also struggle with it.
 
 ## Developers and designers: what you need to do
 
-* Frequently test with policy makers and management if they understand what you are delivering and how you document it.
+* Frequently test with policy makers and managers if they understand what you are delivering and how you document it.
 * Ask someone outside of your context if they understand the content (for example, a developer working on a different codebase).
 
 ## Further reading

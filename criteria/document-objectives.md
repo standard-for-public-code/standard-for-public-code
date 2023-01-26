@@ -4,7 +4,7 @@ order: 8
 # Document codebase objectives
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 ## Requirements
 
@@ -36,7 +36,7 @@ Documenting codebase objectives:
 * Add the policy objectives to the codebase documentation, for example in the `README`.
 * Include relevant policies which impact the community, codebase, and development like value and ethics based policies, for example accessibility or equal opportunity.
 
-## Management: what you need to do
+## Managers: what you need to do
 
 * Add the organizational and business objectives to the codebase documentation, for example in the `README`.
 

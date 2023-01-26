@@ -1,0 +1,45 @@
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+
+name: release-on-tag
+on:
+  push:
+    tags:
+      - "*.*.*" # tag example: 0.4.1
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  release-the-tag:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: install-deps
+        # https://yaml.org/spec/1.2.2/#65-line-folding
+        run: >
+          sudo apt-get install -y
+          ruby
+          ruby-bundler
+          fontconfig
+          python3.10-venv
+          python3-pip
+          pandoc
+      - name: bundle-install
+        run: bundle install
+      - name: install-fonts
+        run: script/ensure-font.sh
+      - name: build-pdf
+        run: script/pdf.sh
+      - name: create-release-body
+        run: script/release-body.sh
+      - name: upload
+        uses: softprops/action-gh-release@v1
+        with:
+          prerelease: true
+          files: |
+            standard-*.pdf
+            standard-*.epub
+          body_path: release.body

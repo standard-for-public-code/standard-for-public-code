@@ -1,9 +1,9 @@
 # Authors
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
-* Alba Roza, [The Foundation for Public Code](https://publiccode.net)
+* Alba Roza, [The Foundation for Public Code](https://publiccode.net/)
 * Arnout Engelen
 * Arnout Schuijff, The Foundation for Public Code
 * Audrey Tang, [digitalminister.tw](https://digitalminister.tw/)
