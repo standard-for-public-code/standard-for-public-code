@@ -154,7 +154,7 @@ Any non-open standards used MUST be recorded clearly as such in the documentatio
 Any standard chosen for use within the codebase MUST be listed in the documentation with a link to where it is available. | Ok | [CONTRIBUTING](../CONTRIBUTING.md#standards-to-follow)
 Any non-open standards chosen for use within the codebase MUST NOT hinder collaboration and reuse. | N/A |
 If no existing open standard is available, effort SHOULD be put into developing one. | N/A |
-Open standards that are machine testable SHOULD be preferred over open standars that are not. | N/A |
+Open standards that are machine testable SHOULD be preferred over open standards that are not. | N/A |
 Non-open standards that are machine testable SHOULD be preferred over non-open standards that are not. | N/A |
 
 ## [Use continuous integration](https://standard.publiccode.net/criteria/continuous-integration.html)
@@ -209,7 +209,7 @@ Requirement | meets | links and notes
 -----|-----|-----
 The [codebase](../glossary.md#codebase) MUST use a coding or writing style guide, either the codebase community's own or an existing one referred to in the codebase. | Ok |
 Contributions SHOULD pass automated tests on style. | Ok |
-The style guide SHOULD include expectations on inline comments and documentation for non-trivial sections. | N/A | maybe some of the Jekyll could apply
+The style guide SHOULD include expectations for inline comments and documentation for non-trivial sections. | N/A | maybe some of the Jekyll could apply
 Including expectations on [understandable English](https://standard.publiccode.net/criteria/understandable-english-first.html) in the style guide is OPTIONAL. | Ok |
 
 ## [Document codebase maturity](https://standard.publiccode.net/criteria/document-maturity.html)
