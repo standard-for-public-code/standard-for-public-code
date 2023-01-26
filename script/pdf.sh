@@ -36,14 +36,14 @@ function ensure_good_weasyprint () {
 	echo "WEASY_PRINT_VER='$WEASY_PRINT_VER'"
 
 	if [ "_${WEASY_PRINT_VER}_" != "__" ]; then
-		MAJ_VER=$(echo "${WEASY_PRINT_VER}" | cut -f1 -d'.')
-		MIN__VER=$(echo "${WEASY_PRINT_VER}" | cut -f2 -d'.')
+		WP_MAJOR_VERSION=$(echo "${WEASY_PRINT_VER}" | cut -f1 -d'.')
+		WP_MINOR_VERSION=$(echo "${WEASY_PRINT_VER}" | cut -f2 -d'.')
 	else
-		MAJ_VER=0
-		MIN_VER=0
+		WP_MAJOR_VERSION=0
+		WP_MINOR_VERSION=0
 	fi
 
-	if [ "$MAJ_VER" -lt 57 ]; then
+	if [ "$WP_MAJOR_VERSION" -lt 57 ]; then
 		echo "WeasyPrint version: $WEASY_PRINT_VER less than 57"
 	        echo "installing new weasyprint"
 		pushd /tmp
