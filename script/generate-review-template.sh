@@ -46,8 +46,15 @@ EOF
 		if (length(s) > 0) print s "|  |"}' $FILE >> $TEMPLATE
 done
 
-# fully qualify local links in requirement lines
+cp -v $TEMPLATE $TEMPLATE.orig
+
+# fully qualify glossary local links in requirement lines
+sed -i -e's@\[\([^]]*\)\](../glossary.md\(#[a-z\-]*\))@[\1](https://standard.publiccode.net/glossary.html\2)@g' $TEMPLATE
+
+# fully qualify local criteria links in requirement lines
 # by looking for links lacking a colon
 sed -i -e's@\[\([^]]*\)\](\([^:)]*\).md)@[\1](https://standard.publiccode.net/criteria/\2.html)@g' $TEMPLATE
+
+# diff -u $TEMPLATE.orig $TEMPLATE
 
 ls -l $TEMPLATE
