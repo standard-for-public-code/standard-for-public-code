@@ -10,3 +10,4 @@ vendor/
 urls-sorted.txt
 urls.txt
 release.body
+*.orig
