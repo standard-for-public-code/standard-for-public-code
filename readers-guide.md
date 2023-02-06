@@ -12,6 +12,10 @@ It is common for individuals to have duties which span multiple roles.
 
 Below is a brief explanation of each of these sections and how they are used within the criteria of the Standard.
 
+## Introduction
+
+This section explains what the criterion aims to achieve and why it is important for the users and contributors of this codebase.
+
 ## Requirements
 
 This section lists what needs to be done in order to comply with the standard.
@@ -28,10 +32,6 @@ The following keywords in this document are to be interpreted as described in [I
 * RECOMMENDED
 * MAY
 * OPTIONAL
-
-## Why this is important
-
-This section explains why it is important for the users and contributors of this codebase that these requirements are followed.
 
 ## What this does not do
 
