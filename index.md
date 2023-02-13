@@ -1,6 +1,7 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+toc: false 
 ---
 # Guidance for government open source collaboration
 
@@ -15,7 +16,11 @@ We define ‘public code’ as open source software developed by public organiza
 
 The criteria of the Standard for Public Code are aligned with guidelines and best practices of open source software development.
 
+## Other resources
+
 There are also unofficial [community translations of the Standard](https://publiccodenet.github.io/community-translations-standard/) in other languages.
+
+
 
 ## Contents
 
