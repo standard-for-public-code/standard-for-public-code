@@ -13,7 +13,7 @@ Below is a brief explanation of each of these sections and how they are used wit
 
 ## Preamble
 
-This section explains what the criterion aims to achieve and why it is important for the users and contributors of this codebase.
+This section explains what the criterion aims to achieve and why it is important for a codebase's users and contributors.
 
 ## Requirements
 
