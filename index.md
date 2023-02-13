@@ -16,12 +16,6 @@ We define ‘public code’ as open source software developed by public organiza
 
 The criteria of the Standard for Public Code are aligned with guidelines and best practices of open source software development.
 
-## Other resources
-
-There are also unofficial [community translations of the Standard](https://publiccodenet.github.io/community-translations-standard/) in other languages.
-
-
-
 ## Contents
 
 * [Introduction and background](introduction.md)
@@ -50,3 +44,9 @@ There are also unofficial [community translations of the Standard](https://publi
 * [Governance](GOVERNANCE.md)
 * [Version history](CHANGELOG.md)
 * [License](license.html)
+
+## Other resources
+
+* unofficial [community translations of the Standard](https://publiccodenet.github.io/community-translations-standard/) in other languages
+
+* [Standard criteria checklist](https://github.com/publiccodenet/standard/blob/develop/docs/review-template.md)) used by Foundation for Public Code stewards for codebase review
