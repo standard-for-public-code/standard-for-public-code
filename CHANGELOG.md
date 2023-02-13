@@ -1,7 +1,8 @@
+---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+---
 # Version history
-
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 <!-- script/release-body.sh expects VERSION in the first second-level header -->
 

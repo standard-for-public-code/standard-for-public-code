@@ -1,7 +1,8 @@
+---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+---
 # Governance
-
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 This standard lies at the core of the codebase stewardship provided by the [Foundation for Public Code](https://publiccode.net/).
 We decide if a codebase is ready for community co-development based on this document.
