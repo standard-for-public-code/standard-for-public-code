@@ -1,10 +1,14 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 7
 ---
 # Require review of contributions
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Peer-review of contributions is essential for code quality, reducing security risks and operational risks.
+Requiring thorough review of contributions encourages a culture of making every contribution of high quality, completeness and value.
+Code review increases the chance of discovering and fixing potential bugs or mistakes before they are added to the codebase.
+A policy of prompt reviews assures contributors of a guaranteed time for feedback or collaborative improvement which increases both rate of delivery and contributor engagement.
 
 Peer-review of contributions is essential for code quality, reducing security risks and operational risks.
 Requiring thorough review of contributions encourages a culture of making every contribution of high quality, completeness and value.

@@ -1,10 +1,13 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 11
 ---
 # Use open standards
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Open standards guarantee access to the knowledge required to use and contribute to the codebase.
+They enable interoperability between systems and reduce the risk of vendor lock-in.
+Open standards which are unambiguous allow for independent development of either side of data exchange.
 
 Open standards guarantee access to the knowledge required to use and contribute to the codebase.
 They enable interoperability between systems and reduce the risk of vendor lock-in.

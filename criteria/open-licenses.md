@@ -1,10 +1,12 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 13
 ---
 # Publish with an open license
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+An open and well known license makes it possible for anyone to see the code in order to understand how it works, to use it freely and to contribute to the codebase.
+Clearly indicating the license for each file within a codebase facilitates correct reuse and attribution of parts of a codebase.
 
 An open and well known license makes it possible for anyone to see the code in order to understand how it works, to use it freely and to contribute to the codebase.
 Clearly indicating the license for each file within a codebase facilitates correct reuse and attribution of parts of a codebase.

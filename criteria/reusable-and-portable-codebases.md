@@ -1,10 +1,16 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 3
 ---
 # Create reusable and portable code
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Creating reusable and portable code enables policy makers, developers and designers to reuse what has been developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintenance and higher reliability.
+Organizing a codebase such that it is composed of well documented modules improves reusability and maintainability.
+Thoughtfully and purposefully designed for reusability, allows for the mission, vision and scope of the codebase to be shared by multiple parties.
+Codebases used by multiple parties are more likely to benefit from a self-sustaining community.
+A module is easier to reuse in another context if its purpose is clearly documented.
+Code which does not rely on the situation-specific infrastructure of any contributor or deployment can be tested by any other contributor.
 
 Creating reusable and portable code enables policy makers, developers and designers to reuse what has been developed, to test it, to improve it and contribute those improvements back leading to better quality, cheaper maintenance and higher reliability.
 Organizing a codebase such that it is composed of well documented modules improves reusability and maintainability.

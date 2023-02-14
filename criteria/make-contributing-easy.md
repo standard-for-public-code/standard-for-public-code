@@ -1,10 +1,13 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 5
 ---
 # Make contributing easy
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+To develop better, more reliable and feature rich software, users need to be able to fix problems, add features to, and address security issues of the shared codebase.
+A shared digital infrastructure makes it easier to make collaborative contributions.
+The less effort it takes to make contributions that are accepted by the codebase the more likely users are to become contributors.
 
 To develop better, more reliable and feature rich software, users need to be able to fix problems, add features to, and address security issues of the shared codebase.
 A shared digital infrastructure makes it easier to make collaborative contributions.

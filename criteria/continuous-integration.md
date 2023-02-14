@@ -1,10 +1,16 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 12
 ---
 # Use continuous integration
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Developers merging their work to a shared branch frequently, verified by automated tests, enables asynchronous collaboration.
+The more frequent the merging and the smaller the contribution, the easier it is to merge eventual conflicts.
+Automated testing of all functionality provides confidence that contributions are working as intended and have not introduced errors and allow reviewers to focus on the structure and approach of the contribution.
+The more focused the test, the easier it is to clearly identify and understand errors as they arise.
+Documenting a codebase's [continuous integration](../glossary.md#continuous-integration) workflow helps contributors understand the expectations of contributions.
+Continuous integration allows for an easier monitoring of the state of the codebase.
 
 Developers merging their work to a shared branch frequently, verified by automated tests, enables asynchronous collaboration.
 The more frequent the merging and the smaller the contribution, the easier it is to merge eventual conflicts.

@@ -1,10 +1,15 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 10
 ---
 # Use plain English
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+English is the <i>de facto</i> language of collaboration in software development.
+Public sector information needs to be accessible for all its constituents.
+Plain and simple language makes the codebase and what it does easier to understand for a wider variety of people.
+Translations further increase the possible reach of a codebase.
+Language that is easy to understand lowers the cost of creating and maintaining translations.
 
 English is the <i>de facto</i> language of collaboration in software development.
 Public sector information needs to be accessible for all its constituents.

@@ -1,10 +1,12 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 1
 ---
 # Code in the open
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Coding in the open improves transparency, increases code quality, facilitates the auditing processes, and enables collaboration.
+These aspects together create more opportunities for citizens to understand how software and policy impact their interactions with a public organization.
 
 Coding in the open improves transparency, increases code quality, facilitates the auditing processes, and enables collaboration.
 These aspects together create more opportunities for citizens to understand how software and policy impact their interactions with a public organization.

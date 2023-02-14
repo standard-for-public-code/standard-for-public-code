@@ -1,11 +1,15 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 14
 ---
 
 # Make the codebase findable
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+The more findable a codebase is, the more potential new collaborators will find it.
+Just publishing a codebase and hoping it is found does not work, instead proactiveness is needed.
+A metadata description file increases discoverability.
+Well-written metadata containing a unique and persistent identifer, such as a Wikidata item or FSF software directory listing, and thus being part of the semantic web, makes the codebase easier for people to refer, cite, disambiguate and discover it through third party tools.
 
 The more findable a codebase is, the more potential new collaborators will find it.
 Just publishing a codebase and hoping it is found does not work, instead proactiveness is needed.

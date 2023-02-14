@@ -1,12 +1,15 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 16
 redirect_from:
     - criteria/advertise-maturity
 ---
 # Document codebase maturity
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Clearly signalling a codebase's maturity helps others decide whether to use and contribute to it.
+A codebase version's maturity includes the maturity of its dependencies.
+A key to understanding a codebase and to contribute to it is to understand how it has evolved.
 
 Clearly signalling a codebase's maturity helps others decide whether to use and contribute to it.
 A codebase version's maturity includes the maturity of its dependencies.

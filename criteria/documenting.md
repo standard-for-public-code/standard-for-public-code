@@ -1,10 +1,12 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 9
 ---
 # Document the code
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Well documented code helps people to understand what the code does and how to use it.
+Documentation is essential for people to start using the codebase and contributing to it more quickly.
 
 Well documented code helps people to understand what the code does and how to use it.
 Documentation is essential for people to start using the codebase and contributing to it more quickly.

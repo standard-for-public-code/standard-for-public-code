@@ -1,10 +1,12 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 15
 ---
 # Use a coherent style
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Following a consistent and coherent style enables contributors in different environments to work together.
+Unifying vocabularies reduces friction in communication between contributors.
 
 Following a consistent and coherent style enables contributors in different environments to work together.
 Unifying vocabularies reduces friction in communication between contributors.

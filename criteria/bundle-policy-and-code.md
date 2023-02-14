@@ -1,10 +1,13 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 2
 ---
 # Bundle policy and source code
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Access to both source code and policy documentation provides building blocks for anyone to implement the codebase in their local context or  contribute to the further development of the codebase.
+Understanding the domain and policies within that domain is fundamental to understanding what problems a codebase is trying to solve and how it sets out to solve them.
+To be able to evaluate whether to implement a codebase in a new context, an organization needs to understand what process changes it must choose to make or how to contribute additional configurability to the existing solution in order to adapt it to the new context.
 
 Access to both source code and policy documentation provides building blocks for anyone to implement the codebase in their local context or  contribute to the further development of the codebase.
 Understanding the domain and policies within that domain is fundamental to understanding what problems a codebase is trying to solve and how it sets out to solve them.

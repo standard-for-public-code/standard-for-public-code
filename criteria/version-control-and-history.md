@@ -1,10 +1,13 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 6
 ---
 # Maintain version control
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Version control means keeping track of changes to the code over time.
+This allows you to maintain structured documentation of the history of the codebase.
+This is essential for collaboration at scale as it enables developers to work on changes in parallel and it help developers in the future to understand the reasons for changes.
 
 Version control means keeping track of changes to the code over time.
 This allows you to maintain structured documentation of the history of the codebase.

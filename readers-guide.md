@@ -1,7 +1,8 @@
+---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+---
 # Readers guide
-
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 The Standard describes a number of criteria.
 All criteria have consistent sections that make it clear how to create great public code.
@@ -11,7 +12,7 @@ It is common for individuals to have duties which span multiple roles.
 
 Below is a brief explanation of each of these sections and how they are used within the criteria of the Standard.
 
-## Preamble
+## Introduction
 
 This section explains what the criterion aims to achieve and why it is important for a codebase's users and contributors.
 
