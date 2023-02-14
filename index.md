@@ -48,7 +48,5 @@ The criteria of the Standard for Public Code are aligned with guidelines and bes
 ## Other resources
 
 * unofficial [community translations of the Standard](https://publiccodenet.github.io/community-translations-standard/) in other languages
-
 * [Standard compliance self assessment](https://publiccodenet.github.io/assessment-eligibility/) for public sector open source codebases
-
 * [Standard criteria checklist](https://github.com/publiccodenet/standard/blob/develop/docs/review-template.md)) used by Foundation for Public Code stewards for codebase review
