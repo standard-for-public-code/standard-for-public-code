@@ -5,11 +5,8 @@ order: 1
 ---
 # Code in the open
 
-Coding in the open improves transparency, increases code quality, facilitates the auditing processes, and enables collaboration.
-These aspects together create more opportunities for citizens to understand how software and policy impact their interactions with a public organization.
-
-Coding in the open improves transparency, increases code quality, facilitates the auditing processes, and enables collaboration.
-These aspects together create more opportunities for citizens to understand how software and policy impact their interactions with a public organization.
+Coding in the open improves transparency, increases code quality, makes the code easier to audit, and enables collaboration.
+Together, this creates more opportunities for citizens to understand how software and policy impact their interactions with a public organization.
 
 ## Requirements
 
