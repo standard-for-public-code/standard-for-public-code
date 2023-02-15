@@ -9,11 +9,7 @@ redirect_from:
 
 Clearly signalling a codebase's maturity helps others decide whether to use and contribute to it.
 A codebase version's maturity includes the maturity of its dependencies.
-A key to understanding a codebase and to contribute to it is to understand how it has evolved.
-
-Clearly signalling a codebase's maturity helps others decide whether to use and contribute to it.
-A codebase version's maturity includes the maturity of its dependencies.
-A key to understanding a codebase and to contribute to it is to understand how it has evolved.
+Understanding how a codebase has evolved is key to understanding the codebase and how to contribute to it.
 
 ## Requirements
 
