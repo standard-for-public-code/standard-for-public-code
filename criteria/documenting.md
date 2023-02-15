@@ -8,9 +8,6 @@ order: 9
 Well documented code helps people to understand what the code does and how to use it.
 Documentation is essential for people to start using the codebase and contributing to it more quickly.
 
-Well documented code helps people to understand what the code does and how to use it.
-Documentation is essential for people to start using the codebase and contributing to it more quickly.
-
 ## Requirements
 
 * All of the functionality of the [codebase](../glossary.md#codebase), [policy](../glossary.md#policy) as well as source, MUST be described in language clearly understandable for those that understand the purpose of the [code](../glossary.md#code).
