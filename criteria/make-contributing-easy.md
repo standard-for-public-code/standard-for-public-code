@@ -5,13 +5,10 @@ order: 5
 ---
 # Make contributing easy
 
-To develop better, more reliable and feature rich software, users need to be able to fix problems, add features to, and address security issues of the shared codebase.
-A shared digital infrastructure makes it easier to make collaborative contributions.
-The less effort it takes to make contributions that are accepted by the codebase the more likely users are to become contributors.
+To develop better, more reliable and feature rich software, users need to be able to fix problems, add features, and address security issues of the shared codebase.
 
-To develop better, more reliable and feature rich software, users need to be able to fix problems, add features to, and address security issues of the shared codebase.
 A shared digital infrastructure makes it easier to make collaborative contributions.
-The less effort it takes to make contributions that are accepted by the codebase the more likely users are to become contributors.
+The less effort it takes to make contributions that are accepted by the codebase, the more likely users are to become contributors.
 
 ## Requirements
 
