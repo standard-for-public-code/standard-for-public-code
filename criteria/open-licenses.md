@@ -6,9 +6,7 @@ order: 13
 # Publish with an open license
 
 An open and well known license makes it possible for anyone to see the code in order to understand how it works, to use it freely and to contribute to the codebase.
-Clearly indicating the license for each file within a codebase facilitates correct reuse and attribution of parts of a codebase.
 
-An open and well known license makes it possible for anyone to see the code in order to understand how it works, to use it freely and to contribute to the codebase.
 Clearly indicating the license for each file within a codebase facilitates correct reuse and attribution of parts of a codebase.
 
 ## Requirements
