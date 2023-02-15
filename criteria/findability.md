@@ -8,13 +8,10 @@ order: 14
 
 The more findable a codebase is, the more potential new collaborators will find it.
 Just publishing a codebase and hoping it is found does not work, instead proactiveness is needed.
-A metadata description file increases discoverability.
-Well-written metadata containing a unique and persistent identifer, such as a Wikidata item or FSF software directory listing, and thus being part of the semantic web, makes the codebase easier for people to refer, cite, disambiguate and discover it through third party tools.
 
-The more findable a codebase is, the more potential new collaborators will find it.
-Just publishing a codebase and hoping it is found does not work, instead proactiveness is needed.
 A metadata description file increases discoverability.
-Well-written metadata containing a unique and persistent identifer, such as a Wikidata item or FSF software directory listing, and thus being part of the semantic web, makes the codebase easier for people to refer, cite, disambiguate and discover it through third party tools.
+Well-written metadata containing a unique and persistent identifer, such as a Wikidata item or FSF software directory listing (thus being part of the semantic web), makes the codebase easier for people to refer, cite, disambiguate and discover through third party tools.
+
 
 ## Requirements
 
