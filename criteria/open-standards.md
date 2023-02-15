@@ -9,10 +9,6 @@ Open standards guarantee access to the knowledge required to use and contribute 
 They enable interoperability between systems and reduce the risk of vendor lock-in.
 Open standards which are unambiguous allow for independent development of either side of data exchange.
 
-Open standards guarantee access to the knowledge required to use and contribute to the codebase.
-They enable interoperability between systems and reduce the risk of vendor lock-in.
-Open standards which are unambiguous allow for independent development of either side of data exchange.
-
 ## Requirements
 
 * For features of the [codebase](../glossary.md#codebase) that facilitate the exchange of data the codebase MUST use an [open standard](../glossary.md#open-standard) that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
