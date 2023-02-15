@@ -5,17 +5,12 @@ order: 12
 ---
 # Use continuous integration
 
-Developers merging their work to a shared branch frequently, verified by automated tests, enables asynchronous collaboration.
-The more frequent the merging and the smaller the contribution, the easier it is to merge eventual conflicts.
-Automated testing of all functionality provides confidence that contributions are working as intended and have not introduced errors and allow reviewers to focus on the structure and approach of the contribution.
-The more focused the test, the easier it is to clearly identify and understand errors as they arise.
-Documenting a codebase's [continuous integration](../glossary.md#continuous-integration) workflow helps contributors understand the expectations of contributions.
-Continuous integration allows for an easier monitoring of the state of the codebase.
+Asynchronous collaboration is enabled by evelopers merging their work to a shared branch frequently, verified by automated tests. 
+The more frequent the merging and the smaller the contribution, the easier it is to resolve merge conflicts.
 
-Developers merging their work to a shared branch frequently, verified by automated tests, enables asynchronous collaboration.
-The more frequent the merging and the smaller the contribution, the easier it is to merge eventual conflicts.
-Automated testing of all functionality provides confidence that contributions are working as intended and have not introduced errors and allow reviewers to focus on the structure and approach of the contribution.
+Automated testing of all functionality provides confidence that contributions are working as intended and have not introduced errors, and allows reviewers to focus on the structure and approach of the contribution.
 The more focused the test, the easier it is to clearly identify and understand errors as they arise.
+
 Documenting a codebase's [continuous integration](../glossary.md#continuous-integration) workflow helps contributors understand the expectations of contributions.
 Continuous integration allows for an easier monitoring of the state of the codebase.
 
