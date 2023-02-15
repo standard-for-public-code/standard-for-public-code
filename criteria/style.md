@@ -8,9 +8,6 @@ order: 15
 Following a consistent and coherent style enables contributors in different environments to work together.
 Unifying vocabularies reduces friction in communication between contributors.
 
-Following a consistent and coherent style enables contributors in different environments to work together.
-Unifying vocabularies reduces friction in communication between contributors.
-
 ## Requirements
 
 * The [codebase](../glossary.md#codebase) MUST use a coding or writing style guide, either the codebase community's own or an existing one referred to in the codebase.

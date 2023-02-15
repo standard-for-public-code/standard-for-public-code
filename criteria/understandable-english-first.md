@@ -6,14 +6,10 @@ order: 10
 # Use plain English
 
 English is the <i>de facto</i> language of collaboration in software development.
-Public sector information needs to be accessible for all its constituents.
-Plain and simple language makes the codebase and what it does easier to understand for a wider variety of people.
-Translations further increase the possible reach of a codebase.
-Language that is easy to understand lowers the cost of creating and maintaining translations.
 
-English is the <i>de facto</i> language of collaboration in software development.
-Public sector information needs to be accessible for all its constituents.
+Public sector information needs to be accessible to all its constituents.
 Plain and simple language makes the codebase and what it does easier to understand for a wider variety of people.
+
 Translations further increase the possible reach of a codebase.
 Language that is easy to understand lowers the cost of creating and maintaining translations.
 
