@@ -12,7 +12,6 @@ Code review increases the chance of discovering and fixing potential bugs or mis
 
 A policy of prompt reviews assures contributors of a guaranteed time for feedback or collaborative improvement, which increases both rate of delivery and contributor engagement.
 
-
 ## Requirements
 
 * All contributions that are accepted or committed to release versions of the [codebase](../glossary.md#codebase) MUST be reviewed by another contributor.

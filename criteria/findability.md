@@ -12,7 +12,6 @@ Just publishing a codebase and hoping it is found does not work, instead proacti
 A metadata description file increases discoverability.
 Well-written metadata containing a unique and persistent identifer, such as a Wikidata item or FSF software directory listing (thus being part of the semantic web), makes the codebase easier for people to refer, cite, disambiguate and discover through third party tools.
 
-
 ## Requirements
 
 * The [codebase](../glossary.md#codebase) MUST be findable using a search engine by describing the problem it solves in natural language.

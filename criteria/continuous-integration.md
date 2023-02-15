@@ -5,7 +5,7 @@ order: 12
 ---
 # Use continuous integration
 
-Asynchronous collaboration is enabled by evelopers merging their work to a shared branch frequently, verified by automated tests. 
+Asynchronous collaboration is enabled by evelopers merging their work to a shared branch frequently, verified by automated tests.
 The more frequent the merging and the smaller the contribution, the easier it is to resolve merge conflicts.
 
 Automated testing of all functionality provides confidence that contributions are working as intended and have not introduced errors, and allows reviewers to focus on the structure and approach of the contribution.
