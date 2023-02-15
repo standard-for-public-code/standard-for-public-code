@@ -6,14 +6,12 @@ order: 7
 # Require review of contributions
 
 Peer-review of contributions is essential for code quality, reducing security risks and operational risks.
-Requiring thorough review of contributions encourages a culture of making every contribution of high quality, completeness and value.
-Code review increases the chance of discovering and fixing potential bugs or mistakes before they are added to the codebase.
-A policy of prompt reviews assures contributors of a guaranteed time for feedback or collaborative improvement which increases both rate of delivery and contributor engagement.
 
-Peer-review of contributions is essential for code quality, reducing security risks and operational risks.
-Requiring thorough review of contributions encourages a culture of making every contribution of high quality, completeness and value.
+Requiring thorough review of contributions encourages a culture of making every contribution is of high quality, completeness and value.
 Code review increases the chance of discovering and fixing potential bugs or mistakes before they are added to the codebase.
-A policy of prompt reviews assures contributors of a guaranteed time for feedback or collaborative improvement which increases both rate of delivery and contributor engagement.
+
+A policy of prompt reviews assures contributors of a guaranteed time for feedback or collaborative improvement, which increases both rate of delivery and contributor engagement.
+
 
 ## Requirements
 
