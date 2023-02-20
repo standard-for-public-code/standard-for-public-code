@@ -8,14 +8,14 @@ order: 10
 English is the <i>de facto</i> language of collaboration in software development.
 
 Public sector information needs to be accessible to all its constituents.
-Plain and simple language makes the codebase and what it does easier to understand for a wider variety of people.
+Plain and simple language makes the [codebase](../glossary.md#codebase) and what it does easier to understand for a wider variety of people.
 
 Translations further increase the possible reach of a codebase.
 Language that is easy to understand lowers the cost of creating and maintaining translations.
 
 ## Requirements
 
-* All [codebase](../glossary.md#codebase) documentation MUST be in English.
+* All codebase documentation MUST be in English.
 * All [code](../glossary.md#code) MUST be in English, except where [policy](../glossary.md#policy) is machine interpreted as code.
 * All bundled policy not available in English MUST have an accompanying summary in English.
 * Any translation MUST be up to date with the English version and vice versa.
