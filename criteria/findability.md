@@ -6,7 +6,7 @@ order: 14
 
 # Make the codebase findable
 
-The more findable a codebase is, the more potential new collaborators will find it.
+The more findable a [codebase](../glossary.md#codebase) is, the more potential new collaborators will find it.
 Just publishing a codebase and hoping it is found does not work, instead proactiveness is needed.
 
 A metadata description file increases discoverability.
@@ -14,7 +14,7 @@ Well-written metadata containing a unique and persistent identifer, such as a Wi
 
 ## Requirements
 
-* The [codebase](../glossary.md#codebase) MUST be findable using a search engine by describing the problem it solves in natural language.
+* The codebase MUST be findable using a search engine by describing the problem it solves in natural language.
 * The codebase MUST be findable using a search engine by codebase name.
 * The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding.
 * Maintainers SHOULD submit the codebase to relevant software catalogs.
