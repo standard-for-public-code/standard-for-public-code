@@ -5,13 +5,13 @@ order: 11
 ---
 # Use open standards
 
-Open standards guarantee access to the knowledge required to use and contribute to the codebase.
+[Open standards](../glossary.md#open-standard) guarantee access to the knowledge required to use and contribute to the [codebase](../glossary.md#codebase).
 They enable interoperability between systems and reduce the risk of vendor lock-in.
 Open standards which are unambiguous allow for independent development of either side of data exchange.
 
 ## Requirements
 
-* For features of the [codebase](../glossary.md#codebase) that facilitate the exchange of data the codebase MUST use an [open standard](../glossary.md#open-standard) that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
+* For features of the codebase that facilitate the exchange of data the codebase MUST use an open standard that meets the [Open Source Initiative Open Standard Requirements](https://opensource.org/osr).
 * Any non-open standards used MUST be recorded clearly as such in the documentation.
 * Any standard chosen for use within the codebase MUST be listed in the documentation with a link to where it is available.
 * Any non-open standards chosen for use within the codebase MUST NOT hinder collaboration and reuse.
