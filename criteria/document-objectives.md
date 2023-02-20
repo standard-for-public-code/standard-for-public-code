@@ -5,13 +5,13 @@ order: 8
 ---
 # Document codebase objectives
 
-Clearly documenting codebase objectives communicates the purpose of the codebase.
+Clearly documenting [codebase](../glossary.md#codebase) objectives communicates the purpose of the codebase.
 It helps stakeholders and contributors scope the development of the codebase.
 The objectives also provide an easy way for people to decide whether this codebase, or one of its modules, is interesting for them now or in the future.
 
 ## Requirements
 
-* The [codebase](../glossary.md#codebase) MUST contain documentation of its objectives, like a mission and goal statement, that is understandable by developers and designers so that they can use or contribute to the codebase.
+* The codebase MUST contain documentation of its objectives, like a mission and goal statement, that is understandable by developers and designers so that they can use or contribute to the codebase.
 * Codebase documentation SHOULD clearly describe the connections between [policy](../glossary.md#policy) objectives and codebase objectives.
 * Documenting the objectives of the codebase for the [general public](../glossary.md#general-public) is OPTIONAL.
 
