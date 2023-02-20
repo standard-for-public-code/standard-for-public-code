@@ -16,9 +16,9 @@ This is essential for collaboration at scale, as it enables developers to work o
 * All decisions MUST be documented in commit messages.
 * Every commit message MUST link to discussions and issues wherever possible.
 * The codebase SHOULD be maintained in a distributed version control system.
-* Contributors SHOULD group relevant changes in commits.
+* Contribution guidelines SHOULD require contributors to group relevant changes in commits.
 * Maintainers SHOULD mark released versions of the codebase, for example using revision tags or textual labels.
-* Contributors SHOULD prefer file formats where the changes within the files can be easily viewed and understood in the version control system.
+* Contribution guidelines SHOULD encourage file formats where the changes within the files can be easily viewed and understood in the version control system.
 * It is OPTIONAL for contributors to sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work.
 
 ## What this does not do
