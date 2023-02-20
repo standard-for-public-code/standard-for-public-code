@@ -12,12 +12,12 @@ Automated testing of all functionality provides confidence that contributions ar
 The more focused the test, the easier it is to clearly identify and understand errors as they arise.
 
 Documenting a codebase's [continuous integration](../glossary.md#continuous-integration) workflow helps contributors understand the expectations of contributions.
-Continuous integration allows for an easier monitoring of the state of the codebase.
+Continuous integration allows for an easier monitoring of the state of the [codebase](../glossary.md#codebase).
 
 ## Requirements
 
 * All functionality in the source [code](../glossary.md#code) MUST have automated tests.
-* Contributions MUST pass all automated tests before they are admitted into the [codebase](../glossary.md#codebase).
+* Contributions MUST pass all automated tests before they are admitted into the codebase.
 * The codebase MUST have guidelines explaining how to structure contributions.
 * The codebase MUST have active contributors who can review contributions.
 * The codebase guidelines SHOULD state that each contribution should focus on a single issue.
