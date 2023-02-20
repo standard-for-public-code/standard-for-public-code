@@ -5,20 +5,20 @@ order: 3
 ---
 # Create reusable and portable code
 
-Creating reusable and portable code enables policy makers, developers and designers to reuse what has been developed, to test it, to improve it and contribute those improvements back, leading to better quality, cheaper maintenance and higher reliability.
+Creating reusable and portable [code](../glossary.md#code) enables policy makers, developers and designers to reuse what has been developed, to test it, to improve it and contribute those improvements back, leading to better quality, cheaper maintenance and higher reliability.
 
-Thoughtfully and purposefully designing a codebase for reusability allows for the mission, vision and scope of the codebase to be shared by multiple parties.
+Thoughtfully and purposefully designing a [codebase](../glossary.md#codebase) for reusability allows for the mission, vision and scope of the codebase to be shared by multiple parties.
 Codebases used by multiple parties are more likely to benefit from a self-sustaining community.
 
 Organizing a codebase such that it is composed of well documented modules improves reusability and maintainability.
-A module is easier to reuse in another context if its purpose is clearly documented.
+A module is easier to reuse in [another context](../glossary.md#different-contexts) if its purpose is clearly documented.
 
 Code which does not rely on the situation-specific infrastructure of any contributor or deployment can be tested by any other contributor.
 
 ## Requirements
 
-* The [codebase](../glossary.md#codebase) MUST be developed to be reusable in [different contexts](../glossary.md#different-contexts).
-* The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed [code](../glossary.md#code) or services for execution and understanding.
+* The codebase MUST be developed to be reusable in different contexts.
+* The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed code or services for execution and understanding.
 * The codebase SHOULD be in use by multiple parties.
 * The roadmap SHOULD be influenced by the needs of multiple parties.
 * Configuration SHOULD be used to make code adapt to context specific needs.
