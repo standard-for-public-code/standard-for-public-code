@@ -5,13 +5,13 @@ order: 2
 ---
 # Bundle policy and source code
 
-Access to both source code and policy documentation provides building blocks for anyone to implement the codebase in their local context or contribute to the further development of the codebase.
+Access to both source [code](../glossary.md#code) and [policy](../glossary.md#policy) documentation provides building blocks for anyone to implement the codebase in their local context or contribute to the further development of the [codebase](../glossary.md#codebase).
 Understanding the domain and policies within that domain is fundamental to understanding what problems a codebase is trying to solve and how it sets out to solve them.
 To be able to evaluate whether to implement a codebase in a new context, an organization needs to understand what process changes it must choose to make or how to contribute additional configurability to the existing solution in order to adapt it to the new context.
 
 ## Requirements
 
-* The [codebase](../glossary.md#codebase) MUST include the [policy](../glossary.md#policy) that the source [code](../glossary.md#code) is based on.
+* The codebase MUST include the policy that the source code is based on.
 * The codebase MUST include all source code that the policy is based on, unless used for fraud detection.
 * Policy SHOULD be provided in machine readable and unambiguous formats.
 * [Continuous integration](../glossary.md#continuous-integration) tests SHOULD validate that the source code and the policy are executed coherently.
