@@ -5,16 +5,16 @@ order: 13
 ---
 # Publish with an open license
 
-An open and well known license makes it possible for anyone to see the code in order to understand how it works, to use it freely and to contribute to the codebase.
+An open and well known license makes it possible for anyone to see the [code](../glossary.md#code) in order to understand how it works, to use it freely and to contribute to the [codebase](../glossary.md#codebase).
 
 Clearly indicating the license for each file within a codebase facilitates correct reuse and attribution of parts of a codebase.
 
 ## Requirements
 
-* All [code](../glossary.md#code) and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
+* All code and documentation MUST be licensed such that it may be freely reusable, changeable and redistributable.
 * Software source code MUST be licensed under an [OSI-approved or FSF Free/Libre license](https://spdx.org/licenses/).
 * All code MUST be published with a license file.
-* Contributors MUST NOT be required to transfer copyright of their contributions to the [codebase](../glossary.md#codebase).
+* Contributors MUST NOT be required to transfer copyright of their contributions to the codebase.
 * All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable.
 * Having multiple licenses for different types of code and documentation is OPTIONAL.
 
