@@ -5,14 +5,14 @@ order: 4
 ---
 # Welcome contributors
 
-The atmosphere in a codebase community helps users decide to use one codebase over another.
+The atmosphere in a [codebase](../glossary.md#codebase) community helps users decide to use one codebase over another.
 Welcoming anyone as a contributor enables the community to grow and sustain itself over time.
 A community where contributors have clear ways to influence codebase and community goals and progress is less likely to split and end up in diverging communities.
 Newcomers need to understand and trust the codebase community’s governance.
 
 ## Requirements
 
-* The [codebase](../glossary.md#codebase) MUST allow anyone to submit suggestions for changes to the codebase.
+* The codebase MUST allow anyone to submit suggestions for changes to the codebase.
 * The codebase MUST include contribution guidelines explaining what kinds of contributions are welcome and how contributors can get involved, for example in a `CONTRIBUTING` file.
 * The codebase MUST document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file.
 * The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance.
