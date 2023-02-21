@@ -5,19 +5,18 @@ order: 5
 ---
 # Make contributing easy
 
+To develop better, more reliable and feature rich software, users need to be able to fix problems, add features, and address security issues of the shared [codebase](../glossary.md#codebase).
+
+A shared digital infrastructure makes it easier to make collaborative contributions.
+The less effort it takes to make contributions that are accepted by the codebase, the more likely users are to become contributors.
+
 ## Requirements
 
-* The [codebase](../glossary.md#codebase) MUST have a public issue tracker that accepts suggestions from anyone.
+* The codebase MUST have a public issue tracker that accepts suggestions from anyone.
 * The documentation MUST link to both the public issue tracker and submitted codebase changes, for example in a `README` file.
 * The codebase MUST have communication channels for users and developers, for example email lists.
 * There MUST be a way to report security issues for responsible disclosure over a closed channel.
 * The documentation MUST include instructions for how to report potentially security sensitive issues.
-
-## Why this is important
-
-* Enables users to fix problems and add features to the shared codebase leading to better, more reliable and feature rich software.
-* Allows collaborative uptake of shared digital infrastructure.
-* Helps users decide to use one codebase over another.
 
 ## What this does not do
 

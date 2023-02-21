@@ -5,9 +5,12 @@ order: 9
 ---
 # Document the code
 
+Well documented [code](../glossary.md#code) helps people to understand what the code does and how to use it.
+Documentation is essential for people to start using the [codebase](../glossary.md#codebase) and contributing to it more quickly.
+
 ## Requirements
 
-* All of the functionality of the [codebase](../glossary.md#codebase), [policy](../glossary.md#policy) as well as source, MUST be described in language clearly understandable for those that understand the purpose of the [code](../glossary.md#code).
+* All of the functionality of the codebase, [policy](../glossary.md#policy) as well as source, MUST be described in language clearly understandable for those that understand the purpose of the code.
 * The documentation of the codebase MUST contain a description of how to install and run the source code.
 * The documentation of the codebase MUST contain examples demonstrating the key functionality.
 * The documentation of the codebase SHOULD contain a high level description that is clearly understandable for a wide audience of stakeholders, like the [general public](../glossary.md#general-public) and journalists.
@@ -16,12 +19,6 @@ order: 9
 * The documentation SHOULD describe the key components or modules of the codebase and their relationships, for example as a high level architectural diagram.
 * There SHOULD be [continuous integration](../glossary.md#continuous-integration) tests for the quality of the documentation.
 * Including examples that make users want to immediately start using the codebase in the documentation of the codebase is OPTIONAL.
-
-## Why this is important
-
-* Users can start using and contributing more quickly.
-* You help people discover the codebase, especially people asking 'is there already code that does something like this'.
-* This provides transparency into your organization and processes.
 
 ## What this does not do
 

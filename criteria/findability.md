@@ -6,9 +6,15 @@ order: 14
 
 # Make the codebase findable
 
+The more findable a [codebase](../glossary.md#codebase) is, the more potential new collaborators will find it.
+Just publishing a codebase and hoping it is found does not work, instead proactiveness is needed.
+
+A metadata description file increases discoverability.
+Well-written metadata containing a unique and persistent identifer, such as a Wikidata item or FSF software directory listing (thus being part of the semantic web), makes the codebase easier for people to refer, cite, disambiguate and discover through third party tools.
+
 ## Requirements
 
-* The [codebase](../glossary.md#codebase) MUST be findable using a search engine by describing the problem it solves in natural language.
+* The codebase MUST be findable using a search engine by describing the problem it solves in natural language.
 * The codebase MUST be findable using a search engine by codebase name.
 * The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding.
 * Maintainers SHOULD submit the codebase to relevant software catalogs.
@@ -17,13 +23,6 @@ order: 14
 * The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file.
 * A dedicated domain name for the codebase is OPTIONAL.
 * Regular presentations at conferences by the community are OPTIONAL.
-
-## Why this is important
-
-* Proactiveness is needed; just publishing a codebase and hoping it's found doesn't work.
-* A metadata description file increases discoverability.
-* The more findable a codebase is, the more potential new collaborators will find it.
-* By having well-written metadata containing a unique and persistent identifer, such as a Wikidata item or FSF software directory listing, and thus being part of the semantic web, it will be easier for other people to refer, cite, disambiguate and discover the codebase through third party tools.
 
 ## What this does not do
 
