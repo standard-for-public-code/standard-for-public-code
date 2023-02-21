@@ -9,6 +9,7 @@ Peer-review of contributions is essential for [code](../glossary.md#code) qualit
 
 Requiring thorough review of contributions encourages a culture of making every contribution is of high quality, completeness and value.
 Code review increases the chance of discovering and fixing potential bugs or mistakes before they are added to the [codebase](../glossary.md#codebase).
+Knowing that all code was reviewed discourages a culture of blaming individuals, and encourages a culture of focusing on solutions.
 
 A [policy](../glossary.md#policy) of prompt reviews assures contributors of a guaranteed time for feedback or collaborative improvement, which increases both rate of delivery and contributor engagement.
 
