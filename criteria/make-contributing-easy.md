@@ -13,10 +13,10 @@ The less effort it takes to make contributions that are accepted by the codebase
 ## Requirements
 
 * The codebase MUST have a public issue tracker that accepts suggestions from anyone.
-* The codebase MUST include instructions for how to privately report security issues for responsible disclosure.
 * The documentation MUST link to both the public issue tracker and submitted codebase changes, for example in a `README` file.
 * The codebase MUST have communication channels for users and developers, for example email lists.
-* The documentation SHOULD include instructions for how to report potentially security sensitive issues on a closed channel.
+* There MUST be a way to report security issues for responsible disclosure over a closed channel.
+* The documentation MUST include instructions for how to report potentially security sensitive issues.
 
 ## What this does not do
 
@@ -25,9 +25,10 @@ The less effort it takes to make contributions that are accepted by the codebase
 ## How to test
 
 * Confirm that there is a public issue tracker.
-* Confirm that there are instructions for privately reporting security issues.
 * Confirm that the codebase contains links to the public issue tracker and submitted codebase changes.
 * Confirm that it is possible to participate in a discussion with other users and developers about the software using channels described in the codebase.
+* Confirm that there is a closed channel for reporting security issues.
+* Confirm that there are instructions for privately reporting security issues.
 
 ## Policy makers: what you need to do
 
