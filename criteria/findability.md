@@ -55,7 +55,7 @@ Well-written metadata containing a unique and persistent identifer, such as a Wi
 
 ## Developers and designers: what you need to do
 
-* Search engine optimization.
+* Search engine optimization, for instance adding a [sitemap](https://www.sitemaps.org/protocol.html).
 * Test your problem description with peers outside of your context who aren't familiar with the codebase.
 * Suggest conferences to present at and present at them.
 
