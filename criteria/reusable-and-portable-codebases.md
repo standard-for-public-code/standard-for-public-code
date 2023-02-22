@@ -13,7 +13,7 @@ Codebases used by multiple parties are more likely to benefit from a self-sustai
 Organizing a codebase such that it is composed of well documented modules improves reusability and maintainability.
 A module is easier to reuse in [another context](../glossary.md#different-contexts) if its purpose is clearly documented.
 
-Code which does not rely on the situation-specific infrastructure of any contributor or deployment can be tested by any other contributor.
+Code which does not rely on the situation-specific infrastructure of any contributor, vendor or deployment can be tested by any other contributor.
 
 ## Requirements
 
@@ -25,6 +25,7 @@ Code which does not rely on the situation-specific infrastructure of any contrib
 * The codebase SHOULD be localizable.
 * Code and its documentation SHOULD NOT contain situation-specific information.
 * Codebase modules SHOULD be documented in such a way as to enable reuse in codebases in other contexts.
+* The code SHOULD NOT require services or platforms available from only a single vendor.
 
 ## What this does not do
 
@@ -39,6 +40,7 @@ Code which does not rely on the situation-specific infrastructure of any contrib
 * Confirm that the codebase can run without using any proprietary or non open-licensed code or services.
 * Check that the codebase is in use by multiple parties or in multiple contexts.
 * Check that the codebase files and commit history do not include situation-specific data.
+* Check that the code can be deployed and run without services or platforms available from a single vendor.
 
 ## Policy makers: what you need to do
 
