@@ -8,7 +8,7 @@ order: 3
 Creating reusable and portable [code](../glossary.md#code) enables policy makers, developers and designers to reuse what has been developed, to test it, to improve it and contribute those improvements back, leading to better quality, cheaper maintenance and higher reliability.
 
 Thoughtfully and purposefully designing a [codebase](../glossary.md#codebase) for reusability allows for the mission, vision and scope of the codebase to be shared by multiple parties.
-Codebases used by multiple parties are more likely to benefit from a self-sustaining community.
+Codebases developed and used by multiple parties are more likely to benefit from a self-sustaining community.
 
 Organizing a codebase such that it is composed of well documented modules improves reusability and maintainability.
 A module is easier to reuse in [another context](../glossary.md#different-contexts) if its purpose is clearly documented.
@@ -21,6 +21,7 @@ Code which does not rely on the situation-specific infrastructure of any contrib
 * The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed code or services for execution and understanding.
 * The codebase SHOULD be in use by multiple parties.
 * The roadmap SHOULD be influenced by the needs of multiple parties.
+* The development of the codebase SHOULD be a collaboration between multiple parties.
 * Configuration SHOULD be used to make code adapt to context specific needs.
 * The codebase SHOULD be localizable.
 * Code and its documentation SHOULD NOT contain situation-specific information.
@@ -39,6 +40,7 @@ Code which does not rely on the situation-specific infrastructure of any contrib
 * Confirm with someone in a similar role at another organization if they can use the codebase and what that would entail.
 * Confirm that the codebase can run without using any proprietary or non open-licensed code or services.
 * Check that the codebase is in use by multiple parties or in multiple contexts.
+* Check that the codebase contributors are from multiple parties.
 * Check that the codebase files and commit history do not include situation-specific data.
 * Check that the code can be deployed and run without services or platforms available from a single vendor.
 
@@ -46,10 +48,12 @@ Code which does not rely on the situation-specific infrastructure of any contrib
 
 * Document your [policy](../glossary.md#policy) with enough clarity and detail that it can be understood outside of its original context.
 * Make sure your organization is listed as a known user by the codebase.
+* Identify other organizations for your teams to collaborate with.
 
 ## Managers: what you need to do
 
 * Make sure that stakeholders and business owners understand that reusability is an explicit codebase goal as this reduces technical debt and provides sustainability for the codebase.
+* Make sure that your teams are collaborating with other teams.
 
 ## Developers and designers: what you need to do
 
