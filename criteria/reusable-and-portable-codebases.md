@@ -58,8 +58,8 @@ Source should be designed:
 * in logically meaningful and isolated modules,
 * so that someone in a similar organization facing a similar problem would be able to use (parts of) the solution.
 
-Ensure that the codebase documentation describes the build-time and runtime dependencies.
-If your context requires deploying to proprietary platforms or using proprietary components, ensure that collaborators can develop, use, test, and deploy without them.
+Make sure that the codebase documentation describes the build-time and runtime dependencies.
+If your context requires deploying to proprietary platforms or using proprietary components, make sure that collaborators can develop, use, test, and deploy without them.
 
 For each commit, reviewers verify that content does not include situation-specific data such as hostnames, personal and organizational data, or tokens and passwords.
 

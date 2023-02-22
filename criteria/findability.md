@@ -50,7 +50,7 @@ Well-written metadata containing a unique and persistent identifer, such as a Wi
 ## Managers: what you need to do
 
 * Budget for content design and Search Engine Optimization skills in the team.
-* Ensure people involved in the project present at relevant conferences.
+* Make sure people involved in the project present at relevant conferences.
 * Search trademark databases to avoid confusion or infringement before deciding the name.
 
 ## Developers and designers: what you need to do
