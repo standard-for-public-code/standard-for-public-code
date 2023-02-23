@@ -8,7 +8,7 @@
     - Invite a proofread of the current state of the branch
         - If new dashes are introduced, check if the language can be simplified to remove them in favor of more simple sentences. If a complex sentece is needed, see if the dash can be replaced with other punction. If a dash is truly the best expression of ideas, then follow the [Chicago Manual of Style](https://en.wikipedia.org/wiki/Dash#En_dash_versus_em_dash).
 2. Create a release branch
-    - From 'develop', `git checkout -b "release-$MAJOR.$MINOR.$PATCH"`
+    - From 'develop', `git switch -c "release-$MAJOR.$MINOR.$PATCH"`
     - Push the branch, `git push -u origin release-$MAJOR.$MINOR.$PATCH`
 3. Update the new release
     - [ ] Update version number in `_config.yml`, `README.md` and `publiccode.yml`
@@ -33,7 +33,7 @@
     - [ ] `git tag $MAJOR.$MINOR.$PATCH`
     - [ ] `git push --tags` (see: `../.github/workflows/release-on-tag.yml`)
 5. Trigger a rebuild of gh-pages
-    - [ ] `git checkout -b rebuild-gh-pages-$MAJOR.$MINOR.$PATCH`
+    - [ ] `git switch -c rebuild-gh-pages-$MAJOR.$MINOR.$PATCH`
     - [ ] `git commit --allow-empty -m"Rebuild GH Pages $MAJOR.$MINOR.$PATCH"`
     - [ ] `git push -u origin rebuild-gh-pages-$MAJOR.$MINOR.$PATCH`
     - [ ] Open a pull request from this branch to `main`
