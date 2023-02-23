@@ -43,7 +43,7 @@ Understanding how a codebase has evolved is key to understanding the codebase an
 
 ## Developers and designers: what you need to do
 
-* Ensure that the codebase versioning approach is followed for all releases.
+* Make sure that the codebase versioning approach is followed for all releases.
 
 ## Further reading
 
