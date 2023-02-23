@@ -20,6 +20,7 @@ Continuous integration allows for an easier monitoring of the state of the [code
 * Contributions MUST pass all automated tests before they are admitted into the codebase.
 * The codebase MUST have guidelines explaining how to structure contributions.
 * The codebase MUST have active contributors who can review contributions.
+* Automated test results for contributions SHOULD be public.
 * The codebase guidelines SHOULD state that each contribution should focus on a single issue.
 * Source code test and documentation coverage SHOULD be monitored.
 * Testing [policy](../glossary.md#policy) and documentation for consistency with the source and vice versa is OPTIONAL.
@@ -40,6 +41,7 @@ Continuous integration allows for an easier monitoring of the state of the [code
 * Confirm that contributions are only admitted into the codebase after all of the tests are passed.
 * Confirm that contribution guidelines explain how to structure contributions.
 * Confirm that there are contributions from within the last three months.
+* Check that test results are viewable.
 * Check if code coverage data is published.
 
 ## Policy makers: what you need to do
