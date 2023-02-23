@@ -27,7 +27,6 @@ A [policy](../glossary.md#policy) of prompt reviews assures contributors of a gu
 ## What this does not do
 
 * Guarantee the right solution to a problem.
-* Mean that reviewers are liable.
 * Absolve a contributor from writing documentation and tests.
 * Provide you with the right reviewers.
 
