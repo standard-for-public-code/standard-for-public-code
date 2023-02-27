@@ -10,7 +10,7 @@ The more findable a [codebase](../glossary.md#codebase) is, the more potential n
 Just publishing a codebase and hoping it is found does not work, instead proactiveness is needed.
 
 A metadata description file increases discoverability.
-Well-written metadata containing a unique and persistent identifer, such as a Wikidata item or FSF software directory listing (thus being part of the semantic web), makes the codebase easier for people to refer, cite, disambiguate and discover through third party tools.
+Well-written metadata containing a unique and persistent identifier, such as a Wikidata item or FSF software directory listing (thus being part of the semantic web), makes the codebase easier for people to refer, cite, disambiguate and discover through third party tools.
 
 ## Requirements
 
@@ -45,7 +45,7 @@ Well-written metadata containing a unique and persistent identifer, such as a Wi
 
 * Contribute a description of the policy area or problem this codebase acts on or operates.
 * Test your problem description with peers outside of your context who aren't familiar with the codebase.
-* Present on how the codebase implements the [policy](../glossary.md#policy) at relevent conferences.
+* Present on how the codebase implements the [policy](../glossary.md#policy) at relevant conferences.
 
 ## Managers: what you need to do
 
@@ -62,5 +62,5 @@ Well-written metadata containing a unique and persistent identifer, such as a Wi
 ## Further reading
 
 * [Introduction to Wikidata](https://www.wikidata.org/wiki/Wikidata:Introduction) by the Wikidata community.
-* [FSF software directory listing](https://directory.fsf.org/wiki/Main_Page) by the Free Softare Foundation.
+* [FSF software directory listing](https://directory.fsf.org/wiki/Main_Page) by the Free Software Foundation.
 * The [FAIR Guiding Principles for scientific data management and stewardship](https://www.go-fair.org/fair-principles/) by the GO FAIR International Support and Coordination Office provide a nice list of attributes that make (meta)data more machine actionable (and hence more findable). Some of these apply directly to codebases, while others may provoke exploration into what the codebase equivalent would be.

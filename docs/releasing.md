@@ -6,7 +6,7 @@
 1. Review state of the 'develop' branch
     - Ensure all changes intended for release are merged
     - Invite a proofread of the current state of the branch
-        - If new dashes are introduced, check if the language can be simplified to remove them in favor of more simple sentences. If a complex sentece is needed, see if the dash can be replaced with other punction. If a dash is truly the best expression of ideas, then follow the [Chicago Manual of Style](https://en.wikipedia.org/wiki/Dash#En_dash_versus_em_dash).
+        - If new dashes are introduced, check if the language can be simplified to remove them in favor of more simple sentences. If a complex sentence is needed, see if the dash can be replaced with other punctuation. If a dash is truly the best expression of ideas, then follow the [Chicago Manual of Style](https://en.wikipedia.org/wiki/Dash#En_dash_versus_em_dash).
 2. Create a release branch
     - From 'develop', `git switch -c "release-$MAJOR.$MINOR.$PATCH"`
     - Push the branch, `git push -u origin release-$MAJOR.$MINOR.$PATCH`
@@ -24,8 +24,8 @@
     - [ ] Push branch, open a pull request to the 'main' branch
         - Request review from multiple reviewers, especially a proofreader
         - Reviewers will create issues for shortcomings found which would not prevent release
-        - If needed for release, reviewers may create PRs to resolve issues
-        - Re-request reviews if additional PRs are merged into release branch
+        - If needed for release, reviewers may create pull requests to resolve issues
+        - Re-request reviews if additional pull requests are merged into release branch
     - [ ] Run the to-archive-org.sh script
     - [ ] Once reviews are complete, merge to 'main'
 4. Create GitHub release with the release notes and version number

@@ -17,3 +17,4 @@ set -e
 ./script/missing-glossary-links.sh
 ./script/check-new-links.sh
 ./script/test-with-link-check.sh
+./script/spell-check.sh

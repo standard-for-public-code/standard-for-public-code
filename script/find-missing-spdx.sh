@@ -11,7 +11,7 @@ function git_list_files() {
 		HEAD
 }
 
-IGNORE_PATTERN='\.svg\|\.json\|CNAME\|Gemfile\|LICENSE'
+IGNORE_PATTERN='\.svg\|\.json\|CNAME\|Gemfile\|LICENSE\|jargon.txt'
 
 MISSING=0
 for FILE in $(git_list_files | grep --invert-match $IGNORE_PATTERN); do

@@ -28,8 +28,14 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '2.7'
+      - name: install-deps
+        run: >
+          sudo apt-get install -y
+          aspell
+          aspell-en
       - run: bundle install
       - run: ./script/test-markdown.sh
       - run: ./script/test-with-link-check.sh
       - run: ./script/find-missing-spdx.sh
       - run: ./script/missing-glossary-links.sh
+      - run: ./script/spell-check.sh

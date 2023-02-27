@@ -53,7 +53,7 @@ Language that is easy to understand lowers the cost of creating and maintaining 
 
 ## Further reading
 
-* Text of the [Web Content Accessibilty Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) by W3C, make text content readable and understandable.
+* Text of the [Web Content Accessibility Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) by W3C, make text content readable and understandable.
 * [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility) by the European Commission, is an example of regulation requiring high accessibility.
 * [Upgoer 5 text editor](https://splasho.com/upgoer5/) by Theo Sanderson, only allows 1000 most common English words.
 * [Definition of plain language](https://www.plainlanguage.gov/about/definitions/) by United States General Services Administration.
