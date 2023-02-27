@@ -192,7 +192,7 @@ It is not aimed at public organizations' end users (residents or citizens), jour
 
 ## Further reading
 
-* ["Modernising Public Infrastructure with Free Software" whitepaper](https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf) by the Free Software Foundation Europe.
+* ["Modernising Public Infrastructure with Free Software" white paper](https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf) by the Free Software Foundation Europe.
 
 ### Videos on public code
 
