@@ -5,13 +5,12 @@ order: 6
 ---
 # Maintain version control
 
-[Version control](../glossary.md#version-control) means keeping track of changes to the [code](../glossary.md#code) over time.
-This allows you to maintain structured documentation of the history of the [codebase](../glossary.md#codebase).
+[Version control](../glossary.md#version-control) means keeping track of changes to the [code](../glossary.md#code) and other files of the [codebase](../glossary.md#codebase) over time.
+This allows you to maintain structured documentation of the history of the codebase.
 This is essential for collaboration at scale, as it enables developers to work on changes in parallel and helps future developers to understand the reasons for changes.
 
 ## Requirements
 
-* The community MUST have a way to maintain version control for the code.
 * All files in the codebase MUST be version controlled.
 * All decisions MUST be documented in commit messages.
 * Every commit message MUST link to discussions and issues wherever possible.
@@ -51,6 +50,7 @@ For example, adding a new category of applicant to a codebase that manages grant
 
 ## Developers and designers: what you need to do
 
+* Make sure that all files required to understand the code, build and deploy are in the version control system.
 * Write clear commit messages so that it is easy to understand why the commit was made.
 * Mark different versions so that it is easy to access a specific version, for example using revision tags or textual labels.
 * Write clear commit messages so that versions can be usefully compared.
