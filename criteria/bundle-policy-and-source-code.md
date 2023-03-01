@@ -2,6 +2,8 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 2
+redirect_from: 
+  - criteria/bundle-policy-and-code
 ---
 # Bundle policy and source code
 
@@ -34,8 +36,8 @@ To be able to evaluate whether to implement a codebase in a new context, an orga
 * Provide the relevant policy texts for inclusion in the [repository](../glossary.md#repository); if the text is not available in English, also provide an English summary. Be sure to include standards that your organization has chosen to adhere to and any organizational processes which impact the development or the deployment context of the codebase for your organization.
 * Provide references and links to texts which support the policies.
 * Document policy in formats that are unambiguous and machine-readable such as [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation), [Decision Model and Notation](https://en.wikipedia.org/wiki/Decision_Model_and_Notation) and [Case Management Model Notation](https://en.wikipedia.org/wiki/CMMN).
-* Track policy with [the same version control](version-control-and-history.md) and documentation used to track source code.
-* Check in regularly to understand how the non-policy code in the codebase has changed and whether it still matches the [intentions of the policy](document-objectives.md).
+* Track policy with [the same version control](maintain-version-control.md) and documentation used to track source code.
+* Check in regularly to understand how the non-policy code in the codebase has changed and whether it still matches the [intentions of the policy](document-codebase-objectives.md).
 
 ## Managers: what you need to do
 

@@ -35,23 +35,23 @@ function glossary_pass_list() {
 	# "version control" correctly links to the criterion
 	# rather than the glossary entry
 	if [ "$GLOSSARY_ANCHOR" == "version-control" ] &&
-	   [ "$FILE" == "criteria/bundle-policy-and-code.md" ]; then
+	   [ "$FILE" == "criteria/bundle-policy-and-source-code.md" ]; then
 		return 0
 	fi
 	if [ "$GLOSSARY_ANCHOR" == "version-control" ] &&
-	   [ "$FILE" == "criteria/continuous-integration.md" ]; then
+	   [ "$FILE" == "criteria/use-continuous-integration.md" ]; then
 		return 0
 	fi
 
 	# "Open Source Initiative" would be a false positive
 	if [ "$GLOSSARY_ANCHOR" == "open-source" ] &&
-	   [ "$FILE" == "criteria/open-standards.md" ]; then
+	   [ "$FILE" == "criteria/use-open-standards.md" ]; then
 		return 0
 	fi
 
 	# repository inside of a link would be a false positive
 	if [ "$GLOSSARY_ANCHOR" == "repository" ] &&
-	   [ "$FILE" == "criteria/require-review.md" ]; then
+	   [ "$FILE" == "criteria/require-review-of-contributions.md" ]; then
 		return 0
 	fi
 

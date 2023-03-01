@@ -4,6 +4,7 @@
 order: 16
 redirect_from:
     - criteria/advertise-maturity
+    - criteria/document-maturity
 ---
 # Document codebase maturity
 
