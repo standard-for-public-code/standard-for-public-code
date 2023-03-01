@@ -45,6 +45,7 @@ Clearly indicating the license for each file within a codebase facilitates corre
 
 * Add a new `license` file to every new codebase created.
 * Add a copyright notice and a license header to every new source code file created.
+* When code is being reused by the codebase, make sure that it has a license that is compatible with the license or licenses of the codebase.
 
 ## Further reading
 
