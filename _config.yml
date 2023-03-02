@@ -29,13 +29,4 @@ defaults:
       # (match all criteria pages not starting with an 'i')
       path: '/criteria/[!i]*'
     values:
-      breadcrumbs:
-        - name: 'Criteria'
-          path: '/criteria/'
       show_prev_next: true
-
-  -
-    scope:
-      path: '/'
-    values:
-      breadcrumbs: true
