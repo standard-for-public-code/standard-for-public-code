@@ -2,6 +2,8 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 9
+redirect_from:
+  - criteria/documenting
 ---
 # Document the code
 
@@ -22,7 +24,7 @@ Documentation is essential for people to start using the [codebase](../glossary.
 
 ## What this does not do
 
-* Contribute directly to more reusable, portable code (see [Create reusable and portable code](./reusable-and-portable-codebases.md)).
+* Contribute directly to more reusable, portable code (see [Create reusable and portable code](./create-reusable-and-portable-code.md)).
 
 ## How to test
 

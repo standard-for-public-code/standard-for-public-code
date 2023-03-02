@@ -2,6 +2,8 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 6
+redirect_from:
+  - criteria/version-control-and-history
 ---
 # Maintain version control
 
@@ -22,7 +24,7 @@ This is essential for collaboration at scale, as it enables developers to work o
 
 ## What this does not do
 
-* Substitute for [advertising maturity](document-maturity.md).
+* Substitute for [advertising maturity](document-codebase-maturity.md).
 * Guarantee the code executes correctly.
 * Guarantee collaborators.
 

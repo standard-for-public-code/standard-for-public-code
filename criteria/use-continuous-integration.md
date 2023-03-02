@@ -2,6 +2,8 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 12
+redirect_from:
+  - criteria/continuous-integration
 ---
 # Use continuous integration
 
@@ -49,7 +51,7 @@ Continuous integration allows for an easier monitoring of the state of the [code
 * Involve managers as well as developers and designers as early in the process as possible and keep them engaged throughout development of your policy.
 * Make sure there are also automated tests set up for policy documentation.
 * Fix policy documentation promptly if it fails a test.
-* Make sure the code reflects any changes to the policy (see [Maintain version control](version-control-and-history.md)).
+* Make sure the code reflects any changes to the policy (see [Maintain version control](maintain-version-control.md)).
 
 ## Managers: what you need to do
 
