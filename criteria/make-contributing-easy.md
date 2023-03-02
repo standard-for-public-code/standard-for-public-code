@@ -43,6 +43,8 @@ The less effort it takes to make contributions that are accepted by the codebase
 
 * Respond promptly to requests.
 * Keep your managers informed of the time and resources you require to support other contributors.
+* Make sure that appropriate communication channels for asking questions of maintainers and stakeholders are easy to locate, for instance in the README.
+* Make sure that appropriate contact details are included in the metadata, for instance in the publiccode.yml file.
 
 ## Further reading
 
