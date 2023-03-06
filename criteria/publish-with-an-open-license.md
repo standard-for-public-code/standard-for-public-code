@@ -21,10 +21,6 @@ Clearly indicating the license for each file within a codebase facilitates corre
 * All source code files in the codebase SHOULD include a copyright notice and a license header that are machine-readable.
 * Having multiple licenses for different types of code and documentation is OPTIONAL.
 
-## What this does not do
-
-* Prevent use of the code by any specific actors.
-
 ## How to test
 
 * Confirm that the codebase is clearly licensed.

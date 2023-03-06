@@ -17,10 +17,6 @@ Unifying vocabularies reduces friction in communication between contributors.
 * The style guide SHOULD include expectations for inline comments and documentation for non-trivial sections.
 * Including expectations for [understandable English](use-plain-english.md) in the style guide is OPTIONAL.
 
-## What this does not do
-
-* Help contributors write well or effectively explain what they do.
-
 ## How to test
 
 * Confirm that contributions are in line with the style guides specified in the documentation.

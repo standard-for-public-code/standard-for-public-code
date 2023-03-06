@@ -25,11 +25,6 @@ Language that is easy to understand lowers the cost of creating and maintaining 
 * Documentation SHOULD aim for a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable).
 * Providing a translation of any code, documentation or tests is OPTIONAL.
 
-## What this does not do
-
-* Make explanations of the codebase's functionality understandable.
-* Make your organization's jargon understandable without an explanation.
-
 ## How to test
 
 * Confirm that codebase documentation is available in English.

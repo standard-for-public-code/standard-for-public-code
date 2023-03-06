@@ -22,10 +22,6 @@ Newcomers need to understand and trust the codebase community’s governance.
 * The codebase SHOULD publish codebase activity statistics.
 * Including a code of conduct for contributors in the codebase is OPTIONAL.
 
-## What this does not do
-
-* Guarantee others will join the community.
-
 ## How to test
 
 * Confirm that it is possible to submit suggestions for changes to the codebase.

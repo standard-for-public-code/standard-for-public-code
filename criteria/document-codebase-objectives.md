@@ -17,12 +17,6 @@ The objectives also provide an easy way for people to decide whether this codeba
 * Codebase documentation SHOULD clearly describe the connections between [policy](../glossary.md#policy) objectives and codebase objectives.
 * Documenting the objectives of the codebase for the [general public](../glossary.md#general-public) is OPTIONAL.
 
-## What this does not do
-
-* Guarantee that the codebase achieves the stated objective(s).
-* Guarantee contributions to the codebase.
-* Prevent other codebases from attempting to achieve the same objectives.
-
 ## How to test
 
 * Confirm that the codebase documentation includes the codebase objectives, mission or goal.

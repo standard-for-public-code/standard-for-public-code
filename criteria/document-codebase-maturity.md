@@ -21,10 +21,6 @@ Understanding how a codebase has evolved is key to understanding the codebase an
 * The method for assigning version identifiers SHOULD be documented.
 * It is OPTIONAL to use semantic versioning.
 
-## What this does not do
-
-* Guarantee that others will use the [code](../glossary.md#code).
-
 ## How to test
 
 * Confirm that the codebase has a strategy for versioning which is documented.
@@ -35,7 +31,7 @@ Understanding how a codebase has evolved is key to understanding the codebase an
 
 ## Policy makers: what you need to do
 
-* When developing [policy](../glossary.md#policy), understand that any code developed needs to be tested and improved before it can be put into service.
+* When developing [policy](../glossary.md#policy), understand that any [code](../glossary.md#code) developed needs to be tested and improved before it can be put into service.
 * Consider versioning policy changes, especially when they trigger new versions of the source code.
 
 ## Managers: what you need to do

@@ -22,10 +22,6 @@ Documentation is essential for people to start using the [codebase](../glossary.
 * There SHOULD be [continuous integration](../glossary.md#continuous-integration) tests for the quality of the documentation.
 * Including examples that make users want to immediately start using the codebase in the documentation of the codebase is OPTIONAL.
 
-## What this does not do
-
-* Contribute directly to more reusable, portable code (see [Create reusable and portable code](./create-reusable-and-portable-code.md)).
-
 ## How to test
 
 * Confirm that other stakeholders, professionals from other public organizations and the general public find the documentation clear and understandable.

@@ -29,13 +29,6 @@ Continuous integration allows for an easier monitoring of the state of the [code
 * Testing policy and documentation for style and broken links is OPTIONAL.
 * Testing the code by using examples in the documentation is OPTIONAL.
 
-## What this does not do
-
-* Create a fault tolerant infrastructure that will work and scale perfectly.
-* Create meaningful tests.
-* Test for real life situations.
-* Guarantee the code will deliver exactly the same policy result.
-
 ## How to test
 
 * Confirm that there are tests present.

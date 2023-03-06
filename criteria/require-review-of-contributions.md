@@ -27,12 +27,6 @@ A [policy](../glossary.md#policy) of prompt reviews assures contributors of a gu
 * Reviews SHOULD happen within two business days.
 * Performing reviews by multiple reviewers is OPTIONAL.
 
-## What this does not do
-
-* Guarantee the right solution to a problem.
-* Absolve a contributor from writing documentation and tests.
-* Provide you with the right reviewers.
-
 ## How to test
 
 * Confirm that every commit in the history has been reviewed by a different contributor.
