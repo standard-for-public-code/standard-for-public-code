@@ -14,12 +14,17 @@ cat << EOF > $TEMPLATE
 Link to commitment to meet the Standard for Public Code:
 EOF
 
-# the index.md contains the criteria in order, we shall follow that.
-# grep and cuts extract the filename from between the link parenthesis
-CRITERIA_FILES=$(cat index.md \
-	| grep 'criteria/[a-z\-]\+\.md' \
-	| cut --fields=2 --delimiter='(' \
-	| cut --fields=1 --delimiter=')')
+# grep criteria files for "order: ", results in entries like:
+#   criteria/document-the-code.md:order: 9
+# ignoring the index.md
+# swap name and order (extract the order number put it ahead of the file name)
+# sort numerically
+# take only the file name
+CRITERIA_FILES=$(grep '^order: ' criteria/*.md \
+	| grep --invert-match 'index.md' \
+	| sed 's@\(criteria/[a-z\-]*.md\):order:\s*\([0-9]*\).*@\2 \1@g' \
+	| sort --numeric-sort \
+	| cut --fields=2 --delimiter=' ')
 
 for FILE in $CRITERIA_FILES; do
 	# echo $FILE
