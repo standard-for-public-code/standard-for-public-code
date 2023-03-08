@@ -31,6 +31,7 @@ for FILE in $CRITERIA_FILES; do
 	FILE_BASE=$(basename --suffix=.md $FILE)
 	# Strip the '#' off of the H1
 	CRITERIA_TITLE=$(grep '^# [A-Z]' $FILE \
+		| grep --invert-match 'SPDX' \
 		| cut --fields=2- --delimiter=' ')
 	CRITERIA_LINK=https://standard.publiccode.net/criteria/${FILE_BASE}.html
 	cat << EOF >> $TEMPLATE
