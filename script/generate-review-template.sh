@@ -54,8 +54,8 @@ done
 
 cp -v $TEMPLATE $TEMPLATE.orig
 
-# fully qualify glossary local links in requirement lines
-sed -i -e's@\[\([^]]*\)\](../glossary.md\(#[a-z\-]*\))@[\1](https://standard.publiccode.net/glossary.html\2)@g' $TEMPLATE
+# unlink glossary local links in requirement lines
+sed -i -e's@\[\([^]]*\)\](../glossary.md\(#[a-z\-]*\))@\1@g' $TEMPLATE
 
 # fully qualify local criteria links in requirement lines
 # by looking for links lacking a colon
