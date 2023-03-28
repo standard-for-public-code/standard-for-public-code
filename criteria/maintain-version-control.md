@@ -22,12 +22,6 @@ This is essential for collaboration at scale, as it enables developers to work o
 * Contribution guidelines SHOULD encourage file formats where the changes within the files can be easily viewed and understood in the version control system.
 * It is OPTIONAL for contributors to sign their commits and provide an email address, so that future contributors are able to contact past contributors with questions about their work.
 
-## What this does not do
-
-* Substitute for [advertising maturity](document-codebase-maturity.md).
-* Guarantee the code executes correctly.
-* Guarantee collaborators.
-
 ## How to test
 
 * Confirm that the codebase is kept in version control using software such as Git.

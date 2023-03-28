@@ -16,15 +16,10 @@ Together, this creates more opportunities for citizens to understand how softwar
 * Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published.
 * Documenting which source code or policy underpins any specific interaction the [general public](../glossary.md#general-public) may have with an organization is OPTIONAL.
 
-## What this does not do
-
-* Make source code or policy reusable.
-* Make the [codebase](../glossary.md#codebase) and the code within it understandable to as many people as possible.
-
 ## How to test
 
 * Confirm that the source for each version currently in use is published on the internet where it can be seen from outside the original contributing organization and without the need for any form of authentication or authorization.
-* Confirm that the codebase files and commit history do not include sensitive information.
+* Confirm that the [codebase](../glossary.md#codebase) files and commit history do not include sensitive information.
 * Check for the publication of source code not currently in use.
 
 ## Policy makers: what you need to do

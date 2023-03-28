@@ -26,10 +26,6 @@ Well-written metadata containing a unique and persistent identifier, such as a W
 * A dedicated domain name for the codebase is OPTIONAL.
 * Regular presentations at conferences by the community are OPTIONAL.
 
-## What this does not do
-
-* Ensure new collaborators or replicators.
-
 ## How to test
 
 * Confirm that the codebase appears in the results on more than one major search engine when searching by a plain English problem description.

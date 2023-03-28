@@ -30,13 +30,6 @@ Code which does not rely on the situation-specific infrastructure of any contrib
 * Codebase modules SHOULD be documented in such a way as to enable reuse in codebases in other contexts.
 * The code SHOULD NOT require services or platforms available from only a single vendor.
 
-## What this does not do
-
-* Get others to use the codebase.
-* Build a community.
-* Shift responsibility for documentation, support, bug-fixing, etc. to another party.
-* Guarantee that modules are generic enough to be reused in any context.
-
 ## How to test
 
 * Confirm with someone in a similar role at another organization if they can use the codebase and what that would entail.

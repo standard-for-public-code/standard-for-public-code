@@ -115,6 +115,7 @@ NIIS
 nl
 ok
 OpenApi
+OpenSSF
 OpenZaak
 operationalize
 OSI
@@ -156,6 +157,7 @@ spdx
 Staand
 sudo
 svg
+synergize
 Tamas
 Theo
 Tiel

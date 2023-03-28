@@ -18,10 +18,6 @@ The less effort it takes to make contributions that are accepted by the codebase
 * There MUST be a way to report security issues for responsible disclosure over a closed channel.
 * The documentation MUST include instructions for how to report potentially security sensitive issues.
 
-## What this does not do
-
-* Guarantee others will contribute to the codebase.
-
 ## How to test
 
 * Confirm that there is a public issue tracker.

@@ -18,11 +18,6 @@ To be able to evaluate whether to implement a codebase in a new context, an orga
 * Policy SHOULD be provided in machine readable and unambiguous formats.
 * [Continuous integration](../glossary.md#continuous-integration) tests SHOULD validate that the source code and the policy are executed coherently.
 
-## What this does not do
-
-* Guarantee that a codebase will reflect the bundled policy.
-* Make sure packages comply with the local technical infrastructure or legal framework of a given public organization.
-
 ## How to test
 
 * Confirm with a civil servant that all policy that the source code is based on is included.

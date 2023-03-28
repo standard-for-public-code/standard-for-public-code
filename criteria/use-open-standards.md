@@ -21,10 +21,6 @@ Open standards which are unambiguous allow for independent development of either
 * Open standards that are machine testable SHOULD be preferred over open standards that are not.
 * Non-open standards that are machine testable SHOULD be preferred over non-open standards that are not.
 
-## What this does not do
-
-* Make it understandable how to use the software.
-
 ## How to test
 
 * Confirm that data exchange follows an OSI approved open standard.
