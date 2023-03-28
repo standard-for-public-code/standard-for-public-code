@@ -18,6 +18,7 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 ## Near term
 
 * Separate executive summary
+* Clarify "code" as "source code" or "policy code" when specific to one, issue #208
 * Possibly: add in the illustrations for each criterion
 
 ## Longer term
