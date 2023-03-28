@@ -24,6 +24,7 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 ## Longer term
 
 * Certification badges
+* Add to README and index.md information (and eventually statistics) on adoption and use (issue #438)
 * Physical paper checklist
 * Becoming validated by multiple codebases
 * Linkable requirements
