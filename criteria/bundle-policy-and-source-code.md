@@ -14,7 +14,7 @@ To be able to evaluate whether to implement a codebase in a new context, an orga
 ## Requirements
 
 * The codebase MUST include the policy that the source code is based on.
-* The codebase MUST include all source code that the policy is based on, unless used for fraud detection.
+* If a policy is based on source code, that source code MUST be included in the codebase, unless used for fraud detection.
 * Policy SHOULD be provided in machine readable and unambiguous formats.
 * [Continuous integration](../glossary.md#continuous-integration) tests SHOULD validate that the source code and the policy are executed coherently.
 
