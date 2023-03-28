@@ -18,6 +18,8 @@ BPMN
 bundler
 Camunda
 Cerveny
+CEST
+CET
 CHANGELOG
 cibuild
 CMMN
