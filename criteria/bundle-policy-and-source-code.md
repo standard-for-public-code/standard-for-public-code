@@ -33,6 +33,7 @@ To be able to evaluate whether to implement a codebase in a new context, an orga
 * Document policy in formats that are unambiguous and machine-readable such as [Business Process Model and Notation](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation), [Decision Model and Notation](https://en.wikipedia.org/wiki/Decision_Model_and_Notation) and [Case Management Model Notation](https://en.wikipedia.org/wiki/CMMN).
 * Track policy with [the same version control](maintain-version-control.md) and documentation used to track source code.
 * Check in regularly to understand how the non-policy code in the codebase has changed and whether it still matches the [intentions of the policy](document-codebase-objectives.md).
+* Include relevant policies which impact the community, codebase, and development, including legal obligations like the [General Data Protection Regulation](https://eur-lex.europa.eu/eli/reg/2016/679/oj) or the [EU Web Accessibility Directive](https://ec.europa.eu/digital-single-market/en/web-accessibility), or human rights policies, like a public organization's commitment to equal opportunity.
 
 ## Managers: what you need to do
 
