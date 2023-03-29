@@ -48,5 +48,4 @@ To be able to evaluate whether to implement a codebase in a new context, an orga
 
 ## Further reading
 
-* [Free online tools for building BPMN, CMMN and DMN diagrams at bmpn.io](https://bpmn.io/) by Camunda.
 * [BPMN Quick Guide](https://www.bpmnquickguide.com/view-bpmn-quick-guide/) by Trisotech.
