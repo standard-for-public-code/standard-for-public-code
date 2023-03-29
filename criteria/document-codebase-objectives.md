@@ -25,7 +25,7 @@ The objectives also provide an easy way for people to decide whether this codeba
 ## Policy makers: what you need to do
 
 * Add the policy objectives to the codebase documentation, for example in the `README`.
-* Include relevant policies which impact the community, codebase, and development like value and ethics based policies, for example accessibility or equal opportunity.
+* Make sure that all your codebase objectives have links or references to supporting policy documents added to meet the [Bundle policy and source code](bundle-policy-and-source-code.md) criterion.
 
 ## Managers: what you need to do
 
