@@ -13,8 +13,8 @@ set -e
 
 ./script/find-missing-spdx.sh
 ./script/test-markdown.sh
-./script/test-without-link-check.sh
+./script/spell-check.sh
 ./script/missing-glossary-links.sh
 ./script/check-new-links.sh
+./script/test-without-link-check.sh
 ./script/test-with-link-check.sh
-./script/spell-check.sh
