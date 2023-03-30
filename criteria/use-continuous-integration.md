@@ -39,7 +39,7 @@ Continuous integration allows for an easier monitoring of the state of the [code
 * Check that test results are viewable.
 * Check if code coverage data is published.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Involve managers as well as developers and designers as early in the process as possible and keep them engaged throughout development of your policy.
 * Make sure there are also automated tests set up for policy documentation.

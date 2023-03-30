@@ -22,7 +22,7 @@ The objectives also provide an easy way for people to decide whether this codeba
 * Confirm that the codebase documentation includes the codebase objectives, mission or goal.
 * Check for descriptions of connections between policy objectives and codebase objectives.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Add the policy objectives to the codebase documentation, for example in the `README`.
 * Make sure that all your codebase objectives have links or references to supporting policy documents added to meet the [Bundle policy and source code](bundle-policy-and-source-code.md) criterion.

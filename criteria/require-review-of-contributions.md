@@ -38,7 +38,7 @@ A [policy](../glossary.md#policy) of prompt reviews assures contributors of a gu
 * Check for use of branch protection in the [version control](../glossary.md#version-control) system.
 * Check the times between contribution submission and review.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Institute a 'four eyes' policy where everything, not just code, is reviewed.
 * Use a version control system or methodology that enables review and feedback.

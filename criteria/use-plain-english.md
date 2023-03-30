@@ -34,7 +34,7 @@ Language that is easy to understand lowers the cost of creating and maintaining 
 * Check that no unexplained acronyms, abbreviations, puns or legal/non-English/domain specific terms are in the documentation.
 * Check the spelling, grammar and readability of the documentation.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Frequently test with other managers, developers and designers in the process if they understand what you are delivering and how you document it.
 

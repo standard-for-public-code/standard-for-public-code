@@ -32,7 +32,7 @@ Newcomers need to understand and trust the codebase community’s governance.
 * Check for published activity statistics.
 * Check for a code of conduct.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Add a list to the codebase of any other resources that [policy](../glossary.md#policy) experts, non-governmental organizations and academics would find useful for understanding or reusing your policy.
 * Consider adding contact details so that other policy makers considering collaboration can ask you for advice.

@@ -39,7 +39,7 @@ Code which does not rely on the situation-specific infrastructure of any contrib
 * Check that the codebase files and commit history do not include situation-specific data.
 * Check that the code can be deployed and run without services or platforms available from a single vendor.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Document your [policy](../glossary.md#policy) with enough clarity and detail that it can be understood outside of its original context.
 * Make sure your organization is listed as a known user by the codebase.

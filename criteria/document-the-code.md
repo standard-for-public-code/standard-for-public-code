@@ -33,7 +33,7 @@ Documentation is essential for people to start using the [codebase](../glossary.
 * Check that the documentation includes a high level architectural diagram or similar.
 * Check that the documentation quality is part of integration testing, for example documentation is generated from code, and links and images are tested.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Check in regularly to understand how the non-policy code in the codebase has changed.
 * Give feedback on how to make non-policy documentation more clear.

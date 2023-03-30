@@ -26,7 +26,7 @@ The less effort it takes to make contributions that are accepted by the codebase
 * Confirm that there is a closed channel for reporting security issues.
 * Confirm that there are instructions for privately reporting security issues.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Track [policy](../glossary.md#policy) issues in the codebase, so that a relevant external policy expert can volunteer help.
 

@@ -123,7 +123,7 @@ To encourage an innovative approach to adapting the public code to your context,
 
 ## The goals for the Standard for Public Code
 
-This Standard supports developers, designers, managers and policy makers to:
+This Standard supports developers, designers, managers and public policy makers to:
 
 * develop high quality software and policy for better public service delivery
 * develop codebases that can be reused across contexts and collaboratively maintained
@@ -145,7 +145,7 @@ The Standard for Public Code is meant to be time and technology independent.
 
 The Standard for Public Code is for the people who create and reuse public code:
 
-* policy makers
+* public policy makers
 * business and project managers
 * developers and designers
 
