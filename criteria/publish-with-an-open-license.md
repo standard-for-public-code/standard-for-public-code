@@ -29,7 +29,7 @@ Clearly indicating the license for each file within a codebase facilitates corre
 * Confirm that contribution guidelines and [repository](../glossary.md#repository) configuration do not require transfer of copyright.
 * Check for machine-readable license checking in the codebase [continuous integration](../glossary.md#continuous-integration) tests.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Develop [policy](../glossary.md#policy) that requires code to be [open source](../glossary.md#open-source).
 * Develop policy that disincentivizes non-open source code and technology in procurement.

@@ -29,7 +29,7 @@ Understanding how a codebase has evolved is key to understanding the codebase an
 * Check that the versioning scheme of the codebase is documented and followed.
 * Check that there is a log of changes.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * When developing [policy](../glossary.md#policy), understand that any [code](../glossary.md#code) developed needs to be tested and improved before it can be put into service.
 * Consider versioning policy changes, especially when they trigger new versions of the source code.

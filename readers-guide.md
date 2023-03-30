@@ -49,11 +49,11 @@ This is key if you want to operationalize the Standard.
 
 We've tried to word it so that someone who is not intimately acquainted with the subject matter can still do a basic check for compliance.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 This section tries to specifically speak to policy makers by offering them concrete actions they can perform in their role.
 
-Policy makers set the priorities and goals of projects and may be less technologically experienced.
+Public policy makers set the priorities and goals of projects and may be less technologically experienced.
 
 ## Managers: what you need to do
 

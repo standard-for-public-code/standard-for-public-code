@@ -27,7 +27,7 @@ Open standards which are unambiguous allow for independent development of either
 * Confirm that any non-open standards used are clearly documented as such.
 * Confirm that documentation includes a list of the standards followed within the codebase, each with a working link, or a statement that no standards were chosen.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Mandate use of open standards everywhere possible.
 * Prohibit procurement of technology that does not use open standards.

@@ -25,7 +25,7 @@ To be able to evaluate whether to implement a codebase in a new context, an orga
 * Check if policy can be interpreted by a machine.
 * Check the continuous integration tests for coherent execution of source code and policy pass.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Collaborate with developers and designers to make sure there is no mismatch between policy code and source code.
 * Provide the relevant policy texts for inclusion in the [repository](../glossary.md#repository); if the text is not available in English, also provide an English summary. Be sure to include standards that your organization has chosen to adhere to and any organizational processes which impact the development or the deployment context of the codebase for your organization.

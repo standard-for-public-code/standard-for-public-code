@@ -22,7 +22,7 @@ Together, this creates more opportunities for citizens to understand how softwar
 * Confirm that the [codebase](../glossary.md#codebase) files and commit history do not include sensitive information.
 * Check for the publication of source code not currently in use.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Develop policies in the open.
 * Prioritize open and transparent policies.

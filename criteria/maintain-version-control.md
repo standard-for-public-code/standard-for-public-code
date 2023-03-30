@@ -32,7 +32,7 @@ This is essential for collaboration at scale, as it enables developers to work o
 * Check that it is possible to access a specific version of the codebase, for example through a revision tag or a textual label.
 * Check that the file formats used in the codebase are text formats where possible.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * If a new version of the codebase is created because of a [policy](../glossary.md#policy) change, make sure it's clear in the documentation:
   * what the policy change is,

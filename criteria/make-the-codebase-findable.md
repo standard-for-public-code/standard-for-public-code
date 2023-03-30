@@ -39,7 +39,7 @@ Well-written metadata containing a unique and persistent identifier, such as a W
 * Check unique and persistent identifier entries for the codebase website.
 * Check for a machine-readable metadata description file.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Contribute a description of the policy area or problem this codebase acts on or operates.
 * Test your problem description with peers outside of your context who aren't familiar with the codebase.
