@@ -19,6 +19,7 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 
 * Separate executive summary
 * Clarify "code" as "source code" or "policy code" when specific to one, issue #208
+* Add guidance regarding budgeting for outside contributions, issue #494
 * Possibly: add in the illustrations for each criterion
 
 ## Longer term
