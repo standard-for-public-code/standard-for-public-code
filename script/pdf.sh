@@ -112,7 +112,7 @@ weasyprint --presentational-hints \
 ls -l	standard-cover-$VERSION.pdf
 
 weasyprint --presentational-hints \
-	"http://localhost:$JEKYLL_PDF_PORT/print-review-template.html" \
+	"http://localhost:$JEKYLL_PDF_PORT/docs/review-template.html" \
 	standard-review-template-$VERSION.pdf
 ls -l	standard-review-template-$VERSION.pdf
 
