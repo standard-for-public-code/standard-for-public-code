@@ -48,6 +48,7 @@ Language that is easy to understand lowers the cost of creating and maintaining 
 * Frequently test with policy makers and managers if they understand what you are delivering and how you document it.
 * Ask someone outside of your context if they understand the content (for example, a developer working on a different codebase).
 
+<p style="page-break-after: always;"></p>
 ## Further reading
 
 * Text of the [Web Content Accessibility Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) by W3C, make text content readable and understandable.
