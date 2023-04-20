@@ -1,39 +1,31 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 7
+redirect_from:
+  - criteria/require-review
 ---
 # Require review of contributions
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Peer-review of contributions is essential for [code](../glossary.md#code) quality, reducing security risks and operational risks.
+
+Requiring thorough review of contributions encourages a culture of making sure every contribution is of high quality, completeness and value.
+Code review increases the chance of discovering and fixing potential bugs or mistakes before they are added to the [codebase](../glossary.md#codebase).
+Knowing that all code was reviewed discourages a culture of blaming individuals, and encourages a culture of focusing on solutions.
+
+A [policy](../glossary.md#policy) of prompt reviews assures contributors of a guaranteed time for feedback or collaborative improvement, which increases both rate of delivery and contributor engagement.
 
 ## Requirements
 
-* All contributions that are accepted or committed to release versions of the [codebase](../glossary.md#codebase) MUST be reviewed by another contributor.
-* Reviews MUST include source, [policy](../glossary.md#policy), tests and documentation.
+* All contributions that are accepted or committed to release versions of the codebase MUST be reviewed by another contributor.
+* Reviews MUST include source, policy, tests and documentation.
 * Reviewers MUST provide feedback on all decisions to not accept a contribution.
 * Contributions SHOULD conform to the standards, architecture and decisions set out in the codebase in order to pass review.
-* Reviews SHOULD include running both the [code](../glossary.md#code) and the tests of the codebase.
+* Reviews SHOULD include running both the code and the tests of the codebase.
 * Contributions SHOULD be reviewed by someone in a different context than the contributor.
 * Version control systems SHOULD NOT accept non-reviewed contributions in release versions.
 * Reviews SHOULD happen within two business days.
 * Performing reviews by multiple reviewers is OPTIONAL.
-
-## Why this is important
-
-* Increases codebase quality.
-* Reduces security risks as well as operational risks.
-* Creates a culture of making every contribution great.
-* Catches the most obvious mistakes that could happen.
-* Gives contributors the security that their contributions are only accepted if they really add value.
-* Assures contributors of a guaranteed time for feedback or collaborative improvement.
-* Prompt reviews increase both rate of delivery and contributor engagement.
-
-## What this does not do
-
-* Guarantee the right solution to a problem.
-* Mean that reviewers are liable.
-* Absolve a contributor from writing documentation and tests.
-* Provide you with the right reviewers.
 
 ## How to test
 
@@ -46,7 +38,7 @@ order: 7
 * Check for use of branch protection in the [version control](../glossary.md#version-control) system.
 * Check the times between contribution submission and review.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Institute a 'four eyes' policy where everything, not just code, is reviewed.
 * Use a version control system or methodology that enables review and feedback.

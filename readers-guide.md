@@ -1,7 +1,8 @@
+---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+---
 # Readers guide
-
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 The Standard describes a number of criteria.
 All criteria have consistent sections that make it clear how to create great public code.
@@ -10,6 +11,10 @@ References to "policy makers", "managers", and "developers and designers" apply 
 It is common for individuals to have duties which span multiple roles.
 
 Below is a brief explanation of each of these sections and how they are used within the criteria of the Standard.
+
+## Introduction
+
+This section explains what the criterion aims to achieve and why it is important for a codebase's users and contributors.
 
 ## Requirements
 
@@ -28,10 +33,6 @@ The following keywords in this document are to be interpreted as described in [I
 * MAY
 * OPTIONAL
 
-## Why this is important
-
-This section explains why it is important for the users and contributors of this codebase that these requirements are followed.
-
 ## What this does not do
 
 This section manages expectations by explaining what following the requirements will not save you from.
@@ -48,11 +49,11 @@ This is key if you want to operationalize the Standard.
 
 We've tried to word it so that someone who is not intimately acquainted with the subject matter can still do a basic check for compliance.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 This section tries to specifically speak to policy makers by offering them concrete actions they can perform in their role.
 
-Policy makers set the priorities and goals of projects and may be less technologically experienced.
+Public policy makers set the priorities and goals of projects and may be less technologically experienced.
 
 ## Managers: what you need to do
 

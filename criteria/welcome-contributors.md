@@ -1,30 +1,26 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 4
+redirect_from:
+  - criteria/open-to-contributions
 ---
 # Welcome contributors
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+The atmosphere in a [codebase](../glossary.md#codebase) community helps users decide to use one codebase over another.
+Welcoming anyone as a contributor enables the community to grow and sustain itself over time.
+A community where contributors have clear ways to influence codebase and community goals and progress is less likely to split and end up in diverging communities.
+Newcomers need to understand and trust the codebase community’s governance.
 
 ## Requirements
 
-* The [codebase](../glossary.md#codebase) MUST allow anyone to submit suggestions for changes to the codebase.
+* The codebase MUST allow anyone to submit suggestions for changes to the codebase.
 * The codebase MUST include contribution guidelines explaining what kinds of contributions are welcome and how contributors can get involved, for example in a `CONTRIBUTING` file.
 * The codebase MUST document the governance of the codebase, contributions and its community, for example in a `GOVERNANCE` file.
 * The codebase SHOULD advertise the committed engagement of involved organizations in the development and maintenance.
 * The codebase SHOULD have a publicly available roadmap.
 * The codebase SHOULD publish codebase activity statistics.
 * Including a code of conduct for contributors in the codebase is OPTIONAL.
-
-## Why this is important
-
-* Helps newcomers understand and trust the codebase community's leadership.
-* Prevents the community that works on a codebase splitting because there is no way to influence its goals and progress, resulting in diverging communities.
-* Helps users decide to use one codebase over another.
-
-## What this does not do
-
-* Guarantee others will join the community.
 
 ## How to test
 
@@ -36,7 +32,7 @@ order: 4
 * Check for published activity statistics.
 * Check for a code of conduct.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Add a list to the codebase of any other resources that [policy](../glossary.md#policy) experts, non-governmental organizations and academics would find useful for understanding or reusing your policy.
 * Consider adding contact details so that other policy makers considering collaboration can ask you for advice.

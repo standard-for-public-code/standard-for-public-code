@@ -32,7 +32,7 @@ This project is licensed Creative Commons Zero v1.0 Universal, which essentially
 
 ### 1. Make your changes
 
-Contributions should [follow](docs/standard-for-public-code.md) the requirements set out in the criteria of the Standard for Public code itself.
+Contributions should [follow](docs/standard-for-public-code.html) the requirements set out in the criteria of the Standard for Public code itself.
 Reviewers will also be ensuring that contributions are aligned with the [values of public code](introduction.md#values-of-public-code).
 
 This project uses the [GitFlow branching model and workflow](https://nvie.com/posts/a-successful-git-branching-model/).
@@ -62,7 +62,7 @@ These are the standards that the Standard for Public Code uses.
 Please make sure that your contributions are aligned with them so that they can be merged more easily.
 
 * [IETF RFC 2119](https://tools.ietf.org/html/rfc2119) - for requirement level keywords
-* [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/#readable) - for readibility
+* [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/#readable) - for readability
 
 ### 2. Pull request
 

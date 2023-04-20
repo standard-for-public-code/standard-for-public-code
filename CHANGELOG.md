@@ -1,9 +1,35 @@
+---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+---
 # Version history
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
-
 <!-- script/release-body.sh expects VERSION in the first second-level header -->
+
+## Version 0.6.0
+
+April 20th 2023: 🔀 the fourteenth draft adds new requirements for portability and tests and an introduction to each criterion.
+
+* New requirement in Create reusable and portable code about the development being a collaboration between multiple parties.
+* New requirement in Create reusable and portable code about being dependent on a single vendor.
+* New requirement in Use continuous integration about publishing results for automated tests.
+* Differentiating the two requirements about security to clearly be about providing a method and having documentation about it.
+* Rephrased requirements to focus on the codebase rather than contributor behavior.
+* Removed the sections Why this is important and What this does not do and replaced with an introduction in each criterion.
+* Added general What this does not do section in the introduction of the Standard.
+* Added guidance for public policy makers about related policies and license compatibility.
+* Added guidance for developers and designers about version controlling files.
+* Clarified guidance for developers and designers about prompt responses and search engine optimization.
+* Added Further reading about accessibility.
+* Aligned criteria URLs with criteria names.
+* Improved navigation in the web version.
+* Moved tools in Further reading sections to the community implementation guide.
+* Moved compliance or certification process to [publiccode.net](https://publiccode.net).
+* Change format of the review template to make it easier to update after a new release.
+* Improved the text on the landing page and added links to related resources.
+* Added spell checker automated test.
+* Made minor changes to text for clarity and consistency.
+* Moved SPDX headers to yaml header.
 
 ## Version 0.5.0
 

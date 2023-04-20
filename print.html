@@ -56,7 +56,7 @@
       text-decoration: none;
     }
 
-    a:link:after {
+    a:link:before {
       color: grey;
       page-break-inside: avoid;
       margin-left: .25em;
@@ -78,7 +78,7 @@
       text-decoration: none;
       word-wrap: normal;
     }
-    a[href^="http"]:after {
+    a[href^="http"]:before {
       content: "" attr(href) "";
       font-size: .75em;
     }
@@ -110,7 +110,7 @@
 
     /* Headings */
 
-    .markdown-body [id$="policy-makers-what-you-need-to-do"]:before,
+    .markdown-body [id$="public-policy-makers-what-you-need-to-do"]:before,
     .markdown-body [id$="managers-what-you-need-to-do"]:before,
     .markdown-body [id$="developers-and-designers-what-you-need-to-do"]:before {
       display: block;
@@ -129,7 +129,7 @@
       font-size: 0.5cm;
       font-weight: 900;
     }
-    .markdown-body [id$="policy-makers-what-you-need-to-do"]:before {
+    .markdown-body [id$="public-policy-makers-what-you-need-to-do"]:before {
       background-color: #00EFB5;
       border-color: #00EFB5;
       content: 'P';
@@ -242,6 +242,27 @@
       #table-of-contents {
         line-height: 0.9;
       }
+      a.table-of-contents[href^="http"]:after {
+      content: "" attr(href) "";
+      font-size: .75em;
+    }
+      a.table-of-contents:link:after {
+      color: grey;
+      page-break-inside: avoid;
+      margin-left: .25em;
+      break-inside: avoid;
+      display: block;
+      right: 0;
+      width: 0.8cm;
+      margin-right: -7cm;
+      padding: 0.25rem;
+      line-height: 1.25;
+      text-align: right;
+      float: right;
+      clear: both;
+      word-break: normal;
+      text-decoration: none;
+    }
       
       #section-first-page>img {
         width: 21.6cm;
@@ -276,7 +297,7 @@
 
     <ul class="first-page-audiences">
       <lh>What public code is and how to implement it for:</lh>
-      <li id="first-page-policy-makers-what-you-need-to-do">Policy makers</li>
+      <li id="first-page-public-policy-makers-what-you-need-to-do">Public policy makers</li>
       <li id="first-page-managers-what-you-need-to-do">Managers</li>
       <li id="first-page-developers-and-designers-what-you-need-to-do">Developers and designers</li>
     </ul>
@@ -299,24 +320,24 @@
     <h1>Table of Contents</h1>
 
     <ol>
-      <li><a href="#section-authors">Authors</a></li>
-      <li><a href="#section-introduction">Introduction</a></li>
-      <li><a href="#section-readers-guide">Readers guide</a></li>
-      <li><a href="#section-glossary">Glossary</a></li>
-      <li><a href="#section-criteria">Criteria</a>
+      <li><a href="#section-authors" class="table-of-contents">Authors</a></li>
+      <li><a href="#section-introduction" class="table-of-contents">Introduction</a></li>
+      <li><a href="#section-readers-guide" class="table-of-contents">Readers guide</a></li>
+      <li><a href="#section-glossary" class="table-of-contents">Glossary</a></li>
+      <li><a href="#section-criteria" class="table-of-contents">Criteria</a>
         {% assign sorted = site.pages | sort:"order" %}
         <ol>
         {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
-          <li><a href="#section-criteria-{{page.name}}">{{page.title}}</a></li>{% endif%}
+          <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>{% endif%}
         {% endif%}  {% endif%}{% endfor %}
         </ol>
       </li>
-      <li><a href="#section-contributing">Contributing guide</a></li>
-      <li><a href="#section-code_of_conduct">Code of conduct</a></li>
-      <li><a href="#section-governance">Governance</a></li>
-      <li><a href="#section-changelog">Version history</a></li>
-      <li><a href="#section-license">License</a></li>
-      <li><a href="#section-contact">Contact</a></li>
+      <li><a href="#section-contributing" class="table-of-contents">Contributing guide</a></li>
+      <li><a href="#section-code-of-conduct" class="table-of-contents">Code of conduct</a></li>
+      <li><a href="#section-governance" class="table-of-contents">Governance</a></li>
+      <li><a href="#section-changelog" class="table-of-contents">Version history</a></li>
+      <li><a href="#section-license" class="table-of-contents">License</a></li>
+      <li><a href="#section-contact" class="table-of-contents">Contact</a></li>
     </ol>
 
   </article>
@@ -348,7 +369,7 @@
     {% assign sorted = site.pages | sort:"order" %}
     <ol>
     {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
-      <li><a href="#section-criteria-{{page.name}}">{{page.title}}</a></li>{% endif%}
+      <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>{% endif%}
     {% endif%}  {% endif%}{% endfor %}
     </ol>
   </article>
@@ -371,10 +392,10 @@
   </article>
 
   <figure>
-      <img src="/assets/collaborative-developement.svg" alt="collaborative-developement">
+      <img src="/assets/collaborative-development.svg" alt="collaborative-development">
     </figure>
 
-  <article id="section-code_of_conduct">
+  <article id="section-code-of-conduct">
 
     {% for page in site.pages %}{% if page.name == "CODE_OF_CONDUCT.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 

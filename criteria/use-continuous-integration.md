@@ -1,40 +1,33 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 12
+redirect_from:
+  - criteria/continuous-integration
 ---
 # Use continuous integration
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Asynchronous collaboration is enabled by developers merging their work to a shared branch frequently, verified by automated tests.
+The more frequent the merging and the smaller the contribution, the easier it is to resolve merge conflicts.
+
+Automated testing of all functionality provides confidence that contributions are working as intended and have not introduced errors, and allows reviewers to focus on the structure and approach of the contribution.
+The more focused the test, the easier it is to clearly identify and understand errors as they arise.
+
+Documenting a codebase's [continuous integration](../glossary.md#continuous-integration) workflow helps contributors understand the expectations of contributions.
+Continuous integration allows for an easier monitoring of the state of the [codebase](../glossary.md#codebase).
 
 ## Requirements
 
 * All functionality in the source [code](../glossary.md#code) MUST have automated tests.
-* Contributions MUST pass all automated tests before they are admitted into the [codebase](../glossary.md#codebase).
+* Contributions MUST pass all automated tests before they are admitted into the codebase.
 * The codebase MUST have guidelines explaining how to structure contributions.
 * The codebase MUST have active contributors who can review contributions.
+* Automated test results for contributions SHOULD be public.
 * The codebase guidelines SHOULD state that each contribution should focus on a single issue.
 * Source code test and documentation coverage SHOULD be monitored.
 * Testing [policy](../glossary.md#policy) and documentation for consistency with the source and vice versa is OPTIONAL.
 * Testing policy and documentation for style and broken links is OPTIONAL.
 * Testing the code by using examples in the documentation is OPTIONAL.
-
-## Why this is important
-
-* Using [continuous integration](../glossary.md#continuous-integration):
-  * allows you to quickly identify problems with the codebase,
-  * enables risk taking and focusing on problem solving while minimizing stress for the contributors,
-  * lowers barriers for new contributors by reducing the amount of understanding necessary to suggest changes,
-  * leads to more maintainable code,
-  * speeds up the development cycle.
-* Smaller, more regular contributions are typically easier to evaluate and lower risk compared to large infrequent changes.
-* Codebases in active development more reliably provide opportunities for collaboration and feedback.
-
-## What this does not do
-
-* Create a fault tolerant infrastructure that will work and scale perfectly.
-* Create meaningful tests.
-* Test for real life situations.
-* Guarantee the code will deliver exactly the same policy result.
 
 ## How to test
 
@@ -43,14 +36,15 @@ order: 12
 * Confirm that contributions are only admitted into the codebase after all of the tests are passed.
 * Confirm that contribution guidelines explain how to structure contributions.
 * Confirm that there are contributions from within the last three months.
+* Check that test results are viewable.
 * Check if code coverage data is published.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Involve managers as well as developers and designers as early in the process as possible and keep them engaged throughout development of your policy.
 * Make sure there are also automated tests set up for policy documentation.
 * Fix policy documentation promptly if it fails a test.
-* Make sure the code reflects any changes to the policy (see [Maintain version control](version-control-and-history.md)).
+* Make sure the code reflects any changes to the policy (see [Maintain version control](maintain-version-control.md)).
 
 ## Managers: what you need to do
 

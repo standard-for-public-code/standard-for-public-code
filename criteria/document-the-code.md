@@ -1,14 +1,18 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 9
+redirect_from:
+  - criteria/documenting
 ---
 # Document the code
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Well documented [code](../glossary.md#code) helps people to understand what the code does and how to use it.
+Documentation is essential for people to start using the [codebase](../glossary.md#codebase) and contributing to it more quickly.
 
 ## Requirements
 
-* All of the functionality of the [codebase](../glossary.md#codebase), [policy](../glossary.md#policy) as well as source, MUST be described in language clearly understandable for those that understand the purpose of the [code](../glossary.md#code).
+* All of the functionality of the codebase, [policy](../glossary.md#policy) as well as source, MUST be described in language clearly understandable for those that understand the purpose of the code.
 * The documentation of the codebase MUST contain a description of how to install and run the source code.
 * The documentation of the codebase MUST contain examples demonstrating the key functionality.
 * The documentation of the codebase SHOULD contain a high level description that is clearly understandable for a wide audience of stakeholders, like the [general public](../glossary.md#general-public) and journalists.
@@ -17,16 +21,6 @@ order: 9
 * The documentation SHOULD describe the key components or modules of the codebase and their relationships, for example as a high level architectural diagram.
 * There SHOULD be [continuous integration](../glossary.md#continuous-integration) tests for the quality of the documentation.
 * Including examples that make users want to immediately start using the codebase in the documentation of the codebase is OPTIONAL.
-
-## Why this is important
-
-* Users can start using and contributing more quickly.
-* You help people discover the codebase, especially people asking 'is there already code that does something like this'.
-* This provides transparency into your organization and processes.
-
-## What this does not do
-
-* Contribute directly to more reusable, portable code (see [Create reusable and portable code](./reusable-and-portable-codebases.md)).
 
 ## How to test
 
@@ -39,7 +33,7 @@ order: 9
 * Check that the documentation includes a high level architectural diagram or similar.
 * Check that the documentation quality is part of integration testing, for example documentation is generated from code, and links and images are tested.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Check in regularly to understand how the non-policy code in the codebase has changed.
 * Give feedback on how to make non-policy documentation more clear.

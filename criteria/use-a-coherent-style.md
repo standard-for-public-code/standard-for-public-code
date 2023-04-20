@@ -1,33 +1,28 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 15
+redirect_from:
+  - criteria/style
 ---
 # Use a coherent style
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Following a consistent and coherent style enables contributors in different environments to work together.
+Unifying vocabularies reduces friction in communication between contributors.
 
 ## Requirements
 
 * The [codebase](../glossary.md#codebase) MUST use a coding or writing style guide, either the codebase community's own or an existing one referred to in the codebase.
 * Contributions SHOULD pass automated tests on style.
 * The style guide SHOULD include expectations for inline comments and documentation for non-trivial sections.
-* Including expectations for [understandable English](understandable-english-first.md) in the style guide is OPTIONAL.
-
-## Why this is important
-
-* Enables contributors in different environments to work together on a unified product.
-* Unifying vocabularies reduces friction in communication between contributors.
-
-## What this does not do
-
-* Help contributors write well or effectively explain what they do.
+* Including expectations for [understandable English](use-plain-english.md) in the style guide is OPTIONAL.
 
 ## How to test
 
 * Confirm that contributions are in line with the style guides specified in the documentation.
 * Check for the presence of automated tests on style.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
 * Create, follow and continually improve on a style guide for [policy](../glossary.md#policy) and documentation as well as document this in the codebase, for example in the `CONTRIBUTING` or `README`.
 
@@ -49,5 +44,4 @@ Additionally:
 
 ## Further reading
 
-* [List of linters](https://github.com/caramelomartins/awesome-linters) by Hugo Martins.
 * [Programming style](https://en.wikipedia.org/wiki/Programming_style) on Wikipedia.

@@ -1,29 +1,25 @@
 ---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 16
 redirect_from:
     - criteria/advertise-maturity
+    - criteria/document-maturity
 ---
 # Document codebase maturity
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+Clearly signalling a [codebase](../glossary.md#codebase)'s maturity helps others decide whether to use and contribute to it.
+A codebase version's maturity includes the maturity of its dependencies.
+Understanding how a codebase has evolved is key to understanding the codebase and how to contribute to it.
 
 ## Requirements
 
-* The [codebase](../glossary.md#codebase) MUST be versioned.
+* The codebase MUST be versioned.
 * The codebase MUST prominently document whether or not there are versions of the codebase that are ready to use.
 * Codebase versions that are ready to use MUST only depend on versions of other codebases that are also ready to use.
 * The codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`.
 * The method for assigning version identifiers SHOULD be documented.
 * It is OPTIONAL to use semantic versioning.
-
-## Why this is important
-
-Clearly signalling a codebase's maturity helps others decide whether to reuse, invest in or contribute to it.
-
-## What this does not do
-
-* Guarantee that others will use the [code](../glossary.md#code).
 
 ## How to test
 
@@ -33,9 +29,9 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 * Check that the versioning scheme of the codebase is documented and followed.
 * Check that there is a log of changes.
 
-## Policy makers: what you need to do
+## Public policy makers: what you need to do
 
-* When developing [policy](../glossary.md#policy), understand that any code developed needs to be tested and improved before it can be put into service.
+* When developing [policy](../glossary.md#policy), understand that any [code](../glossary.md#code) developed needs to be tested and improved before it can be put into service.
 * Consider versioning policy changes, especially when they trigger new versions of the source code.
 
 ## Managers: what you need to do
@@ -44,7 +40,7 @@ Clearly signalling a codebase's maturity helps others decide whether to reuse, i
 
 ## Developers and designers: what you need to do
 
-* Ensure that the codebase versioning approach is followed for all releases.
+* Make sure that the codebase versioning approach is followed for all releases.
 
 ## Further reading
 
