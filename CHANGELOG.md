@@ -8,7 +8,7 @@
 
 ## Version 0.6.0
 
-April 20th 2023: 🔀 the fourteenth draft add new requirements on portability and tests and an introduction to each criterion.
+April 20th 2023: 🔀 the fourteenth draft adds new requirements for portability and tests and an introduction to each criterion.
 
 * New requirement in Create reusable and portable code about the development being a collaboration between multiple parties.
 * New requirement in Create reusable and portable code about being dependent on a single vendor.
@@ -25,7 +25,7 @@ April 20th 2023: 🔀 the fourteenth draft add new requirements on portability a
 * Improved navigation in the web version.
 * Moved tools in Further reading sections to the community implementation guide.
 * Moved compliance or certification process to [publiccode.net](https://publiccode.net).
-* Change format of the review template to make it easier to update it after a new release.
+* Change format of the review template to make it easier to update after a new release.
 * Improved the text on the landing page and added links to related resources.
 * Added spell checker automated test.
 * Made minor changes to text for clarity and consistency.
