@@ -12,10 +12,11 @@
     - Push the branch, `git push -u origin release-$MAJOR.$MINOR.$PATCH`
 3. Update the new release
     - [ ] Update version number in `_config.yml`, `README.md` and `publiccode.yml`
+    - [ ] Update releaseDate in `publiccode.yml`
     - [ ] Update [`AUTHORS.md`](../AUTHORS.md) with new contributors
     - [ ] Update [`CHANGELOG.md`](../CHANGELOG.md)
     - [ ] Perform extra pass on diff to the 'main' branch
-        - run `script/generate-review-template.sh` and commit updated `docs/review-template.md`
+        - run `script/generate-review-template.sh` and commit updated `docs/review-template.html`
         - update `docs/standard-for-public-code.md` with the new text from the review template, updating any status changes as a result
         - Reread any section or paragraph to ensure wording changes still fit the whole and do not contain grammar or spelling errors
         - Ensure [fonts](https://brand.publiccode.net/typography/) are installed, see: `script/ensure-font.sh`
