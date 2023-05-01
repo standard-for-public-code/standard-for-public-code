@@ -45,6 +45,7 @@ Clearly indicating the license for each file within a codebase facilitates corre
 * Add a copyright notice and a license header to every new source code file created.
 * When code is being reused by the codebase, make sure that it has a license that is compatible with the license or licenses of the codebase.
 
+<p style="page-break-after: always;"></p>
 ## Further reading
 
 * [Open source definition](https://opensource.org/osd) by the Open Source Initiative, all open source licenses meet this definition.

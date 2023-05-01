@@ -48,8 +48,9 @@ Language that is easy to understand lowers the cost of creating and maintaining 
 * Frequently test with policy makers and managers if they understand what you are delivering and how you document it.
 * Ask someone outside of your context if they understand the content (for example, a developer working on a different codebase).
 
+<p style="page-break-after: always;"></p>
 ## Further reading
 
-* Text of the [Web Content Accessibility Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) by W3C, make text content readable and understandable.
-* [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility) by the European Commission, is an example of regulation requiring high accessibility.
+* Meeting the [Web Content Accessibility Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) by W3C makes text content readable and understandable.
+* The[European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility) by the European Commission, is an example of regulation requiring high accessibility.
 * [Definition of plain language](https://www.plainlanguage.gov/about/definitions/) by United States General Services Administration.

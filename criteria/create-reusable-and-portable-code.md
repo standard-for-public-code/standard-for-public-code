@@ -7,7 +7,7 @@ redirect_from:
 ---
 # Create reusable and portable code
 
-Creating reusable and portable [code](../glossary.md#code) enables policy makers, developers and designers to reuse what has been developed, to test it, to improve it and contribute those improvements back, leading to better quality, cheaper maintenance and higher reliability.
+Creating reusable and portable [code](../glossary.md#code) enables policy makers, developers and designers to reuse what has been developed, test it, improve it and contribute those improvements back, leading to better quality, cheaper maintenance and higher reliability.
 
 Thoughtfully and purposefully designing a [codebase](../glossary.md#codebase) for reusability allows for the mission, vision and scope of the codebase to be shared by multiple parties.
 Codebases developed and used by multiple parties are more likely to benefit from a self-sustaining community.

@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 2
-redirect_from: 
+redirect_from:
   - criteria/bundle-policy-and-code
 ---
 # Bundle policy and source code

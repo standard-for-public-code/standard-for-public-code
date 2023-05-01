@@ -182,5 +182,6 @@ Waal
 weasyprint
 whitepaper
 Wikidata
+yaml
 yml
 Zuid
