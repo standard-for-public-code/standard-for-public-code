@@ -41,6 +41,7 @@ When you've forked this repository, please make sure to create a feature branch 
 Add your changes in commits [with a message that explains them](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message).
 If more than one type of change is needed, group logically related changes into separate commits.
 For example, white-space fixes could be a separate commit from text content changes.
+When adding new files, select file formats that are easily viewed in a `diff`, for instance, `.svg` is preferable to a binary image.
 Document choices or decisions you make in the commit message, this will enable everyone to be informed of your choices in the future.
 
 If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request.
