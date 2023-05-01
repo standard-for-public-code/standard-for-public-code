@@ -33,15 +33,6 @@ The following keywords in this document are to be interpreted as described in [I
 * MAY
 * OPTIONAL
 
-## What this does not do
-
-This section manages expectations by explaining what following the requirements will not save you from.
-
-This helps:
-
-* with applying the Standard correctly
-* make sure no unexpected things pop up
-
 ## How to test
 
 This section offers actions you can take to see if a contribution is compliant with the Standard.
