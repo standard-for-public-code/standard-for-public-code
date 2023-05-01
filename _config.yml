@@ -15,7 +15,7 @@ include:
   - "LICENSE"
   - "CC0-1.0.md"
   - "CODE_OF_CONDUCT.md"
-  - "docs/review-template.md"
+  - "docs/review-template.html"
 
 toc: true
 
