@@ -17,21 +17,24 @@ Well-written metadata containing a unique and persistent identifier, such as a W
 ## Requirements
 
 * The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding.
+* The codebase SHOULD have a short description that helps someone understand what the codebase is for or what it does.
 * Maintainers SHOULD submit the codebase to relevant software catalogs.
 * The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
-* It is SHOULD for the codebase to be findable using a search engine by codebase name.
+* The codebase SHOULD be findable using a search engine by codebase name.
+* The codebase SHOULD be findable using a search engine by describing the problem it solves in natural language.
 * The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, [repository](../glossary.md#repository) location and website.
 * The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file.
-* It is OPTIONAL for the codebase to be findable using a search engine by describing the problem it solves in natural language.
 * A dedicated domain name for the codebase is OPTIONAL.
 * Regular presentations at conferences by the community are OPTIONAL.
 
 ## How to test
 
 * Check that the codebase name is free of acronyms, abbreviations, puns or organizational branding.
+* Check that the codebase repository has a short description of the codebase.
 * Check for the codebase listing in relevant software catalogs.
 * Check for a codebase website which describes the problem the codebase solves.
 * Check that the codebase appears in the results on more than one major search engine when searching by the codebase name.
+* Check that the codebase appears in the results on more than one major search engine when searching by using natural language, for instance, using the short description.
 * Check unique and persistent identifier entries for mention of the major contributors.
 * Check unique and persistent identifier entries for the repository location.
 * Check unique and persistent identifier entries for the codebase website.
@@ -46,12 +49,14 @@ Well-written metadata containing a unique and persistent identifier, such as a W
 ## Managers: what you need to do
 
 * Search trademark databases to avoid confusion or infringement before deciding the name.
+* Use the short description wherever the codebase is referenced, for instance, as social media account descriptions.
 * Budget for content design and Search Engine Optimization skills in the team.
 * Make sure people involved in the project present at relevant conferences.
 
 ## Developers and designers: what you need to do
 
 * Search engine optimization, for instance adding a [sitemap](https://www.sitemaps.org/protocol.html).
+* Use the short description wherever the codebase is referenced, for instance, as the repository description.
 * Test your problem description with peers outside of your context who aren't familiar with the codebase.
 * Suggest conferences to present at and present at them.
 
