@@ -40,6 +40,7 @@ URL_IGNORE_REGEXES="\
 ,/reclameland\.nl\/drukken\/softcover-boeken/\
 ,/www\.dta\.gov\.au\/help-and-advice/\
 ,/127\.0\.0\.1:/\
+,/amsterdam\.nl\/en\//\
 "
 
 # ignore request rate limit errors (HTTP 429)
