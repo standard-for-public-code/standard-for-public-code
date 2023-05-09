@@ -30,6 +30,7 @@ bundle exec jekyll build
 # * reclameland.nl : often "failed: 403 No error" when run as GitHub workflow
 # * www.dta.gov.au : often "failed: 403 No error" when run as GitHub workflow
 # * 127.0.0.1 : localhost does not need to be checked
+# * twitter.com : failed: 302 Number of redirects hit maximum amount
 #
 URL_IGNORE_REGEXES="\
 /github\.com\/.*\/edit\//\
@@ -40,6 +41,7 @@ URL_IGNORE_REGEXES="\
 ,/reclameland\.nl\/drukken\/softcover-boeken/\
 ,/www\.dta\.gov\.au\/help-and-advice/\
 ,/127\.0\.0\.1:/\
+,/twitter\.com\//\
 ,/amsterdam\.nl\/en\//\
 "
 
