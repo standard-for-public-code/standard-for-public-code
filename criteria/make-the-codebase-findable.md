@@ -19,7 +19,7 @@ Well-written metadata containing a unique and persistent identifier, such as a W
 * The name of the codebase SHOULD be descriptive and free from acronyms, abbreviations, puns or organizational branding.
 * Maintainers SHOULD submit the codebase to relevant software catalogs.
 * The codebase SHOULD have a website which describes the problem the codebase solves using the preferred jargon of different potential users of the codebase (including technologists, policy experts and managers).
-* It is SHOULD for the codebase to be findable using a search engine by codebase name.
+* The codebase SHOULD be findable using a search engine by codebase name.
 * The codebase SHOULD have a unique and persistent identifier where the entry mentions the major contributors, [repository](../glossary.md#repository) location and website.
 * The codebase SHOULD include a machine-readable metadata description, for example in a [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) file.
 * It is OPTIONAL for the codebase to be findable using a search engine by describing the problem it solves in natural language.
