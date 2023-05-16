@@ -7,6 +7,8 @@ The Standard for Public Code gives public organizations a model for preparing op
 It includes guidance for policy makers, city administrators, developers and vendors.
 
 ![version 0.6.0](https://img.shields.io/badge/version-0.6.0-yellow.svg)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 [![pages-build-deployment](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment)
 [![Test](https://github.com/publiccodenet/standard/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/test.yml)
 [Main branch](https://github.com/publiccodenet/standard/tree/main): [![standard main badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net.svg)](https://publiccodenet.github.io/publiccodenet-url-check/url-check-fails.json)
