@@ -28,7 +28,7 @@ Newcomers need to understand and trust the codebase community’s governance.
 * Confirm that it is possible to submit suggestions for changes to the codebase.
 * Confirm there are contribution guidelines.
 * Confirm that the codebase governance is clearly explained, including how to influence codebase governance.
-* Check that contributing guidelines covers who is expected to cover the costs of reviewing contributions.
+* Check that contributing guidelines cover who is expected to cover the costs of reviewing contributions.
 * Check for a list of involved organizations.
 * Check for a roadmap.
 * Check for published activity statistics.
@@ -43,7 +43,7 @@ Newcomers need to understand and trust the codebase community’s governance.
 
 * Make sure that the documentation of the governance includes the current process for how to make changes to the governance.
 * If the community has some consensus about how the governance should change, then include those ideas stated as ambitions in the documentation.
-* Describe how the codebase community wants to handle the review of incoming contributions. If needed, secure and allocate budget for that process.
+* If needed, make sure you have allocated budget for the contributions review process as agreed by the codebase community.
 * Make sure the documentation explains how each organization is involved in the codebase, what resources it has available for it and for how long.
 * Support your experienced policy makers, developers and designers to stay part of the community for as long as possible.
 
