@@ -18,7 +18,7 @@ The criteria of the Standard for Public Code are aligned with guidelines and bes
 
 ## Contents
 
-* [Introduction and background](introduction.md)
+* [Foreword and background](foreword.md)
 * [Readers guide: how to interpret this standard](readers-guide.md)
 * [Glossary](glossary.md)
 * [Criteria](criteria/){% assign sorted = site.pages | sort:"order" %}{% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}

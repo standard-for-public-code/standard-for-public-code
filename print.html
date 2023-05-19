@@ -321,7 +321,7 @@
 
     <ol>
       <li><a href="#section-authors" class="table-of-contents">Authors</a></li>
-      <li><a href="#section-introduction" class="table-of-contents">Introduction</a></li>
+      <li><a href="#section-foreword" class="table-of-contents">Foreword</a></li>
       <li><a href="#section-readers-guide" class="table-of-contents">Readers guide</a></li>
       <li><a href="#section-glossary" class="table-of-contents">Glossary</a></li>
       <li><a href="#section-criteria" class="table-of-contents">Criteria</a>
@@ -346,9 +346,9 @@
     <img src="/assets/codebase.svg" alt="codebase">
   </figure>
 
-  <article id="section-introduction">
+  <article id="section-foreword">
 
-    {% for page in site.pages %}{% if page.name == "introduction.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+    {% for page in site.pages %}{% if page.name == "foreword.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
 
   </article>
 

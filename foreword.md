@@ -1,14 +1,16 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+redirect_from:
+  - introduction
 ---
-# Introduction
+# Foreword
 
 The Standard for Public Code is a set of criteria that support public organizations in developing and maintaining software and policy together.
 
 Anyone developing public-purpose software or policy can use this standard to work towards higher quality public services that are more cost effective, with less risk and more control.
 
-This introduction introduces the term public code and explains why this is important.
+This foreword introduces the term public code and explains why this is important.
 
 ## Definition of public code
 
