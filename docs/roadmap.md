@@ -12,7 +12,6 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 
 ## Current work
 
-* Work through the issue backlog
 * As far as possible, make the standard Standard-compliant
 
 ## Near term
@@ -28,6 +27,7 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 * Add to README and index.md information (and eventually statistics) on adoption and use (issue #438)
 * Physical paper checklist
 * Becoming validated by multiple codebases
+* Release version 1.0.0 after a few codebases are compliant
 * Linkable requirements
 * New cover art
 * Register for ISBN
