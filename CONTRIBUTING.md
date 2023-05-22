@@ -75,6 +75,7 @@ In some cases a single set of changes may address multiple issues, in which case
 ### 3. Improve
 
 All contributions have to be reviewed by someone.
+The Foundation for Public Code has committed to make sure that maintainers are available to review contributions with an aim to provide feedback within two business days.
 
 It could be that your contribution can be merged immediately by a maintainer.
 However, usually, a new pull request needs some improvements before it can be merged.
