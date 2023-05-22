@@ -34,6 +34,7 @@ This project is licensed Creative Commons Zero v1.0 Universal, which essentially
 
 Contributions should [follow](docs/standard-for-public-code.html) the requirements set out in the criteria of the Standard for Public code itself.
 Reviewers will also be ensuring that contributions are aligned with the [values of public code](foreword.md#values-of-public-code).
+Furthermore, they will review that the contribution conforms to the [standards](#standards-to-follow) and remains coherent with the overall work.
 
 This project uses the [GitFlow branching model and workflow](https://nvie.com/posts/a-successful-git-branching-model/).
 When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
