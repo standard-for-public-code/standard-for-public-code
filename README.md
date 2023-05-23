@@ -67,7 +67,7 @@ See the scripts in the [script](https://github.com/publiccodenet/standard/tree/m
 
 ## Generating a PDF of the Standard for Public Code
 
-Using [Weasyprint](https://weasyprint.org/) the file `print.html` can be converted to a nice looking PDF.
+Using [Weasyprint](https://weasyprint.org/) the file `standard-print.html` can be converted to a nice looking PDF.
 
 ```bash
 script/pdf.sh

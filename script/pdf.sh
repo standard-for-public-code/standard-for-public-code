@@ -102,9 +102,14 @@ done
 sleep 1;
 
 weasyprint --presentational-hints \
-	"http://localhost:$JEKYLL_PDF_PORT/print.html" \
+	"http://localhost:$JEKYLL_PDF_PORT/standard-print.html" \
 	standard-for-public-code-$VERSION.pdf
 ls -l	standard-for-public-code-$VERSION.pdf
+
+weasyprint --presentational-hints \
+	"http://localhost:$JEKYLL_PDF_PORT/foreword-print.html" \
+	standard-for-public-code-foreword-$VERSION.pdf
+ls -l	standard-for-public-code-foreword-$VERSION.pdf
 
 weasyprint --presentational-hints \
 	"http://localhost:$JEKYLL_PDF_PORT/print-cover.html" \
@@ -116,8 +121,15 @@ weasyprint --presentational-hints \
 	standard-review-template-$VERSION.pdf
 ls -l	standard-review-template-$VERSION.pdf
 
-pandoc $JEKYLL_PDF_DIR/print.html -o standard-for-public-code-$VERSION.epub
+pandoc $JEKYLL_PDF_DIR/standard-print.html \
+  -o standard-for-public-code-$VERSION.epub
 ls -l standard-for-public-code-$VERSION.epub
+
+qpdf --empty --pages \
+  standard-for-public-code-foreword-$VERSION.pdf \
+  standard-for-public-code-$VERSION.pdf \
+  -- \
+  standard-for-public-code-print-$VERSION.pdf
 
 temp_weasyprint_info
 

@@ -1,0 +1,164 @@
+---
+---
+
+<!DOCTYPE html>
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="assets/github-markdown.css">
+  <link rel="stylesheet" href="assets/print.css">
+  <title>{{ site.title }}</title>
+  <style>
+    /* Print specific */
+    @media print {
+      @page :left {
+        @top-left {
+          content: counter(page);
+        }
+      }
+      @page :right {
+        @top-right {
+          content: counter(page);
+        }
+      }
+    }
+  </style>
+</head>
+<body class="markdown-body">
+
+  <article id="section-first-page">
+    <p>Request for contributions</p>
+    <h1 class="title">Standard for Public Code</h1>
+
+    <ul class="first-page-audiences">
+      <lh>What public code is and how to implement it for:</lh>
+      <li id="first-page-public-policy-makers-what-you-need-to-do">Public policy makers</li>
+      <li id="first-page-managers-what-you-need-to-do">Managers</li>
+      <li id="first-page-developers-and-designers-what-you-need-to-do">Developers and designers</li>
+    </ul>
+
+    <img src="assets/hands-shake.svg" alt="hands shaking">
+
+    <p><strong>Draft</strong><br/>Version {{ site.version }}</p>
+    <p><img src="/assets/cc-zero-badge.svg" alt="Licensed CC0" height="46"> <img src="/assets/dpg-badge.svg" alt="Digital Public Goods approval badge" width="92" height="46"></p>
+    <p>github.com/publiccodenet/standard</p>
+  </article>
+
+  <article id="section-authors">
+
+    {% for page in site.pages %}{% if page.name == "AUTHORS.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <article id="table-of-contents">
+
+    <h1>Table of Contents</h1>
+
+    <ol>
+      <li><a href="#section-authors" class="table-of-contents">Authors</a></li>
+      <li><a href="#section-readers-guide" class="table-of-contents">Readers guide</a></li>
+      <li><a href="#section-glossary" class="table-of-contents">Glossary</a></li>
+      <li><a href="#section-criteria" class="table-of-contents">Criteria</a>
+        {% assign sorted = site.pages | sort:"order" %}
+        <ol>
+        {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+          <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>{% endif%}
+        {% endif%}  {% endif%}{% endfor %}
+        </ol>
+      </li>
+      <li><a href="#section-contributing" class="table-of-contents">Contributing guide</a></li>
+      <li><a href="#section-code-of-conduct" class="table-of-contents">Code of conduct</a></li>
+      <li><a href="#section-governance" class="table-of-contents">Governance</a></li>
+      <li><a href="#section-changelog" class="table-of-contents">Version history</a></li>
+      <li><a href="#section-license" class="table-of-contents">License</a></li>
+    </ol>
+
+  </article>
+
+  <figure>
+    <img src="/assets/codebase.svg" alt="codebase">
+  </figure>
+
+  <article id="section-readers-guide">
+
+    {% for page in site.pages %}{% if page.name == "readers-guide.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <article id="section-glossary">
+
+    {% for page in site.pages %}{% if page.name == "glossary.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <article id="section-criteria">
+    <h1>Criteria</h1>
+    {% assign sorted = site.pages | sort:"order" %}
+    <ol>
+    {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+      <li><a href="#section-criteria-{{page.name}}" class="table-of-contents">{{page.title}}</a></li>{% endif%}
+    {% endif%}  {% endif%}{% endfor %}
+    </ol>
+  </article>
+
+  <figure>
+    <img src="/assets/unlock.svg" alt="unlock">
+  </figure>
+
+  {% assign sorted = site.pages | sort:"order" %}
+  {% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+    <article id="section-criteria-{{page.name}}">
+      {{page.content | markdownify}}
+    </article>{% endif%}
+  {% endif%}  {% endif%}{% endfor %}
+
+  <article id="section-contributing">
+
+    {% for page in site.pages %}{% if page.name == "CONTRIBUTING.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <figure>
+      <img src="/assets/collaborative-development.svg" alt="collaborative-development">
+    </figure>
+
+  <article id="section-code-of-conduct">
+
+    {% for page in site.pages %}{% if page.name == "CODE_OF_CONDUCT.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <figure>
+    <img src="/assets/collaboration.svg" alt="collaboration">
+  </figure>
+
+  <article id="section-governance">
+
+    {% for page in site.pages %}{% if page.name == "GOVERNANCE.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <figure>
+    <img src="/assets/eco-system.svg" alt="ecosystem">
+  </figure>
+
+  <article id="section-changelog">
+
+    {% for page in site.pages %}{% if page.name == "CHANGELOG.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+  <article id="section-license">
+
+    <p>This license is the legal contract that allows anyone to do anything they like with the content in this entire document.</p>
+    <h1>CC0 1.0 Universal</h1>
+    <pre>{% include_relative LICENSE %}</pre>
+
+  </article>
+
+</body>
+</html>
