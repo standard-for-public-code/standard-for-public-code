@@ -94,7 +94,7 @@ sudo apt-get install -y \
         weasyprint
 ```
 
-Using Jekyll, [Weasyprint](https://weasyprint.org/) and [QPDF](https://github.com/qpdf/qpdf) the file `standard-print.html` can be converted to a nice looking PDF along with other release files.
+The file `standard-print.html` can be converted to a nice looking PDF, along with the other release files, using:
 
 ```bash
 script/pdf.sh
