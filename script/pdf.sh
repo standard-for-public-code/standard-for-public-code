@@ -101,26 +101,31 @@ done
 # give it one more second
 sleep 1;
 
+echo
 weasyprint --presentational-hints \
 	"http://localhost:$JEKYLL_PDF_PORT/standard-print.html" \
 	standard-for-public-code-$VERSION.pdf
 ls -l	standard-for-public-code-$VERSION.pdf
 
+echo
 weasyprint --presentational-hints \
 	"http://localhost:$JEKYLL_PDF_PORT/foreword-print.html" \
 	standard-for-public-code-foreword-$VERSION.pdf
 ls -l	standard-for-public-code-foreword-$VERSION.pdf
 
+echo
 weasyprint --presentational-hints \
 	"http://localhost:$JEKYLL_PDF_PORT/print-cover.html" \
 	standard-cover-$VERSION.pdf
 ls -l	standard-cover-$VERSION.pdf
 
+echo
 weasyprint --presentational-hints \
 	"http://localhost:$JEKYLL_PDF_PORT/docs/review-template.html" \
 	standard-review-template-$VERSION.pdf
 ls -l	standard-review-template-$VERSION.pdf
 
+echo
 if ! pandoc --version ; then
 	echo "'pandoc' not installed, skipping .epub version"
 	echo "'pandoc' should be available from the package manager, e.g.:"
@@ -133,6 +138,7 @@ else
 	ls -l standard-for-public-code-$VERSION.epub
 fi
 
+echo
 if ! qpdf --version ; then
 	echo "'qpdf' not installed, skipping combined-for-print version"
 	echo "'qpdf' should be available from the package manager, e.g.:"
@@ -148,6 +154,7 @@ else
 	ls -l standard-for-public-code-print-$VERSION.pdf
 fi
 
+echo
 temp_weasyprint_info
 
 ls -l *.pdf *.epub
