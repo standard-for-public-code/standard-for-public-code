@@ -121,16 +121,35 @@ weasyprint --presentational-hints \
 	standard-review-template-$VERSION.pdf
 ls -l	standard-review-template-$VERSION.pdf
 
-pandoc $JEKYLL_PDF_DIR/standard-print.html \
-  -o standard-for-public-code-$VERSION.epub
-ls -l standard-for-public-code-$VERSION.epub
+if ! pandoc --version ; then
+	echo "'pandoc' not installed, skipping .epub version"
+	echo "'pandoc' should be available from the package manager, e.g.:"
+	echo
+	echo "        sudo apt install -y pandoc"
+	echo
+else
+	pandoc $JEKYLL_PDF_DIR/standard-print.html \
+		-o standard-for-public-code-$VERSION.epub
+	ls -l standard-for-public-code-$VERSION.epub
+fi
 
-qpdf --empty --pages \
-  standard-for-public-code-foreword-$VERSION.pdf \
-  standard-for-public-code-$VERSION.pdf \
-  -- \
-  standard-for-public-code-print-$VERSION.pdf
+if ! qpdf --version ; then
+	echo "'qpdf' not installed, skipping combined-for-print version"
+	echo "'qpdf' should be available from the package manager, e.g.:"
+	echo
+	echo "        sudo apt install -y qpdf"
+	echo
+else
+	qpdf --empty --pages \
+		standard-for-public-code-foreword-$VERSION.pdf \
+		standard-for-public-code-$VERSION.pdf \
+		-- \
+		standard-for-public-code-print-$VERSION.pdf
+	ls -l standard-for-public-code-print-$VERSION.pdf
+fi
 
 temp_weasyprint_info
+
+ls -l *.pdf *.epub
 
 echo "done"
