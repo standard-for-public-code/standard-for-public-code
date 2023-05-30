@@ -158,17 +158,6 @@ These people work at:
 
 It is not aimed at public organizations' end users (residents or citizens), journalists or academics.
 
-### What does this not do
-
-The Standard for Public Code is not meant to cover individual implementations of a codebase.
-This means the standard does not tell implementers how to comply with their organization's local technical infrastructure or legal framework.
-
-Also, while the Standard for Public Code refers to several standards and has considerable overlap with others, its purpose is to enable collaboration.
-Therefore, it does not aim to replace quality standards, like the ISO 25000 series, or those focusing on security, like the [OpenSSF Best Practices Badge](https://github.com/coreinfrastructure/best-practices-badge), but to synergize well with them.
-
-And while the purpose includes enabling collaboration, it will not guarantee that a community will spring into existence.
-That still requires proactiveness and ambition beyond making the codebase collaboration ready.
-
 ## Further reading
 
 * ["Modernising Public Infrastructure with Free Software" white paper](https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf) by the Free Software Foundation Europe.
@@ -182,3 +171,7 @@ That still requires proactiveness and ambition beyond making the codebase collab
 
 This standard is a living document.
 [Read our contributor guide](/CONTRIBUTING.md) to learn how you can make it better.
+
+## Contact
+
+For questions and more information about the Foundation for Public Code you can find us at [our website](https://publiccode.net/), email us at info@publiccode.net, or call us at +31 20 2 444 500.

@@ -59,3 +59,14 @@ They need to create the right culture, line up the right resources and provide t
 This section tries to specifically speak to developers and designers by offering them concrete actions they can perform in their role.
 
 Developers are usually more technically aligned and have more impact on the delivery of services than the previous groups.
+
+## Limitation of scope
+
+The Standard for Public Code is not meant to cover individual implementations of a codebase.
+This means the standard does not tell implementers how to comply with their organization's local technical infrastructure or legal framework.
+
+Also, while the Standard for Public Code refers to several standards and has considerable overlap with others, its purpose is to enable collaboration.
+Therefore, it does not aim to replace quality standards, like the ISO 25000 series, or those focusing on security, like the [OpenSSF Best Practices Badge](https://github.com/coreinfrastructure/best-practices-badge), but to synergize well with them.
+
+And while the purpose includes enabling collaboration, it will not guarantee that a community will spring into existence.
+That still requires proactiveness and ambition beyond making the codebase collaboration ready.

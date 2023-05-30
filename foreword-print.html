@@ -1,0 +1,42 @@
+---
+---
+
+<!DOCTYPE html>
+<!-- SPDX-License-Identifier: CC0-1.0 -->
+<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="assets/github-markdown.css">
+  <link rel="stylesheet" href="assets/print.css">
+  <title>{{ site.title }}</title>
+  <style>
+  /* Print specific */
+
+    @media print {
+      @page :left {
+        @top-left {
+          content: counter(page, lower-roman);
+        }
+      }
+      @page :right {
+        @top-right {
+          content: counter(page, lower-roman);
+        }
+      }
+    }
+
+  </style>
+</head>
+<body class="markdown-body">
+
+  <article id="section-foreword">
+
+    {% for page in site.pages %}{% if page.name == "foreword.md" %}{{page.content | markdownify}}{% endif%}{% endfor %}
+
+  </article>
+
+</body>
+</html>
