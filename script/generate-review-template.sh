@@ -94,9 +94,9 @@ EOF
 	awk 'BEGIN {p=0}; /## Requirements/ {p=1 ; next}; /##/ {p=0 ; next}; \
 		p { s = ""; for (i = 2; i <= NF; i++) s = s $i " "; \
 		if (length(s) > 0) print \
-		"<tr>\n<td>\n</td>\n<td>\n" \
+		"<tr>\n<td>\n\n</td>\n<td>\n" \
 		s \
-		"\n</td>\n<td>\n</td>\n</tr>\n"}' \
+		"\n</td>\n<td>\n\n</td>\n</tr>\n"}' \
 		$FILE >> $TEMPLATE
 	echo "</table>" >> $TEMPLATE
 done

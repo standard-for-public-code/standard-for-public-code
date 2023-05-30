@@ -27,10 +27,13 @@ jobs:
           python3.10-venv
           python3-pip
           pandoc
+          qpdf
       - name: bundle-install
         run: bundle install
       - name: install-fonts
         run: script/ensure-font.sh
+      - name: fixup-link-develop-to-main
+        run: sed -i -e's@publiccodenet/standard/blob/develop/@publiccodenet/standard/blob/main/@g' index.md
       - name: build-pdf
         run: script/pdf.sh
       - name: create-release-body

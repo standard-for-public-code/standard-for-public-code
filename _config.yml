@@ -2,7 +2,7 @@
 # SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 
 title: Standard for Public Code
-version: 0.6.0
+version: 0.7.0
 
 plugins:
   - jekyll-redirect-from
@@ -15,7 +15,7 @@ include:
   - "LICENSE"
   - "CC0-1.0.md"
   - "CODE_OF_CONDUCT.md"
-  - "docs/review-template.md"
+  - "docs/review-template.html"
 
 toc: true
 

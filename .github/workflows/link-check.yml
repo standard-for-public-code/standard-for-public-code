@@ -1,9 +1,10 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 
-name: Scheduled link check
+name: local link check
 on:
-  schedule:
+  workflow_dispatch: {}
+#  schedule:
 #             ┌───────────── minute (0 - 59)
 #             │ ┌───────────── hour (0 - 23)
 #             │ │ ┌───────────── day of the month (1 - 31)
@@ -13,7 +14,7 @@ on:
 #             │ │ │ │ │
 #             │ │ │ │ │
 #             * * * * *
-    - cron:  '7 1 * * *' # every day at 01:07 (UTC?)
+#    - cron:  '7 1 * * *' # every day at 01:07 (UTC?)
 
 defaults:
   run:

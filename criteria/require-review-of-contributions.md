@@ -20,7 +20,7 @@ A [policy](../glossary.md#policy) of prompt reviews assures contributors of a gu
 * All contributions that are accepted or committed to release versions of the codebase MUST be reviewed by another contributor.
 * Reviews MUST include source, policy, tests and documentation.
 * Reviewers MUST provide feedback on all decisions to not accept a contribution.
-* Contributions SHOULD conform to the standards, architecture and decisions set out in the codebase in order to pass review.
+* The review process SHOULD confirm that a contribution conforms to the standards, architecture and decisions set out in the codebase in order to pass review.
 * Reviews SHOULD include running both the code and the tests of the codebase.
 * Contributions SHOULD be reviewed by someone in a different context than the contributor.
 * Version control systems SHOULD NOT accept non-reviewed contributions in release versions.
@@ -32,7 +32,7 @@ A [policy](../glossary.md#policy) of prompt reviews assures contributors of a gu
 * Confirm that every commit in the history has been reviewed by a different contributor.
 * Confirm that reviews include source, policy, tests and documentation.
 * Confirm that rejected contributions were appropriately explained.
-* Check if reviews cover conformance to standards, architecture and codebase guidelines.
+* Check if guidelines for reviewers include instructions to review for conformance to standards, architecture and codebase guidelines.
 * Check with reviewers if they run the code and tests during review.
 * Check with reviewers if commits have been reviewed by a different contributor in a different context.
 * Check for use of branch protection in the [version control](../glossary.md#version-control) system.

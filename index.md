@@ -18,7 +18,7 @@ The criteria of the Standard for Public Code are aligned with guidelines and bes
 
 ## Contents
 
-* [Introduction and background](introduction.md)
+* [Foreword and background](foreword.md)
 * [Readers guide: how to interpret this standard](readers-guide.md)
 * [Glossary](glossary.md)
 * [Criteria](criteria/){% assign sorted = site.pages | sort:"order" %}{% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
@@ -40,4 +40,4 @@ It is possible to [sign up](https://odoo.publiccode.net/survey/start/594b9243-c7
 
 * unofficial [community translations of the Standard](https://publiccodenet.github.io/community-translations-standard/) in other languages
 * [Standard compliance self assessment](https://publiccodenet.github.io/assessment-eligibility/) for public sector open source codebases
-* [Standard criteria checklist](https://github.com/publiccodenet/standard/blob/develop/docs/review-template.md)) used by Foundation for Public Code stewards for codebase review
+* [Standard criteria checklist](https://github.com/publiccodenet/standard/blob/develop/docs/review-template.html) used by Foundation for Public Code stewards for codebase review

@@ -33,7 +33,8 @@ This project is licensed Creative Commons Zero v1.0 Universal, which essentially
 ### 1. Make your changes
 
 Contributions should [follow](docs/standard-for-public-code.html) the requirements set out in the criteria of the Standard for Public code itself.
-Reviewers will also be ensuring that contributions are aligned with the [values of public code](introduction.md#values-of-public-code).
+Reviewers will also be ensuring that contributions are aligned with the [values of public code](foreword.md#values-of-public-code).
+Furthermore, they will review that the contribution conforms to the [standards](#standards-to-follow) and remains coherent with the overall work.
 
 This project uses the [GitFlow branching model and workflow](https://nvie.com/posts/a-successful-git-branching-model/).
 When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
@@ -41,6 +42,7 @@ When you've forked this repository, please make sure to create a feature branch 
 Add your changes in commits [with a message that explains them](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message).
 If more than one type of change is needed, group logically related changes into separate commits.
 For example, white-space fixes could be a separate commit from text content changes.
+When adding new files, select file formats that are easily viewed in a `diff`, for instance, `.svg` is preferable to a binary image.
 Document choices or decisions you make in the commit message, this will enable everyone to be informed of your choices in the future.
 
 If you are adding code, make sure you've added and updated the relevant documentation and tests before you submit your pull request.
@@ -52,7 +54,8 @@ Currently, the Standard for Public Code is not implementing any specific public 
 
 #### Style
 
-The Standard for Public Code aims to [use plain English](https://standard.publiccode.net/criteria/understandable-english-first.html) and we have chosen American English for spelling.
+The Standard for Public Code aims to [use plain English](criteria/use-plain-english.md) and we have chosen American English for spelling.
+Text content should typically follow one line per sentence, with no line-wrap, in order to make `diff` output easier to view.
 However, we want to emphasize that it is more important that you make your contribution than worry about spelling and typography.
 We will help you get it right in our review process and we also have a separate quality check before [making a new release](docs/releasing.md).
 
@@ -73,6 +76,7 @@ In some cases a single set of changes may address multiple issues, in which case
 ### 3. Improve
 
 All contributions have to be reviewed by someone.
+The Foundation for Public Code has committed to make sure that maintainers are available to review contributions with an aim to provide feedback within two business days.
 
 It could be that your contribution can be merged immediately by a maintainer.
 However, usually, a new pull request needs some improvements before it can be merged.

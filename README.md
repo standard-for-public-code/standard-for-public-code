@@ -6,10 +6,13 @@
 The Standard for Public Code gives public organizations a model for preparing open source solutions to enable collaborations with similar public organizations in other places.
 It includes guidance for policy makers, city administrators, developers and vendors.
 
-![version 0.6.0](https://img.shields.io/badge/version-0.6.0-yellow.svg)
+![version 0.7.0](https://img.shields.io/badge/version-0.7.0-yellow.svg)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 [![pages-build-deployment](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment)
 [![Test](https://github.com/publiccodenet/standard/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/test.yml)
-[![Scheduled link check](https://github.com/publiccodenet/standard/actions/workflows/link-check.yml/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/link-check.yml)
+[![standard main badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net.svg)](https://publiccodenet.github.io/publiccodenet-url-check/standard.publiccode.net-url-check-look.json)
+[![standard develop badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net-develop.svg)](https://publiccodenet.github.io/publiccodenet-url-check/standard.publiccode.net-develop-url-check-look.json)
 
 The Standard for Public Code is in a draft format.
 We are preparing it for a version 1.0 release.
@@ -60,11 +63,38 @@ Please be lovely to all other community members.
 The repository builds to a static site deployed at [standard.publiccode.net](https://standard.publiccode.net/).
 It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
+The content is made to be built with [Jekyll](http://jekyllrb.com/), which means you will need ruby and ruby-bundler installed, for example:
+
+```bash
+sudo apt-get install -y \
+        ruby \
+        ruby-bundler
+```
+
+If `ruby` and `bundle` are installed, one can run `bundle install` after which the site can be rendered with the `script/serve.sh` script.
+
+### Testing
+
+A variety of test scripts are included.
+The script `script/test-all.sh` wraps running of all local tests.
+
 See the scripts in the [script](https://github.com/publiccodenet/standard/tree/main/script) folder.
 
-## Generating a PDF of the Standard for Public Code
+### Generating a PDF of the Standard for Public Code
 
-Using [Weasyprint](https://weasyprint.org/) the file `print.html` can be converted to a nice looking PDF.
+In addition to Jekyll, generating PDFs relies upon [Weasyprint](https://weasyprint.org/) and [QPDF](https://github.com/qpdf/qpdf).
+[Pandoc](https://pandoc.org/) can be used to transform PDFs into `.epub`.
+
+To generate these kinds of files, the dependencies should be installed, for example:
+
+```bash
+sudo apt-get install -y \
+        pandoc \
+        qpdf \
+        weasyprint
+```
+
+The file `standard-print.html` can be converted to a nice looking PDF, along with the other release files, using:
 
 ```bash
 script/pdf.sh

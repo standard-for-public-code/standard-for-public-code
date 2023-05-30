@@ -124,6 +124,7 @@ OSI
 OSS
 pandoc
 pdf
+PDFs
 Petteri
 Pieter
 Plantinga
@@ -133,6 +134,7 @@ provincie
 publiccode
 publiccodenet
 publiccodeYmlVersion
+QPDF
 Quiroga
 README
 Reclameland
