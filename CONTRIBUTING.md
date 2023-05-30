@@ -55,6 +55,7 @@ Currently, the Standard for Public Code is not implementing any specific public 
 #### Style
 
 The Standard for Public Code aims to [use plain English](https://standard.publiccode.net/criteria/understandable-english-first.html) and we have chosen American English for spelling.
+Text content should typically follow one line per sentence, with no line-wrap, in order to make `diff` output easier to view.
 However, we want to emphasize that it is more important that you make your contribution than worry about spelling and typography.
 We will help you get it right in our review process and we also have a separate quality check before [making a new release](docs/releasing.md).
 
