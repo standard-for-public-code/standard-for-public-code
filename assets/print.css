@@ -1,5 +1,5 @@
-/* SPDX-License-Identifier: CC0-1.0 
-SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS */
+/* SPDX-License-Identifier: CC0-1.0 */
+/* SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS */
 html, .markdown-body {
   font-family: Mulish;
   font-size: 11pt;
@@ -249,7 +249,7 @@ ul.first-page-audiences {
   word-break: normal;
   text-decoration: none;
 }
-  
+
   #section-first-page>img {
     width: 21.6cm;
     margin: 1cm 0 1cm -3.21cm; /* This value for the left margin was done by eye */

@@ -6,6 +6,19 @@
 
 <!-- script/release-body.sh expects VERSION in the first second-level header -->
 
+## Version 0.7.0
+
+May 31st 2023: 📑 the fifteenth draft adds new requirements for documenting review funding and clarifies review process requirement.
+
+* Add requirement to document who is expected to cover the cost of reviewing contributions.
+* Add requirement to have a short description of the codebase.
+* Change the focus of contributions adhering to standards to focus on the review of contributions.
+* Relaxed MUST requirements to SHOULD in Make the codebase findable.
+* Review template now in HTML format.
+* Introduction converted to foreword.
+* Improved contributing guidelines.
+* Improved documentation of scripts.
+
 ## Version 0.6.0
 
 April 20th 2023: 🔀 the fourteenth draft adds new requirements for portability and tests and an introduction to each criterion.
