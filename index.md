@@ -16,9 +16,12 @@ We define ‘public code’ as open source software developed by public organiza
 
 The criteria of the Standard for Public Code are aligned with guidelines and best practices of open source software development.
 
+{% for page in site.pages %}{% if page.name == "foreword.md" %}
+Additional context and background can be found in the [foreword](foreword.md).
+{% endif%}{% endfor %}
+
 ## Contents
 
-* [Foreword and background](foreword.md)
 * [Readers guide: how to interpret this standard](readers-guide.md)
 * [Glossary](glossary.md)
 * [Criteria](criteria/){% assign sorted = site.pages | sort:"order" %}{% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
