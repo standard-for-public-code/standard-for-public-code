@@ -12,7 +12,7 @@ It includes advice for policy makers, government managers, developers and vendor
 The Standard for Public Code supports the collaborative creation of codebases that are usable, open, legible, accountable, accessible and sustainable.
 It is meant to be applicable to codebases for all levels of government, from supranational to municipal.
 
-We define ‘public code’ as open source software developed by public organizations, together with the policy and guidance needed for collaboration and reuse.
+The Standard for Public Code defines ‘[public code](glossary.md#public-code)’ as open source software developed by public organizations, together with the policy and guidance needed for collaboration and reuse.
 
 The criteria of the Standard for Public Code are aligned with guidelines and best practices of open source software development.
 
