@@ -29,7 +29,9 @@ Well-written metadata containing a unique and persistent identifier, such as a W
 
 ## How to test
 
-* Check that the codebase name is free of acronyms, abbreviations, puns or organizational branding.
+* Check that the codebase name is descriptive and free of puns.
+* Check that the codebase name is free of acronyms and abbreviations or that the acronyms or abbreviations in the name are more universally known than the longer forms.
+* Check that the codebase name is free of organizational branding, unless that organization is of the codebase community itself.
 * Check that the codebase repository has a short description of the codebase.
 * Check for the codebase listing in relevant software catalogs.
 * Check for a codebase website which describes the problem the codebase solves.
