@@ -34,7 +34,7 @@ Open standards which are unambiguous allow for independent development of either
 
 ## Managers: what you need to do
 
-* Consider including open standard compliance assessment in [code](../glossary.md#code) reviews.
+* Consider including open standard compliance assessment in [source code](../glossary.md#source-code) reviews.
 
 ## Developers and designers: what you need to do
 

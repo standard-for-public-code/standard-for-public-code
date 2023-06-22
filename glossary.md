@@ -74,6 +74,10 @@ A repository is a storage location used by version control tools for files and m
 Repositories allow multiple contributors to work on the same set of files.
 Repositories are able to store multiple versions of sets of files.
 
+## Source Code
+
+Human readable text of a computer program which can be translated into machine instructions.
+
 ## Version control
 
 Version control is the management of changes to source code and the files associated with it.

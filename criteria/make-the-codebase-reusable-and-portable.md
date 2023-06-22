@@ -16,25 +16,25 @@ Codebases developed and used by multiple parties are more likely to benefit from
 Organizing a codebase such that it is composed of well documented modules improves reusability and maintainability.
 A module is easier to reuse in [another context](../glossary.md#different-contexts) if its purpose is clearly documented.
 
-Code which does not rely on the situation-specific infrastructure of any contributor, vendor or deployment can be tested by any other contributor.
+Source code which does not rely on the situation-specific infrastructure of any contributor, vendor or deployment can be tested by any other contributor.
 
 ## Requirements
 
 * The codebase MUST be developed to be reusable in different contexts.
-* The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed code or services for execution and understanding.
+* The codebase MUST be independent from any secret, undisclosed, proprietary or non-open licensed software or services for execution and understanding.
 * The codebase SHOULD be in use by multiple parties.
 * The roadmap SHOULD be influenced by the needs of multiple parties.
 * The development of the codebase SHOULD be a collaboration between multiple parties.
-* Configuration SHOULD be used to make code adapt to context specific needs.
+* Configuration SHOULD be used to make [source code](../glossary.md#source-code) adapt to context specific needs.
 * The codebase SHOULD be localizable.
-* Code and its documentation SHOULD NOT contain situation-specific information.
+* Source code and its documentation SHOULD NOT contain situation-specific information.
 * Codebase modules SHOULD be documented in such a way as to enable reuse in codebases in other contexts.
-* The code SHOULD NOT require services or platforms available from only a single vendor.
+* The software SHOULD NOT require services or platforms available from only a single vendor.
 
 ## How to test
 
 * Confirm with someone in a similar role at another organization if they can use the codebase and what that would entail.
-* Confirm that the codebase can run without using any proprietary or non open-licensed code or services.
+* Confirm that the codebase can run without using any proprietary or non open-licensed software or services.
 * If the codebase is in early development before a production-ready release, then check for evidence of ambition to obtain collaborators.
    * Or if the codebase is very mature and stable with very infrequent fixes, patches, or contributions:
      * Check that the codebase is in use by multiple parties or in multiple contexts.
@@ -43,7 +43,7 @@ Code which does not rely on the situation-specific infrastructure of any contrib
      * Check that the codebase is in use by multiple parties or in multiple contexts.
      * Check that the codebase contributors are from multiple parties.
 * Check that the codebase files and commit history do not include situation-specific data.
-* Check that the code can be deployed and run without services or platforms available from a single vendor.
+* Check that the software can be deployed and run without services or platforms available from a single vendor.
 
 ## Public policy makers: what you need to do
 
