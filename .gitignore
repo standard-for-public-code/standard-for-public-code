@@ -11,3 +11,5 @@ urls-sorted.txt
 urls.txt
 release.body
 *.orig
+node_modules/
+package-lock.json

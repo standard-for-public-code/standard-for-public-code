@@ -12,6 +12,7 @@
     - Push the branch, `git push -u origin release-$MAJOR.$MINOR.$PATCH`
 3. Update the new release
     - [ ] Update version number in `_config.yml`, `README.md` and `publiccode.yml`
+    - [ ] Update `assets/version-badge.svg` with `script/make-version-badge.sh`
     - [ ] Update releaseDate in `publiccode.yml`
     - [ ] Update [`AUTHORS.md`](../AUTHORS.md) with new contributors
     - [ ] Update [`CHANGELOG.md`](../CHANGELOG.md)
