@@ -4,8 +4,9 @@
 order: 3
 redirect_from:
   - criteria/reusable-and-portable-codebases
+  - criteria/create-reusable-and-portable-code
 ---
-# Create reusable and portable code
+# Make the codebase reusable and portable
 
 Creating reusable and portable [code](../glossary.md#code) enables policy makers, developers and designers to reuse what has been developed, test it, improve it and contribute those improvements back, leading to better quality, cheaper maintenance and higher reliability.
 
