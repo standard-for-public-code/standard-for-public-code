@@ -7,7 +7,7 @@ redirect_from:
 ---
 # Maintain version control
 
-[Version control](../glossary.md#version-control) means keeping track of changes to the [code](../glossary.md#code) and other files of the [codebase](../glossary.md#codebase) over time.
+[Version control](../glossary.md#version-control) means keeping track of changes to the [source code](../glossary.md#source-code) and other files of the [codebase](../glossary.md#codebase) over time.
 This allows you to maintain structured documentation of the history of the codebase.
 This is essential for collaboration at scale, as it enables developers to work on changes in parallel and helps future developers to understand the reasons for changes.
 

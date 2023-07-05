@@ -7,7 +7,7 @@ redirect_from:
 ---
 # Bundle policy and source code
 
-Access to both source [code](../glossary.md#code) and [policy](../glossary.md#policy) documentation provides building blocks for anyone to implement the codebase in their local context or contribute to the further development of the [codebase](../glossary.md#codebase).
+Access to both [source code](../glossary.md#source-code) and [policy](../glossary.md#policy) documentation provides building blocks for anyone to implement the codebase in their local context or contribute to the further development of the [codebase](../glossary.md#codebase).
 
 Understanding the domain and policies within that domain is fundamental to understanding what problems a codebase is trying to solve and how it sets out to solve them.
 
@@ -34,7 +34,7 @@ To be able to evaluate whether to implement a codebase in a new context, an orga
 * Provide references and links to texts which support the policies.
 * Document policy in formats that are unambiguous and machine-readable, such as those published by the [Object Management Group](https://www.omg.org/spec/).
 * Track policy with [the same version control](maintain-version-control.md) and documentation used to track source code.
-* Check in regularly to understand how the non-policy code in the codebase has changed and whether it still matches the [intentions of the policy](document-codebase-objectives.md).
+* Check in regularly to understand how the source code in the codebase has changed and whether it still matches the [intentions of the policy](document-codebase-objectives.md).
 * Include relevant policies which impact the community, codebase, and development, including legal obligations like the [General Data Protection Regulation](https://eur-lex.europa.eu/eli/reg/2016/679/oj) or the [EU Web Accessibility Directive](https://ec.europa.eu/digital-single-market/en/web-accessibility), or human rights policies, like a public organization's commitment to equal opportunity.
 
 ## Managers: what you need to do

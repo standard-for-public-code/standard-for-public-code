@@ -55,6 +55,12 @@ function glossary_pass_list() {
 		return 0
 	fi
 
+	# link to "bundle policy and source code" is a false positive
+	if [ "$GLOSSARY_ANCHOR" == "source-code" ] &&
+	   [ "$FILE" == "criteria/document-codebase-objectives.md" ]; then
+		return 0
+	fi
+
 	return 1
 }
 

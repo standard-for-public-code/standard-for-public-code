@@ -5,7 +5,7 @@ order: 1
 ---
 # Code in the open
 
-Coding in the open improves transparency, increases [code](../glossary.md#code) quality, makes the code easier to audit, and enables collaboration.
+Coding in the open improves transparency, increases [source code](../glossary.md#source-code) quality, makes the source code easier to audit, and enables collaboration.
 
 Together, this creates more opportunities for citizens to understand how software and [policy](../glossary.md#policy) impact their interactions with a public organization.
 
@@ -36,7 +36,7 @@ Together, this creates more opportunities for citizens to understand how softwar
 ## Developers and designers: what you need to do
 
 * As a reviewer, for each commit, verify that content does not include sensitive information such as configurations, usernames or passwords, public keys or other real credentials used in production systems.
-* Clearly split data and code, in order to meet the requirement about sensitive information above.
+* Clearly split data and source code, in order to meet the requirement about sensitive information above.
 
 ## Further reading
 
