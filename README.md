@@ -8,6 +8,7 @@ It includes guidance for policy makers, city administrators, developers and vend
 
 ![version 0.7.0](assets/version-badge.svg)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Standard commitment](assets/standard-for-public-code-commitment.svg)](#help-improve-this-standard)
 
 [![pages-build-deployment](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment)
 [![Test](https://github.com/publiccodenet/standard/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/test.yml)
@@ -21,6 +22,7 @@ Currently, we are testing it on a small number of codebases.
 ## Applying the Standard for Public Code to your codebase
 
 If you want to apply the Standard for Public Code to your codebase, just go ahead, it's an open standard and free for anyone to use.
+If you wish to advertise the codebase community's aspiration to meet the criteria of the Standard for Public Code, link the documentation of this commitment from the [standard-for-public-code-commitment badge](assets/standard-for-public-code-commitment.svg).
 To see how ready your codebase is, you can do a quick [eligibility self assessment](https://publiccodenet.github.io/assessment-eligibility) that will give you a rough idea of how much work you may need to do to meet all criteria.
 
 The standard *should* be mostly self-explanatory in how to apply it to your codebase.
