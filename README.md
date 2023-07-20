@@ -68,9 +68,7 @@ It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://j
 The content is made to be built with [Jekyll](http://jekyllrb.com/), which means you will need ruby and ruby-bundler installed, for example:
 
 ```bash
-sudo apt-get install -y \
-        ruby \
-        ruby-bundler
+sudo apt-get install -y ruby ruby-bundler
 ```
 
 If `ruby` and `bundle` are installed, one can run `bundle install` after which the site can be rendered with the `script/serve.sh` script.
@@ -90,10 +88,7 @@ In addition to Jekyll, generating PDFs relies upon [Weasyprint](https://weasypri
 To generate these kinds of files, the dependencies should be installed, for example:
 
 ```bash
-sudo apt-get install -y \
-        pandoc \
-        qpdf \
-        weasyprint
+sudo apt-get install -y pandoc qpdf weasyprint
 ```
 
 The file `standard-print.html` can be converted to a nice looking PDF, along with the other release files, using:
