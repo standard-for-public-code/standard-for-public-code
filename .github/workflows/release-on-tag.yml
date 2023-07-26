@@ -5,7 +5,7 @@ name: release-on-tag
 on:
   push:
     tags:
-      - "*.*.*" # tag example: 0.4.1
+      - "trigger-*.*.*" # tag example: trigger-0.4.1
 
 defaults:
   run:
@@ -16,7 +16,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
+        with:
+          # fetch-depth: "0" fetches whole history
+          fetch-depth: "0"
+          ssh-key: ${{secrets.PUBLICCODE_DEPLOY_KEY}}
+      - name: fetch-tags
+        run: git fetch origin +refs/tags/*:refs/tags/*
+      - name: echo-github-ref
+        run: echo github-ref "${{ github.ref }}"
+      - name: release-tag
+        id: release-tag
+        run: >
+          echo "RELEASE_TAG=$(echo ${{ github.ref }} | sed -e's@.*trigger-@@')"
+          >> $GITHUB_OUTPUT
+      - name: echo-output
+        run: echo RELEASE_TAG "${{ steps.release-tag.outputs.RELEASE_TAG }}"
+      - name: git-remote-v
+        run: git remote -v
+      - name: git-fetch
+        run: git fetch --all
+      - name: git-switch-release
+        run: git switch release-${{ steps.release-tag.outputs.RELEASE_TAG }}
+      - name: git-log-5
+        run: git log -5
+      - name: git-merge-main
+        run: git merge origin/main
       - name: install-deps
         # https://yaml.org/spec/1.2.2/#65-line-folding
         run: >
@@ -32,12 +57,60 @@ jobs:
         run: bundle install
       - name: install-fonts
         run: script/ensure-font.sh
-      - name: fixup-link-develop-to-main
-        run: sed -i -e's@publiccodenet/standard/blob/develop/@publiccodenet/standard/blob/main/@g' index.md
+      - name: update-changelog-date
+        run: script/update-changelog-date.sh
+      - name: update-publiccode-yml-date
+        run: >
+          sed -i
+          -e"s/^releaseDate.*/releaseDate: '$(date --utc +%Y-%m-%d)'/"
+          publiccode.yml
+      - name: update-publiccode-yml-version
+        run: >
+          sed -i
+          -e"s@^softwareVersion: .*@softwareVersion: ${{ steps.release-tag.outputs.RELEASE_TAG }}@"
+          publiccode.yml
+      - name: update-published-version-numbers
+        run: >
+          sed -i
+          -e"s@<span class=\"standard-version\">[^<]*</span>@<span class=\"standard-version\">${{ steps.release-tag.outputs.RELEASE_TAG }}</span>@"
+          docs/review-template.html
+          print-cover.html
+          standard-print.html
+      - name: update-readme-version
+        run: >
+          sed -i
+          -e"s@\[version [^]]*\](assets/version-badge\.svg)@[version ${{ steps.release-tag.outputs.RELEASE_TAG }}](assets/version-badge.svg)@"
+          README.md
+      - name: update-version-badge.sh
+        run: script/make-version-badge.sh ${{ steps.release-tag.outputs.RELEASE_TAG }}
       - name: build-pdf
-        run: script/pdf.sh
+        run: script/pdf.sh ${{ steps.release-tag.outputs.RELEASE_TAG }}
       - name: create-release-body
-        run: script/release-body.sh
+        run: script/release-body.sh ${{ steps.release-tag.outputs.RELEASE_TAG }}
+      - name: set-git-user-email
+        run: git config user.email "info@publiccode.net"
+      - name: set-git-user-name
+        run: git config user.name "release-on-tag"
+      - name: do-git-add
+        run: >
+          git add
+          CHANGELOG.md
+          README.md
+          publiccode.yml
+          assets/version-badge.svg
+          docs/review-template.html
+          print-cover.html
+          standard-print.html
+      - name: do-git-commit
+        run: git commit -m'Set CHANGELOG date, and version numbers'
+      - name: do-git-tag
+        run:  git tag ${{ steps.release-tag.outputs.RELEASE_TAG }}
+      - name: do-git-push
+        run:  git push origin release-${{ steps.release-tag.outputs.RELEASE_TAG }}:main
+      - name: do-git-push-tags
+        run:  git push --tags
+      - name: do-git-delete-trigger-tag
+        run:  git push origin :trigger-${{ steps.release-tag.outputs.RELEASE_TAG }}
       - name: upload
         uses: softprops/action-gh-release@v1
         with:
@@ -46,3 +119,11 @@ jobs:
             standard-*.pdf
             standard-*.epub
           body_path: release.body
+      - name: git-fetch-again
+        run: git fetch --all
+      - name: git-switch-develop
+        run: git switch develop
+      - name: git-merge-main
+        run: git merge origin/main
+      - name: git-push
+        run: git push -u origin develop

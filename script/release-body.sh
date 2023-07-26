@@ -8,20 +8,13 @@ if [ "_${VERBOSE}_" != "__" ] && [ "$VERBOSE" -gt 0 ]; then
 	set -x
 fi
 
-# Set the VERSION variable from git, unless set by the caller
+CODEBASE_NAME="Standard for Public Code"
+VERSION=$1
 if [ "_${VERSION}_" == "__" ]; then
-	GIT_HASH=$( git log -n1 --pretty='%h' )
-	GIT_TAG=$( git describe --exact-match --tags "${GIT_HASH}" \
-		2>/dev/null \
-		| head -n1 )
-	if [ "_${GIT_TAG}_" != "__" ]; then
-		VERSION="$GIT_TAG"
-	else
-		VERSION="$GIT_HASH"
-	fi
+        echo "No version?"
+        exit 1
 fi
-
-echo "# Standard for Public Code version $VERSION" > release.body
+echo "# $CODEBASE_NAME version $VERSION" > release.body
 
 # strip the trailing version info if exists, e.g: '1.2.3-rc2' becomes '1.2.3'
 BASE_VERSION=$( echo "$VERSION" | sed 's/^\([0-9]*\.[0-9]*\.[0-9]*\).*/\1/' )
