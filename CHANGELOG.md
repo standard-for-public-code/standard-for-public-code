@@ -6,6 +6,19 @@
 ---
 # Version history
 
+## Version 0.7.1
+
+DATE-OF-RELEASE: 💄 The sixteenth draft change the name of a criterion and clarifies references to code.
+
+* The criterion "Make the codebase reusable and portable" was renamed from "Create reusable and portable code".
+* Added a glossary entry for "Source Code".
+* References to "code" which only applied to "source code" now reference "source code" explicitly.
+* Clarification of "running code" as "software".
+* Minor changes to clarify "code" vs "codebase".
+* Simplify guidance to policy makers in Bundle policy and source code.
+* Clarify How to test sections of Make the codebase findable and Make the codebase reusable and portable.
+* Increase automation of the release process.
+
 ## Version 0.7.0
 
 May 31st 2023: 📑 the fifteenth draft adds new requirements for documenting review funding and clarifies review process requirement.
