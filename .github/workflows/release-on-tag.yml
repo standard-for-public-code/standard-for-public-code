@@ -110,8 +110,10 @@ jobs:
         run:  git push origin release-${{ steps.release-tag.outputs.RELEASE_TAG }}:main
       - name: do-git-push-tags
         run:  git push --tags
-      - name: do-git-delete-trigger-tag
+      - name: do-git-delete-trigger-tag-remote
         run:  git push origin :trigger-${{ steps.release-tag.outputs.RELEASE_TAG }}
+      - name: do-git-delete-trigger-tag-local
+        run:  git tag -d trigger-${{ steps.release-tag.outputs.RELEASE_TAG }}
       - name: upload
         uses: softprops/action-gh-release@v1
         with:
