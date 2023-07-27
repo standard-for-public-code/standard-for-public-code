@@ -53,6 +53,7 @@ jobs:
           python3-pip
           pandoc
           qpdf
+          libxml2-utils
       - name: bundle-install
         run: bundle install
       - name: install-fonts
