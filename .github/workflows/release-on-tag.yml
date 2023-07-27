@@ -115,6 +115,7 @@ jobs:
       - name: upload
         uses: softprops/action-gh-release@v1
         with:
+          tag_name: ${{ steps.release-tag.outputs.RELEASE_TAG }}
           prerelease: true
           files: |
             standard-*.pdf
