@@ -21,6 +21,7 @@ Cerveny
 CEST
 CET
 CHANGELOG
+changelog
 cibuild
 CMMN
 codebase

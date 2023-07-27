@@ -13,8 +13,10 @@ if [ $VERBOSE -gt 0 ]; then
 	set -x
 fi
 
+VERSION=${1}
 if [ "_${VERSION}_" == "__" ]; then
-	VERSION=$(grep version _config.yml | cut -f2 -d':' | xargs)
+	echo "must supply a version"
+	exit 1
 fi
 
 BADGE_LABEL="version"
