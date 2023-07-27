@@ -79,6 +79,7 @@ jobs:
           sed -i
           -e"s@<span class=\"standard-version\">[^<]*</span>@<span class=\"standard-version\">${{ steps.release-tag.outputs.RELEASE_TAG }}</span>@"
           docs/review-template.html
+          docs/checklist.html
           print-cover.html
           standard-print.html
       - name: update-readme-version
@@ -100,6 +101,7 @@ jobs:
           publiccode.yml
           assets/version-badge.svg
           docs/review-template.html
+          docs/checklist.html
           print-cover.html
           standard-print.html
       - name: do-git-commit

@@ -118,6 +118,12 @@ weasyprint --presentational-hints \
 ls -l	standard-review-template-$VERSION.pdf
 
 echo
+weasyprint --presentational-hints \
+	"http://localhost:$JEKYLL_PDF_PORT/docs/checklist.html" \
+	standard-checklist-$VERSION.pdf
+ls -l	standard-checklist-$VERSION.pdf
+
+echo
 if ! pandoc --version ; then
 	echo "'pandoc' not installed, skipping .epub version"
 	echo "'pandoc' should be available from the package manager, e.g.:"
