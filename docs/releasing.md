@@ -13,6 +13,7 @@
 3. Update the new release
     - [ ] Update [`AUTHORS.md`](../AUTHORS.md) with new contributors
     - [ ] Update [`CHANGELOG.md`](../CHANGELOG.md)
+    - [ ] Update [`roadmap.md`](roadmap.md)
     - [ ] Perform extra pass on diff to the 'main' branch
         - run `script/generate-review-template.sh` and commit updated `docs/review-template.html`
         - update `docs/standard-for-public-code.html` with the new text from the review template, updating any status changes as a result
