@@ -47,6 +47,7 @@ Newcomers need to understand and trust the codebase community’s governance.
 * Make sure the documentation explains how each organization is involved in the codebase, what resources it has available for it and for how long.
 * Support your experienced policy makers, developers and designers to stay part of the community for as long as possible.
 
+<p style="page-break-after: always;"></p>
 ## Developers and designers: what you need to do
 
 * Respond promptly to requests.

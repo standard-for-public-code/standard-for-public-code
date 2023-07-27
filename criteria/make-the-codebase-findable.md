@@ -62,6 +62,7 @@ Well-written metadata containing a unique and persistent identifier, such as a W
 * Test your problem description with peers outside of your context who aren't familiar with the codebase.
 * Suggest conferences to present at and present at them.
 
+<p style="page-break-after: always;"></p>
 ## Further reading
 
 * [Introduction to Wikidata](https://www.wikidata.org/wiki/Wikidata:Introduction) by the Wikidata community.
