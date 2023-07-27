@@ -8,7 +8,7 @@
 
 ## Version 0.7.1
 
-July 27th 2023: 💄 The sixteenth draft change the name of a criterion and clarifies references to code.
+DATE-OF-RELEASE: 💄 The sixteenth draft change the name of a criterion and clarifies references to code.
 
 * The criterion "Make the codebase reusable and portable" was renamed from "Create reusable and portable code".
 * Added a glossary entry for "Source Code".
