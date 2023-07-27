@@ -4,7 +4,7 @@
 
 TEMPLATE=docs/review-template.html
 THIS_YEAR=$(date +%Y)
-STANDARD_VERSION=$(grep version: _config.yml | cut -f2 -d':' | xargs)
+STANDARD_VERSION="${1}"
 cat << EOF > $TEMPLATE
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -53,7 +53,7 @@ background-color: #f6f8fa;
 </style>
 </head>
 <body>
-<h1>________ and the Standard for Public Code version $STANDARD_VERSION</h1>
+<h1>________ and the Standard for Public Code version <span class="standard-version">${STANDARD_VERSION}</span></h1>
 
 Link to commitment to meet the Standard for Public Code:
 EOF
