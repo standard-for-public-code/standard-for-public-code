@@ -22,7 +22,7 @@
           - Ensure no link collisions exist
           - Check the page breaks, possibly removing or adding page-break CSS, for example: `<p style="page-break-after: always;"></p>`
         - If needed, commit fixes and repeat extra pass
-    - [ ] Push branch, open a pull request to the 'main' branch
+    - [ ] Push branch, compare with 'main' branch, i.e.: https://github.com/publiccodenet/standard/compare/main...release-$MAJOR.$MINOR.$PATCH
         - Request review from multiple reviewers, especially a proofreader
         - Reviewers will create issues for shortcomings found which would not prevent release
         - If needed for release, reviewers may create pull requests to resolve issues
