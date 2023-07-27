@@ -17,6 +17,7 @@ DATE-OF-RELEASE: 💄 The sixteenth draft change the name of a criterion and cla
 * Minor changes to clarify "code" vs "codebase".
 * Simplify guidance to policy makers in Bundle policy and source code.
 * Clarify How to test sections of Make the codebase findable and Make the codebase reusable and portable.
+* Add a criteria and requirements checklist to the release artifacts.
 * Increase automation of the release process.
 
 ## Version 0.7.0
