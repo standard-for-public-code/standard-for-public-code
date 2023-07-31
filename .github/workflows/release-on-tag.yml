@@ -58,39 +58,10 @@ jobs:
           pandoc
           qpdf
           libxml2-utils
-      - name: bundle-install
-        run: bundle install
-      - name: install-fonts
-        run: script/ensure-font.sh
-      - name: update-changelog-date
-        run: script/update-changelog-date.sh
-      - name: update-publiccode-yml-date
+      - name: build-release
         run: >
-          sed -i
-          -e"s/^releaseDate.*/releaseDate: '$(date --utc +%Y-%m-%d)'/"
-          publiccode.yml
-      - name: update-publiccode-yml-version
-        run: >
-          sed -i
-          -e"s@^softwareVersion: .*@softwareVersion: ${{ steps.release-tag.outputs.RELEASE_TAG }}@"
-          publiccode.yml
-      - name: update-published-version-numbers
-        run: >
-          sed -i
-          -e"s@<span class=\"standard-version\">[^<]*</span>@<span class=\"standard-version\">${{ steps.release-tag.outputs.RELEASE_TAG }}</span>@"
-          docs/review-template.html
-          docs/checklist.html
-          print-cover.html
-          standard-print.html
-      - name: update-readme-version
-        run: >
-          sed -i
-          -e"s@\[version [^]]*\](assets/version-badge\.svg)@[version ${{ steps.release-tag.outputs.RELEASE_TAG }}](assets/version-badge.svg)@"
-          README.md
-      - name: update-version-badge.sh
-        run: script/make-version-badge.sh ${{ steps.release-tag.outputs.RELEASE_TAG }}
-      - name: build-pdf
-        run: script/pdf.sh ${{ steps.release-tag.outputs.RELEASE_TAG }}
+          VERBOSE=1
+          script/build-release.sh ${{ steps.release-tag.outputs.RELEASE_TAG }}
       - name: create-release-body
         run: script/release-body.sh ${{ steps.release-tag.outputs.RELEASE_TAG }}
       - name: do-git-add
