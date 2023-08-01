@@ -11,8 +11,7 @@ fi
 CODEBASE_NAME="Standard for Public Code"
 VERSION=$1
 if [ "_${VERSION}_" == "__" ]; then
-        echo "No version?"
-        exit 1
+	VERSION=$( script/git-repo-version.sh )
 fi
 echo "# $CODEBASE_NAME version $VERSION" > release.body
 

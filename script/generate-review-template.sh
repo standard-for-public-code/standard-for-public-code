@@ -5,6 +5,9 @@
 TEMPLATE=docs/review-template.html
 THIS_YEAR=$(date +%Y)
 STANDARD_VERSION="${1}"
+if [ "_${STANDARD_VERSION}_" == "__" ]; then
+	STANDARD_VERSION=$( script/git-repo-version.sh )
+fi
 cat << EOF > $TEMPLATE
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
