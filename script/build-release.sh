@@ -8,18 +8,9 @@ fi
 
 set -e
 
-GIT_HASH=$( git log -n1 --pretty='%h' )
-
 RELEASE_NAME=$1
 if [ "_${RELEASE_NAME}_" == "__" ]; then
-	GIT_TAG=$( git describe --exact-match --tags "${GIT_HASH}" \
-		2>/dev/null \
-		| head -n1 )
-	if [ "_${GIT_TAG}_" != "__" ]; then
-		RELEASE_NAME="$GIT_TAG"
-	else
-		RELEASE_NAME=$GIT_HASH
-	fi
+	RELEASE_NAME=$( script/git-repo-version.sh )
 fi
 
 echo  bundle-install

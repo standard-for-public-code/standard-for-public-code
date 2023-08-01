@@ -15,8 +15,7 @@ fi
 
 VERSION=${1}
 if [ "_${VERSION}_" == "__" ]; then
-	echo "must supply a version"
-	exit 1
+	VERSION=$( script/git-repo-version.sh )
 fi
 
 BADGE_LABEL="version"
