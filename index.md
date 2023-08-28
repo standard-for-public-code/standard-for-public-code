@@ -7,7 +7,7 @@ toc: false
 
 The Standard for Public Code is a set of criteria that supports public organizations in developing and maintaining software and policy together.
 
-The Standard for Public Code provides guidance to public organizations building their own open source solutions to enable successful future collaboration and reuse by similar organizations in the public sector in other places.
+The Standard for Public Code provides guidance to public organizations seeking to successfully collaborate on open source solutions with similar organizations in other places.
 It includes advice for policy makers, government managers, developers and vendors.
 The Standard for Public Code supports the collaborative creation of codebases that are usable, open, legible, accountable, accessible and sustainable.
 It is meant to be applicable to codebases for all levels of government, from supranational to municipal.
