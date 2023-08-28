@@ -25,7 +25,7 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 
 * Add to README and index.md information (and eventually statistics) on adoption and use (issue #438)
 * Becoming validated by multiple codebases
-* Release version 1.0.0 after a few codebases are compliant
+* Release version 1.0.0 after a few codebases are compliant, see [notes from a community call](https://blog.publiccode.net/community%20call/2022/07/07/notes-from-community-call-7-july-2022.html)
 * Linkable requirements
 * New cover art
 * Register for ISBN
