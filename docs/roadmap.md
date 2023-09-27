@@ -17,7 +17,6 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 ## Near term
 
 * Separate executive summary (issue #302)
-* Physical paper checklist
 * Possibly: add in the illustrations for each criterion
 
 ## Longer term
