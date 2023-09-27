@@ -3,7 +3,7 @@
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
-Last updated: 2023-03-08
+Last updated: 2023-09-27
 
 This document intends to shed light on the current development plans of the team.
 Plans change constantly as new information is absorbed by the team.
@@ -13,12 +13,10 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 ## Current work
 
 * As far as possible, make the standard Standard-compliant
-* Certification badges
 
 ## Near term
 
 * Separate executive summary (issue #302)
-* Physical paper checklist
 * Possibly: add in the illustrations for each criterion
 
 ## Longer term
@@ -31,3 +29,4 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 * Register for ISBN
 * List with an on-demand book printing service
 * QR codes for external links in print version
+* Add possibility to view older versions of the standard on the website, not only under the GitHub releases
