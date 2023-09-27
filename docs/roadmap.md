@@ -13,7 +13,6 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 ## Current work
 
 * As far as possible, make the standard Standard-compliant
-* Certification badges
 
 ## Near term
 
