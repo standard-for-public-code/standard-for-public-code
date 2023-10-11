@@ -20,3 +20,10 @@ exclude_rule 'MD029'
 # Temporary hack to deal with weasyprint, see commit 831def8c3382
 # MD033 Inline HTML: hack in criteria/code-in-the-open.md line 53
 exclude_rule 'MD033'
+
+# Hack to deal with no way to exclude liquid code block
+# the pipe ("|") in the liquid code is incorrectly identified as a table
+# MD055 Table row doesn't begin/end with pipes
+# MD057 Table has missing or invalid header separation
+exclude_rule 'MD055'
+exclude_rule 'MD057'
