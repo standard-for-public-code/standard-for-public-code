@@ -58,6 +58,7 @@ jobs:
           pandoc
           qpdf
           libxml2-utils
+          texlive-extra-utils
       - name: build-release
         run: >
           VERBOSE=1

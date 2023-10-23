@@ -125,6 +125,7 @@ OSI
 OSS
 pandoc
 pdf
+pdfjam
 PDFs
 Petteri
 Pieter
@@ -187,4 +188,5 @@ whitepaper
 Wikidata
 yaml
 yml
+zijdig
 Zuid
