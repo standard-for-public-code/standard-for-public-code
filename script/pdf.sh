@@ -123,6 +123,22 @@ weasyprint --presentational-hints \
 ls -l	standard-checklist-$VERSION.pdf
 
 echo
+if ! pdfjam --version ; then
+	echo "'pdfjam' not installed, skipping folded version"
+	echo "'pdfjam' should be available from the package manager, e.g.:"
+	echo
+	echo "        sudo apt install -y texlive-extra-utils"
+	echo
+else
+	pdfjam standard-checklist-$VERSION.pdf \
+		'4,1-3' \
+		--trim "-0.6cm -0.6cm -0.6cm -0.6cm" \
+		--nup 2x1 --landscape \
+		--papersize '{216mm,303mm}'  \
+		--outfile standard-checklist-folded-$VERSION.pdf
+fi
+
+echo
 if ! pandoc --version ; then
 	echo "'pandoc' not installed, skipping .epub version"
 	echo "'pandoc' should be available from the package manager, e.g.:"
