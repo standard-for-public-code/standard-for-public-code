@@ -53,10 +53,9 @@ jobs:
           ruby
           ruby-bundler
           fontconfig
-          python3.10-venv
+          python3-venv
           python3-pip
           pandoc
-          qpdf
           libxml2-utils
           texlive-extra-utils
       - name: build-release
