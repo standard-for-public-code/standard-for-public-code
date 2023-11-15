@@ -36,7 +36,7 @@ A [policy](../glossary.md#policy) of prompt reviews assures contributors of a gu
 * Check with reviewers if they run the software and tests during review.
 * Check with reviewers if commits have been reviewed by a different contributor in a different context.
 * Check for use of branch protection in the [version control](../glossary.md#version-control) system.
-* Check the times between contribution submission and review.
+* Check that there is not a pattern of periods of times between contribution submission and review where the contributor has to wait longer than two business days for meaningful responses.
 
 ## Public policy makers: what you need to do
 
@@ -49,6 +49,7 @@ A [policy](../glossary.md#policy) of prompt reviews assures contributors of a gu
 * Make sure writing and reviewing contributions to source, policy, documentation and tests are considered equally valuable.
 * Create a culture where all contributions are welcome and everyone is empowered to review them.
 * Make sure no contributor is ever alone in contributing to a codebase.
+* Create a mandate for developers to prioritize prompt review of contributions.
 
 ## Developers and designers: what you need to do
 
