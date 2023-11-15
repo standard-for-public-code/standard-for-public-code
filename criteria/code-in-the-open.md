@@ -11,8 +11,8 @@ Together, this creates more opportunities for citizens to understand how softwar
 
 ## Requirements
 
-* All source code for any policy in use (unless used for fraud detection) MUST be published and publicly accessible.
 * All source code for any software in use (unless used for fraud detection) MUST be published and publicly accessible.
+* All source code for any policy in use (unless used for fraud detection) MUST be published and publicly accessible.
 * The codebase MUST NOT contain sensitive information regarding users, their organization or third parties.
 * Any source code not currently in use (such as new versions, proposals or older versions) SHOULD be published.
 * Documenting which source code or policy underpins any specific interaction the [general public](../glossary.md#general-public) may have with an organization is OPTIONAL.
