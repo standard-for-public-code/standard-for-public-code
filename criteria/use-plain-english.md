@@ -22,7 +22,7 @@ Language that is easy to understand lowers the cost of creating and maintaining 
 * All bundled policy not available in English MUST have an accompanying summary in English.
 * Any translation MUST be up to date with the English version and vice versa.
 * There SHOULD be no acronyms, abbreviations, puns or legal/non-English/domain specific terms in the codebase without an explanation preceding it or a link to an explanation.
-* Documentation SHOULD aim for a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=315#readable).
+* Documentation SHOULD aim for a lower secondary education reading level, as recommended by the [Web Content Accessibility Guidelines 2](https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level).
 * Providing a translation of any code, documentation or tests is OPTIONAL.
 
 ## How to test
