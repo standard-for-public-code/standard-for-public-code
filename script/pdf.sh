@@ -66,7 +66,15 @@ function ensure_good_weasyprint () {
 }
 ensure_good_weasyprint
 
-JEKYLL_PDF_PORT=9000
+function free-port() {
+	ruby -e 'require "socket";
+		s=TCPServer.new("", 0);
+		print s.addr[1], "\n";
+		s.close();'
+}
+
+JEKYLL_PDF_PORT=$(free-port)
+echo "JEKYLL_PDF_PORT=$JEKYLL_PDF_PORT"
 JEKYLL_PDF_DIR=_build_pdf
 rm -rf $JEKYLL_PDF_DIR
 
