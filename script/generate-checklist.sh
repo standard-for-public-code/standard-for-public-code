@@ -1,6 +1,6 @@
 #!/bin/bash
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2023-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 
 TEMPLATE=docs/checklist.html
 THIS_YEAR=$(date +%Y)
@@ -12,7 +12,7 @@ cat << EOF > $TEMPLATE
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: $THIS_YEAR by The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2023-$THIS_YEAR by The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 <head>
 <meta charset="UTF-8">
 <title>Standard for Public Code Checklist</title>
@@ -81,7 +81,7 @@ EOF
 	awk 'BEGIN {p=0}; /## Requirements/ {p=1 ; next}; /##/ {p=0 ; next}; \
 		p { s = ""; for (i = 2; i <= NF; i++) s = s $i " "; \
 		if (length(s) > 0) print \
-		"<li>" s "</li>"}' \
+		"<li>&nbsp;" s "</li>"}' \
 		$FILE >> $TEMPLATE
 	echo "</ul>" >> $TEMPLATE
 done
