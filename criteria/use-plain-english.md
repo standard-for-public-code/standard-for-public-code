@@ -55,7 +55,6 @@ Language that is easy to understand lowers the cost of creating and maintaining 
 * Ask someone outside of your context if they understand the content (for example, a developer working on a different codebase).
 * If there are both required authoritative translations and "best effort" courtesy translations, then ensure that it is clearly documented which category each translation belongs to.
 
-<p style="page-break-after: always;"></p>
 ## Further reading
 
 * Meeting the [Web Content Accessibility Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) by W3C makes text content readable and understandable.
