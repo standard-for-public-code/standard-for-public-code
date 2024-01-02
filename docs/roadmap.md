@@ -13,6 +13,7 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 ## Current work
 
 * As far as possible, make the standard Standard-compliant
+  * Obtain committed collaborating organizations
 
 ## Near term
 
@@ -29,5 +30,5 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 * New cover art
 * Register for ISBN
 * List with an on-demand book printing service
-* QR codes for external links in print version
+* QR codes or mobile-friendly external links in print version
 * Add possibility to view older versions of the standard on the website, not only under the GitHub releases
