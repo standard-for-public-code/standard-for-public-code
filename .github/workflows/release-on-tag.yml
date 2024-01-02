@@ -69,6 +69,7 @@ jobs:
           git add
           CHANGELOG.md
           README.md
+          index.md
           publiccode.yml
           assets/version-badge.svg
           docs/review-template.html

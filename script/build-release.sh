@@ -37,6 +37,9 @@ sed -i -e"s@<span class=\"standard-version\">[^<]*</span>@<span class=\"standard
 	print-cover.html \
 	standard-print.html
 
+echo update-index-md
+sed -i -e"s@download/[0-9]\+\.[0-9]\+\.[0-9]\+/standard-checklist-[0-9]\+\.[0-9]\+\.[0-9]\+.pdf@download/${RELEASE_NAME}/standard-checklist-${RELEASE_NAME}.pdf@" index.md
+
 echo  update-readme-version
 sed -i -e"s@\[version [^]]*\](assets/version-badge\.svg)@[version ${RELEASE_NAME}](assets/version-badge.svg)@" \
 	README.md
@@ -52,6 +55,7 @@ echo "files:"
 ls -l \
 	CHANGELOG.md \
 	README.md \
+	index.md \
 	publiccode.yml \
 	assets/version-badge.svg \
 	docs/review-template.html \
