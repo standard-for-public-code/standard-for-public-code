@@ -6,6 +6,16 @@
 ---
 # Version history
 
+## Version 0.8.0
+
+DATE-OF-RELEASE: 🌐 The 17th draft distinguishes between authoritative and courtesy translations.
+
+* Clarifies that in addition to English, more authoritative languages are possible.
+* Allows for courtesy translations which may not be up to date at time of release.
+* Adds guidance to create a mandate for developers to prioritize prompt review of contributions.
+* Expands guidance on how to evaluate reviews happening in a timely fashion.
+* Includes minor changes to text for clarity and consistency.
+
 ## Version 0.7.1
 
 July 31st 2023: 💄 The sixteenth draft change the name of a criterion and clarifies references to code.
