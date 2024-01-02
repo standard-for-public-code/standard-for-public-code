@@ -1,6 +1,6 @@
 #!/bin/sh
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 
 # This script is referenced by .github/workflows/test.yml which executes on
 # each pull request.

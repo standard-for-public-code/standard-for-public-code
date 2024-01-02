@@ -1,6 +1,6 @@
 #!/bin/bash
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 
 # The serve.sh script can be used to preview how Jekyll will build the site.
 # See also: pdf.sh

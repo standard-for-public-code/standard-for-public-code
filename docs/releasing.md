@@ -1,7 +1,7 @@
 # Releasing a new version of the Standard for public code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 1. Review state of the 'develop' branch
     - Ensure all changes intended for release are merged
