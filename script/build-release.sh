@@ -22,6 +22,12 @@ script/ensure-font.sh
 echo  update-changelog-date
 script/update-changelog-date.sh
 
+echo generate-checklist
+script/generate-checklist.sh
+
+echo generate-review-template
+script/generate-review-template.sh
+
 echo  update-publiccode-yml-date
 sed -i -e"s/^releaseDate.*/releaseDate: '$(date --utc +%Y-%m-%d)'/" \
 	publiccode.yml
