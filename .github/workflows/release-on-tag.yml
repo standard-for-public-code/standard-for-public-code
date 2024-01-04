@@ -30,6 +30,11 @@ jobs:
         run: >
           echo "RELEASE_TAG=$(echo ${{ github.ref }} | sed -e's@.*trigger-@@')"
           >> $GITHUB_OUTPUT
+      - name: release-branch
+        id: release-branch
+        run: >
+          echo "RELEASE_BRANCH=release-$(echo ${{ github.ref }} | sed -e's@.*trigger-@@' | sed -e's@-rc.*@@')"
+          >> $GITHUB_OUTPUT
       - name: echo-output
         run: echo RELEASE_TAG "${{ steps.release-tag.outputs.RELEASE_TAG }}"
       - name: git-remote-v
@@ -37,7 +42,7 @@ jobs:
       - name: git-fetch
         run: git fetch --all
       - name: git-switch-release
-        run: git switch release-${{ steps.release-tag.outputs.RELEASE_TAG }}
+        run: git switch ${{ steps.release-branch.outputs.RELEASE_BRANCH }}
       - name: git-log-5
         run: git log -5
       - name: set-git-user-email
@@ -81,7 +86,7 @@ jobs:
       - name: do-git-tag
         run:  git tag ${{ steps.release-tag.outputs.RELEASE_TAG }}
       - name: do-git-push
-        run: if [ "_$(echo ${{ steps.release-tag.outputs.RELEASE_TAG }} | grep -i 'rc')_" != "__" ]; then echo "skipping push to main" ; else git push origin release-${{ steps.release-tag.outputs.RELEASE_TAG }}:main ; fi
+        run: if [ "_$(echo ${{ steps.release-tag.outputs.RELEASE_TAG }} | grep 'rc')_" != "__" ]; then echo "skipping push to main" ; else git push origin ${{ steps.release-branch.outputs.RELEASE_BRANCH }}:main ; fi
       - name: do-git-push-tags
         run:  git push --tags
       - name: do-git-delete-trigger-tag-remote
