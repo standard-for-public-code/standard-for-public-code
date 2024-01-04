@@ -8,7 +8,7 @@
 
 ## Version 0.8.0
 
-DATE-OF-RELEASE: 🌐 The 17th draft distinguishes between authoritative and courtesy translations.
+January 4th 2024: 🌐 The 17th draft distinguishes between authoritative and courtesy translations.
 
 * Clarifies that in addition to English, more authoritative languages are possible.
 * Allows for courtesy translations which may not be up to date at time of release.
