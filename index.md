@@ -44,4 +44,4 @@ It is possible to [sign up](https://odoo.publiccode.net/survey/start/594b9243-c7
 * Unofficial [community translations of the Standard](https://publiccodenet.github.io/community-translations-standard/) in other languages
 * [Standard compliance self assessment](https://publiccodenet.github.io/assessment-eligibility/) for public sector open source codebases
 * [Standard criteria review template](/docs/review-template.html) used by Foundation for Public Code stewards for codebase review
-* [Compact requirements checklist](https://github.com/publiccodenet/standard/releases/download/0.7.1/standard-checklist-0.7.1.pdf) for printed use and in-person discussions
+* [Compact requirements checklist](https://github.com/publiccodenet/standard/releases/download/0.8.0-rc1/standard-checklist-0.8.0-rc1.pdf) for printed use and in-person discussions
