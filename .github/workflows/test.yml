@@ -24,6 +24,7 @@ jobs:
           aspell
           aspell-en
       - run: bundle install
+      - run: VERBOSE=1 ./script/check-file-names.sh
       - run: ./script/test-markdown.sh
       - run: ./script/test-without-link-check.sh
       - run: ./script/find-missing-spdx.sh
