@@ -11,6 +11,7 @@
 set -x
 set -e
 
+./script/check-file-names.sh
 ./script/find-missing-spdx.sh
 ./script/test-markdown.sh
 ./script/spell-check.sh
