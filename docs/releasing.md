@@ -10,6 +10,7 @@
 2. Create a release branch
     - From 'develop', `git switch -c "release-$MAJOR.$MINOR.$PATCH"`
     - Push the branch, `git push -u origin release-$MAJOR.$MINOR.$PATCH`
+    - Open a DRAFT pull request from the new branch in to main so that others can easily review, discuss, and add commits to the branch
 3. Update the new release
     - [ ] Update [`AUTHORS.md`](../AUTHORS.md) with new contributors
     - [ ] Update [`CHANGELOG.md`](../CHANGELOG.md)
@@ -31,7 +32,7 @@
     - [ ] Run the to-archive-org.sh script
 4. Create GitHub release with the release notes and version number
     - [ ] `git tag trigger-$MAJOR.$MINOR.$PATCH`
-    - [ ] `git push --tags` (see: `../.github/workflows/release-on-tag.yml`)
+    - [ ] `git push --tags` (see: `../.github/workflows/release-on-tag.yml`); this will close the DRAFT pull request
     - [ ] delete local tag: `git tag -d trigger-$MAJOR.$MINOR.$PATCH`
 5. [Send the files for print to the printer](printing.md)
     - [ ] Cover file
