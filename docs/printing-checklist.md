@@ -15,4 +15,4 @@ Details, mostly in the order they are on the Reclameland page with the Dutch if 
 * Inside material: 90 grams
 * Treatment: none
 
-When these details are chosen, the pdf is uploaded and the order is placed payment can happen (payment ahead) after which printing starts.
+When these details are chosen, the pdf is uploaded and the order is placed. Payment can then happen (payment ahead) after which printing starts.
