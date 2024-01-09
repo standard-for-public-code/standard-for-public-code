@@ -6,7 +6,7 @@
 The printed Standard for Public Code checklist is printed by Reclameland.
 This guide tries to provide the relevant information to print it there or somewhere else.
 
-Details, mostly in order they are on the Reclameland page with the Dutch if necessary:
+Details, mostly in the order they are on the Reclameland page with the Dutch if necessary:
 
 * Form: Folders ([Reclameland product page](https://www.reclameland.nl/drukken/folders))
 * Format: A5
