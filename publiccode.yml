@@ -65,10 +65,10 @@ maintenance:
 name: Standard for Public Code
 platforms:
   - web
-releaseDate: '2023-07-31'
+releaseDate: '2024-01-09'
 roadmap: 'https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md'
 softwareType: standalone/other
-softwareVersion: 0.7.1
+softwareVersion: 0.8.0
 url: 'https://github.com/publiccodenet/standard/'
 usedBy:
   - Provincie Zuid-Holland
