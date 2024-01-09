@@ -5,6 +5,18 @@
 
 # TODO FIXXXME: use something better than bash
 
+TEST_ENCODED=$(urlencode 'https://example.org')
+EXPECTED_ENCODED="https%3A%2F%2Fexample.org"
+UE_DOC=https://manpages.debian.org/testing/gridsite-clients/urlencode.1.en.html
+if [ "_${TEST_ENCODED}_" != "_${EXPECTED_ENCODED}_" ]; then
+	echo "ERROR: urlencode 'https://example.org'"
+	echo " expected: '${EXPECTED_ENCODED}'"
+	echo "  but was: '${TEST_ENCODED}'"
+	echo "Is gridsite-clients installed?"
+	echo " e.g.: $UE_DOC"
+	exit 1
+fi
+
 if [ "_${ARCHIVER_LOG_FILE}_" == "__" ]; then
 	NOW=$(date --utc +%Y%m%dT%H%M%SZ)
 	ARCHIVER_LOG_FILE=/tmp/to-archive-org.sh.${NOW}.log

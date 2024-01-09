@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 order: 10
 redirect_from:
   - criteria/understandable-english-first
@@ -55,9 +55,8 @@ Language that is easy to understand lowers the cost of creating and maintaining 
 * Ask someone outside of your context if they understand the content (for example, a developer working on a different codebase).
 * If there are both required authoritative translations and "best effort" courtesy translations, then ensure that it is clearly documented which category each translation belongs to.
 
-<p style="page-break-after: always;"></p>
 ## Further reading
 
-* Meeting the [Web Content Accessibility Guidelines 2.1, Guideline 3.1 Readable](https://www.w3.org/TR/WCAG21/#readable) by W3C makes text content readable and understandable.
-* The[European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility) by the European Commission, is an example of regulation requiring high accessibility.
+* Meeting the [Web Content Accessibility Guidelines 2.2, Guideline 3.1.5 Reading Level](https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level) by W3C makes text content readable and understandable.
+* The [European Union accessibility directive](https://ec.europa.eu/digital-single-market/en/web-accessibility) by the European Commission, is an example of regulation requiring high accessibility.
 * [Definition of plain language](https://www.plainlanguage.gov/about/definitions/) by United States General Services Administration.

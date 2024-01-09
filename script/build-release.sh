@@ -1,6 +1,6 @@
 #!/bin/bash
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 
 if [ "_${VERBOSE}_" != "__" ] && [ "$VERBOSE" -gt 0 ]; then
 	set -x
@@ -22,6 +22,12 @@ script/ensure-font.sh
 echo  update-changelog-date
 script/update-changelog-date.sh
 
+echo generate-checklist
+script/generate-checklist.sh
+
+echo generate-review-template
+script/generate-review-template.sh
+
 echo  update-publiccode-yml-date
 sed -i -e"s/^releaseDate.*/releaseDate: '$(date --utc +%Y-%m-%d)'/" \
 	publiccode.yml
@@ -36,6 +42,9 @@ sed -i -e"s@<span class=\"standard-version\">[^<]*</span>@<span class=\"standard
 	docs/checklist.html \
 	print-cover.html \
 	standard-print.html
+
+echo update-index-md
+sed -i -e"s@download/[0-9]\+\.[0-9]\+\.[0-9]\+/standard-checklist-[0-9]\+\.[0-9]\+\.[0-9]\+.pdf@download/${RELEASE_NAME}/standard-checklist-${RELEASE_NAME}.pdf@" index.md
 
 echo  update-readme-version
 sed -i -e"s@\[version [^]]*\](assets/version-badge\.svg)@[version ${RELEASE_NAME}](assets/version-badge.svg)@" \
@@ -52,6 +61,7 @@ echo "files:"
 ls -l \
 	CHANGELOG.md \
 	README.md \
+	index.md \
 	publiccode.yml \
 	assets/version-badge.svg \
 	docs/review-template.html \

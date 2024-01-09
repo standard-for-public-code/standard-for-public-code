@@ -1,7 +1,7 @@
 # Printing
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2021-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 The printed Standard for Public Code is printed by Reclameland.
 This guide tries to provide the relevant information to print it there or somewhere else.

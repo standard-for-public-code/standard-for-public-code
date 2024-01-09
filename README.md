@@ -1,12 +1,12 @@
 # Standard for Public Code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 The Standard for Public Code gives public organizations a model for preparing open source solutions to enable collaborations with similar public organizations in other places.
 It includes guidance for policy makers, city administrators, developers and vendors.
 
-![version 0.7.1](assets/version-badge.svg)
+![version 0.8.0](assets/version-badge.svg)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Standard commitment](assets/standard-for-public-code-commitment.svg)](#help-improve-this-standard)
 

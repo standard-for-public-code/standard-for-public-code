@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2022-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2022-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 # This repository adheres to the publiccode.yml standard by including this
 # metadata file that makes public software easily discoverable.
 # More info at https://github.com/italia/publiccode.yml
@@ -65,10 +65,10 @@ maintenance:
 name: Standard for Public Code
 platforms:
   - web
-releaseDate: '2023-07-31'
+releaseDate: '2024-01-09'
 roadmap: 'https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md'
 softwareType: standalone/other
-softwareVersion: 0.7.1
+softwareVersion: 0.8.0
 url: 'https://github.com/publiccodenet/standard/'
 usedBy:
   - Provincie Zuid-Holland

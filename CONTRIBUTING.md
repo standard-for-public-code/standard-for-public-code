@@ -1,7 +1,7 @@
 # Contributing to this standard
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2019-2022 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
 🙇‍♀️ Thank you for contributing!
 
@@ -65,7 +65,7 @@ These are the standards that the Standard for Public Code uses.
 Please make sure that your contributions are aligned with them so that they can be merged more easily.
 
 * [IETF RFC 2119](https://tools.ietf.org/html/rfc2119) - for requirement level keywords
-* [Web Content Accessibility Guidelines 2.1](https://www.w3.org/TR/WCAG21/#readable) - for readability
+* [Web Content Accessibility Guidelines 2.1](https://www.w3.org/WAI/WCAG22/quickref/?showtechniques=315#reading-level) - for readability
 
 ### 2. Pull request
 
@@ -92,9 +92,13 @@ You are the open source hero we need!
 
 In fact, feel free to open a pull request to add your name to the [`AUTHORS`](AUTHORS.md) file and get eternal attribution.
 
-## Translations in other languages
+## Languages and translations
 
-While the Standard does not have any official translations, you can help maintain existing and add new [community translations of the Standard](https://github.com/publiccodenet/community-translations-standard).
+The authoritative language of the Standard for Public Code is English.
+
+Versions in other languages are provided by the community as best-effort.
+These courtesy translations may not be up to date with the English version, as missing translations do not block releases.
+We invite you to help maintain existing and add new [community translations of the Standard](https://github.com/publiccodenet/community-translations-standard).
 
 ## Releases
 
