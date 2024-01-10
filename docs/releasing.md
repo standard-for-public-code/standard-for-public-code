@@ -34,7 +34,8 @@
     - [ ] `git tag trigger-$MAJOR.$MINOR.$PATCH`
     - [ ] `git push --tags` (see: `../.github/workflows/release-on-tag.yml`); this will close the DRAFT pull request
     - [ ] delete local tag: `git tag -d trigger-$MAJOR.$MINOR.$PATCH`
-5. [Send the files for print to the printer](printing.md)
-    - [ ] Cover file
-    - [ ] Inside pages PDF
+5. Send the files for print to the printer for the [book](printing.md), and [checklist](printing-checklist.md)
+    - [ ] Cover file: `standard-cover-$MAJOR.$MINOR.$PATCH.pdf`
+    - [ ] Inside pages PDF: `standard-for-public-code-print-$MAJOR.$MINOR.$PATCH.pdf`
+    - [ ] Folded checklist: `standard-checklist-folded-$MAJOR.$MINOR.$PATCH.pdf`
 6. Ping [translation](https://github.com/publiccodenet/community-translations-standard) contributors
