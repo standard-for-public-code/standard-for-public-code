@@ -10,4 +10,6 @@
 # script is intended to aid in that process.
 
 # Lint markdown using the rules loaded with .mdlrc, .mdl_style.rb
-bundle exec mdl -i -g '.'
+# -g, --git-recurse                Only process files known to git when given a directory
+# -i, --[no-]ignore-front-matter   Ignore YAML front matter
+bundle exec mdl --ignore-front-matter --git-recurse '.'
