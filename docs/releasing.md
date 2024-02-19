@@ -1,4 +1,4 @@
-# Releasing a new version of the Standard for public code
+# Releasing a new version of the Standard for Public Code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
@@ -29,7 +29,7 @@
         - Reviewers will create issues for shortcomings found which would not prevent release
         - If needed for release, reviewers may create pull requests to resolve issues
         - Re-request reviews if additional pull requests are merged into release branch
-    - [ ] Run the to-archive-org.sh script
+    - [ ] Run the `to-archive-org.sh` script
 4. Create GitHub release with the release notes and version number
     - [ ] `git tag trigger-$MAJOR.$MINOR.$PATCH`
     - [ ] `git push --tags` (see: `../.github/workflows/release-on-tag.yml`); this will close the DRAFT pull request
