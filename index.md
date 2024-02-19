@@ -2,6 +2,7 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 toc: false
+nav_order: 1
 ---
 # Guidance for government open source collaboration
 

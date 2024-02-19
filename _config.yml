@@ -8,13 +8,6 @@ plugins:
   - jekyll-sitemap
 
 remote_theme: just-the-docs/just-the-docs
-include:
-  - "README.md"
-  - "CONTRIBUTING.md"
-  - "LICENSE"
-  - "CC0-1.0.md"
-  - "CODE_OF_CONDUCT.md"
-  - "docs/review-template.html"
 
 toc: true
 

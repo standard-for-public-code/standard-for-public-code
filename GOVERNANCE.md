@@ -4,7 +4,7 @@
 
 layout: home
 title: Governance
-nav_order: 6
+nav_order: 8
 ---
 
 # Governance

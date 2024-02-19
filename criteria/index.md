@@ -6,7 +6,7 @@
 
 layout: home
 title: Criteria
-nav_order: 3
+nav_order: 4
 has_children: true
 ---
 # Criteria

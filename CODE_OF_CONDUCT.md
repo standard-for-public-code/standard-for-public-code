@@ -4,7 +4,7 @@
 
 layout: home
 title: Code of Conduct
-nav_order: 6
+nav_order: 7
 ---
 
 # Code of Conduct

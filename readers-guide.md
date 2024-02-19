@@ -4,7 +4,7 @@
 
 layout: home
 title: Readers guide
-nav_order: 1
+nav_order: 2
 ---
 # Readers guide
 
