@@ -1,7 +1,11 @@
-# Printing
+---
+# <!-- SPDX-License-Identifier: CC0-1.0 -->
+# <!-- SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
-<!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+nav_exclude: true
+---
+
+# Printing
 
 ## Generating a PDF of the Standard for Public Code
 
