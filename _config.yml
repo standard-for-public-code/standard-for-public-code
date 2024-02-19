@@ -8,6 +8,33 @@ plugins:
   - jekyll-sitemap
 
 remote_theme: just-the-docs/just-the-docs
+include:
+  - "README.md"
+  - "CONTRIBUTING.md"
+  - "LICENSE"
+  - "CC0-1.0.md"
+  - "CODE_OF_CONDUCT.md"
+  - "docs/review-template.html"
+
+# Aux links for the upper right navigation
+aux_links:
+  "This site on GitHub":
+    - ""
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "CC0"
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
 
 toc: true
 
