@@ -3,6 +3,7 @@
 # SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 redirect_from:
   - introduction
+nav_exclude: true
 ---
 # Foreword
 

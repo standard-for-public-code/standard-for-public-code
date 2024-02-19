@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Standard for Public Code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
