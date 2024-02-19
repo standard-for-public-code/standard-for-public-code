@@ -3,6 +3,31 @@
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
 
+## Generating a PDF of the Standard for Public Code
+
+In addition to Jekyll, generating PDFs relies upon [Weasyprint](https://weasyprint.org/).
+Print versions depend upon [pdfjam](https://github.com/rrthomas/pdfjam).
+[Pandoc](https://pandoc.org/) can be used to transform PDFs into `.epub`.
+
+To generate these kinds of files, the dependencies should be installed, for example:
+
+```bash
+sudo apt-get install -y \
+        pandoc \
+        python3-pip \
+        python3-venv \
+        texlive-extra-utils \
+        weasyprint
+```
+
+The file `standard-print.html` can be converted to a nice looking PDF, along with the other release files, using:
+
+```bash
+script/pdf.sh
+```
+
+## Printing the Standard for Public Code
+
 The printed Standard for Public Code is printed by Reclameland.
 This guide tries to provide the relevant information to print it there or somewhere else.
 

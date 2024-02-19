@@ -80,28 +80,9 @@ The script `script/test-all.sh` wraps running of all local tests.
 
 See the scripts in the [script](https://github.com/publiccodenet/standard/tree/main/script) folder.
 
-### Generating a PDF of the Standard for Public Code
+### Printing the Standard for Public Code
 
-In addition to Jekyll, generating PDFs relies upon [Weasyprint](https://weasyprint.org/).
-Print versions depend upon [pdfjam](https://github.com/rrthomas/pdfjam).
-[Pandoc](https://pandoc.org/) can be used to transform PDFs into `.epub`.
-
-To generate these kinds of files, the dependencies should be installed, for example:
-
-```bash
-sudo apt-get install -y \
-        pandoc \
-        python3-pip \
-        python3-venv \
-        texlive-extra-utils \
-        weasyprint
-```
-
-The file `standard-print.html` can be converted to a nice looking PDF, along with the other release files, using:
-
-```bash
-script/pdf.sh
-```
+See [printing.md](docs/printing.md).
 
 ## License
 
