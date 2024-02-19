@@ -1,7 +1,14 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
-order: 7
+
+# order: 7
+
+layout: default
+title: Require review of contributions
+parent: Criteria
+nav_order: 7
+
 redirect_from:
   - criteria/require-review
 ---

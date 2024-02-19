@@ -1,7 +1,14 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
-order: 4
+
+# order: 4
+
+layout: default
+title: Welcome contributors
+parent: Criteria
+nav_order: 4
+
 redirect_from:
   - criteria/open-to-contributions
 ---

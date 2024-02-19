@@ -1,7 +1,14 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
-order: 3
+
+# order: 3
+
+layout: default
+title: Make the codebase reusable and portable
+parent: Criteria
+nav_order: 3
+
 redirect_from:
   - criteria/reusable-and-portable-codebases
   - criteria/create-reusable-and-portable-code

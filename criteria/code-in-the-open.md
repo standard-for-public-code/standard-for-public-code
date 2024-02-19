@@ -1,7 +1,13 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
-order: 1
+
+# order: 1
+
+layout: default
+title: Code in the open
+parent: Criteria
+nav_order: 1
 ---
 # Code in the open
 

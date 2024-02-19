@@ -1,7 +1,14 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
-order: 8
+
+# order: 8
+
+layout: default
+title: Document codebase objectives
+parent: Criteria
+nav_order: 8
+
 redirect_from:
   - criteria/document-objectives
 ---
