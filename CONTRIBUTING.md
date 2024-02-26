@@ -39,7 +39,7 @@ Furthermore, they will review that the contribution conforms to the [standards](
 This project uses the [GitFlow branching model and workflow](https://nvie.com/posts/a-successful-git-branching-model/).
 When you've forked this repository, please make sure to create a feature branch following the GitFlow model.
 
-Add your changes in commits [with a message that explains them](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message).
+Add your changes in commits [with a message that explains them](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message).
 If more than one type of change is needed, group logically related changes into separate commits.
 For example, white-space fixes could be a separate commit from text content changes.
 When adding new files, select file formats that are easily viewed in a `diff`, for instance, `.svg` is preferable to a binary image.
