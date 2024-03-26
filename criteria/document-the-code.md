@@ -9,7 +9,7 @@ redirect_from:
 
 Well documented [source code](../glossary.md#source-code) helps people to understand what the source code does and how to use it.
 Documentation is essential for people to start using the [codebase](../glossary.md#codebase).
-It also makes contributing to it easier.
+It also makes contributing to the codebase easier.
 
 ## Requirements
 
