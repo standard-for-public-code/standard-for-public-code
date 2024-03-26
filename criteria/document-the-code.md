@@ -25,7 +25,7 @@ It also makes contributing to the codebase easier.
 
 ## How to test
 
-* Confirm that other stakeholders find the documentation clear and understandable. Stakeholders are professionals from other public organizations and the general public.
+* Confirm that other stakeholders find the documentation clear and understandable. Stakeholders should include professionals from other public organizations and the general public.
 * Confirm that the documentation describes how to install and run the source code.
 * Confirm that the documentation includes examples of the key functionality.
 * Check with members of the general public and journalists if they can understand the overview.
