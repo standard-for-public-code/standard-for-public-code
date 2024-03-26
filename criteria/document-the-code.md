@@ -32,7 +32,7 @@ It also makes contributing to the codebase easier.
 * Check that the instructions for how to install and run a standalone version of the source code result in a running system.
 * Check that all functionality documented contains an example.
 * Check that the documentation includes a high level architectural diagram or similar.
-* Check that the documentation quality is part of integration testing. For example, that documentation is generated correctly, and links and images are tested.
+* Check that documentation quality is part of integration testing. For example, test that documentation is generated correctly, and test links and images.
 
 ## Public policy makers: what you need to do
 
