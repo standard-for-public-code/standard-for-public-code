@@ -19,7 +19,7 @@ It also makes contributing to the codebase easier.
 * The documentation SHOULD contain an overview that is easy to understand by a wide audience. The audience includes the [general public](../glossary.md#general-public) and journalists.
 * The documentation SHOULD contain a section describing how to install and run a standalone version of the software. This includes a test dataset if necessary.
 * The documentation SHOULD contain examples for all functionality.
-* The documentation SHOULD describe the key components or modules and their relationships. For example, as a high level architectural diagram.
+* The documentation SHOULD describe the key components or modules and their relationships. For example, this could be done as a high level architectural diagram.
 * There SHOULD be [continuous integration](../glossary.md#continuous-integration) tests for the quality of the documentation.
 * Including examples that make users want to immediately start using the codebase in the documentation of the codebase is OPTIONAL.
 
