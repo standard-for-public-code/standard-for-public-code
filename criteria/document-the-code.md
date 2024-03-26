@@ -17,7 +17,7 @@ It also makes contributing to the codebase easier.
 * The documentation MUST contain a description of how to install and run the software.
 * The documentation MUST contain examples demonstrating the key functionality.
 * The documentation SHOULD contain an overview that is easy to understand by a wide audience. The audience includes the [general public](../glossary.md#general-public) and journalists.
-* The documentation SHOULD contain a section describing how to install and run a standalone version of the software. This includes, if necessary, a test dataset.
+* The documentation SHOULD contain a section describing how to install and run a standalone version of the software. This includes a test dataset if necessary.
 * The documentation SHOULD contain examples for all functionality.
 * The documentation SHOULD describe the key components or modules and their relationships. For example, as a high level architectural diagram.
 * There SHOULD be [continuous integration](../glossary.md#continuous-integration) tests for the quality of the documentation.
