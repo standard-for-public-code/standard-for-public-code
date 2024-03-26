@@ -21,7 +21,6 @@ It also makes contributing to the codebase easier.
 * The documentation SHOULD contain examples for all functionality.
 * The documentation SHOULD describe the key components or modules and their relationships. For example, this could be done as a high level architectural diagram.
 * There SHOULD be [continuous integration](../glossary.md#continuous-integration) tests for the quality of the documentation.
-* Including examples that make users want to immediately start using the codebase in the documentation of the codebase is OPTIONAL.
 
 ## How to test
 
