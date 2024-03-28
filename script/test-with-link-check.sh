@@ -9,11 +9,11 @@
 
 set -e # halt script on error
 
-# if PAGES_REPO_NWO is not set then default to publiccodenet/standard
+# if PAGES_REPO_NWO is not set then default to standard-for-public-code/standard-for-public-code
 # (jekyll defaults to "origin" if a remote of that name exists,
 # which makes sense for a true fork, but not for most contributors)
 if [ "_${PAGES_REPO_NWO}_" == "__" ]; then
-export PAGES_REPO_NWO=publiccodenet/standard
+export PAGES_REPO_NWO=standard-for-public-code/standard-for-public-code
 fi
 
 # Build the site

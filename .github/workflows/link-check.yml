@@ -22,7 +22,7 @@ defaults:
 
 jobs:
   cibuild:
-    if: ${{ github.repository == 'publiccodenet/standard' }}
+    if: ${{ github.repository == 'standard-for-public-code/standard-for-public-code' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
