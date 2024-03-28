@@ -33,7 +33,7 @@ The steering team members are active contributors who are on a day-to-day basis 
 * Handling code of conduct violations
 
 Besides the day-to-day activities, the steering team has the joint responsibility to:
- 
+
 * Provide technical direction for the codebase
 * Maintain a roadmap, and contributing principles
 * Resolve issues in development or conflicts between contributors
