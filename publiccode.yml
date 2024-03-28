@@ -45,7 +45,7 @@ description:
 developmentStatus: beta
 landingURL: 'https://standard.publiccode.net/'
 legal:
-  authorsFile: 'https://raw.githubusercontent.com/publiccodenet/standard/master/AUTHORS.md'
+  authorsFile: 'https://raw.githubusercontent.com/standard-for-public-code/standard-for-public-code/master/AUTHORS.md'
   license: CC0-1.0
   mainCopyrightOwner: Foundation for Public Code
   repoOwner: Foundation for Public Code

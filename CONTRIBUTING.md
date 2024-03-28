@@ -98,7 +98,7 @@ The authoritative language of the Standard for Public Code is English.
 
 Versions in other languages are provided by the community as best-effort.
 These courtesy translations may not be up to date with the English version, as missing translations do not block releases.
-We invite you to help maintain existing and add new [community translations of the Standard](https://github.com/publiccodenet/community-translations-standard).
+We invite you to help maintain existing and add new [community translations of the Standard](https://github.com/standard-for-public-code/community-translations-standard).
 
 ## Releases
 

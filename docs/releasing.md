@@ -38,4 +38,4 @@
     - [ ] Cover file: `standard-cover-$MAJOR.$MINOR.$PATCH.pdf`
     - [ ] Inside pages PDF: `standard-for-public-code-print-$MAJOR.$MINOR.$PATCH.pdf`
     - [ ] Folded checklist: `standard-checklist-folded-$MAJOR.$MINOR.$PATCH.pdf`
-6. Ping [translation](https://github.com/publiccodenet/community-translations-standard) contributors
+6. Ping [translation](https://github.com/standard-for-public-code/community-translations-standard) contributors
