@@ -10,8 +10,8 @@ It includes guidance for policy makers, city administrators, developers and vend
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Standard commitment](assets/standard-for-public-code-commitment.svg)](#help-improve-this-standard)
 
-[![pages-build-deployment](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment)
-[![Test](https://github.com/publiccodenet/standard/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/test.yml)
+[![pages-build-deployment](https://github.com/standard-for-public-code/standard-for-public-code/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/standard-for-public-code/standard-for-public-code/actions/workflows/pages/pages-build-deployment)
+[![Test](https://github.com/standard-for-public-code/standard-for-public-code/actions/workflows/test.yml/badge.svg)](https://github.com/standard-for-public-code/standard-for-public-code/actions/workflows/test.yml)
 [![standard main badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net.svg)](https://publiccodenet.github.io/publiccodenet-url-check/standard.publiccode.net-url-check-look.json)
 [![standard develop badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net-develop.svg)](https://publiccodenet.github.io/publiccodenet-url-check/standard.publiccode.net-develop-url-check-look.json)
 
@@ -78,7 +78,7 @@ If `ruby` and `bundle` are installed, one can run `bundle install` after which t
 A variety of test scripts are included.
 The script `script/test-all.sh` wraps running of all local tests.
 
-See the scripts in the [script](https://github.com/publiccodenet/standard/tree/main/script) folder.
+See the scripts in the [script](https://github.com/standard-for-public-code/standard-for-public-code/tree/main/script) folder.
 
 ### Printing the Standard for Public Code
 
