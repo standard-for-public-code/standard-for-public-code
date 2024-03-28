@@ -27,7 +27,7 @@ To see how ready your codebase is, you can do a quick [eligibility self assessme
 
 The standard *should* be mostly self-explanatory in how to apply it to your codebase.
 If anything in the standard is unclear, we encourage you to open an issue here so that we can help you and anyone else who feels the same as you.
-For inspiration, look at the [community built implementation guide](https://publiccodenet.github.io/community-implementation-guide-standard/) which contains examples and other tips.
+For inspiration, look at the [community built implementation guide](https://standard-for-public-code.github.io/community-implementation-guide-standard/) which contains examples and other tips.
 
 If there are any breaking changes in a new version of the Standard for Public Code, the codebase stewards at the Foundation for Public Code will help any implementers of the standard understand how the gaps can be closed.
 
