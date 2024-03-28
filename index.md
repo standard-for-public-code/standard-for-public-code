@@ -37,7 +37,6 @@ Additional context and background can be found in the [foreword](foreword.md).
 
 We usually have a community call on the first Thursday of the month at 15:00 (CET/CEST).
 [The agenda](https://write.publiccode.net/pads/Community-Call-Standard-for-Public-Code) is updated roughly a week before the call.
-It is possible to [sign up](https://odoo.publiccode.net/survey/start/594b9243-c7e5-4bc1-8714-35137c971842) to get a call invitation emailed to you.
 
 ## Other resources
 
