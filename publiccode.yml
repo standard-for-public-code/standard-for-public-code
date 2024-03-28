@@ -43,24 +43,18 @@ description:
     videos:
       - 'https://www.youtube.com/watch?v=QWt6vB-cipE'
 developmentStatus: beta
-landingURL: 'https://standard.publiccode.net/'
+landingURL: 'https://standard-for-public-code.github.io/standard-for-public-code/'
 legal:
   authorsFile: 'https://raw.githubusercontent.com/standard-for-public-code/standard-for-public-code/master/AUTHORS.md'
   license: CC0-1.0
   mainCopyrightOwner: Foundation for Public Code
-  repoOwner: Foundation for Public Code
+  repoOwner:
 localisation:
   availableLanguages:
     - en
   localisationReady: false
 maintenance:
   contacts:
-    - affiliation: Foundation for Public Code
-      email: eric@publiccode.net
-      name: Eric Herman
-    - affiliation: Foundation for Public Code
-      email: jan@publiccode.net
-      name: Jan Ainali
   type: internal
 name: Standard for Public Code
 platforms:
