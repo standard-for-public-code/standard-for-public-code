@@ -12,8 +12,6 @@ It includes guidance for policy makers, city administrators, developers and vend
 
 [![pages-build-deployment](https://github.com/standard-for-public-code/standard-for-public-code/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/standard-for-public-code/standard-for-public-code/actions/workflows/pages/pages-build-deployment)
 [![Test](https://github.com/standard-for-public-code/standard-for-public-code/actions/workflows/test.yml/badge.svg)](https://github.com/standard-for-public-code/standard-for-public-code/actions/workflows/test.yml)
-[![standard main badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net.svg)](https://publiccodenet.github.io/publiccodenet-url-check/standard.publiccode.net-url-check-look.json)
-[![standard develop badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net-develop.svg)](https://publiccodenet.github.io/publiccodenet-url-check/standard.publiccode.net-develop-url-check-look.json)
 
 The Standard for Public Code is in a draft format.
 We are preparing it for a version 1.0 release.
