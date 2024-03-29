@@ -1,3 +1,8 @@
+---
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileCopyrightText: 2024 Standard for Public Code Authors, https://github.com/standard-for-public-code/standard-for-public-code/blob/develop/AUTHORS.md
+---
+
 # Governance.md
 
 The Standard for Public Code is a community governed project.
