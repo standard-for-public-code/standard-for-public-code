@@ -26,7 +26,7 @@ Any active contributor in the community can request to become a steering team me
 
 The current team members are:
 
-* ...
+* Claus Mullie
 
 Ideally, no one organization will employ a majority of the steering team.
 
