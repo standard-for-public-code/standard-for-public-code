@@ -30,7 +30,7 @@ The current team members are:
 
 Ideally, no one organization will employ a majority of the steering team.
 
-### Responsilities
+### Responsibilities
 
 The steering team members are active contributors who are on a day-to-day basis responsible for:
 
@@ -66,7 +66,7 @@ The decision making process is lazy consensus as a default and voting for certai
 For this community, lazy consensus means that if you think that a decision is uncontroversial you can just go ahead and make that decision.
 Any decision made this way is considered supported as long as no one objects.
 Of course, you have to be prepared to roll back your work if someone does object.
-(While the Apache community refers to this as [lazy concensus](https://community.apache.org/committers/decisionMaking.html), some communities refers to this as a consent model.)
+(While the Apache community refers to this as [lazy consensus](https://community.apache.org/committers/decisionMaking.html), some communities refers to this as a consent model.)
 
 If there is uncertainty about a decision, a steering team member can inform the rest of the team that they are about to take a certain decision under lazy consensus.
 If no team member objects within 96 hours, the decision is considered supported.
