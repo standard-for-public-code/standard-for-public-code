@@ -187,6 +187,7 @@ weasyprint
 whitepaper
 Wikidata
 wordmark
+wordmarks
 yaml
 yml
 zijdig
