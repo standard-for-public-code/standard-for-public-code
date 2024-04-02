@@ -28,6 +28,7 @@ The current team members are:
 
 * Claus Mullie
 * Johan Groenen (Tiltshift, Code for NL)
+* Rasmus Frey (OS2)
 
 Ideally, no one organization will employ a majority of the steering team.
 
