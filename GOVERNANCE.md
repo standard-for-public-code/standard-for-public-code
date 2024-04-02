@@ -11,10 +11,10 @@ The Standard for Public Code is a community governed project.
 
 The Standard for Public Code community adheres to the following principles:
 
-* Truly open - as little restrictions as possible for anyone to adapt the Standard for Public Code to their context
-* Welcoming and respectful - as a community we want to make it easier for new users to become contributors.
-* Transparent and accessible, changes to the governance, Standard for Public Code code repository, and Standard for Public Code related activities (e.g. level, involvement, etc) are done in public
-* Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles
+- Truly open - as little restrictions as possible for anyone to adapt the Standard for Public Code to their context
+- Welcoming and respectful - as a community we want to make it easier for new users to become contributors.
+- Transparent and accessible, changes to the governance, Standard for Public Code code repository, and Standard for Public Code related activities (e.g. level, involvement, etc) are done in public
+- Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles
 
 ## Steering team
 
@@ -26,9 +26,10 @@ Any active contributor in the community can request to become a steering team me
 
 The current team members are:
 
-* Claus Mullie
-* Johan Groenen (Tiltshift, Code for NL)
-* Rasmus Frey (OS2)
+- Claus Mullie
+- Johan Groenen (Tiltshift, Code for NL)
+- Rasmus Frey (OS2)
+- Josef Andersson (Digg)
 
 Ideally, no one organization will employ a majority of the steering team.
 
@@ -36,21 +37,21 @@ Ideally, no one organization will employ a majority of the steering team.
 
 The steering team members are active contributors who are on a day-to-day basis responsible for:
 
-* Merging pull requests
-* Handling code of conduct violations
+- Merging pull requests
+- Handling code of conduct violations
 
 Besides the day-to-day activities, the steering team has the joint responsibility to:
 
-* Provide technical direction for the codebase
-* Maintain a roadmap, and contributing principles
-* Resolve issues in development or conflicts between contributors
-* Managing and planning releases
-* Controlling access rights to Standard for Public Code assets such as source repositories, hosting and project calendars
-* Maintaining the mission, vision, values, and scope of the project
-* Refining the governance as needed
-* Making codebase level decisions
-* Managing the Standard for Public Code brand
-* Licensing and intellectual property changes
+- Provide technical direction for the codebase
+- Maintain a roadmap, and contributing principles
+- Resolve issues in development or conflicts between contributors
+- Managing and planning releases
+- Controlling access rights to Standard for Public Code assets such as source repositories, hosting and project calendars
+- Maintaining the mission, vision, values, and scope of the project
+- Refining the governance as needed
+- Making codebase level decisions
+- Managing the Standard for Public Code brand
+- Licensing and intellectual property changes
 
 ### Meetings
 
@@ -82,11 +83,11 @@ All votes are recorded publicly.
 Many of the day-to-day project maintenance tasks can be done by a lazy consensus model.
 But the following items **must** be called to vote:
 
-* Adding a team member (simple majority)
-* Removing a team member (super majority)
-* Changing the governance rules (this document) (super majority)
-* Licensing and intellectual property changes (including new logos, wordmarks) (simple majority)
-* Adding, archiving, or removing sub-projects (simple majority)
+- Adding a team member (simple majority)
+- Removing a team member (super majority)
+- Changing the governance rules (this document) (super majority)
+- Licensing and intellectual property changes (including new logos, wordmarks) (simple majority)
+- Adding, archiving, or removing sub-projects (simple majority)
 
 By simple majority, we mean that at least half of the team members have voted in favor, and super majority two thirds of the team members.
 
