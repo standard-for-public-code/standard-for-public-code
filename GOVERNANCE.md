@@ -89,7 +89,7 @@ But the following items **must** be called to vote:
 - Licensing and intellectual property changes (including new logos, wordmarks) (simple majority)
 - Adding, archiving, or removing sub-projects (simple majority)
 
-By simple majority, we mean that at least half of the team members have voted in favor, and super majority two thirds of the team members.
+By simple majority, we mean that at least half of the steering team members have voted in favor, and super majority two thirds of the steering team members.
 
 ## Code of Conduct
 
