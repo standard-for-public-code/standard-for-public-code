@@ -77,7 +77,7 @@ If objections are made, and no solutions can be found through discussion, a team
 
 ### Voting
 
-Every team member has 1 vote.
+Every steering team member has 1 vote.
 All votes are recorded publicly.
 
 Many of the day-to-day project maintenance tasks can be done by a lazy consensus model.
