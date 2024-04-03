@@ -30,7 +30,7 @@ The current team members are:
 - Johan Groenen (Tiltshift, Code for NL)
 - Rasmus Frey (OS2)
 - Josef Andersson (Digg)
-* [Matti Schneider](https://mattischneider.fr)
+- [Matti Schneider](https://mattischneider.fr)
 
 Ideally, no single organization will employ a majority of the steering team.
 
