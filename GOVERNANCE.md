@@ -31,7 +31,7 @@ The current team members are:
 - Rasmus Frey (OS2)
 - Josef Andersson (Digg)
 
-Ideally, no one organization will employ a majority of the steering team.
+Ideally, no single organization will employ a majority of the steering team.
 
 ### Responsibilities
 
