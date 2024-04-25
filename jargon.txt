@@ -5,6 +5,7 @@ rd
 th
 Ainali
 Algoritmeregister
+Andersson
 Aotearoa
 Arial
 Arnout
@@ -36,6 +37,7 @@ Deerenberg
 deps
 der
 developmentStatus
+Digg
 digitalminister
 dir
 discoverability
@@ -138,6 +140,7 @@ publiccodenet
 publiccodeYmlVersion
 QPDF
 Quiroga
+Rasmus
 README
 Reclameland
 redistributable
@@ -167,6 +170,7 @@ synergize
 Tamas
 Theo
 Tiel
+Tiltshift
 Timo
 toc
 Trisotech
@@ -186,6 +190,8 @@ Waal
 weasyprint
 whitepaper
 Wikidata
+wordmark
+wordmarks
 yaml
 yml
 zijdig
