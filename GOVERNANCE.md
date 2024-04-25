@@ -14,7 +14,7 @@ The Standard for Public Code community adheres to the following principles:
 - Open - as little restrictions as possible for anyone to adapt the Standard for Public Code to their context
 - Welcoming and respectful - as a community we want to make it easier for new users to become contributors
 - Transparent and accessible - changes to the Standard for Public Code, its governance, and any other related activity are done in public
-- Ideas and contributions are accepted according to their technical merit and alignment with project objectives, scope, and design principles
+- Ideas and contributions are accepted according to their alignment with project objectives, scope, and design principles
 
 ## Steering team
 
