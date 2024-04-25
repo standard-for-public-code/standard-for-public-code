@@ -47,7 +47,7 @@ landingURL: 'https://standard-for-public-code.github.io/standard-for-public-code
 legal:
   authorsFile: 'https://raw.githubusercontent.com/standard-for-public-code/standard-for-public-code/master/AUTHORS.md'
   license: CC0-1.0
-  mainCopyrightOwner: Foundation for Public Code
+  mainCopyrightOwner: The contributors
   repoOwner:
 localisation:
   availableLanguages:
