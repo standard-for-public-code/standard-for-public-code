@@ -59,7 +59,7 @@ Besides the day-to-day activities, the steering team has the joint responsibilit
 The steering team meets regularly.
 Their agenda includes review of the roadmap and issues that are at an impasse.
 The intention of the agenda is not to review or approve all patches.
-(That is mainly being done through the process described in [CONTRIBUTING.md](CONTRIBUTING.md).)
+(Reviewing and approving patches is done through the process described in [CONTRIBUTING.md](CONTRIBUTING.md).)
 
 ## Decision making process
 
