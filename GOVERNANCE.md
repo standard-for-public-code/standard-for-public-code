@@ -80,7 +80,7 @@ If objections are made, and no solutions can be found through discussion, a team
 Every steering team member has 1 vote.
 All votes are recorded publicly.
 
-Many of the day-to-day project maintenance tasks can be done by a lazy consensus model.
+Many of the day-to-day project maintenance tasks can be done with the consent decision-making process.
 But the following items **must** be called to vote:
 
 - Adding a team member (simple majority)
