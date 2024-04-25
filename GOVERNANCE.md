@@ -63,16 +63,15 @@ The intention of the agenda is not to review or approve all patches.
 
 ## Decision making process
 
-The decision making process is lazy consensus as a default and voting for certain matters.
+The decision making process is consent as a default and voting for certain matters.
 
-### Lazy consensus
+### Consent
 
-For this community, lazy consensus means that if you think that a decision is uncontroversial you can just go ahead and make that decision.
+For this community, “consent” means that if you think that a decision is uncontroversial you can just go ahead and make that decision.
 Any decision made this way is considered supported as long as no one objects.
 Of course, you have to be prepared to roll back your work if someone does object.
-(While the Apache community refers to this as [lazy consensus](https://community.apache.org/committers/decisionMaking.html), some communities refers to this as a consent model.)
 
-If there is uncertainty about a decision, a steering team member can inform the rest of the team that they are about to take a certain decision under lazy consensus.
+If there is uncertainty about a decision, a steering team member can inform the rest of the team that they are about to take a certain decision.
 If no team member objects within 96 hours, the decision is considered supported.
 If objections are made, and no solutions can be found through discussion, a team member can call for a majority vote on a decision, see below.
 
