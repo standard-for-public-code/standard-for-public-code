@@ -48,7 +48,7 @@ legal:
   authorsFile: 'https://raw.githubusercontent.com/standard-for-public-code/standard-for-public-code/master/AUTHORS.md'
   license: CC0-1.0
   mainCopyrightOwner: The contributors
-  repoOwner:
+  repoOwner: Standard for Public Code Steering Team
 localisation:
   availableLanguages:
     - en
