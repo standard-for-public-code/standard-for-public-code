@@ -63,7 +63,7 @@ The intention of the agenda is not to review or approve all patches.
 
 ## Decision making process
 
-The decision making process is consent as a default and voting for certain matters.
+The decision making process is consent as a default, and voting for certain matters.
 
 ### Consent
 
