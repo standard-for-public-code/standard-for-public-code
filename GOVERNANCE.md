@@ -22,7 +22,8 @@ The community of Standard for Public Code has one steering team.
 
 ### Composition
 
-Any active contributor in the community can request to become a steering team member by asking the steering team. The steering team will vote on it (see voting below).
+Any active contributor in the community can request to become a steering team member by asking the steering team.
+The steering team will vote on it (see voting below).
 
 The current team members are:
 
