@@ -10,10 +10,8 @@ It includes guidance for policy makers, city administrators, developers and vend
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Standard commitment](assets/standard-for-public-code-commitment.svg)](#help-improve-this-standard)
 
-[![pages-build-deployment](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/pages/pages-build-deployment)
-[![Test](https://github.com/publiccodenet/standard/actions/workflows/test.yml/badge.svg)](https://github.com/publiccodenet/standard/actions/workflows/test.yml)
-[![standard main badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net.svg)](https://publiccodenet.github.io/publiccodenet-url-check/standard.publiccode.net-url-check-look.json)
-[![standard develop badge](https://publiccodenet.github.io/publiccodenet-url-check/badges/standard.publiccode.net-develop.svg)](https://publiccodenet.github.io/publiccodenet-url-check/standard.publiccode.net-develop-url-check-look.json)
+[![pages-build-deployment](https://github.com/standard-for-public-code/standard-for-public-code/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/standard-for-public-code/standard-for-public-code/actions/workflows/pages/pages-build-deployment)
+[![Test](https://github.com/standard-for-public-code/standard-for-public-code/actions/workflows/test.yml/badge.svg)](https://github.com/standard-for-public-code/standard-for-public-code/actions/workflows/test.yml)
 
 The Standard for Public Code is in a draft format.
 We are preparing it for a version 1.0 release.
@@ -27,7 +25,7 @@ To see how ready your codebase is, you can do a quick [eligibility self assessme
 
 The standard *should* be mostly self-explanatory in how to apply it to your codebase.
 If anything in the standard is unclear, we encourage you to open an issue here so that we can help you and anyone else who feels the same as you.
-For inspiration, look at the [community built implementation guide](https://publiccodenet.github.io/community-implementation-guide-standard/) which contains examples and other tips.
+For inspiration, look at the [community built implementation guide](https://standard-for-public-code.github.io/community-implementation-guide-standard/) which contains examples and other tips.
 
 If there are any breaking changes in a new version of the Standard for Public Code, the codebase stewards at the Foundation for Public Code will help any implementers of the standard understand how the gaps can be closed.
 
@@ -40,7 +38,7 @@ This means we need a new way of designing, developing and procuring both the sou
 
 This standard sets a quality level for codebases that meets the needs of public organizations, institutions and administrations as well as other critical infrastructural services.
 
-The standard lives at [standard.publiccode.net](https://standard.publiccode.net/).
+The standard lives at [standard-for-public-code.github.io/standard-for-public-code/](https://standard-for-public-code.github.io/standard-for-public-code/).
 See [`index.md`](index.md) for an overview of all content.
 
 [![Thumbnail for the video on the Standard for Public Code: a printed version lying on a table between two hands](https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg)](https://www.youtube.com/watch?v=QWt6vB-cipE)
@@ -62,7 +60,7 @@ Please be lovely to all other community members.
 
 ## Preview, build and deploy
 
-The repository builds to a static site deployed at [standard.publiccode.net](https://standard.publiccode.net/).
+The repository builds to a static site deployed at [standard-for-public-code.github.io/standard-for-public-code/](https://standard-for-public-code.github.io/standard-for-public-code/).
 It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
 The content is made to be built with [Jekyll](http://jekyllrb.com/), which means you will need ruby and ruby-bundler installed, for example:
@@ -78,7 +76,7 @@ If `ruby` and `bundle` are installed, one can run `bundle install` after which t
 A variety of test scripts are included.
 The script `script/test-all.sh` wraps running of all local tests.
 
-See the scripts in the [script](https://github.com/publiccodenet/standard/tree/main/script) folder.
+See the scripts in the [script](https://github.com/standard-for-public-code/standard-for-public-code/tree/main/script) folder.
 
 ### Printing the Standard for Public Code
 

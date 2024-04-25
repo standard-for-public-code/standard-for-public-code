@@ -43,32 +43,26 @@ description:
     videos:
       - 'https://www.youtube.com/watch?v=QWt6vB-cipE'
 developmentStatus: beta
-landingURL: 'https://standard.publiccode.net/'
+landingURL: 'https://standard-for-public-code.github.io/standard-for-public-code/'
 legal:
-  authorsFile: 'https://raw.githubusercontent.com/publiccodenet/standard/master/AUTHORS.md'
+  authorsFile: 'https://raw.githubusercontent.com/standard-for-public-code/standard-for-public-code/master/AUTHORS.md'
   license: CC0-1.0
-  mainCopyrightOwner: Foundation for Public Code
-  repoOwner: Foundation for Public Code
+  mainCopyrightOwner: The contributors
+  repoOwner: Standard for Public Code Steering Team
 localisation:
   availableLanguages:
     - en
   localisationReady: false
 maintenance:
   contacts:
-    - affiliation: Foundation for Public Code
-      email: eric@publiccode.net
-      name: Eric Herman
-    - affiliation: Foundation for Public Code
-      email: jan@publiccode.net
-      name: Jan Ainali
   type: internal
 name: Standard for Public Code
 platforms:
   - web
 releaseDate: '2024-01-09'
-roadmap: 'https://github.com/publiccodenet/standard/blob/develop/docs/roadmap.md'
+roadmap: 'https://github.com/standard-for-public-code/standard-for-public-code/blob/develop/docs/roadmap.md'
 softwareType: standalone/other
 softwareVersion: 0.8.0
-url: 'https://github.com/publiccodenet/standard/'
+url: 'https://github.com/standard-for-public-code/standard-for-public-code/'
 usedBy:
   - Provincie Zuid-Holland

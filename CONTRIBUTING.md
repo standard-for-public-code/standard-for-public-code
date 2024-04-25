@@ -15,7 +15,7 @@ If you're not comfortable with GitHub, you can email use your feedback at <info@
 
 A high-level overview of the development that we already have sketched out can be seen in the [roadmap](/docs/roadmap.md).
 Please help development by reporting problems, suggesting changes and asking questions.
-To do this, you can [create a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for this project in the [GitHub Issues for the Standard for Public Code](https://github.com/publiccodenet/standard/issues).
+To do this, you can [create a GitHub issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for this project in the [GitHub Issues for the Standard for Public Code](https://github.com/standard-for-public-code/standard-for-public-code/issues).
 
 Or, sign up to the [mailing list](https://lists.publiccode.net/mailman/postorius/lists/standard.lists.publiccode.net/) and send an email to
 [standard@lists.publiccode.net](mailto:standard@lists.publiccode.net).
@@ -98,7 +98,7 @@ The authoritative language of the Standard for Public Code is English.
 
 Versions in other languages are provided by the community as best-effort.
 These courtesy translations may not be up to date with the English version, as missing translations do not block releases.
-We invite you to help maintain existing and add new [community translations of the Standard](https://github.com/publiccodenet/community-translations-standard).
+We invite you to help maintain existing and add new [community translations of the Standard](https://github.com/standard-for-public-code/community-translations-standard).
 
 ## Releases
 

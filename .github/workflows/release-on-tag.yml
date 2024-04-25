@@ -46,7 +46,7 @@ jobs:
       - name: git-log-5
         run: git log -5
       - name: set-git-user-email
-        run: git config user.email "info@publiccode.net"
+        run: git config user.email "automation@example.org"
       - name: set-git-user-name
         run: git config user.name "release-on-tag"
       - name: git-merge-main

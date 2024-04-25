@@ -78,7 +78,7 @@ echo "JEKYLL_PDF_PORT=$JEKYLL_PDF_PORT"
 JEKYLL_PDF_DIR=_build_pdf
 rm -rf $JEKYLL_PDF_DIR
 
-PAGES_REPO_NWO=publiccodenet/standard \
+PAGES_REPO_NWO=standard-for-public-code/standard-for-public-code \
 	bundle exec jekyll serve \
 		--port=$JEKYLL_PDF_PORT \
 		--destination=$JEKYLL_PDF_DIR &

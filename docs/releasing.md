@@ -24,7 +24,7 @@
           - Ensure no link collisions exist
           - Check the page breaks, possibly removing or adding page-break CSS, for example: `<p style="page-break-after: always;"></p>`
         - If needed, commit fixes and repeat extra pass
-    - [ ] Push branch, compare with 'main' branch, i.e.: `https://github.com/publiccodenet/standard/compare/main...release-$MAJOR.$MINOR.$PATCH`
+    - [ ] Push branch, compare with 'main' branch, i.e.: `https://github.com/standard-for-public-code/standard-for-public-code/compare/main...release-$MAJOR.$MINOR.$PATCH`
         - Request review from multiple reviewers, especially a proofreader
         - Reviewers will create issues for shortcomings found which would not prevent release
         - If needed for release, reviewers may create pull requests to resolve issues
@@ -38,4 +38,4 @@
     - [ ] Cover file: `standard-cover-$MAJOR.$MINOR.$PATCH.pdf`
     - [ ] Inside pages PDF: `standard-for-public-code-print-$MAJOR.$MINOR.$PATCH.pdf`
     - [ ] Folded checklist: `standard-checklist-folded-$MAJOR.$MINOR.$PATCH.pdf`
-6. Ping [translation](https://github.com/publiccodenet/community-translations-standard) contributors
+6. Ping [translation](https://github.com/standard-for-public-code/community-translations-standard) contributors
