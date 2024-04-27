@@ -80,7 +80,7 @@ for FILE in $CRITERIA_FILES; do
 	CRITERION_TITLE=$(grep '^# [A-Z]' $FILE \
 		| grep --invert-match 'SPDX' \
 		| cut --fields=2- --delimiter=' ')
-	CRITERION_LINK=https://standard.publiccode.net/criteria/${FILE_BASE}.html
+	CRITERION_LINK=https://standard-for-public-code.github.io/standard-for-public-code/criteria/${FILE_BASE}.html
 	cat << EOF >> $TEMPLATE
 
 <h2><a href="$CRITERION_LINK">$CRITERION_TITLE</a></h2>
@@ -114,7 +114,7 @@ sed -i -e's@\[\([^]]*\)\](../glossary.md\(#[a-z\-]*\))@\1@g' $TEMPLATE
 
 # fully qualify local criteria links in requirement lines
 # by looking for links lacking a colon
-sed -i -e's@\[\([^]]*\)\](\([^:)]*\).md)@[\1](https://standard.publiccode.net/criteria/\2.html)@g' $TEMPLATE
+sed -i -e's@\[\([^]]*\)\](\([^:)]*\).md)@[\1](https://standard-for-public-code.github.io/standard-for-public-code/criteria/\2.html)@g' $TEMPLATE
 
 # convert markdown links to html links
 sed -i -e's@\[\([^]]*\)\](\([^)]*\))@<a href="\2">\1</a>@g' $TEMPLATE
