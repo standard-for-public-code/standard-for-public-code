@@ -15,11 +15,11 @@ set -e # halt script on error
 # (jekyll defaults to "origin" if a remote of that name exists,
 # which makes sense for a true fork, but not for most contributors)
 if [ "_${PAGES_REPO_NWO}_" == "__" ]; then
-export PAGES_REPO_NWO=standard-for-public-code/standard-for-public-code
+	export PAGES_REPO_NWO=standard-for-public-code/standard-for-public-code
 fi
 
 # Build the site
-bundle exec jekyll build
+bundle exec jekyll build -b ''
 
 # Check for broken links and missing alt tags:
 # jekyll does not require extentions like HTML
@@ -28,6 +28,6 @@ bundle exec jekyll build
 # ignore request rate limit errors (HTTP 429)
 # using the files in Jekylls build folder
 bundle exec htmlproofer \
-    --assume-extension \
-    --disable-external \
-    ./_site
+	--assume-extension \
+	--disable-external \
+	./_site

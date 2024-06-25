@@ -24,8 +24,8 @@ Additional context and background can be found in the [foreword](foreword.md).
 
 * [Readers guide: how to interpret this standard](readers-guide.md)
 * [Glossary](glossary.md)
-* [Criteria](criteria/){% assign sorted = site.pages | sort:"order" %}{% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
-  * [{{page.title}}]({{page.url}}){% endif%}{% endif%}{% endif%}{% endfor %}
+* [Criteria](criteria/){% assign sorted = site.pages |  sort:"order" %}{% for page in sorted %}{% if page.dir == "/criteria/" %}{% if page.name != "index.md" %}{% if page.title %}
+  * [{{page.title}}]({{page.url | relative_url}}){% endif%}{% endif%}{% endif%}{% endfor %}
 * [Authors](AUTHORS.md)
 * [Contributing guide](CONTRIBUTING.md)
 * [Code of conduct](CODE_OF_CONDUCT.md)
