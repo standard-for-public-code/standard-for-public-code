@@ -8,7 +8,7 @@ plugins:
   - jekyll-sitemap
 
 remote_theme: publiccodenet/jekyll-theme
-baseurl: /standard-for-public-code
+#baseurl: /standard-for-public-code
 
 include:
   - "README.md"
