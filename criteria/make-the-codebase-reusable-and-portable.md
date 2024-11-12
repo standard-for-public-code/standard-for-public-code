@@ -53,7 +53,7 @@ Source code which does not rely on the situation-specific infrastructure of any 
 
 ## Managers: what you need to do
 
-* Make sure that stakeholders and business owners understand that reusability is an explicit codebase goal as this reduces technical debt and provides sustainability for the codebase.
+* Make sure that stakeholders and business owners understand that reusability is an explicit codebase goal, as this improves long-term maintainability and provides sustainability for the codebase.
 * Make sure that your teams are collaborating with other teams.
 
 ## Developers and designers: what you need to do
