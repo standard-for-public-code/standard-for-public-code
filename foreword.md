@@ -93,7 +93,7 @@ Being open unlocks many other things.
 
 Local responsibility and democratic accountability are ensured when a public organization implements and maintains their own public code.
 By being open and with a broader contributor base, the software is more secure as it benefits from many eyes spotting potential flaws.
-Many contributors share the maintenance work to keep it functional and modern, which reduces future technical debt.
+Many contributors share the maintenance work to keep it functional and modern, which improves long-term maintainability.
 The shared workload is more sustainable now and in the future.
 Its openness makes both the code and its data more easily adaptable in the future.
 The code will be easier to retool, repurpose or retire.
