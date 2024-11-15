@@ -16,6 +16,7 @@ SKIP_PATTERNS=(
 	'twitter\.com' # twitter is broken
 	'http://127.0.0.1' # local host
 	'http://localhost' # local host
+	'github.com/.*RELEASE_NOTES.md' # link does not exist yet
 )
 
 if [ "_${VERBOSE}_" == "__" ]; then VERBOSE=0; fi
