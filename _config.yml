@@ -7,7 +7,10 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
-remote_theme: publiccodenet/jekyll-theme
+remote_theme: standard-for-public-code/jekyll-theme
+
+#baseurl: /standard-for-public-code
+
 include:
   - "README.md"
   - "CONTRIBUTING.md"
@@ -17,6 +20,9 @@ include:
   - "docs/review-template.html"
 
 toc: true
+
+hide_foundation_footer: true
+hide_foundation_footer_logo: true
 
 include_badges: true
 include_translations: true
