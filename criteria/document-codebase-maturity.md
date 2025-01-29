@@ -47,5 +47,5 @@ Understanding how a codebase has evolved is key to understanding the codebase an
 * [Semantic Versioning Specification](https://semver.org/) used by many codebases to label versions.
 * [Software release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle)
 * [The Development Status key](https://yml.publiccode.tools/schema.core.html#key-developmentstatus) in the publiccode.yml standard.
-* [Service Design and Delivery Process](https://www.dta.gov.au/help-and-advice/build-and-improve-services/service-design-and-delivery-process) by the Australian Digital Transformation Agency.
+* [Service Design and Delivery Process](https://www.digital.gov.au/policy/digital-experience/toolkit/service-design-and-delivery-process) by the Australian Digital Transformation Agency.
 * [Service Manual on Agile Delivery](https://www.gov.uk/service-manual/agile-delivery) by the UK Government Digital Service.
