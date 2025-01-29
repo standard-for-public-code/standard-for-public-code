@@ -17,7 +17,7 @@ Understanding how a codebase has evolved is key to understanding the codebase an
 * The codebase MUST be versioned.
 * The codebase MUST prominently document whether or not there are versions of the codebase that are ready to use.
 * Codebase versions that are ready to use MUST only depend on versions of other codebases that are also ready to use.
-* The codebase SHOULD contain a log of changes from version to version, for example in the `CHANGELOG`.
+* The codebase SHOULD contain a summary of changes from version to version, for example in the `RELEASE_NOTES`.
 * The method for assigning version identifiers SHOULD be documented.
 * It is OPTIONAL to use semantic versioning.
 
@@ -27,7 +27,7 @@ Understanding how a codebase has evolved is key to understanding the codebase an
 * Confirm that it is obvious to policy makers, managers, developers and designers whether the codebase has versions that are ready to use.
 * Confirm that ready to use versions of the codebase do not depend on any versions of other codebases that are not ready to use.
 * Check that the versioning scheme of the codebase is documented and followed.
-* Check that there is a log of changes.
+* Check that there is a summary of changes.
 
 ## Public policy makers: what you need to do
 

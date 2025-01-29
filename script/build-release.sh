@@ -19,8 +19,8 @@ bundle install
 echo  install-fonts
 script/ensure-font.sh
 
-echo  update-changelog-date
-script/update-changelog-date.sh
+echo  update-release-notes-date
+script/update-release-notes-date.sh
 
 echo generate-checklist
 script/generate-checklist.sh
@@ -59,7 +59,7 @@ script/pdf.sh ${RELEASE_NAME}
 echo "files:"
 # git diff || true
 ls -l \
-	CHANGELOG.md \
+	RELEASE_NOTES.md \
 	README.md \
 	index.md \
 	publiccode.yml \

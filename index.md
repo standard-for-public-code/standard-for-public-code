@@ -30,7 +30,7 @@ Additional context and background can be found in the [foreword](foreword.md).
 * [Contributing guide](CONTRIBUTING.md)
 * [Code of conduct](CODE_OF_CONDUCT.md)
 * [Governance](GOVERNANCE.md)
-* [Version history](CHANGELOG.md)
+* [Version history](RELEASE_NOTES.md)
 * [License](license.html)
 
 ## Community calls
