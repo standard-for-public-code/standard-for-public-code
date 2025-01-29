@@ -2,7 +2,9 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 # script/release-body.sh expects VERSION in the first second-level header
-# script/update-changelog-date.sh expects DATE-OF-RELEASE and a colon
+# script/update-release-notes-date.sh expects DATE-OF-RELEASE and a colon
+redirect_from:
+  - CHANGELOG
 ---
 # Version history
 

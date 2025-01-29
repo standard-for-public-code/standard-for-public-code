@@ -13,7 +13,7 @@
     - Open a DRAFT pull request from the new branch in to main so that others can easily review, discuss, and add commits to the branch
 3. Update the new release
     - [ ] Update [`AUTHORS.md`](../AUTHORS.md) with new contributors
-    - [ ] Update [`CHANGELOG.md`](../CHANGELOG.md)
+    - [ ] Update [`RELEASE_NOTES.md`](../RELEASE_NOTES.md)
     - [ ] Update [`roadmap.md`](roadmap.md)
     - [ ] Perform extra pass on diff to the 'main' branch
         - run `script/generate-review-template.sh` and commit updated `docs/review-template.html`
