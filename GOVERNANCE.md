@@ -32,6 +32,7 @@ The current team members are:
 - Rasmus Frey (OS2)
 - Josef Andersson (Digg)
 - [Matti Schneider](https://mattischneider.fr)
+- [Bastien Guerry](https://bzg.fr)
 
 Ideally, no single organization will employ a majority of the steering team.
 
