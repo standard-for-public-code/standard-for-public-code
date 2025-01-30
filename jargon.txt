@@ -196,3 +196,5 @@ yaml
 yml
 zijdig
 Zuid
+Bastien
+Guerry
