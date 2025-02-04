@@ -41,10 +41,6 @@ This standard sets a quality level for codebases that meets the needs of public 
 The standard lives at [standard-for-public-code.github.io/standard-for-public-code/](https://standard-for-public-code.github.io/standard-for-public-code/).
 See [`index.md`](index.md) for an overview of all content.
 
-[![Thumbnail for the video on the Standard for Public Code: a printed version lying on a table between two hands](https://img.youtube.com/vi/QWt6vB-cipE/mqdefault.jpg)](https://www.youtube.com/watch?v=QWt6vB-cipE)
-
-[A video introduction to Standard for Public Code](https://www.youtube.com/watch?v=QWt6vB-cipE) from Creative Commons Global Summit 2020 (4:12) on YouTube.
-
 ## Help improve this standard
 
 The Foundation for Public Code is committed to maintaining and developing the Standard for Public Code at a level of quality that meets the standard itself.
