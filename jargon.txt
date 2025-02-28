@@ -3,6 +3,7 @@ Ainali
 Algoritmeregister
 Andersson
 Aotearoa
+Arbetsförmedlingen
 Arial
 Arnout
 AUAS
@@ -191,6 +192,7 @@ Waal
 weasyprint
 whitepaper
 Wikidata
+Wiklund
 wordmark
 wordmarks
 yaml
