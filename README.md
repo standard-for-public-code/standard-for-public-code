@@ -62,10 +62,21 @@ It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://j
 The content is made to be built with [Jekyll](http://jekyllrb.com/), which means you will need ruby and ruby-bundler installed, for example:
 
 ```bash
-sudo apt-get install -y ruby ruby-bundler
+sudo apt-get install -y ruby ruby-bundler ruby-dev
 ```
 
-If `ruby` and `bundle` are installed, one can run `bundle install` after which the site can be rendered with the `script/serve.sh` script.
+If `ruby` and `bundle` are installed, one can install the ruby dependencies:
+
+```bash
+bundle config set --local path 'vendor/bundle'
+bundle install
+```
+
+After which the site can be rendered locally:
+
+```bash
+script/serve.sh
+```
 
 ### Testing
 

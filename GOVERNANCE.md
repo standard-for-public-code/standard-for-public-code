@@ -33,6 +33,7 @@ The current team members are:
 - Josef Andersson (Digg)
 - [Matti Schneider](https://mattischneider.fr)
 - [Bastien Guerry](https://bzg.fr)
+- Anton Wiklund (Arbetsförmedlingen)
 
 Ideally, no single organization will employ a majority of the steering team.
 
