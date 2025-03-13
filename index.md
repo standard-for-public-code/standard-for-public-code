@@ -40,7 +40,7 @@ The agenda is coordinated on our [discussion board](https://github.com/standard-
 
 ## Other resources
 
-* Unofficial [community translations of the Standard](https://standard-for-public-code.github.io/community-translations-standard/) in other languages
+* Unofficial [community translations of the Standard](https://translations.standardforpubliccode.org/) in other languages
 * [Standard compliance self assessment](https://publiccodenet.github.io/assessment-eligibility/) for public sector open source codebases
 * [Standard criteria review template](/docs/review-template.html) used by Foundation for Public Code stewards for codebase review
 * [Compact requirements checklist](https://github.com/standard-for-public-code/standard-for-public-code/releases/download/0.8.0/standard-checklist-0.8.0.pdf) for printed use and in-person discussions
