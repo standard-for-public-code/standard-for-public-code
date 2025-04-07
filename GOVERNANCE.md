@@ -1,6 +1,6 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2024 Standard for Public Code Authors, https://github.com/standard-for-public-code/standard-for-public-code/blob/develop/AUTHORS.md
+# SPDX-FileCopyrightText: 2024-2025 Standard for Public Code Authors, https://github.com/standard-for-public-code/standard-for-public-code/blob/develop/AUTHORS.md
 ---
 
 # Governance.md
