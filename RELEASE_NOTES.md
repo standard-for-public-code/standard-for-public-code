@@ -14,7 +14,7 @@ DATE-OF-RELEASE: 🧑‍🤝‍🧑 The 18th draft changes to community governan
 
 * The project has switched to a community governance model.
   * Governance model now covers steering team, composition, responsibilities, meetings, decision making process, lazy consensus, voting, and code of Conduct.
-  * The website is relocated to a new domain [https://standard.publiccode.net/](https://www.standardforpubliccode.org/).
+  * The website is now located at the new domain [https://www.standardforpubliccode.org/](https://www.standardforpubliccode.org/).
   * SPDX copyright text updated for all project files.
 * Removed optional requirement in Document the code about tempting examples.
 * Criteria texts have been slightly simplified, to be more easily understood, with less technical terms.
