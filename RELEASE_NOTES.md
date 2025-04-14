@@ -8,6 +8,21 @@ redirect_from:
 ---
 # Version history
 
+## Version 0.8.1
+
+DATE-OF-RELEASE: 🧑‍🤝‍🧑 The 18th draft changes to community governance model.
+
+* The project has switched to a community governance model.
+  * Governance model now covers steering team, composition, responsibilities, meetings, decision making process, lazy consensus, voting, and code of Conduct.
+  * The website is now located at the new domain [https://www.standardforpubliccode.org/](https://www.standardforpubliccode.org/).
+  * SPDX copyright text updated for all project files.
+* Removed optional requirement in Document the code about tempting examples.
+* Criteria texts have been slightly simplified, to be more easily understood, with less technical terms.
+* The repository README has received documentation improvements.
+* The CHANGELOG was renamed to RELEASE_NOTES.
+* Improvements to release guidelines.
+* Made minor changes to text for clarity and consistency.
+
 ## Version 0.8.0
 
 January 9th 2024: 🌐 The 17th draft distinguishes between authoritative and courtesy translations.
