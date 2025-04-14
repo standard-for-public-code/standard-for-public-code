@@ -1,6 +1,6 @@
 #!/bin/bash
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2024 The Foundation for Public Code <info@publiccode.net>
+# SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2024 The Foundation for Public Code <info@publiccode.net>
 
 if [ "_${VERBOSE}_" != "__" ] && [ "$VERBOSE" -gt 1 ]; then
 	set -x

@@ -1,13 +1,15 @@
 ---
 # SPDX-License-Identifier: CC0-1.0
-# SPDX-FileCopyrightText: 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
+# SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2019-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS
 ---
 # Authors
 
 * Alba Roza, [The Foundation for Public Code](https://publiccode.net/)
+* Anton Wiklund, [Swedish Public Employment Service](https://arbetsformedlingen.se/)
 * Arnout Engelen
 * Arnout Schuijff, The Foundation for Public Code
 * Audrey Tang, [digitalminister.tw](https://digitalminister.tw/)
+* Bastien Guerry, [DINUM](https://www.numerique.gouv.fr/dinum/)
 * Ben Cerveny, The Foundation for Public Code
 * Bert Spaan
 * Boris van Hoytema, The Foundation for Public Code
@@ -21,6 +23,7 @@
 * Floris Deerenberg
 * Jan Ainali, The Foundation for Public Code
 * Johan Groenen, Code For NL
+* Josef Andersson, [Agency for Digital Government](https://www.digg.se/)
 * Marcus Klaas de Vries
 * Mark van der Net, [Gemeente Amsterdam](https://www.amsterdam.nl/en/)
 * Martijn de Waal, [Amsterdam University of Applied Sciences (AUAS)](https://www.amsterdamuas.com/), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
@@ -30,8 +33,10 @@
 * Maurits van der Schee, Gemeente Amsterdam
 * Mirjam van Tiel, The Foundation for Public Code
 * Ngô Ngọc Đức Huy
+* Oliver Brian
 * Paul Keller
 * Petteri Kivimäki, [Nordic Institute for Interoperability Solutions (NIIS)](https://niis.org)
+* Rasmus Frey, [OS2](https://www.os2.eu/)
 * Sky Bristol
 * Tamas Erkelens, Gemeente Amsterdam
 * Timo Slinger

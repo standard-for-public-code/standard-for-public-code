@@ -1,7 +1,16 @@
 # Releasing a new version of the Standard for Public Code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS -->
+
+This step-by-step guide walks through the process of preparing a release for Standard for Public Code, from reviewing the current state of the `develop` branch to sending the final files for print.
+It should cover everything needed to ensure the release is properly updated, reviewed, and tagged.
+This includes updating relevant documentation and publishing the release.
+Additionally, it includes final tasks like preparing print materials and notifying translation contributors.
+
+Releases are created by automation when triggered by tags pushed to the repository.
+When the release branch is expected to be good enough to create a release, the maintainers first create and push a release candidate tag.
+If the release artifacts created by the automation look good, then the maintainers create and push a release tag.
 
 1. Review state of the 'develop' branch
     - Ensure all changes intended for release are merged

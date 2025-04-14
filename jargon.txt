@@ -37,6 +37,7 @@ der
 developmentStatus
 Digg
 digitalminister
+DINUM
 dir
 discoverability
 discoverable
