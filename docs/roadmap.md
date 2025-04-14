@@ -14,7 +14,6 @@ Codebase stewards review the roadmap monthly as part of our [backlog pruning ses
 
 * As far as possible, make the standard Standard-compliant
   * Obtain committed collaborating organizations
-* Evolve governance model to become a community centered model
 
 ## Near term
 
