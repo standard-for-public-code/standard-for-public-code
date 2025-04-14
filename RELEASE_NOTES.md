@@ -10,7 +10,7 @@ redirect_from:
 
 ## Version 0.8.1
 
-April 11th 2025: 🧑‍🤝‍🧑 The 18th draft changes to community governance model.
+DATE-OF-RELEASE: 🧑‍🤝‍🧑 The 18th draft changes to community governance model.
 
 * The project has switched to a community governance model.
   * Governance model new covers steering team, composition, responsibilities, meetings, decision making process, lazy consensus, voting, and code of Conduct.
