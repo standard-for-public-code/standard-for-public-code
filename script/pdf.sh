@@ -91,7 +91,7 @@ trap cleanup EXIT # stop the jekyll serve
 
 MAX_LOOPS=100
 LOOPS=0
-while ! curl "http://localhost:$JEKYLL_PDF_PORT" >/dev/null 2>&1 ; do
+while ! curl "http://127.0.0.1:$JEKYLL_PDF_PORT" >/dev/null 2>&1 ; do
 	LOOPS=$(( $LOOPS + 1 ));
 	echo "try $LOOPS, waiting to connect ..."
 	sleep 1;
@@ -101,36 +101,37 @@ while ! curl "http://localhost:$JEKYLL_PDF_PORT" >/dev/null 2>&1 ; do
 	fi
 done
 
-# give it one more second
-sleep 1;
+# give it plenty of time to come up completely
+# otherwise we might get a 503 Service Unavailable
+sleep 15;
 
 echo
 weasyprint --presentational-hints \
-	"http://localhost:$JEKYLL_PDF_PORT/standard-print.html" \
+	"http://127.0.0.1:$JEKYLL_PDF_PORT/standard-print.html" \
 	standard-for-public-code-$VERSION.pdf
 ls -l	standard-for-public-code-$VERSION.pdf
 
 echo
 weasyprint --presentational-hints \
-	"http://localhost:$JEKYLL_PDF_PORT/foreword-print.html" \
+	"http://127.0.0.1:$JEKYLL_PDF_PORT/foreword-print.html" \
 	standard-for-public-code-foreword-$VERSION.pdf
 ls -l	standard-for-public-code-foreword-$VERSION.pdf
 
 echo
 weasyprint --presentational-hints \
-	"http://localhost:$JEKYLL_PDF_PORT/print-cover.html" \
+	"http://127.0.0.1:$JEKYLL_PDF_PORT/print-cover.html" \
 	standard-cover-$VERSION.pdf
 ls -l	standard-cover-$VERSION.pdf
 
 echo
 weasyprint --presentational-hints \
-	"http://localhost:$JEKYLL_PDF_PORT/docs/review-template.html" \
+	"http://127.0.0.1:$JEKYLL_PDF_PORT/docs/review-template.html" \
 	standard-review-template-$VERSION.pdf
 ls -l	standard-review-template-$VERSION.pdf
 
 echo
 weasyprint --presentational-hints \
-	"http://localhost:$JEKYLL_PDF_PORT/docs/checklist.html" \
+	"http://127.0.0.1:$JEKYLL_PDF_PORT/docs/checklist.html" \
 	standard-checklist-$VERSION.pdf
 ls -l	standard-checklist-$VERSION.pdf
 
