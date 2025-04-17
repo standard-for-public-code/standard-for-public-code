@@ -14,6 +14,7 @@ if [ "_${RELEASE_NAME}_" == "__" ]; then
 fi
 
 echo  bundle-install
+bundle config set --local path 'vendor/bundle'
 bundle install
 
 echo  install-fonts
