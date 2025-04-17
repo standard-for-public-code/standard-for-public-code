@@ -20,6 +20,6 @@ echo "installing $FONT_NAME from $FONT_URL"
 
 mkdir -pv "$FONT_DIR"
 cd "$FONT_DIR"
-curl --output "Mulish.ttf" "$FONT_URL"
+curl --output "Mulish.ttf" --location "$FONT_URL"
 fc-cache -fv
 fc-match "$FONT_NAME"
