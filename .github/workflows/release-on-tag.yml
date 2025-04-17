@@ -107,6 +107,6 @@ jobs:
       - name: git-switch-develop
         run: git switch develop
       - name: git-merge-main
-        run: git merge origin/main
+        run: if [ "_$(echo ${{ steps.release-tag.outputs.RELEASE_TAG }} | grep 'rc')_" != "__" ]; then echo "skipping push to main" ; else git merge origin/main ; fi
       - name: git-push
-        run: git push -u origin develop
+        run: if [ "_$(echo ${{ steps.release-tag.outputs.RELEASE_TAG }} | grep 'rc')_" != "__" ]; then echo "skipping push to main" ; else git push -u origin develop ; fi
