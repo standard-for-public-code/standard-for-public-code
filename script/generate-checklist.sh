@@ -67,7 +67,7 @@ for FILE in $CRITERIA_FILES; do
 	CRITERION_TITLE=$(grep '^# [A-Z]' $FILE \
 		| grep --invert-match 'SPDX' \
 		| cut --fields=2- --delimiter=' ')
-	CRITERION_LINK=https://standard-for-public-code.github.io/standard-for-public-code/criteria/${FILE_BASE}.html
+	CRITERION_LINK=https://www.standardforpubliccode.org/criteria/${FILE_BASE}.html
 	cat << EOF >> $TEMPLATE
 
 <h2>&#9744; $CRITERION_TITLE</h2>
