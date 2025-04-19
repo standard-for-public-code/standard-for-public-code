@@ -38,7 +38,7 @@ This means we need a new way of designing, developing and procuring both the sou
 
 This standard sets a quality level for codebases that meets the needs of public organizations, institutions and administrations as well as other critical infrastructural services.
 
-The standard lives at [standard-for-public-code.github.io/standard-for-public-code/](https://standard-for-public-code.github.io/standard-for-public-code/).
+The standard lives at [www.standardforpubliccode.org/](https://www.standardforpubliccode.org/).
 See [`index.md`](index.md) for an overview of all content.
 
 ## Help improve this standard
@@ -56,7 +56,7 @@ Please be lovely to all other community members.
 
 ## Preview, build and deploy
 
-The repository builds to a static site deployed at [standard-for-public-code.github.io/standard-for-public-code/](https://standard-for-public-code.github.io/standard-for-public-code/).
+The repository builds to a static site deployed at [www.standardforpubliccode.org/](https://www.standardforpubliccode.org/).
 It is built with [GitHub pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com/).
 
 The content is made to be built with [Jekyll](http://jekyllrb.com/), which means you will need ruby and ruby-bundler installed, for example:
