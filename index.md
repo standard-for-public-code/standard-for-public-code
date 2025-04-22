@@ -35,7 +35,7 @@ Additional context and background can be found in the [foreword](foreword.md).
 
 ## Community calls
 
-We usually have a community call on the first Thursday of the month at 15:00 (CET/CEST).
+We usually have a community call on the last Thursday of the month at 15:00 (CET/CEST).
 The agenda is coordinated on our [discussion board](https://github.com/standard-for-public-code/standard-for-public-code/discussions/categories/community-calls) roughly a week before the call.
 
 ## Other resources
