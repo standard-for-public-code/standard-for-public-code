@@ -39,6 +39,11 @@ If the release artifacts created by the automation look good, then the maintaine
         - If needed for release, reviewers may create pull requests to resolve issues
         - Re-request reviews if additional pull requests are merged into release branch
     - [ ] Run the `to-archive-org.sh` script
+        - Ensure the `urlencode` command is in the `PATH`
+          - On Debian-like systems, `sudo apt-get install gridsite-clients`
+          - See also: [man page for gridsite-clients urlencode](https://manpages.debian.org/testing/gridsite-clients/urlencode.1.en.html)
+        - Run `script/to-archive-org.sh`
+          - Takes 30 to 45 minutes to complete because of rate throttling
 4. Create GitHub release with the release notes and version number
     - [ ] `git tag trigger-$MAJOR.$MINOR.$PATCH`
     - [ ] `git push --tags` (see: `../.github/workflows/release-on-tag.yml`); this will close the DRAFT pull request
