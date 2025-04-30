@@ -23,7 +23,10 @@ If the release artifacts created by the automation look good, then the maintaine
 3. Update the new release
     - [ ] Update [`AUTHORS.md`](../AUTHORS.md) with new contributors
     - [ ] Update [`RELEASE_NOTES.md`](../RELEASE_NOTES.md)
+        - Create the first second-level header with the form `## Version X.Y.Z` where `X.Y.Z` is equal to this release's `$MAJOR.$MINOR.$PATCH` values. This form allows `script/release-body.sh` to extract this version's release notes.
+        - Instead of putting a date, put the text `DATE-OF-RELEASE` as this will be updated by `script/update-release-notes-date.sh`
     - [ ] Update [`roadmap.md`](roadmap.md)
+        - If making any changes to the file, update `Last updated` date to be today's date
     - [ ] Perform extra pass on diff to the 'main' branch
         - run `script/generate-review-template.sh` and commit updated `docs/review-template.html`
         - update `docs/standard-for-public-code.html` with the new text from the review template, updating any status changes as a result
