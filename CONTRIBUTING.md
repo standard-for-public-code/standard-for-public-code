@@ -9,7 +9,7 @@ We understand that a standard like this can only be set in collaboration with as
 Thus we appreciate your input, enjoy feedback and welcome improvements to this project and are very open to collaboration.
 
 We love issues and pull requests from everyone.
-If you're not comfortable with GitHub, you can email use your feedback at <info@publiccode.net>.
+If you're not comfortable with GitHub, please join the next [community call](https://github.com/standard-for-public-code/standard-for-public-code/discussions/categories/community-calls) and provide your feedback.
 
 ## Problems, suggestions and questions in issues
 
