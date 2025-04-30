@@ -40,8 +40,6 @@ description:
       It gives public organizations a model for preparing open source solutions
       to enable collaborations with similar public organizations in other
       places.
-    videos:
-      - 'https://www.youtube.com/watch?v=QWt6vB-cipE'
 developmentStatus: beta
 landingURL: 'https://www.standardforpubliccode.org/'
 legal:
