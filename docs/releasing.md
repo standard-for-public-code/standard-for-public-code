@@ -28,7 +28,7 @@ If the release artifacts created by the automation look good, then the maintaine
         - run `script/generate-review-template.sh` and commit updated `docs/review-template.html`
         - update `docs/standard-for-public-code.html` with the new text from the review template, updating any status changes as a result
         - Reread any section or paragraph to ensure wording changes still fit the whole and do not contain grammar or spelling errors
-        - Ensure [fonts](https://brand.publiccode.net/typography/) are installed, see: `script/ensure-font.sh`
+        - Ensure the 'Mulish' font is installed, see: `script/ensure-font.sh`
         - Check the rendered `.pdf` using `script/pdf.sh rc1`
           - Ensure no link collisions exist
           - Check the page breaks, possibly removing or adding page-break CSS, for example: `<p style="page-break-after: always;"></p>`
