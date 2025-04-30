@@ -44,12 +44,19 @@ If the release artifacts created by the automation look good, then the maintaine
           - See also: [man page for gridsite-clients urlencode](https://manpages.debian.org/testing/gridsite-clients/urlencode.1.en.html)
         - Run `script/to-archive-org.sh`
           - Takes 30 to 45 minutes to complete because of rate throttling
-4. Create GitHub release with the release notes and version number
+4. Create GitHub release candidate with the release notes and a release candidate version number
+    - [ ] `git tag trigger-$MAJOR.$MINOR.$PATCH-rc1`
+    - [ ] `git push --tags` (see: `../.github/workflows/release-on-tag.yml`);
+    - [ ] delete local tag: `git tag -d trigger-$MAJOR.$MINOR.$PATCH-rc1`
+    - [ ] Review the release candidate artifacts
+        - If needed, fix and create another `-rcX` release, incrementing the release candidate number
+        - Else the latest release candidate is determined to be of sufficient quality, proceed to create the release
+5. Create GitHub release with the release notes and version number
     - [ ] `git tag trigger-$MAJOR.$MINOR.$PATCH`
     - [ ] `git push --tags` (see: `../.github/workflows/release-on-tag.yml`); this will close the DRAFT pull request
     - [ ] delete local tag: `git tag -d trigger-$MAJOR.$MINOR.$PATCH`
-5. Send the files for print to the printer for the [book](printing.md), and [checklist](printing-checklist.md)
+6. Send the files for print to the printer for the [book](printing.md), and [checklist](printing-checklist.md)
     - [ ] Cover file: `standard-cover-$MAJOR.$MINOR.$PATCH.pdf`
     - [ ] Inside pages PDF: `standard-for-public-code-print-$MAJOR.$MINOR.$PATCH.pdf`
     - [ ] Folded checklist: `standard-checklist-folded-$MAJOR.$MINOR.$PATCH.pdf`
-6. Ping [translation](https://github.com/standard-for-public-code/community-translations-standard) contributors
+7. Ping [translation](https://github.com/standard-for-public-code/community-translations-standard) contributors
