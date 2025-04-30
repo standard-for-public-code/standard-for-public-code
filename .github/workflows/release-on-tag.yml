@@ -82,7 +82,7 @@ jobs:
           print-cover.html
           standard-print.html
       - name: do-git-commit
-        run: git commit -m'Set RELEASE_NOTES date, and version numbers'
+        run: git commit -m'Set RELEASE_NOTES date and version numbers'
       - name: do-git-tag
         run:  git tag ${{ steps.release-tag.outputs.RELEASE_TAG }}
       - name: do-git-push
