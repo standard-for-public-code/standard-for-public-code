@@ -3,12 +3,12 @@
 <!-- SPDX-License-Identifier: CC0-1.0 -->
 <!-- SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2022-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS -->
 
-Last updated: 2024-02-19
+Last updated: 2025-04-30
 
-This document intends to shed light on the current development plans of the team.
-Plans change constantly as new information is absorbed by the team.
+This document intends to shed light on the current development plans of the community for the Standard for Public Code.
+Plans change constantly as new information is absorbed.
 
-Codebase stewards review the roadmap monthly as part of our [backlog pruning session](https://about.publiccode.net/activities/standard-maintenance/backlog-pruning.html).
+The [Steering team](../GOVERNANCE.md#steering-team) and community review the roadmap periodically as part of the regular [community calls](https://github.com/standard-for-public-code/standard-for-public-code/discussions/categories/community-calls) and [releasing a new version](./releasing.md#releasing-a-new-version-of-the-standard-for-public-code).
 
 ## Current work
 
