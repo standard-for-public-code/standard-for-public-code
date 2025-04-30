@@ -35,7 +35,7 @@ rm -f $BADGE_PATH
 cat > ${BADGE_PATH}.head.svg <<EOF
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2023-2024 The Foundation for Public Code <info@publiccode.net> -->
+<!-- SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2023-2024 The Foundation for Public Code <info@publiccode.net> -->
 <!-- version-badge.svg ${VERSION} ${BADGE_COLOR_NAME} -->
 EOF
 
