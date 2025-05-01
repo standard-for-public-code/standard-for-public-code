@@ -16,7 +16,7 @@
 * Charlotte Heikendorf
 * Claus Mullie, The Foundation for Public Code (@clausmullie)
 * David Barberi
-* Edo Plantinga, [Code For NL](https://codefor.nl/)
+* Edo Plantinga, [Code For NL](https://codefor.nl/) (@EdoPlantinga)
 * Elena Findley-de Regt, The Foundation for Public Code (@ElenaFdR)
 * Eric Herman, The Foundation for Public Code (@ericherman)
 * Felix Faassen, The Foundation for Public Code (@felixfaassen)
