@@ -39,4 +39,4 @@
 * Rasmus Frey, [OS2](https://www.os2.eu/) (@zorp)
 * Sky Bristol (@skybristol)
 * Tamas Erkelens, Gemeente Amsterdam
-* Timo Slinger
+* Timo Slinger (@TiSli)
