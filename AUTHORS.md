@@ -29,7 +29,7 @@
 * Martijn de Waal, [Amsterdam University of Applied Sciences (AUAS)](https://www.amsterdamuas.com/), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
 * Matti Schneider (@MattiSG)
 * Mauko Quiroga (@bonjourmauko)
-* Maurice Hendriks, Gemeente Amsterdam
+* Maurice Hendriks, Gemeente Amsterdam (@MauriceHendriks)
 * Maurits van der Schee, Gemeente Amsterdam (@mevdschee)
 * Mirjam van Tiel, The Foundation for Public Code (@MirjamvT)
 * Ngô Ngọc Đức Huy (@Huy-Ngo)
