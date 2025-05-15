@@ -89,7 +89,7 @@ If your documentation and code have passed human review, it is merged.
 Your ideas, documentation and code have become an integral part of this project.
 You are the open source hero we need!
 
-In fact, feel free to open a pull request to add your name to the [`AUTHORS`](AUTHORS.md) file and get eternal attribution.
+If your name is not already in [`AUTHORS`](AUTHORS.md), please feel free to open a pull request to add yourself to get eternal attribution 🎉.
 
 ## Languages and translations
 
