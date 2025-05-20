@@ -89,7 +89,10 @@ If your documentation and code have passed human review, it is merged.
 Your ideas, documentation and code have become an integral part of this project.
 You are the open source hero we need!
 
-If your name is not already in [`AUTHORS`](AUTHORS.md), please feel free to open a pull request to add yourself to get eternal attribution 🎉.
+As a community we would like to include all contributors as [`AUTHORS`](AUTHORS.md).
+If your name is not already there, please open a pull request to add yourself.
+Each release will include a review to check if all new contributors have been mentioned.
+If you wish not to be included, please let us know explicitly.
 
 ## Languages and translations
 
