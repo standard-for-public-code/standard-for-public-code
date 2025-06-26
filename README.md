@@ -27,10 +27,6 @@ The standard *should* be mostly self-explanatory in how to apply it to your code
 If anything in the standard is unclear, we encourage you to open an issue here so that we can help you and anyone else who feels the same as you.
 For inspiration, look at the [community built implementation guide](https://standard-for-public-code.github.io/community-implementation-guide-standard/) which contains examples and other tips.
 
-If there are any breaking changes in a new version of the Standard for Public Code, the codebase stewards at the Foundation for Public Code will help any implementers of the standard understand how the gaps can be closed.
-
-If you want to commit your codebase to become fully compliant to the standard for future certification, please contact us at <info@publiccode.net> to initiate a formal [assessment](https://about.publiccode.net/activities/codebase-stewardship/lifecycle-diagram.html#assessment).
-
 ## Request for contributions
 
 We believe public policy and software should be inclusive, usable, open, legible, accountable, accessible and sustainable.
@@ -42,8 +38,6 @@ The standard lives at [www.standardforpubliccode.org/](https://www.standardforpu
 See [`index.md`](index.md) for an overview of all content.
 
 ## Help improve this standard
-
-The Foundation for Public Code is committed to maintaining and developing the Standard for Public Code at a level of quality that meets the standard itself.
 
 We are looking for people like you to [contribute](CONTRIBUTING.md) to this project by suggesting improvements and helping develop it. 😊
 Get started by reading our [contributors guide](CONTRIBUTING.md).

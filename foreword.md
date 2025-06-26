@@ -171,7 +171,3 @@ It is not aimed at public organizations' end users (residents or citizens), jour
 
 This standard is a living document.
 [Read our contributor guide](/CONTRIBUTING.md) to learn how you can make it better.
-
-## Contact
-
-For questions and more information about the Foundation for Public Code you can find us at [our website](https://publiccode.net/), email us at info@publiccode.net, or call us at +31 20 2 444 500.
