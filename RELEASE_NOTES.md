@@ -112,7 +112,7 @@ December 5th 2022: 📝 the twelfth draft clarifies document maturity.
 * Add remaining SPDX headers to files.
 * Made additional minor changes to text for clarity.
 * Some hyperlinks updated.
-* Moved examples to the [Community implementation guide](https://standard-for-public-code.github.io/community-implementation-guide-standard/).
+* Moved examples to the [Implementation guide](https://standard-for-public-code.github.io/implementation-guide-standard/).
 
 ## Version 0.4.0
 
