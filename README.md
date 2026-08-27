@@ -20,7 +20,10 @@ Currently, we are testing it on a small number of codebases.
 ## Applying the Standard for Public Code to your codebase
 
 If you want to apply the Standard for Public Code to your codebase, just go ahead, it's an open standard and free for anyone to use.
-If you wish to advertise the codebase community's aspiration to meet the criteria of the Standard for Public Code, link the documentation of this commitment from the [standard-for-public-code-commitment badge](assets/standard-for-public-code-commitment.svg).
+
+To advertise your codebase community's aspiration to meet the criteria of the Standard for Public Code, add a [standard-for-public-code-commitment badge](/assets/standard-for-public-code-commitment.svg) to your README with a link to the documentation of this commitment.
+Share how you're using the standard by adding your codebase to the [adopters](/docs/ADOPTERS.md).
+
 To see how ready your codebase is, you can do a quick [eligibility self assessment](https://publiccodenet.github.io/assessment-eligibility) that will give you a rough idea of how much work you may need to do to meet all criteria.
 
 The standard *should* be mostly self-explanatory in how to apply it to your codebase.

@@ -11,6 +11,8 @@ Thus we appreciate your input, enjoy feedback and welcome improvements to this p
 We love issues and pull requests from everyone.
 If you're not comfortable with GitHub, please join the next [community call](https://community.standardforpubliccode.org/) and provide your feedback.
 
+If you're using the Standard for Public Code in any way, please add your project to the [adopters](/docs/ADOPTERS.md).
+
 ## Problems, suggestions and questions in issues
 
 A high-level overview of the development that we already have sketched out can be seen in the [roadmap](/docs/roadmap.md).

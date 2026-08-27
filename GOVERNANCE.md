@@ -70,7 +70,7 @@ The decision making process is consent as a default, and voting for certain matt
 
 ### Consent
 
-For this community, “consent” means that if you think that a decision is uncontroversial you can just go ahead and make that decision.
+For this community, "consent" means that if you think that a decision is uncontroversial you can just go ahead and make that decision.
 Any decision made this way is considered supported as long as no one objects.
 Of course, you have to be prepared to roll back your work if someone does object.
 
